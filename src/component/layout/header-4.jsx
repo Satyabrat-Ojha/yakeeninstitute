@@ -53,6 +53,7 @@ const HeaderFour = () => {
                                         <ul className="lab-ul dropdown-menu">
                                             <li><NavLink to="/course">Course</NavLink></li>
                                             <li><NavLink to="/course-single">Course Details</NavLink></li>
+                                            <li><NavLink to="/course-view">Course View</NavLink></li>
         
                                         </ul>
                                     </li>

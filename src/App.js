@@ -14,6 +14,7 @@ import CartPage from "./page/cart-page";
 import ContactPage from "./page/contact";
 import CoursePage from "./page/course";
 import CourseSingle from "./page/course-single";
+import CourseView from "./page/course-view";
 import ForgetPass from "./page/forgetpass";
 import Home from "./page/home";
 import HomeTwo from "./page/home-2";
@@ -48,6 +49,7 @@ function App() {
 				<Route path="index-7" element={<HomeSeven />} />
 				<Route path="course" element={<CoursePage />} />
 				<Route path="course-single" element={<CourseSingle />} />
+				<Route path="course-view" element={<CourseView />} />
 				<Route path="blog" element={<BlogPage />} />
 				<Route path="blog-2" element={<BlogPageTwo />} />
 				<Route path="blog-3" element={<BlogPageThree />} />

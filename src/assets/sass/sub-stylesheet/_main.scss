@@ -3527,3 +3527,490 @@
         @extend %primary-color;
     }
 }
+
+
+
+// course-select-area 
+.course-select-area {
+    .csa-title {
+        .csa-left {
+            h5 {}
+        }
+        .csa-right {
+            span {
+                display: inline-block;
+                &.total-lecture {
+                    @include breakpoint(sm) {
+                        margin-right: 20px;
+                    }
+                }
+                &.total-time {}
+            }
+        }
+    }
+    .csa-body {
+        ul {
+            li {
+                .accordion {}
+                .card {
+                    .card-header {
+                        h5 {
+                            button {
+                                font-weight: 600;
+                                font-size: 18px;
+                                line-height: 22px;
+                                color: $title-color;
+                                @extend %rel;
+                                text-align: left;
+                                span {
+                                    font-size: small;
+                                }
+                                .icon {
+                                    @extend %abs;
+                                    top: 50%;
+                                    right: 0;
+                                    @include transform(translateY(-50%));
+                                    i {
+                                        font-size: 20px;
+                                        font-weight: 700;
+                                        color: $title-color;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .collapse {}
+                    .card-body {
+                        .course-lists {
+                            padding: 10px 1.25rem;
+                            margin: 0 -1.25rem;
+                            border-top: 1px solid $border-color;
+                            @extend %pointer;
+                            .csa-left {
+                                @extend %rel;
+                                padding-left: 20px;
+                                > i {
+                                    @extend %abs;
+                                    width: 16px;
+                                    height: 16px;
+                                    top: 5px;
+                                    left: 0;
+                                    font-size: 16px;
+                                    &.complite {
+                                        color: $theme-color;
+                                    }
+                                }
+                                h6, p {
+                                    margin-bottom: 0;
+                                }
+                                h6 {
+                                    font-weight: 600;
+                                    font-size: 16px;
+                                    line-height: 22px;
+                                }
+                                p {
+                                    font-size: 15px;
+                                    line-height: 26px;
+                                    color: rgba(60, 59, 55, 0.62);
+                                    i {
+                                        margin-right: 5px;
+                                    }
+                                }
+                            }
+                            .csa-right {
+                                span {
+                                    &.run-watch {
+                                        margin-right: 20px;
+                                    }
+                                    &.run-time {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// course-view-section
+.course-view-section {
+    .course-view {
+        .video-part {
+            .vp-title {
+                h3 {
+                    color: $black-color;
+                }
+            }
+            .vp-video {
+                video  {
+                    width: 100%;
+                    border: none;
+                    outline: none;
+                }
+            }
+            .vp-content {
+                h4, p {
+                    color: $black-color;
+                }
+                p {}
+            }
+            .vp-author {
+                @include breakpoint(max-lg) {
+                    margin-bottom: 30px;
+                }
+                .vpa-item {
+                    .vpa-inner {
+                        .vpa-thumb {
+                            margin-bottom: 20px;
+                            @include breakpoint(sm) {
+                                width: 80px;
+                                height: 80px;
+                                margin-bottom: 0;
+                            }
+                            img {}
+                        }
+                        .vpa-contnet {
+                            @include breakpoint(sm) {
+                                width: calc(100% - 100px);
+                            }
+                            h6, p {
+                                color: $black-color;
+                            }
+                            h6 {
+                                margin-bottom: 10px;
+                                @include breakpoint(sm) {
+                                    margin-bottom: 0;
+                                }
+                            }
+                            p {}
+                            .social-media {
+                                a {
+                                    margin: 2px;
+                                    font-size: 20px;
+                                    color: $black-color;
+                                    i {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            .content-wrapper {
+                @extend %rel;
+                @include breakpoint(max-lg) {
+                    height: 30px;
+                    overflow: hidden;
+                }
+                .content-icon {
+                    @extend %abs;
+                    top: -5px;
+                    right: 5px;
+                    color: $black-color;
+                    font-size: 28px;
+                }
+                &.open {
+                    height: auto;
+                }
+            }
+        }
+        .video-list-area {
+            .video-head {}
+            .video-body {
+                .course-select-area {
+                    padding: 30px 15px;
+                    .csa-title {
+                        h5 {
+                            color: $black-color;
+                        }
+                    }
+                    .csa-body {
+                        height: 100vh;
+                        overflow-y: auto;
+                        &::-webkit-scrollbar {
+                            width: 5px;
+                            background: #29303B;
+                        }
+                        &::-webkit-scrollbar-track {
+                            -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+                        }
+                        &::-webkit-scrollbar-thumb {
+                          background: $theme-color;
+                          @include border-radius(12px);
+                        }
+                        ul {
+                            margin-right: 5px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+.overview-announce-section {
+    background: #1C222D;
+    padding-top: 50px;
+    .course-view-bottom {
+        ul {
+            border: none !important;
+            margin-bottom: 30px;
+            li {
+                a {
+                    border: none;
+                    color: $white-color;
+                    font-size: 24px;
+                    padding: 0;
+                    padding-right: 20px;
+                    color: rgba(183, 198, 210, 0.62);
+                    @extend %rel;
+                    &::after {
+                        @extend %abs;
+                        top: -50px;
+                        left: 0;
+                        width: 100%;
+                        height: 2px;
+                        background: $theme-color;
+                        transform-origin: left;
+                        @include transform(scaleX(0));
+                    }
+                    &.active, &:hover {
+                        color: $white-color;
+                        background: transparent;
+                    }
+                    &.active {
+                        &::after {
+                            @include transform(scaleX(1));
+                        }
+                    }
+                }
+            }
+        }
+        .tab-content {
+            .overview-area {
+                .overview-head {
+                    h6 {
+                        color: $white-color;
+                    }
+                    p {
+                        color: rgba(183, 198, 210, 0.62);
+                    }
+                }
+                .overview-body {
+                    ul {
+                        li {
+                            padding: 15px 0;
+                            border-top: 1px solid #29303B;
+                            @extend %rel;
+                            @extend %hidden;
+                            .overview-left {
+                                width: 100%;
+                                @include breakpoint(sm) {
+                                    width: 200px;
+                                }
+                                p {
+                                    color: rgba(183, 198, 210, 0.62);
+                                }
+                            }
+                            &.fullview {
+                                .overview-right {
+                                    &.overview-description {
+                                        height: auto;
+                                    }
+                                }
+                                .view-details {
+                                    background: none;
+                                    padding-top: 0px;
+                                    bottom: -5px;
+                                    span {
+                                        &.more {
+                                            display: none;
+                                        }
+                                        &.less {
+                                            display: block;
+                                        }
+                                    }
+                                }
+                            }
+                            .overview-right {
+                                width: 100%;
+                                @include breakpoint(sm) {
+                                    width: calc(100% - 200px);
+                                }
+                                &.overview-description {
+                                    height: 70px;
+                                    @extend %hidden;
+                                }
+                                .or-items {
+                                    padding: 5px 0;
+                                    .or-left, .or-right {
+                                        color: rgba(183, 198, 210, 0.62);
+                                    }
+                                    .or-left {
+                                        @extend %rel;
+                                        width: 100px;
+                                        &:after {
+                                            @extend %abs;
+                                            content: ":";
+                                            right: 0;
+                                            top: 50%;
+                                            transform: translateY(-50%);
+                                        }
+                                    }
+                                    .or-right {}
+                                }
+                                p {
+                                    color: rgba(183, 198, 210, 0.62);
+                                    &.catagory {}
+                                    &.description {}
+                                }
+                                h6 {
+                                    color: rgba(183, 198, 210, 0.62);
+                                }
+                                ul {
+                                    padding-left: 20px;
+                                    li {
+                                        color: rgba(183, 198, 210, 0.62);
+                                        padding: 5px 0;
+                                        list-style: disc;
+                                        border: none;
+                                        overflow: visible;
+                                    }
+                                }
+                            }
+                            .view-details {
+                                @extend %pointer;
+                                @extend %abs;
+                                bottom: 10px;
+                                left: 0;
+                                background: linear-gradient(rgba(28, 34, 45, 0.17), rgba(28, 34, 45, 0.9), #1c222d);
+                                width: 100%;
+                                padding-top: 20px;
+                                @include breakpoint(sm) {
+                                    left: 190px;
+                                }
+                                span {
+                                    color: $white-color;
+                                    &.less {
+                                        display: none;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            .announcement-area {
+                .announcement-lists {
+                    @include breakpoint(lg) {
+                        width: 75%;
+                    }
+                    ul {
+                        li {
+                            padding: 15px 0;
+                        }
+                    }
+                    .administer-post {
+                        .ap-top {
+                            width: 100%;
+                            .ap-items {
+                                justify-content: space-between;
+                                .ap-thumb {
+                                    width: 60px;
+                                    height: 60px;
+                                    @include border-radius(100%);
+                                    @extend %hidden;
+                                    img {}
+                                }
+                                .ap-content {
+                                    width: calc(100% - 75px);
+                                    h5 {
+                                        color: #B7C6D2;
+                                    }
+                                    p {
+                                        color: rgba(183, 198, 210, 0.62);
+                                        span {
+                                            margin-left: 15px;
+                                            padding-left: 15px;
+                                            font-size: 16px;
+                                            display: inline-block;
+                                            font-weight: 400;
+                                            @extend %rel;
+                                            &::after {
+                                                @extend %abs;
+                                                left: 0;
+                                                top: 50%;
+                                                width: 4px;
+                                                height: 4px;
+                                                background: rgba(60, 59, 55, 0.62);
+                                                @include border-radius(100%);
+                                                @include transform(translateY(-50%));
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        .ap-bottom {
+                            h4 {
+                                color: #B7C6D2;
+                                margin-bottom: 10px;
+                            }
+                            p {
+                                color: rgba(183, 198, 210, 0.62);
+                            }
+                            img {}
+                        }
+                    }
+                    .student-reviwe {
+                        justify-content: space-between;
+                        .student-thumb {
+                            width: 52px;
+                            height: 52px;
+                            @include border-radius(100%);
+                            @extend %hidden;
+                            img {}
+                        }
+                        .student-content {
+                            width: calc(100% - 70px);
+                            form {
+                                textarea {
+                                    background: #29303B;
+                                    border-color: transparent;
+                                    color: rgba(183, 198, 210, 0.62);
+                                    @include border-radius(6px);
+                                }
+                            }
+                            h6 {
+                                color: #B7C6D2;
+                                margin-bottom: 0px;
+                                span {
+                                    margin-left: 15px;
+                                    padding-left: 15px;
+                                    font-size: 16px;
+                                    display: inline-block;
+                                    font-weight: 400;
+                                    @extend %rel;
+                                    &::after {
+                                        @extend %abs;
+                                        left: 0;
+                                        top: 50%;
+                                        width: 4px;
+                                        height: 4px;
+                                        background: rgba(60, 59, 55, 0.62);
+                                        @include border-radius(100%);
+                                        @include transform(translateY(-50%));
+                                    }
+                                }
+                            }
+                            p {
+                                color: rgba(183, 198, 210, 0.62);
+                                margin-bottom: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
