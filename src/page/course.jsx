@@ -17,7 +17,7 @@ const courseList = [
         price: '$30',
         cate: 'Adobe XD',
         reviewCount: '03 reviews',
-        title: 'Fundamentals of Adobe XD Theory Learn New',
+        title: 'Graphic Design Course',
         totalLeson: '18x Lesson',
         schdule: 'Online Class',
         authorImgUrl: 'assets/images/course/author/01.jpg',

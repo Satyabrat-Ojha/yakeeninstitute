@@ -45,13 +45,13 @@ const HeaderTwo = () => {
                                 <li className="menu-item-has-children">
                                     <a href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,0">Home</a>
                                     <ul className="lab-ul dropdown-menu">
-                                        <li><NavLink to="/">Home One</NavLink></li>
-                                        <li><NavLink to="/index-2">Home Two</NavLink></li>
+                                        <li><NavLink to="/">Home</NavLink></li>
+                                        {/* <li><NavLink to="/index-2">Home Two</NavLink></li>
                                         <li><NavLink to="/index-3">Home Three</NavLink></li>
                                         <li><NavLink to="/index-4">Home Four</NavLink></li>
                                         <li><NavLink to="/index-5">Home Five</NavLink></li>
                                         <li><NavLink to="/index-6">Home Six</NavLink></li>
-                                        <li><NavLink to="/index-7">Home Seven</NavLink></li>
+                                        <li><NavLink to="/index-7">Home Seven</NavLink></li> */}
                                     </ul>
                                 </li>
                                 <li className="menu-item-has-children">
