@@ -12,7 +12,7 @@ const courses = [
     tutorDesc:
       "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
     price: 89,
-    courseLevel: "Beginner",
+    level: "Beginner",
     lessons: 18,
     language: "English",
     certificate: "Yes",
