@@ -81,40 +81,8 @@ const Header = () => {
             <div className="menu-area">
               <div className="menu">
                 <ul className={`lab-ul ${menuToggle ? "active" : ""}`}>
-                  <li className="menu-item-has-children">
-                    <a
-                      href="#"
-                      role="button"
-                      data-bs-toggle="dropdown"
-                      aria-haspopup="true"
-                      aria-expanded="false"
-                      data-bs-offset="0,0"
-                    >
-                      Home
-                    </a>
-                    <ul className="lab-ul dropdown-menu">
-                      <li>
-                        <NavLink to="/">Home One</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/index-2">Home Two</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/index-3">Home Three</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/index-4">Home Four</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/index-5">Home Five</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/index-6">Home Six</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/index-7">Home Seven</NavLink>
-                      </li>
-                    </ul>
+                  <li>
+                    <NavLink to="/">Home</NavLink>
                   </li>
                   <li className="menu-item-has-children">
                     <a
@@ -148,6 +116,41 @@ const Header = () => {
                       aria-expanded="false"
                       data-bs-offset="0,0"
                     >
+                      Services
+                    </a>
+                    <ul className="lab-ul dropdown-menu">
+                      <li>
+                        <NavLink to="/">Classroom Training</NavLink>
+                      </li>
+                      <li>
+                        <NavLink to="/">Online Training</NavLink>
+                      </li>
+                      <li>
+                        <NavLink to="/">Summer Internship</NavLink>
+                      </li>
+                      <li>
+                        <NavLink to="/">Winter Internship</NavLink>
+                      </li>
+                      <li>
+                        <NavLink to="/">Corporate Training</NavLink>
+                      </li>
+                      <li>
+                        <NavLink to="/">Industrial Training</NavLink>
+                      </li>
+                      <li>
+                        <NavLink to="/">College Campus Training</NavLink>
+                      </li>
+                    </ul>
+                  </li>
+                  {/* <li className="menu-item-has-children">
+                    <a
+                      href="#"
+                      role="button"
+                      data-bs-toggle="dropdown"
+                      aria-haspopup="true"
+                      aria-expanded="false"
+                      data-bs-offset="0,0"
+                    >
                       Blog
                     </a>
                     <ul className="lab-ul dropdown-menu">
@@ -164,47 +167,9 @@ const Header = () => {
                         <NavLink to="/blog-single">Blog Single</NavLink>
                       </li>
                     </ul>
-                  </li>
-                  <li className="menu-item-has-children">
-                    <a
-                      href="#"
-                      role="button"
-                      data-bs-toggle="dropdown"
-                      aria-haspopup="true"
-                      aria-expanded="false"
-                      data-bs-offset="0,0"
-                    >
-                      Pages
-                    </a>
-                    <ul className="lab-ul dropdown-menu">
-                      <li>
-                        <NavLink to="/about">About</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/team">Team</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/instructor">Instructor</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/shop">Shop Page</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/shop-single">Shop Details Page</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/cart-page">Shop Cart Page</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/search-page">Search Page</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/search-none">Search None</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/404">404</NavLink>
-                      </li>
-                    </ul>
+                  </li> */}
+                  <li>
+                    <NavLink to="/about">About</NavLink>
                   </li>
                   <li>
                     <NavLink to="/contact">Contact</NavLink>

@@ -1,12 +1,14 @@
+import { Link } from "react-router-dom";
+
 const subTitle = "Stay Updated, Stay Ahead";
 const title = (
   <h2 className="title">
-    <span className="d-lg-block">Learn The</span> Skills You Need{" "}
-    <span className="d-lg-block">To Succeed</span>
+    <span className="d-lg-block">India's Best </span>IT & Software{" "}
+    <span className="d-lg-block">Training Company</span>
   </h2>
 );
 const desc =
-  "Free online courses from the world’s Leading experts. join 18+ million Learners today.";
+  "Take your learning skills to the next level. Learn from Industry Experts. Enroll, Learn, Grow, Repeat!";
 
 const catagoryList = [
   {
@@ -68,7 +70,10 @@ const Banner = () => {
                 </h6>
                 {title}
                 <p className="desc">{desc}</p>
-                <form action="/">
+                <Link to="/login" className="lab-btn">
+                  <span>Get Started</span>
+                </Link>
+                {/* <form action="/">
                   <div className="banner-icon">
                     <i className="icofont-search"></i>
                   </div>
@@ -84,7 +89,7 @@ const Banner = () => {
                       </li>
                     ))}
                   </ul>
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="col-xxl-7 col-xl-6">
