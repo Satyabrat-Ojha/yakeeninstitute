@@ -28,13 +28,13 @@ const CourseSideDetail = ({ course }) => {
     // },
     {
       iconName: "icofont-signal",
-      leftText: "Online Class",
+      leftText: "Modules",
       rightText: course.syllabus.length + "x",
     },
     {
       iconName: "icofont-video-alt",
-      leftText: "Lessions",
-      rightText: totalLessons(course),
+      leftText: "Duration",
+      rightText: course.duration,
     },
     // {
     //   iconName: "icofont-abacus-alt",
@@ -80,7 +80,7 @@ const CourseSideDetail = ({ course }) => {
       <div className="csd-title">
         <div className="csdt-left">
           <h4 className="mb-0">
-            <sup>$</sup>
+            <sup>₹</sup>
             {price}
           </h4>
         </div>
