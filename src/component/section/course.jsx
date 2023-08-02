@@ -47,8 +47,7 @@ const Course = () => {
                     </Link>
                     <div className="course-details">
                       <div className="couse-count">
-                        <i className="icofont-video-alt"></i> {course.lessons}x
-                        Lessons
+                        <i className="icofont-video-alt"></i> {course.duration}
                       </div>
                       <div className="couse-topic">
                         <i className="icofont-signal"></i> {course.schedule}
@@ -65,7 +64,10 @@ const Course = () => {
                         </Link>
                       </div>
                       <div className="course-btn">
-                        <Link to="/course-single" className="lab-btn-text">
+                        <Link
+                          to={`/course-single?name=${course.title}`}
+                          className="lab-btn-text"
+                        >
                           Read More <i className="icofont-external-link"></i>
                         </Link>
                       </div>

@@ -109,7 +109,7 @@ const ContactPage = () => {
                 ></textarea>
               </div>
               <div className="form-group w-100 text-center">
-                <button className="lab-btn">
+                <button className="lab-btn" type="submit">
                   <span>{btnText}</span>
                 </button>
               </div>

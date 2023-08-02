@@ -326,6 +326,78 @@ const courses = [
           },
         ],
       },
+      {
+        title: "InDesign",
+        lectures: [
+          {
+            title:
+              "Introduction of In-design, tools, panels, Pages Panels etc.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Pages Panel, Master Pages Introduction, Page no.s giving",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Parts of master pages, Page no.s in different sections of chapters",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Making index of Different chapters of books, give different headings of different chapters",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Newspaper layout making, newspaper pages all settings",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Magazine Layouts making, Magazine pages settings",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Text settings in pages, text wrapping, all options of text wrappings",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Creating presentations of individual pages like PPT from layout menu",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Creating dynamic animation & creating buttons for actions on objects",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Table making, Formatting tables cells, columns & rows",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Projects and Interviews",
+        lectures: [
+          {
+            title: "Covering all the concepts",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Project Work",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Resume Prepration",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Interview Question Prepration",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
     ],
     choose: [
       "Live Project based Training",
@@ -346,12 +418,12 @@ const courses = [
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl: "assets/images/course/01.jpg",
     imgAlt: "course rajibraj91 rajibraj",
-    cate: "Adobe XD",
+    cate: "Digital Marketing",
     reviewCount: "03 reviews",
     tagline:
       "The most impressive is collection of share me online college courses",
     overview:
-      "Our Graphic Design Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Graphic Designing. With our Graphic Design Training, you will develop new skills and improve your understanding of this challenging yet lucrative Graphic Design Program.",
+      "Our Digital Marketing Training Program has been designed by our Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Digital Marketing. With our Digital Marketing Training, you will develop new skills and improve your understanding of this challenging yet lucrative Digital Marketing Course.",
     tutor: "Rajib Raj",
     tutorImg: "assets/images/course/author/01.jpg",
     tutorImgAlt: "course author rajibraj91 rajibraj",
@@ -360,8 +432,7 @@ const courses = [
       "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
     price: 89,
     level: "Beginner",
-    modules: 2,
-    lessons: 18,
+    duration: "3 Months",
     schedule: "Online Class",
     language: "English",
     certificate: "Yes",
