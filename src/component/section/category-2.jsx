@@ -9,13 +9,13 @@ const categoryList = [
     {
         imgUrl: 'assets/images/category/icon/07.jpg',
         imgAlt: 'category rajibraj91 rajibraj',
-        title: 'Computer Science',
-        desc: '24 Course',
+        title: 'Graphic Deshign',
+        desc: '15+ Course',
     },
     {
         imgUrl: 'assets/images/category/icon/08.jpg',
         imgAlt: 'category rajibraj91 rajibraj',
-        title: 'Civil Engineering',
+        title: '',
         desc: '63 Course',
     },
     {

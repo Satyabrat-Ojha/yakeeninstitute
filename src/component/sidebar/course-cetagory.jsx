@@ -7,64 +7,64 @@ const title = "Course Categories";
 const cscContentList = [
     {
         link: '#',
-        left: 'Personal Development',
-        right: '30',
+        left: 'Graphic Desin',
+        right: '15+',
     },
     {
         link: '#',
-        left: 'Photography',
-        right: '20',
+        left: 'Digital Marketing',
+        right: '6+',
     },
     {
         link: '#',
-        left: 'Teaching and Academics',
-        right: '93',
+        left: 'Web Development',
+        right: '3+',
     },
     {
         link: '#',
-        left: 'Art and Design',
-        right: '54',
+        left: 'Video Editing',
+        right: '10+',
     },
     {
         link: '#',
-        left: 'Business',
-        right: '28',
+        left: 'Computer Knowledge',
+        right: '6+',
     },
     {
         link: '#',
-        left: 'Data Science',
-        right: '30',
+        left: '3D Animation',
+        right: '8+',
     },
     {
         link: '#',
-        left: 'Development',
-        right: '38',
+        left: 'Freelancing',
+        right: '18+',
     },
     {
         link: '#',
-        left: 'Finance',
-        right: '75',
+        left: 'Content Writing',
+        right: '16+',
     },
-    {
-        link: '#',
-        left: 'Health & Fitness',
-        right: '89',
-    },
-    {
-        link: '#',
-        left: 'Lifestyle',
-        right: '37',
-    },
-    {
-        link: '#',
-        left: 'Marketing',
-        right: '18',
-    },
-    {
-        link: '#',
-        left: 'Music',
-        right: '20',
-    },
+    // {
+    //     link: '#',
+    //     left: 'Health & Fitness',
+    //     right: '89',
+    // },
+    // {
+    //     link: '#',
+    //     left: 'Lifestyle',
+    //     right: '37',
+    // },
+    // {
+    //     link: '#',
+    //     left: 'Marketing',
+    //     right: '18',
+    // },
+    // {
+    //     link: '#',
+    //     left: 'Music',
+    //     right: '20',
+    // },
 ]
 
 

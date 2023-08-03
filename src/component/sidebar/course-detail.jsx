@@ -21,11 +21,11 @@ const CourseSideDetail = ({ course }) => {
       leftText: "Course level",
       rightText: course.level,
     },
-    // {
-    //   iconName: "icofont-book-alt",
-    //   leftText: "Course Duration",
-    //   rightText: "10 week",
-    // },
+    {
+      iconName: "icofont-book-alt",
+      leftText: "Course Duration",
+      rightText: "10 week",
+    },
     {
       iconName: "icofont-signal",
       leftText: "Modules",
@@ -36,16 +36,16 @@ const CourseSideDetail = ({ course }) => {
       leftText: "Duration",
       rightText: course.duration,
     },
-    // {
-    //   iconName: "icofont-abacus-alt",
-    //   leftText: "Quizzes",
-    //   rightText: "0",
-    // },
-    // {
-    //   iconName: "icofont-hour-glass",
-    //   leftText: "Pass parcentages",
-    //   rightText: "80",
-    // },
+    {
+      iconName: "icofont-abacus-alt",
+      leftText: "Category",
+      rightText: "Graphic Design",
+    },
+    {
+      iconName: "icofont-hour-glass",
+      leftText: "Placement Assistance",
+      rightText: "Included",
+    },
     {
       iconName: "icofont-certificate",
       leftText: "Certificate",
