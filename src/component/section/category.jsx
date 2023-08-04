@@ -10,48 +10,56 @@ const categoryList = [
     imgAlt: "category rajibraj91 rajibraj",
     title: "Graphic Design",
     count: "15+ Course",
+    link: "/course-single?name=Graphic%20Design%20Tranning",
   },
   {
     imgUrl: "assets/images/category/icon/02.jpg",
     imgAlt: "category rajibraj91 rajibraj",
     title: "Digital Marketing ",
     count: "6+ Course",
+    link: "/course-single?name=Digital%20Marketing%20Tranning",
   },
   {
     imgUrl: "assets/images/category/icon/03.jpg",
     imgAlt: "category rajibraj91 rajibraj",
     title: "Web Development ",
     count: "3+ Course",
+    link: "/course-single?name=Web%20Development%20Tranning",
   },
   {
     imgUrl: "assets/images/category/icon/04.jpg",
     imgAlt: "category rajibraj91 rajibraj",
     title: "Video Editing ",
     count: "10+ Course",
+    link: "/course-single?name=Video%20Editing",
   },
   {
     imgUrl: "assets/images/category/icon/05.jpg",
     imgAlt: "category rajibraj91 rajibraj",
     title: "Computer Knowledge",
     count: "6+ Course",
+    link: "/course-single?name=Computer%20Knowledge",
   },
   {
     imgUrl: "assets/images/category/icon/06.jpg",
     imgAlt: "category rajibraj91 rajibraj",
     title: "3D Animataion",
     count: "8+ Course",
+    link: "/course-single?name=3D%20Animation",
   },
   {
-    imgUrl: "assets/images/category/icon/06.jpg",
+    imgUrl: "assets/images/category/icon/07.jpg",
     imgAlt: "category rajibraj91 rajibraj",
     title: "Freelancing ",
     count: "18+ Course",
+    link: "/course-single?name=Freelancing",
   },
   {
-    imgUrl: "assets/images/category/icon/06.jpg",
+    imgUrl: "assets/images/category/icon/08.jpg",
     imgAlt: "category rajibraj91 rajibraj",
     title: "Content Writing",
     count: "16+ Course",
+    link: "/course-single?name=Content%20Writing",
   },
 ];
 
@@ -70,11 +78,15 @@ const Category = () => {
                 <div className="category-item text-center">
                   <div className="category-inner">
                     <div className="category-thumb">
-                      <img src={`${val.imgUrl}`} alt={val.imgAlt} />
+                      <img
+                        src={`${val.imgUrl}`}
+                        alt={val.imgAlt}
+                        style={{ borderRadius: "0" }}
+                      />
                     </div>
                     <div className="category-content">
-                      <Link to="/course">
-                        <h6>{val.title}</h6>
+                      <Link to={val.link}>
+                        <h6 style={{ fontWeight: "600" }}>{val.title}</h6>
                       </Link>
                       {/* <span>{val.count}</span> */}
                     </div>
