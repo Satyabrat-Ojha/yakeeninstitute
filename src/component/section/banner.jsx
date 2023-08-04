@@ -31,27 +31,27 @@ const catagoryList = [
 
 const shapeList = [
   {
-    name: "16M Students Happy",
+    name: "25000+ Students Happy",
     link: "#",
     className: "ccl-shape shape-1",
   },
   {
-    name: "130K+ Total Courses",
+    name: "80+ Total Courses",
     link: "#",
     className: "ccl-shape shape-2",
   },
+  // {
+  //   name: "89% Successful Students",
+  //   link: "#",
+  //   className: "ccl-shape shape-3",
+  // },
   {
-    name: "89% Successful Students",
-    link: "#",
-    className: "ccl-shape shape-3",
-  },
-  {
-    name: "23M+ Learners",
+    name: "18000+  Learners",
     link: "#",
     className: "ccl-shape shape-4",
   },
   {
-    name: "36+ Languages",
+    name: "15+ Languages",
     link: "#",
     className: "ccl-shape shape-5",
   },
