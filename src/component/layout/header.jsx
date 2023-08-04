@@ -120,25 +120,25 @@ const Header = () => {
                     </a>
                     <ul className="lab-ul dropdown-menu">
                       <li>
-                        <NavLink to="/">Classroom Training</NavLink>
+                        <NavLink to="/contact">Classroom Training</NavLink>
                       </li>
                       <li>
-                        <NavLink to="/">Online Training</NavLink>
+                        <NavLink to="/contact">Online Training</NavLink>
                       </li>
                       <li>
-                        <NavLink to="/">Summer Internship</NavLink>
+                        <NavLink to="/contact">Summer Internship</NavLink>
                       </li>
                       <li>
-                        <NavLink to="/">Winter Internship</NavLink>
+                        <NavLink to="/contact">Winter Internship</NavLink>
                       </li>
                       <li>
-                        <NavLink to="/">Corporate Training</NavLink>
+                        <NavLink to="/contact">Corporate Training</NavLink>
                       </li>
                       <li>
-                        <NavLink to="/">Industrial Training</NavLink>
+                        <NavLink to="/contact">Industrial Training</NavLink>
                       </li>
                       <li>
-                        <NavLink to="/">College Campus Training</NavLink>
+                        <NavLink to="/contact">College Campus Training</NavLink>
                       </li>
                     </ul>
                   </li>
