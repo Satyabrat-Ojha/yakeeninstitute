@@ -1,250 +1,234 @@
-
 import { Link } from "react-router-dom";
 
-const title = "About Edukon";
-const desc = "Eduaid theme number one world class university in the world There are student are studing always in this university for all time.";
-const courseTitle = "Courses";
-const quickTitle = "Quick Links";
-const tweetTitle = "Recent Tweets";
+const newsTitle = "Want Us To Email You About Special Offers And Updates?";
+const programs = "Trending Programs";
+const useTitle = "Useful Links";
+const socialTitle = "Social Contact";
+const supportTitle = "Our Support";
 
-const addressList = [
-    {
-        iconName: 'icofont-google-map',
-        text: 'New Elefent Road, Dhaka.',
-    },
-    {
-        iconName: 'icofont-phone',
-        text: '+880 123 456 789',
-    },
-    {
-        iconName: 'icofont-envelope',
-        text: 'info@Edukon.com',
-    },
-]
+const siteList = [
+  {
+    text: "Documentation",
+    link: "#",
+  },
+  {
+    text: "Feedback",
+    link: "#",
+  },
+  {
+    text: "Plugins",
+    link: "#",
+  },
+  {
+    text: "Support Forums",
+    link: "#",
+  },
+  {
+    text: "Themes",
+    link: "#",
+  },
+];
+
+const useList = [
+  {
+    text: "About Us",
+    link: "#",
+  },
+  {
+    text: "Help Link",
+    link: "#",
+  },
+  {
+    text: "Terms & Conditions",
+    link: "#",
+  },
+  {
+    text: "Contact Us",
+    link: "#",
+  },
+  {
+    text: "Privacy Policy",
+    link: "#",
+  },
+];
 
 const socialList = [
-    {
-        iconName: 'icofont-facebook',
-        siteLink: '#',
-        className: 'facebook',
-    },
-    {
-        iconName: 'icofont-twitter',
-        siteLink: '#',
-        className: 'twitter',
-    },
-    {
-        iconName: 'icofont-linkedin',
-        siteLink: '#',
-        className: 'linkedin',
-    },
-    {
-        iconName: 'icofont-instagram',
-        siteLink: '#',
-        className: 'instagram',
-    },
-    {
-        iconName: 'icofont-pinterest',
-        siteLink: '#',
-        className: 'pinterest',
-    },
-]
+  {
+    text: "Facebook",
+    link: "#",
+  },
+  {
+    text: "Twitter",
+    link: "#",
+  },
+  {
+    text: "Instagram",
+    link: "#",
+  },
+  {
+    text: "YouTube",
+    link: "#",
+  },
+  {
+    text: "Github",
+    link: "#",
+  },
+];
 
-const courseList = [
-    {
-        text: 'All Courses',
-        link: '#',
-    },
-    {
-        text: 'Forms and Admision materials',
-        link: '#',
-    },
-    {
-        text: 'Professional Courses',
-        link: '#',
-    },
-    {
-        text: 'Course Outline',
-        link: '#',
-    },
-    {
-        text: 'Policy',
-        link: '#',
-    },
-    {
-        text: 'FAQs',
-        link: '#',
-    },
-    {
-        text: 'Online Course',
-        link: '#',
-    },
-]
+const supportList = [
+  {
+    text: "Help Center",
+    link: "#",
+  },
+  {
+    text: "Paid with Mollie",
+    link: "#",
+  },
+  {
+    text: "Status",
+    link: "#",
+  },
+  {
+    text: "Changelog",
+    link: "#",
+  },
+  {
+    text: "Contact Support",
+    link: "#",
+  },
+];
 
-const quickList = [
-    {
-        text: 'Summer Sessions',
-        link: '#',
-    },
-    {
-        text: 'Events',
-        link: '#',
-    },
-    {
-        text: 'Gallery',
-        link: '#',
-    },
-    {
-        text: 'Forums',
-        link: '#',
-    },
-    {
-        text: 'Privacy Policy',
-        link: '#',
-    },
-    {
-        text: 'Terms of Use',
-        link: '#',
-    },
-]
-
-const tweetList = [
-    {
-        iconName: 'icofont-twitter',
-        desc: <p>Aminur islam <a href="#">@CodexCoder Edukon #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
-    },
-    {
-        iconName: 'icofont-twitter',
-        desc: <p>Somrat islam <a href="#">@CodexCoder Edukon #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
-    },
-]
-
-const footerbottomList = [
-    {
-        text: 'Faculty',
-        link: '#',
-    },
-    {
-        text: 'Staff',
-        link: '#',
-    },
-    {
-        text: 'Students',
-        link: '#',
-    },
-    {
-        text: 'Alumni',
-        link: '#',
-    },
-]
-
-
-const FooterThree = () => {
-    return (
-        <footer className="style-2">
-            <div className="footer-top dark-view padding-tb">
-                <div className="container">
-                    <div className="row g-4 row-cols-xl-4 row-cols-sm-2 row-cols-1 justify-content-center">
-                        <div className="col">
-                            <div className="footer-item our-address">
-                                <div className="footer-inner">
-                                    <div className="footer-content">
-                                        <div className="title">
-                                            <h4>{title}</h4>
-                                        </div>
-                                        <div className="content">
-                                            <p>{desc}</p>
-                                            <ul className="lab-ul office-address">
-                                                {addressList.map((val, i) => (
-                                                    <li key={i}><i className={val.iconName}></i>{val.text}</li>
-                                                ))}
-                                            </ul>
-                                            <ul className="lab-ul social-icons">
-                                                {socialList.map((val, i) => (
-                                                    <li key={i}>
-                                                        <a href={val.siteLink} className={val.className}><i className={val.iconName}></i></a>
-                                                    </li>
-                                                ))}
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col">
-                            <div className="footer-item">
-                                <div className="footer-inner">
-                                    <div className="footer-content">
-                                        <div className="title">
-                                            <h4>{courseTitle}</h4>
-                                        </div>
-                                        <div className="content">
-                                            <ul className="lab-ul">
-                                                {courseList.map((val, i) => (
-                                                    <li key={i}><a href={val.link}>{val.text}</a></li>
-                                                ))}
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col">
-                            <div className="footer-item">
-                                <div className="footer-inner">
-                                    <div className="footer-content">
-                                        <div className="title">
-                                            <h4>{quickTitle}</h4>
-                                        </div>
-                                        <div className="content">
-                                            <ul className="lab-ul">
-                                                {quickList.map((val, i) => (
-                                                    <li key={i}><a href={val.link}>{val.text}</a></li>
-                                                ))}
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col">
-                            <div className="footer-item twitter-post">
-                                <div className="footer-inner">
-                                    <div className="footer-content">
-                                        <div className="title">
-                                            <h4>{tweetTitle}</h4>
-                                        </div>
-                                        <div className="content">
-                                            <ul className="lab-ul">
-                                                {tweetList.map((val, i) => (
-                                                    <li key={i}>
-                                                        <i className={val.iconName}></i>
-                                                        {val.desc}
-                                                    </li>
-                                                ))}
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+const Footer = () => {
+  return (
+    <div className="news-footer-wrap">
+      {/* <div className="fs-shape">
+                <img src="assets/images/shape-img/03.png" alt="fst" className="fst-1" />
+                <img src="assets/images/shape-img/04.png" alt="fst" className="fst-2" />
             </div>
-            <div className="footer-bottom">
+            
+            <div className="news-letter">
                 <div className="container">
                     <div className="section-wrapper">
-                        <p>&copy; 2022 <Link to="/">Edukon</Link> Designed by <a href="https://themeforest.net/user/CodexCoder" target="_blank">CodexCoder</a> </p>
-                        <div className="footer-bottom-list">
-                            {footerbottomList.map((val, i) => (
-                                <a href={val.link} key={i}>{val.text}</a>
-                            ))}
+                        <div className="news-title">
+                            <h3>{newsTitle}</h3>
+                        </div>
+                        <div className="news-form">
+                            <form action="/">
+                                <div className="nf-list">
+                                    <input type="email" name="email" placeholder="Enter Your Email" />
+                                    <input type="submit" name="submit" value="Subscribe Now" />
+                                </div>
+                            </form>
                         </div>
                     </div>
                 </div>
+            </div> */}
+
+      <footer>
+        <div className="footer-top padding-tb">
+          <div className="container">
+            <div className="row g-4 row-cols-xl-4 row-cols-md-2 row-cols-1 justify-content-center">
+              <div className="col">
+                <div className="footer-item">
+                  <div className="footer-inner">
+                    <div className="footer-content">
+                      <div className="title">
+                        <h4>{programs}</h4>
+                      </div>
+                      <div className="content">
+                        <ul className="lab-ul">
+                          {siteList.map((val, i) => (
+                            <li key={i}>
+                              <a href={val.link}>{val.text}</a>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col">
+                <div className="footer-item">
+                  <div className="footer-inner">
+                    <div className="footer-content">
+                      <div className="title">
+                        <h4>{useTitle}</h4>
+                      </div>
+                      <div className="content">
+                        <ul className="lab-ul">
+                          {useList.map((val, i) => (
+                            <li key={i}>
+                              <a href={val.link}>{val.text}</a>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col">
+                <div className="footer-item">
+                  <div className="footer-inner">
+                    <div className="footer-content">
+                      <div className="title">
+                        <h4>{socialTitle}</h4>
+                      </div>
+                      <div className="content">
+                        <ul className="lab-ul">
+                          {socialList.map((val, i) => (
+                            <li key={i}>
+                              <a href={val.link}>{val.text}</a>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col">
+                <div className="footer-item">
+                  <div className="footer-inner">
+                    <div className="footer-content">
+                      <div className="title">
+                        <h4>{supportTitle}</h4>
+                      </div>
+                      <div className="content">
+                        <ul className="lab-ul">
+                          {supportList.map((val, i) => (
+                            <li key={i}>
+                              <a href={val.link}>{val.text}</a>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-        </footer>
-    );
-}
- 
-export default FooterThree;
+          </div>
+        </div>
+        {/* <div className="footer-bottom style-2">
+          <div className="container">
+            <div className="section-wrapper">
+              <p>
+                &copy; 2022 <Link to="/">Edukon</Link> Designed by{" "}
+                <a
+                  href="https://themeforest.net/user/CodexCoder"
+                  target="_blank"
+                >
+                  CodexCoder
+                </a>{" "}
+              </p>
+            </div>
+          </div>
+        </div> */}
+      </footer>
+    </div>
+  );
+};
+
+export default Footer;
