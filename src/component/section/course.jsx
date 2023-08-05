@@ -63,14 +63,6 @@ const Course = () => {
                           {course.tutor}
                         </Link>
                       </div>
-                      <div className="course-btn">
-                        <Link
-                          to={`/course-single?name=${course.title}`}
-                          className="lab-btn-text"
-                        >
-                          Read More <i className="icofont-external-link"></i>
-                        </Link>
-                      </div>
                     </div>
                   </div>
                 </div>

@@ -4,7 +4,7 @@ const courses = [
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl: "assets/images/course/01.jpg",
     imgAlt: "course rajibraj91 rajibraj",
-    cate: "Mutlimedia",
+    cate: "Mutlimedia & Animation",
     reviewCount: "1000+ reviews",
     tagline:
       "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
@@ -421,7 +421,7 @@ const courses = [
     cate: "Digital Marketing",
     reviewCount: "500+ reviews",
     tagline:
-      "The most impressive is collection of share me online college courses",
+      "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
       "Our Digital Marketing Training Program has been designed by our Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Digital Marketing. With our Digital Marketing Training, you will develop new skills and improve your understanding of this challenging yet lucrative Digital Marketing Course.",
     tutor: "Abhishek Kumar",
@@ -441,209 +441,167 @@ const courses = [
         title: "Digital Marketing Overview",
         lectures: [
           {
-            title:
-              "What is marketing?",
+            title: "What is marketing?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What is digital marketing?",
+            title: "What is digital marketing?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding Marketing Process",
+            title: "Understanding Marketing Process",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Why Digital Marketing Wins Over traditional Marketing ?",
+            title: "Why Digital Marketing Wins Over traditional Marketing ?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding Digital Marketing Process",
+            title: "Understanding Digital Marketing Process",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Increasing Visibility",
+            title: "Increasing Visibility",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Visitors Engagement",
+            title: "Visitors Engagement",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Bringing Targeted Traffic",
+            title: "Bringing Targeted Traffic",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Converting Traffic into Leads",
+            title: "Converting Traffic into Leads",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Retention",
+            title: "Retention",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Performance Evaluation",
+            title: "Performance Evaluation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
         title: "Analysis And Keyword Research",
         lectures: [
           {
-            title:
-              "Market Research",
+            title: "Market Research",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Keyword Research And Analysis",
+            title: "Keyword Research And Analysis",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types Of Keywords",
+            title: "Types Of Keywords",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Tool Used For Keyword Research",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          
-         
-          {
-            title:
-              " Localized Keyword Research",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Competitor Website Keyword Analysis",
+            title: " Tool Used For Keyword Research",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "Choosing Right Keywords To The Project",
+            title: " Localized Keyword Research",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Competitor Website Keyword Analysis",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "Brainstorming Technique",
+            title: "Choosing Right Keywords To The Project",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "  Final Selection of the Keywords",
+            title: "Brainstorming Technique",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "Business Analysis and Product Categorization",
+            title: "  Final Selection of the Keywords",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          {
+            title: "Business Analysis and Product Categorization",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-      
 
       {
         title: "Website Planning & Creation",
         lectures: [
           {
-            title:
-              "  Understanding Internet",
+            title: "  Understanding Internet",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Difference between Internet & web",
+            title: "Difference between Internet & web",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding websites",
+            title: "Understanding websites",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Understanding domain names & domain extensions",
+            title: " Understanding domain names & domain extensions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What is web server & web hosting",
+            title: "What is web server & web hosting",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Different types of web servers",
+            title: " Different types of web servers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Different types of websites",
+            title: "Different types of websites",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Planning & Conceptualising a Website",
+            title: "Planning & Conceptualising a Website",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Building website using CMS in Class",
+            title: "Building website using CMS in Class",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
-
 
       {
         title: "Local Business & Google Mapping",
         lectures: [
           {
-            title:
-              "Creating Local Listing In Search Engine",
+            title: "Creating Local Listing In Search Engine",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Google Places Setup (Including Images, Videos, Map Etc.)",
+            title: "Google Places Setup (Including Images, Videos, Map Etc.)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Search Engine Visibility Reports",
+            title: "  Search Engine Visibility Reports",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Verification of Listings",
+            title: "Verification of Listings",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Google Reviews",
+            title: "Google Reviews",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
 
@@ -651,128 +609,106 @@ const courses = [
         title: "Search Engine Optimization(SEO)",
         lectures: [
           {
-            title:
-              "What is SEO?",
+            title: "What is SEO?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Introduction to SERP",
+            title: "Introduction to SERP",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What are search engines?",
+            title: "What are search engines?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How search engines work",
+            title: "How search engines work",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Major functions of a search engine",
+            title: " Major functions of a search engine",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What are keywords & Different types of keywords",
+            title: "What are keywords & Different types of keywords",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Google keyword planner tool",
+            title: "Google keyword planner tool",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Keywords research process",
+            title: "Keywords research process",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding keywords mix",
+            title: "Understanding keywords mix",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title:
               " Google Operator : So that you can find anything on the web",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  On page optimization",
+            title: "  On page optimization",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Off Page optimization",
+            title: " Off Page optimization",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Local SEO",
+            title: " Local SEO",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "Top tools for SEO",
+            title: "Top tools for SEO",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "Monitoring SEO process",
+            title: "Monitoring SEO process",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "Preparing SEO reports",
+            title: "Preparing SEO reports",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              " How to create SEO Strategy for your business",
+            title: " How to create SEO Strategy for your business",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "What is link juice?",
+            title: "What is link juice?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "Importance of domain and page authority",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-
-           {
-            title:
-              "How to optimize exact keywords for your business",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "What is Google Panda Algorithm?",
+            title: "Importance of domain and page authority",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              " What is Google Penguin?",
+            title: "How to optimize exact keywords for your business",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "What is Google Panda Algorithm?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "What is Google EMD Update?",
+            title: " What is Google Penguin?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          {
+            title: "What is Google EMD Update?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
@@ -782,240 +718,190 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to recover your site from Panda, Penguin and EMD",
+            title: " How to recover your site from Panda, Penguin and EMD",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
-
-
 
       {
         title: "PPC Advertising Google Adwords",
         lectures: [
           {
-            title:
-              "    Google Adwords Overview",
+            title: "    Google Adwords Overview",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "   Understanding Adwords Algorithm",
+            title: "   Understanding Adwords Algorithm",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating Search Campaigns",
+            title: "Creating Search Campaigns",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Understanding different types of bid strategy",
+            title: " Understanding different types of bid strategy",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Advanced level bid strategies",
+            title: "Advanced level bid strategies",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What are flexible bidding strategies?",
+            title: "What are flexible bidding strategies?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding flexible bidding strategy",
+            title: "Understanding flexible bidding strategy",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Pros & Cons of different bid strategies",
+            title: "Pros & Cons of different bid strategies",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Understanding and Types of ad-extensions",
+            title: " Understanding and Types of ad-extensions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Adding ad-extensions in our campaign",
+            title: "Adding ad-extensions in our campaign",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating adgroups",
+            title: "Creating adgroups",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Finding relevant adgroups options using tools",
+            title: "Finding relevant adgroups options using tools",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding keywords",
+            title: "Understanding keywords",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating ads",
+            title: "Creating ads",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Tracking Performance/Conversion",
+            title: " Tracking Performance/Conversion",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Optimizing Search Campaigns",
+            title: " Optimizing Search Campaigns",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Importance of CTR in optimization",
+            title: "Importance of CTR in optimization",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to increase CTR",
+            title: "How to increase CTR",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Importance of quality score in optimization",
+            title: "  Importance of quality score in optimization",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  How to increase quality score",
+            title: "  How to increase quality score",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "Importance of negative keywords in optimization",
+            title: "Importance of negative keywords in optimization",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Evaluating campaign stats",
+            title: " Evaluating campaign stats",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Optimizing with conversion report",
+            title: " Optimizing with conversion report",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Optimizing performing keywords",
+            title: "Optimizing performing keywords",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Optimizing performing keywords",
+            title: "Optimizing performing keywords",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Optimizing non performing keywords",
+            title: "Optimizing non performing keywords",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to decrease CPC",
+            title: "How to decrease CPC",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Analyzing your competitors performance",
+            title: "Analyzing your competitors performance",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Creating Display Campaign",
+            title: " Creating Display Campaign",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Optimizing Display Campaign",
+            title: "Optimizing Display Campaign",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Remarketing",
+            title: "Remarketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
-
 
       {
         title: "Social Media Optimization (SMO)",
         lectures: [
           {
-            title:
-              "Social Media Optimization",
+            title: "Social Media Optimization",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Introduction to Social Media Networks",
+            title: "Introduction to Social Media Networks",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types of Social Media Websites",
+            title: "Types of Social Media Websites",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "   Social Media Optimization Concepts",
+            title: "   Social Media Optimization Concepts",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Facebook, Linkedin, Youtube, Pinterest",
+            title: "Facebook, Linkedin, Youtube, Pinterest",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Hashtags",
+            title: " Hashtags",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Image Optimization",
+            title: "  Image Optimization",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Search Engine Submissions",
+            title: "  Search Engine Submissions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Search Engines & Directories",
+            title: " Search Engines & Directories",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-         
         ],
       },
-
 
       {
         title: "Social Media Marketing",
         lectures: [
           {
-            title:
-              "What is social media?",
+            title: "What is social media?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -1024,137 +910,109 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How social media marketing is different than others",
+            title: "How social media marketing is different than others",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "    Forms of Internet marketing",
+            title: "    Forms of Internet marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Facebook marketing",
+            title: "  Facebook marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Increasing fans on fan page",
+            title: "Increasing fans on fan page",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to do marketing on fan page (with examples)",
+            title: " How to do marketing on fan page (with examples)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Fan engagement",
+            title: " Fan engagement",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Important apps to do fan page marketing",
+            title: "Important apps to do fan page marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Facebook advertising",
+            title: " Facebook advertising",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types of Facebook advertising",
+            title: "Types of Facebook advertising",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Best practices for Facebook advertising",
+            title: "Best practices for Facebook advertising",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Understanding facebook best practices",
+            title: " Understanding facebook best practices",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding edgerank and art of engagement",
+            title: "Understanding edgerank and art of engagement",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Linkedin Marketing",
+            title: "  Linkedin Marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Twitter Marketing",
+            title: "Twitter Marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Video Marketing",
+            title: "Video Marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-         
         ],
       },
-
 
       {
         title: "Mobile Web Marketing",
         lectures: [
           {
-            title:
-              "Understanding Mobile Devices",
+            title: "Understanding Mobile Devices",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Mobile Marketing and Social Media",
+            title: "Mobile Marketing and Social Media",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Mobile Marketing Measurement and Analytics",
+            title: " Mobile Marketing Measurement and Analytics",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Fundamentals of mobile marketing ?",
+            title: " Fundamentals of mobile marketing ?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Key industry terminology",
+            title: "Key industry terminology",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Creating mobile website through wordpress",
+            title: " Creating mobile website through wordpress",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Using tools to create mobile websites",
+            title: "Using tools to create mobile websites",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Using tools to create mobile app",
+            title: "Using tools to create mobile app",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Advertising on mobile (App & Web)",
+            title: "Advertising on mobile (App & Web)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Content Marketing on mobile",
+            title: "Content Marketing on mobile",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -1163,127 +1021,101 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Mobile marketing mix",
+            title: "Mobile marketing mix",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "SMS marketing",
+            title: "SMS marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating mobile application",
+            title: "Creating mobile application",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Uploading mobile app in Android and iOS",
+            title: "Uploading mobile app in Android and iOS",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-         
         ],
       },
-
 
       {
         title: "Google Analytics",
         lectures: [
           {
-            title:
-              "Introduction to Google analytics",
+            title: "Introduction to Google analytics",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How Google analytics works",
+            title: " How Google analytics works",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding Google analytics account structure",
+            title: "Understanding Google analytics account structure",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding Google analytics insights",
+            title: "Understanding Google analytics insights",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding cookie tracking",
+            title: "Understanding cookie tracking",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of cookie tracking used by Google analytics",
+            title: " Types of cookie tracking used by Google analytics",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Starting with Google analytics",
+            title: "Starting with Google analytics",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to set up analytics account",
+            title: "How to set up analytics account",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to add analytics code in website",
+            title: "How to add analytics code in website",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding goals and conversions",
+            title: "Understanding goals and conversions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to setup goals",
+            title: "How to setup goals",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Understanding different types of goals",
+            title: "  Understanding different types of goals",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding bounce & bounce rate",
+            title: "Understanding bounce & bounce rate",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Difference between exit rate & bounce rate",
+            title: "  Difference between exit rate & bounce rate",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to reduce bounce rate",
+            title: " How to reduce bounce rate",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to set up funnels in goals",
+            title: "How to set up funnels in goals",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Importance of funnels",
+            title: "Importance of funnels",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to integrate adwords and analytics account",
+            title: "How to integrate adwords and analytics account",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Benefits of integrating adwords & analytics",
+            title: "Benefits of integrating adwords & analytics",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -1292,92 +1124,74 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What is link tagging",
+            title: "What is link tagging",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to set up link tagging",
+            title: "How to set up link tagging",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding filters & segments",
+            title: "Understanding filters & segments",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to set up filters & segments",
+            title: "How to set up filters & segments",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to view customized reports",
+            title: "How to view customized reports",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Monitoring traffic sources",
+            title: "Monitoring traffic sources",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Monitoring traffic behavior",
+            title: "Monitoring traffic behavior",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "Taking corrective actions if required",
+            title: "Taking corrective actions if required",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
-
 
       {
         title: "Online Display Advertising",
         lectures: [
           {
-            title:
-              "What is online advertising?",
+            title: "What is online advertising?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Display Advertising",
+            title: "Display Advertising",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Posting Document with Document splitting",
+            title: "Posting Document with Document splitting",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Posting Document with Document splitting",
+            title: "Posting Document with Document splitting",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Contextual advertising",
+            title: "Contextual advertising",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What are Payment Modules?",
+            title: "What are Payment Modules?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Companies that provide online advertising Solution",
+            title: "Companies that provide online advertising Solution",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Tracking & Measuring ROI of online adv.",
+            title: "Tracking & Measuring ROI of online adv.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -1386,102 +1200,81 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating Banner Ads Using Tool",
+            title: "Creating Banner Ads Using Tool",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-
 
       {
         title: "Email Marketing",
         lectures: [
           {
-            title:
-              "What is email marketing?",
+            title: "What is email marketing?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How email works?",
+            title: "How email works?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Challenges faced in sending bulk emails",
+            title: "Challenges faced in sending bulk emails",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to over come these challenges?",
+            title: "How to over come these challenges?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types of email marketing- Opt-in & bulk emailing",
+            title: "Types of email marketing- Opt-in & bulk emailing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What is opt-in email marketing?",
+            title: "What is opt-in email marketing?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Setting up email marketing account",
+            title: "Setting up email marketing account",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Best platforms to do opt-in email marketing",
+            title: "Best platforms to do opt-in email marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Setting up lists & web form",
+            title: "Setting up lists & web form",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating a broadcast email",
+            title: "Creating a broadcast email",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What are auto responders?",
+            title: "What are auto responders?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What are auto responders?",
+            title: "What are auto responders?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What are auto responders?",
+            title: "What are auto responders?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Setting up auto responders",
+            title: "Setting up auto responders",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to do bulk emailing?",
+            title: "How to do bulk emailing?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Best practices to send bulk emails",
+            title: "Best practices to send bulk emails",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Tricks to land in inbox instead of spam folder",
+            title: "Tricks to land in inbox instead of spam folder",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -1490,8 +1283,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Improving ROI with A/B testing",
+            title: "Improving ROI with A/B testing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -1501,8 +1293,7 @@ const courses = [
         title: "Ecommerce Marketing",
         lectures: [
           {
-            title:
-              "What is ecommerce?",
+            title: "What is ecommerce?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -1531,8 +1322,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Case studies on ecommerce websites.",
+            title: "Case studies on ecommerce websites.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -1541,12 +1331,9 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to do SEO for an ecommerce website",
+            title: "How to do SEO for an ecommerce website",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-         
         ],
       },
 
@@ -1554,89 +1341,71 @@ const courses = [
         title: "Lead Generation For Business",
         lectures: [
           {
-            title:
-              "Understanding lead generation for business",
+            title: "Understanding lead generation for business",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Why lead generation is important?",
+            title: " Why lead generation is important?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding landing pages",
+            title: "Understanding landing pages",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding thank-you page",
+            title: "Understanding thank-you page",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Landing page vs website",
+            title: "Landing page vs website",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Best practices to create a landing page",
+            title: "Best practices to create a landing page",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Best practices to create a thank-you page",
+            title: "Best practices to create a thank-you page",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Practical exercise- Creating a landing page",
+            title: "Practical exercise- Creating a landing page",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types of landing pages",
+            title: "Types of landing pages",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
+
           {
-            title:
-              "Reviewing landing pages created by trainees",
+            title: "Reviewing landing pages created by trainees",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
           {
-            title:
-              "What is A/B testing?",
+            title: "What is A/B testing?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to do A/B testing",
+            title: "How to do A/B testing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Selecting landing pages after A/B testing",
+            title: "Selecting landing pages after A/B testing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Converting leads into sales",
+            title: "Converting leads into sales",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating lead nurturing strategy  ",
+            title: "Creating lead nurturing strategy  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding lead funnel Steps in leads nurturing",
+            title: "Understanding lead funnel Steps in leads nurturing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
 
@@ -1644,98 +1413,79 @@ const courses = [
         title: "Content Marketing",
         lectures: [
           {
-            title:
-              "What is  content marketing",
+            title: "What is  content marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Introduction to content marketing",
+            title: "Introduction to content marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Content marketing 7 step strategy building process",
+            title: "Content marketing 7 step strategy building process",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Content marketing 7 step strategy building process",
+            title: "Content marketing 7 step strategy building process",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "18 types of content with examples",
+            title: "18 types of content with examples",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to write great compelling content",
+            title: "How to write great compelling content",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Keyword research for content ideas",
+            title: "Keyword research for content ideas",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Optimizing content for search engines",
+            title: "Optimizing content for search engines",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Discussing authority blog",
+            title: "Discussing authority blog",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Ways to monetizing authority blog",
+            title: "Ways to monetizing authority blog",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Ways to monetizing authority blog",
+            title: "Ways to monetizing authority blog",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to market your content?",
+            title: "How to market your content?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Debate- Doesn’t great content just spread by itself",
+            title: "Debate- Doesn’t great content just spread by itself",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding second customer",
+            title: "Understanding second customer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Importance of second customer ",
+            title: "Importance of second customer ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to increase second customer",
+            title: "How to increase second customer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding online influencers",
+            title: "Understanding online influencers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "10 ways to connect with online influencers",
+            title: "10 ways to connect with online influencers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "35 unique ways to write magnetic headlines",
+            title: "35 unique ways to write magnetic headlines",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -1749,12 +1499,9 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Case study on content marketing",
+            title: "Case study on content marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-         
         ],
       },
 
@@ -1762,66 +1509,53 @@ const courses = [
         title: "Creating Digital Marketing Strategy / Doubt Sessions",
         lectures: [
           {
-            title:
-              "Let’s talk Execution Strategy",
+            title: "Let’s talk Execution Strategy",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
 
-      
       {
         title: "Affiliate Marketing",
         lectures: [
           {
-            title:
-              "What is affiliate marketing?",
+            title: "What is affiliate marketing?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "3 A’s of affiliate marketing",
+            title: "3 A’s of affiliate marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How people make millions of dollar in affiliate marketing?",
+            title: "How people make millions of dollar in affiliate marketing?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Affiliate marketing history",
+            title: "Affiliate marketing history",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Changes in affiliate marketing industry over the year",
+            title: "Changes in affiliate marketing industry over the year",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Affiliate marketing scenario in India",
+            title: "Affiliate marketing scenario in India",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to be a super affiliate?",
+            title: "How to be a super affiliate?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Different ways to do affiliate marketing",
+            title: "Different ways to do affiliate marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Affiliate marketing secrets",
+            title: "Affiliate marketing secrets",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How your trainer makes money in affiliate marketing?",
+            title: "How your trainer makes money in affiliate marketing?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -1830,8 +1564,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Getting your started as an affiliate",
+            title: "Getting your started as an affiliate",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -1840,11 +1573,9 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Some of the top affiliate network",
+            title: "Some of the top affiliate network",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
 
@@ -1852,38 +1583,29 @@ const courses = [
         title: "Adsense & Blogging",
         lectures: [
           {
-            title:
-              "What is adsense?",
+            title: "What is adsense?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "      How to get approved for adsense?",
+            title: "      How to get approved for adsense?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Cool trick to get adsense approval by Google",
+            title: "Cool trick to get adsense approval by Google",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Using your adsense account interface",
+            title: "Using your adsense account interface",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Placing ads on your blog",
+            title: "Placing ads on your blog",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating blogs with our FREE theme",
+            title: "Creating blogs with our FREE theme",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-        
-         
         ],
       },
 
@@ -1891,52 +1613,41 @@ const courses = [
         title: "Online Reputation Management",
         lectures: [
           {
-            title:
-              "What is online reputation management?",
+            title: "What is online reputation management?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Why online reputation management is need of hour",
+            title: "Why online reputation management is need of hour",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding ORM scenario",
+            title: "Understanding ORM scenario",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to deal with criticism online",
+            title: "How to deal with criticism online",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "10 Online reputation management Commandments",
+            title: "10 Online reputation management Commandments",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "15 ways to create positive brand image online",
+            title: "15 ways to create positive brand image online",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding tools for monitoring online reputation",
+            title: "Understanding tools for monitoring online reputation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Step by Step guide to overcome negative online reputation",
+            title: "Step by Step guide to overcome negative online reputation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Best examples of online reputation management",
+            title: "Best examples of online reputation management",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-         
         ],
       },
 
@@ -1944,26 +1655,21 @@ const courses = [
         title: "Projects And Interviews",
         lectures: [
           {
-            title:
-              " Covering all the concepts",
+            title: " Covering all the concepts",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Project Work",
+            title: "Project Work",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Resume Preparation",
+            title: "Resume Preparation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Interview Question Preparation",
+            title: "Interview Question Preparation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
     ],
@@ -1989,7 +1695,7 @@ const courses = [
     cate: "Web Development",
     reviewCount: "1000+ reviews",
     tagline:
-      "Our Web Development Training Program has been designed by our Web Developer Experts Team so that we can share our knowledge and help you learn complex theory",
+      "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
       "Our Web Development Training Program has been designed by our Web Developer Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Web Development Programming. With our Web Development Training, you will develop new skills and improve your understanding of this challenging yet lucrative Web Development Program.",
     tutor: " Dharmendra Singh",
@@ -2000,8 +1706,7 @@ const courses = [
       "Very clean and organized with easy to follow tutorials, Exercises, and solutions. The training does start from the beginning with very little knowledge and gives a great overview and progresses into more complex concepts and ideas.",
     price: 1349,
     level: "Professional",
-    modules: 23,
-    lessons: 18,
+    duration: "30-32 Hours",
     schedule: "Tranning + Certificate",
     language: "English",
     certificate: "Yes",
@@ -2010,16 +1715,13 @@ const courses = [
         title: "Getting started with Basics",
         lectures: [
           {
-            title:
-              "HISTORY OF WEB",
+            title: "HISTORY OF WEB",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "CLIENT SERVER ARCHITECTURE",
+            title: "CLIENT SERVER ARCHITECTURE",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-           
         ],
       },
       {
@@ -2036,19 +1738,16 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "TABLE :- Learn to create tables in HTML",
+            title: "TABLE :- Learn to create tables in HTML",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
         title: "More on HTML",
         lectures: [
           {
-            title:
-              "MORE TAGS :- Practice creating HTML with more tags",
+            title: "MORE TAGS :- Practice creating HTML with more tags",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2057,8 +1756,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "TABLE :- Learn to create tables in HTML",
+            title: "TABLE :- Learn to create tables in HTML",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -2067,8 +1765,7 @@ const courses = [
         title: "Forms",
         lectures: [
           {
-            title:
-              "FORM :- What is an HTML form?",
+            title: "FORM :- What is an HTML form?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2076,7 +1773,6 @@ const courses = [
               "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -2108,12 +1804,9 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOG PAGE :-  Building and styling the blog project",
+            title: "BLOG PAGE :-  Building and styling the blog project",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-          
         ],
       },
       {
@@ -2125,8 +1818,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "CSS BOX MODE :-  Understanding the CSS box model",
+            title: "CSS BOX MODE :-  Understanding the CSS box model",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -2145,8 +1837,7 @@ const courses = [
         title: "Flex",
         lectures: [
           {
-            title:
-              "INTRO TO FLEX :- Learning what flex is and how it works",
+            title: "INTRO TO FLEX :- Learning what flex is and how it works",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2161,7 +1852,7 @@ const courses = [
           },
         ],
       },
-      
+
       {
         title: "Completing Resume",
         lectures: [
@@ -2171,13 +1862,12 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FINISHING UP :- Finish building the Resume",
+            title: "FINISHING UP :- Finish building the Resume",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-      
+
       {
         title: "Responsive designs",
         lectures: [
@@ -2188,7 +1878,7 @@ const courses = [
           },
         ],
       },
-      
+
       {
         title: "Animations and 3D space",
         lectures: [
@@ -2199,7 +1889,7 @@ const courses = [
           },
         ],
       },
-      
+
       {
         title: "Bootstrap",
         lectures: [
@@ -2209,8 +1899,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "GRID SYSTEM :- Learning about grid system of bootstrap",
+            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2225,13 +1914,12 @@ const courses = [
           },
         ],
       },
-      
+
       {
         title: "Starting with Javascript",
         lectures: [
           {
-            title:
-              "INTRO TO JS :- What is JS and history of JS",
+            title: "INTRO TO JS :- What is JS and history of JS",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2241,23 +1929,20 @@ const courses = [
           },
         ],
       },
-      
+
       {
         title: "JavaScript: Functions and Arrays",
         lectures: [
           {
-            title:
-              "SCOPE :- Understanding scope in JS",
+            title: "SCOPE :- Understanding scope in JS",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "HOISTING :- What is hoisting and its application?",
+            title: "HOISTING :- What is hoisting and its application?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
+            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2267,7 +1952,7 @@ const courses = [
           },
         ],
       },
-      
+
       {
         title: "Objects and Timing Events",
         lectures: [
@@ -2283,7 +1968,7 @@ const courses = [
           },
         ],
       },
-      
+
       {
         title: "Understanding DOM",
         lectures: [
@@ -2293,13 +1978,12 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "EVENTS :- How to manipulate DOM events in JS",
+            title: "EVENTS :- How to manipulate DOM events in JS",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-      
+
       {
         title: "Calculator Project",
         lectures: [
@@ -2315,8 +1999,7 @@ const courses = [
         title: "Mini Projects Using Javascript",
         lectures: [
           {
-            title:
-              "LET V/S VAR :- Learning different ways to create variable",
+            title: "LET V/S VAR :- Learning different ways to create variable",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2349,9 +2032,9 @@ const courses = [
     cate: "Adobe XD",
     reviewCount: "03 reviews",
     tagline:
-      "The most impressive is collection of share me online college courses",
+      "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
-      "Our Graphic Design Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Graphic Designing. With our Graphic Design Training, you will develop new skills and improve your understanding of this challenging yet lucrative Graphic Design Program.",
+      "Our Video Editing Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Video Editing. With our Video Editing Training, you will develop new skills and improve your understanding of this challenging yet lucrative Video Editing Program.",
     tutor: "Rajib Raj",
     tutorImg: "assets/images/course/author/01.jpg",
     tutorImgAlt: "course author rajibraj91 rajibraj",
@@ -2359,109 +2042,431 @@ const courses = [
     tutorDesc:
       "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
     price: 89,
-    level: "Beginner",
-    modules: 2,
-    lessons: 18,
-    schedule: "Online Class",
+    level: "Professional",
+    duration: "30-32 Hours",
+    schedule: "Training + Certificate",
     language: "English",
     certificate: "Yes",
     syllabus: [
       {
-        title: "Photoshop",
+        title: "Introduction to Adobe Premier Pro",
         lectures: [
           {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+            title: "Introduction to Premiere Pro",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+            title: "What is Video (Clip, Shot, Video)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+            title: "What is Editing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Illustrator",
+        title: "Adobe Premier Pro Basics Training",
         lectures: [
           {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+            title: "Nonlinear editing in Adobe Premiere Pro",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+            title: "Expanding the workflow",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+            title: "Touring the Adobe Premiere Pro workspace",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Broadcasting Standard",
+        lectures: [
+          {
+            title: "Pal",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+            title: "NTSC",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+            title: "Secam",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Setting up a Project",
+        lectures: [
+          {
+            title: "Setting up a project",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+            title: "Setting up a sequence",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Essentials of  Video Editing",
+        lectures: [
+          {
+            title: "Digitizing & Improting files and folder",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Using the Source Monitor",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Navigating the Timeline",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Essential editing commands",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Working with Clips and Markers",
+        lectures: [
+          {
+            title: "Program Monitor controls",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Controlling resolution",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Using markers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Selecting clips",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Moving clips",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Adding Transitions",
+        lectures: [
+          {
+            title: "What are transitions?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Edit points and handles",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Adding video transitions",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Using A/B mode to fine-tune a transition",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Adding audio transitions",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Advanced Editing Techniques",
+        lectures: [
+          {
+            title: "Four-point editing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Retiming clips",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Replacing clips and footage",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Nesting sequences",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Regular trimming",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Advanced trimming",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Trimming in the Program Monitor panel",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Putting Clips in Motion",
+        lectures: [
+          {
+            title: "Adjusting the Motion effect",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Changing clip position, size, and rotation",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Working with keyframe interpolation",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Using other motion-related effects",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Multicamera Editing",
+        lectures: [
+          {
+            title: "The multicamera process",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Creating a multicamera sequence",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Switching multiple cameras",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Finalizing multicamera editing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Editing and Mixing Audio",
+        lectures: [
+          {
+            title: "Setting up the interface to work with audio",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Examining audio characteristics",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Adjusting audio volume",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Posting Document with Document splitting",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Adjusting audio levels in a sequence",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Sweetening Sound",
+        lectures: [
+          {
+            title: "Adjusting EQ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Applying effects in the Audio Mixer",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Cleaning up noisy audio",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Adding Video Effects",
+        lectures: [
+          {
+            title: "Working with effects",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Keyframing effects",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Effects presets",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Frequently used effects",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Overlays and filters",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Color Correction and Grading",
+        lectures: [
+          {
+            title: "Color-oriented workflow",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Fixing exposure problems",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Fixing color balance",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Special color effects",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "3D Lut",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Exploring Compositing Techniques",
+        lectures: [
+          {
+            title: "What is an alpha channel?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Making compositing part of your projects",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Working with the Opacity effect",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Working with alpha-channel transparencies",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Color keying a greenscreen shot",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Using mattes",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Title, Caption & Texts",
+        lectures: [
+          {
+            title: "Video typography essentials",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Creating titles",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Stylizing text",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Working with shapes and logos",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Making text roll and crawl",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Managing your Projects",
+        lectures: [
+          {
+            title: "The File menu",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Using the Project Manager",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Final project management steps",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Importing projects or sequences",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Managing collaboration",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Managing your hard drives",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Project Exporting",
+        lectures: [
+          {
+            title: "Export setting",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Rendering",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Get the Final Render (Video File)",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Projects and Interviews",
+        lectures: [
+          {
+            title: "Covering all the concepts",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Project Work",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Resume Preparation",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Interview Question Preparation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -2489,7 +2494,7 @@ const courses = [
     cate: "Adobe XD",
     reviewCount: "03 reviews",
     tagline:
-      "The most impressive is collection of share me online college courses",
+      "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
       "Our Graphic Design Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Graphic Designing. With our Graphic Design Training, you will develop new skills and improve your understanding of this challenging yet lucrative Graphic Design Program.",
     tutor: "Rajib Raj",
