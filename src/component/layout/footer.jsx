@@ -113,7 +113,7 @@ const tweetList = [
     iconName: "icofont-twitter",
     desc: (
       <p>
-        Aminur islam <a href="#">@CodexCoder Edukon #HTML_Template</a> Grab your
+        Aminur islam <a href="#">@YakeenTheLearningInstitute  #HTML_Template</a> Grab your
         item, 50% Big Sale Offer !!
       </p>
     ),
@@ -122,7 +122,7 @@ const tweetList = [
     iconName: "icofont-twitter",
     desc: (
       <p>
-        Somrat islam <a href="#">@CodexCoder Edukon #HTML_Template</a> Grab your
+        Somrat islam <a href="#">@YakeenTheLearningInstitute #HTML_Template</a> Grab your
         item, 50% Big Sale Offer !!
       </p>
     ),

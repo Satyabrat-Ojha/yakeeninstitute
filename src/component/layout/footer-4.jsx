@@ -17,7 +17,7 @@ const addressList = [
     },
     {
         iconName: 'icofont-envelope',
-        text: 'info@Edukon.com',
+        text: 'YakeenTheLearningInstitute.com',
     },
 ]
 
@@ -111,11 +111,11 @@ const quickList = [
 const tweetList = [
     {
         iconName: 'icofont-twitter',
-        desc: <p>Aminur islam <a href="#">@CodexCoder Edukon #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
+        desc: <p>Aminur islam <a href="#">@YakeenTheLearningInstitute #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
     },
     {
         iconName: 'icofont-twitter',
-        desc: <p>Somrat islam <a href="#">@CodexCoder Edukon #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
+        desc: <p>Somrat islam <a href="#">@YakeenTheLearningInstitute  #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
     },
 ]
 

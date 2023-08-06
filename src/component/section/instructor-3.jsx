@@ -11,7 +11,7 @@ const instructorTopList = [
     {
         imgUrl: 'assets/images/instructor/09.jpg',
         imgAlt: 'instructor rajibraj91 rajibraj',
-        name: 'Emilee Logan',
+        name: '',
         degi: 'Lead Instructor',
         infoList: [
             {

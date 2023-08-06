@@ -1,7 +1,7 @@
 
 
 
-const subTitle = "About Our Edukon";
+const subTitle = "About Our YakeenTheLearningInstitute";
 const title = "Good Qualification Services And Better Skills";
 const desc = "Distinctively provide acces mutfuncto users whereas transparent proceses somes ncentivize eficient functionalities rather than extensible archtectur communicate leveraged services and cross-platform.";
 

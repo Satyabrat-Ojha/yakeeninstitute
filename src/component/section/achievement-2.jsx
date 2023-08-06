@@ -12,7 +12,7 @@ const achievementList = [
     },
     {
         count: '3084',
-        desc: 'Learners Enrolled in Edukon Courses',
+        desc: 'Learners Enrolled in YakeenTheLearningInstitute Courses',
     },
     {
         count: '330',

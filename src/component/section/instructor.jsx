@@ -10,7 +10,7 @@ const instructorList = [
     {
         imgUrl: 'assets/images/instructor/01.jpg',
         imgAlt: 'instructor rajibraj91 rajibraj',
-        name: 'Emilee Logan',
+        name: 'Emilee ',
         degi: 'Master of Education Degree',
         courseCount: '08 courses',
         studentAnroll: '30 students',

@@ -7,8 +7,8 @@ import PageHeader from "../component/layout/pageheader";
 import Progress from "../component/sidebar/progress";
 import Rating from "../component/sidebar/rating";
 
-const name = "Emilee Logan";
-const degi = "Master of Education Degree";
+const name = "Roshan Gupta";
+const degi = "Co-Founder Yakeen The Learning Institute ";
 const desc = "Infrastruct ntrinsicl grow optimal talers rather than efectve nformaon Collabora optimize partnersh and frictionles deliverables";
 const subTitle = "Personal Statement";
 const infoDetails = "Enthusa expedte clent focused growth strateg wherea clent centered infrastruct ntrinsicl grow optimal talers rather than efectve nformaon Collabora optimize partnersh and frictionles deliverables infrastructs ntrinsicl grow optimal talers rather efectve";
@@ -18,7 +18,7 @@ const awardTitle = "Recognitions Award";
 const memInfoLisst = [
     {
         leftText: 'Adress',
-        rightText: 'Suite 02 and 07 Melbourne, Australia',
+        rightText: 'C-73, Shaliamar Garden, Ghaziabad',
     },
     {
         leftText: 'Email',
@@ -30,7 +30,7 @@ const memInfoLisst = [
     },
     {
         leftText: 'website',
-        rightText: 'www.adminedukon.com',
+        rightText: 'www.yakeenthelearninginstitute.com',
     },
 ]
 
@@ -108,7 +108,7 @@ const TeamSingle = () => {
     return (
         <Fragment>
             <Header />
-            <PageHeader title={'Sir Emilee Logan'} curPage={'Emilee Logan'} />
+            <PageHeader title={' Sir Roshan Gupta'} curPage={'Emilee Logan'} />
             <section className="instructor-single-section padding-tb section-bg">
                 <div className="container">
                     <div className="instructor-wrapper">
