@@ -419,7 +419,7 @@ const courses = [
     imgUrl: "assets/images/course/01.jpg",
     imgAlt: "course rajibraj91 rajibraj",
     cate: "Digital Marketing",
-    reviewCount: "500+ reviews",
+    reviewCount: "800+ reviews",
     tagline:
       "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
@@ -1693,7 +1693,7 @@ const courses = [
     imgUrl: "assets/images/course/01.jpg",
     imgAlt: "course rajibraj91 rajibraj",
     cate: "Web Development",
-    reviewCount: "1000+ reviews",
+    reviewCount: "1500+ reviews",
     tagline:
       "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
@@ -2025,12 +2025,12 @@ const courses = [
     ],
   },
   {
-    title: "Video Editing",
+    title: "Video Editing Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl: "assets/images/course/01.jpg",
     imgAlt: "course rajibraj91 rajibraj",
-    cate: "Adobe XD",
-    reviewCount: "03 reviews",
+    cate: "Video Editing",
+    reviewCount: "1200+ reviews",
     tagline:
       "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
@@ -2040,8 +2040,8 @@ const courses = [
     tutorImgAlt: "course author rajibraj91 rajibraj",
     tutorHeadline: "Assistant Teacher",
     tutorDesc:
-      "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
-    price: 89,
+      "Very clean and organized with easy to follow tutorials, Exercises, and solutions. The training does start from the beginning with very little knowledge and gives a great overview and progresses into more complex concepts and ideas.",
+    price: 699,
     level: "Professional",
     duration: "30-32 Hours",
     schedule: "Training + Certificate",
@@ -2432,6 +2432,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
+
       },
       {
         title: "Project Exporting",
@@ -2487,12 +2488,12 @@ const courses = [
     ],
   },
   {
-    title: "Computer Knowledge",
+    title: "Computer Knowledge Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl: "assets/images/course/01.jpg",
     imgAlt: "course rajibraj91 rajibraj",
-    cate: "Adobe XD",
-    reviewCount: "03 reviews",
+    cate: "Computer Knowledge",
+    reviewCount: "1700+ reviews",
     tagline:
       "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
@@ -2502,8 +2503,8 @@ const courses = [
     tutorImgAlt: "course author rajibraj91 rajibraj",
     tutorHeadline: "Assistant Teacher",
     tutorDesc:
-      "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
-    price: 89,
+      "Very clean and organized with easy to follow tutorials, Exercises, and solutions. The training does start from the beginning with very little knowledge and gives a great overview and progresses into more complex concepts and ideas.",
+    price: 1599,
     level: "Beginner",
     modules: 2,
     lessons: 18,
@@ -2512,105 +2513,189 @@ const courses = [
     certificate: "Yes",
     syllabus: [
       {
-        title: "Photoshop",
+        title: "Fundamentals of Computer ",
         lectures: [
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Introduction",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Input / Output & Processing (CPU)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Memory Device",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Types of computers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Characteristics of Computer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "History & Generation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Applications of Computer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+          
+          
+          
         ],
       },
       {
-        title: "Illustrator",
+        title: "E-mail & Internet:",
         lectures: [
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Introduction",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "E-mail Account & Its Functions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Search Engine",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Surfing WebPages",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Basics of Social Networking Site",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+         
+        ],
+      },
+      {
+        title: "Virus:",
+        lectures: [
+
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "General Introduction& Antivirus Utilities",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
+    
+
+      {
+        title: "Application Software:",
+        lectures: [
+          {
+            title:
+              "Microsoft Word",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Microsoft PowerPoint",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Microsoft Excel",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+           
+        ],
+      },
+    
+
+      {
+        title: "More : Practically Performed Activities",
+        lectures: [
+          {
+            title:
+              "Windows / Linux / and other Operating Systems",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Burning CD/DVD",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Basics of Audio/Video editing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Fundamentals of Hardware and Networking",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Formating of Hard disk",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Installation of Window",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+    
+
+      {
+        title: "Windows XP Overview:",
+        lectures: [
+          {
+            title:
+              "Some Basic Terminology & Typing Skills",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Desktop Settings & Control Panel",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Ms. DOS",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Ms. Paint",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "WordPad",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Accessories & Multimedia",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+    
     ],
     choose: [
       "Live Project based Training",
