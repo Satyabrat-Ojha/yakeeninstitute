@@ -1,0 +1,180 @@
+.CourseCard {
+  margin: 15px auto;
+  border-radius: 8px;
+  cursor: pointer;
+  filter: drop-shadow(0 4px 13px rgba(180, 180, 180, 0.25));
+  box-shadow: 0 4px 11px hsla(0, 0%, 71%, 0.25);
+  background-color: #fff;
+  letter-spacing: 0.5px;
+}
+
+.CourseCard.active {
+  box-shadow: 0 4px 11px hsla(0, 0%, 50%, 0.5);
+  /* transition: all 0.2s ease-in-out; */
+}
+
+.CardImage {
+  height: 266px;
+  position: relative;
+}
+
+.CourseCard .CardImage :first-child {
+  border-radius: 8px 8px 0 0;
+  height: 266px;
+}
+
+.CardSpan {
+  box-sizing: border-box;
+  display: block;
+  overflow: hidden;
+  width: initial;
+  height: initial;
+  background: none;
+  opacity: 1;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  inset: 0px;
+}
+
+.Image {
+  position: absolute;
+  inset: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+  border: none;
+  margin: auto;
+  display: block;
+  width: 0px;
+  height: 0px;
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 100%;
+  max-height: 100%;
+}
+
+.Category {
+  color: #11173a;
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  background: hsla(0, 0%, 100%, 0.9);
+  padding: 4px 8px;
+  box-shadow: 0 2px 34px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  line-height: 22px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  line-height: 18px;
+}
+
+.CardDetails {
+  padding: 16px;
+}
+
+.Language {
+  color: #f37120;
+  font-weight: 700;
+  font-size: 0.875rem;
+  line-height: 22px;
+  height: 22px;
+}
+
+.Title {
+  height: 54px;
+  overflow: hidden;
+  font-weight: 600;
+  font-size: 1.25rem;
+  line-height: 27px;
+}
+
+.active.Title {
+  color: #f37120;
+}
+
+.VideoCounts {
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 22px;
+  color: rgba(41, 50, 105, 0.5);
+  border-bottom: 1px solid hsla(0, 0%, 59%, 0.2);
+}
+
+.VideoCounts ul {
+  padding: 0;
+  margin: 16px 0;
+  list-style-type: disc;
+}
+
+.VideoCounts ul li {
+  display: inline;
+  margin-right: 16px;
+}
+
+.PriceTag {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-top: 16px;
+  flex-wrap: wrap;
+}
+
+.Off {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 16px;
+  color: #39b64a;
+  padding-right: 16px;
+}
+
+.Gross {
+  color: rgba(41, 50, 105, 0.5);
+  font-weight: 600;
+  font-size: 1.25rem;
+  line-height: 22px;
+  -webkit-text-decoration-line: line-through;
+  text-decoration-line: line-through;
+  padding-right: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.NetPrice {
+  display: flex;
+  flex-direction: column;
+}
+
+.Amount {
+  font-weight: 800;
+  font-size: 1.5625rem;
+  line-height: 22px;
+  color: #11173a;
+  display: flex;
+  align-items: center;
+}
+
+.Onwards {
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 22px;
+  color: rgba(41, 50, 105, 0.5);
+}
+
+.Offer {
+  display: flex;
+  justify-content: flex-end !important;
+}
+
+.Onwards p {
+  margin: 0;
+  padding-top: 4px;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 22px;
+  color: rgba(41, 50, 105, 0.5);
+}
+
+.Onwards span {
+  color: #39b64a;
+}

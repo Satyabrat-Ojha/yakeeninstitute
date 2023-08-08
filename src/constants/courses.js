@@ -2432,7 +2432,6 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
-
       },
       {
         title: "Project Exporting",
@@ -2506,8 +2505,7 @@ const courses = [
       "Very clean and organized with easy to follow tutorials, Exercises, and solutions. The training does start from the beginning with very little knowledge and gives a great overview and progresses into more complex concepts and ideas.",
     price: 1599,
     level: "Beginner",
-    modules: 2,
-    lessons: 18,
+    duration: "12-15 Hours",
     schedule: "Online Class",
     language: "English",
     certificate: "Yes",
@@ -2516,152 +2514,119 @@ const courses = [
         title: "Fundamentals of Computer ",
         lectures: [
           {
-            title:
-              "Introduction",
+            title: "Introduction",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Input / Output & Processing (CPU)",
+            title: "Input / Output & Processing (CPU)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Memory Device",
+            title: "Memory Device",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types of computers",
+            title: "Types of computers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Characteristics of Computer",
+            title: "Characteristics of Computer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "History & Generation",
+            title: "History & Generation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Applications of Computer",
+            title: "Applications of Computer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-          
-          
         ],
       },
       {
         title: "E-mail & Internet:",
         lectures: [
           {
-            title:
-              "Introduction",
+            title: "Introduction",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "E-mail Account & Its Functions",
+            title: "E-mail Account & Its Functions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Search Engine",
+            title: "Search Engine",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Surfing WebPages",
+            title: "Surfing WebPages",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Basics of Social Networking Site",
+            title: "Basics of Social Networking Site",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
         title: "Virus:",
         lectures: [
-
           {
-            title:
-              "General Introduction& Antivirus Utilities",
+            title: "General Introduction& Antivirus Utilities",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-    
 
       {
         title: "Application Software:",
         lectures: [
           {
-            title:
-              "Microsoft Word",
+            title: "Microsoft Word",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Microsoft PowerPoint",
+            title: "Microsoft PowerPoint",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Microsoft Excel",
+            title: "Microsoft Excel",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-           
         ],
       },
-    
 
       {
         title: "More : Practically Performed Activities",
         lectures: [
           {
-            title:
-              "Windows / Linux / and other Operating Systems",
+            title: "Windows / Linux / and other Operating Systems",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Burning CD/DVD",
+            title: "Burning CD/DVD",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Basics of Audio/Video editing",
+            title: "Basics of Audio/Video editing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Fundamentals of Hardware and Networking",
+            title: "Fundamentals of Hardware and Networking",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Formating of Hard disk",
+            title: "Formating of Hard disk",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Installation of Window",
+            title: "Installation of Window",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
     ],
 
-    
-        
     choose: [
       "Live Project based Training",
       "Easy to Understand Study Material",
@@ -2695,8 +2660,7 @@ const courses = [
       "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
     price: 1189,
     level: "Beginner",
-    modules: 2,
-    lessons: 18,
+    duration: "42-45 Hours",
     schedule: "Online Class",
     language: "English",
     certificate: "Yes",
@@ -2710,8 +2674,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creation of 3D objects. ",
+            title: "Creation of 3D objects. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2720,18 +2683,15 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Customizing the Max Interface & Setting Preferences",
+            title: "Customizing the Max Interface & Setting Preferences",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Working with Files, Importing & Exporting",
+            title: "Working with Files, Importing & Exporting",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Selecting Objects &  Setting Object Properties",
+            title: " Selecting Objects &  Setting Object Properties",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2740,49 +2700,40 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Transforming objects, Pivoting, aligning etc.",
+            title: "Transforming objects, Pivoting, aligning etc.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
         title: "2D Splines & Shapes& compound object ",
         lectures: [
           {
-            title:
-              "Understanding 2D Splines& shape",
+            title: "Understanding 2D Splines& shape",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Extrude & Bevel 2D  object to 3D",
+            title: "Extrude & Bevel 2D  object to 3D",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Understanding Loft & terrain,",
+            title: " Understanding Loft & terrain,",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Modeling simple objects with splines",
+            title: "Modeling simple objects with splines",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding morph, scatter, conform",
+            title: "Understanding morph, scatter, conform",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "connect compound objects, blobmesh, Boolean",
+            title: "connect compound objects, blobmesh, Boolean",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Proboolean & procutter compound object",
+            title: "Proboolean & procutter compound object",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -2791,38 +2742,31 @@ const courses = [
         title: "3DModelling",
         lectures: [
           {
-            title:
-              "Modeling with Polygons",
+            title: "Modeling with Polygons",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              ", using the graphite, working with XRefs",
+            title: ", using the graphite, working with XRefs",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Building simple scenes, Building complex scenes with XRefs",
+            title: "Building simple scenes, Building complex scenes with XRefs",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "using assets tracking",
+            title: "using assets tracking",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "deforming surfaces & using the mesh modifiers",
+            title: "deforming surfaces & using the mesh modifiers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " modeling with patches & NURBS",
+            title: " modeling with patches & NURBS",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "asdfjkl",
+            title: "asdfjkl",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -2832,37 +2776,29 @@ const courses = [
         title: "Keyframe Animation",
         lectures: [
           {
-            title:
-              "Creating Keyframes, Auto Keyframes",
+            title: "Creating Keyframes, Auto Keyframes",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Move & Scale  Keyframe on the timeline",
+            title: " Move & Scale  Keyframe on the timeline",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Animating with constraints & simple controllers",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-           {
-            title:
-              "animation Modifiers & complex controllers",
+            title: " Animating with constraints & simple controllers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "function curves in the track view",
+            title: "animation Modifiers & complex controllers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "motion mixer etc",
+            title: "function curves in the track view",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-          
+          {
+            title: "motion mixer etc",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
         ],
       },
 
@@ -2870,18 +2806,15 @@ const courses = [
         title: "Simulation & Effects",
         lectures: [
           {
-            title:
-              "Bind to Space Warp object",
+            title: "Bind to Space Warp object",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Gravity, wind, displace force   object",
+            title: "Gravity, wind, displace force   object",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  deflectors, FFD space warp",
+            title: "  deflectors, FFD space warp",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2890,23 +2823,19 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "understanding  particle flow user interface",
+            title: "understanding  particle flow user interface",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              ", how to particle flow works",
+            title: ", how to particle flow works",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " hair   & fur modifier",
+            title: " hair   & fur modifier",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " cloth & garment maker modifiers etc",
+            title: " cloth & garment maker modifiers etc",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -2916,38 +2845,31 @@ const courses = [
         title: "Lighting& Camera ",
         lectures: [
           {
-            title:
-              "Configuring & Aiming Cameras",
+            title: "Configuring & Aiming Cameras",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "camera motion blur, camera depth of field",
+            title: "camera motion blur, camera depth of field",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " camera tracking",
+            title: " camera tracking",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "using basic lights & lighting  Techniques",
+            title: "using basic lights & lighting  Techniques",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "working with advanced lighting",
+            title: "working with advanced lighting",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Light Tracing, Radiosity",
+            title: " Light Tracing, Radiosity",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "video post, mental ray lighting etc. ",
+            title: "video post, mental ray lighting etc. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -2957,36 +2879,29 @@ const courses = [
         title: "Texturing with Max  ",
         lectures: [
           {
-            title:
-              "Using the material editor & the material explorer",
+            title: "Using the material editor & the material explorer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "creating & applying standard materials",
+            title: "creating & applying standard materials",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "adding material  details with maps",
+            title: "adding material  details with maps",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              ", creating compound materials &  material modifiers",
+            title: ", creating compound materials &  material modifiers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "unwrapping UVs & mapping texture",
+            title: "unwrapping UVs & mapping texture",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "using atmospheric & render effects etc",
+            title: "using atmospheric & render effects etc",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
 
@@ -2994,31 +2909,25 @@ const courses = [
         title: "Rendering with V-Ray ",
         lectures: [
           {
-            title:
-              "V-ray light setup",
+            title: "V-ray light setup",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "V-ray rendering settings",
+            title: "V-ray rendering settings",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " , HDRI Illumination",
+            title: " , HDRI Illumination",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Fine-tuning shadows",
+            title: " Fine-tuning shadows",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Final render setting etc",
+            title: "Final render setting etc",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
     ],
@@ -3055,8 +2964,7 @@ const courses = [
       "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
     price: 1499,
     level: "Beginner",
-    modules: 2,
-    lessons: 18,
+    duration: "42-45 Hours",
     schedule: "Online Class",
     language: "English",
     certificate: "Yes",
@@ -3065,28 +2973,21 @@ const courses = [
         title: "The Freelance Masterclass: For Creatives",
         lectures: [
           {
-            title:
-              "Finding clients",
+            title: "Finding clients",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Pricing your work",
+            title: "Pricing your work",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Managing income and cash flow",
+            title: "Managing income and cash flow",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating business cards and a lot more.",
+            title: "Creating business cards and a lot more.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-          
-         
         ],
       },
 
@@ -3094,93 +2995,73 @@ const courses = [
         title: "Become a Digital Marketing Professional: Freelance Career",
         lectures: [
           {
-            title:
-              "Market research",
+            title: "Market research",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Content marketing",
+            title: "Content marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "SEOs",
+            title: "SEOs",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Advertisements",
+            title: "Advertisements",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-         
         ],
       },
 
-        {
+      {
         title: "Learn SAP Course: Online for Beginners ",
         lectures: [
           {
-            title:
-              "SAP functionality",
+            title: "SAP functionality",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "SAP System Basics",
+            title: "SAP System Basics",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "SAP Products",
+            title: "SAP Products",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Interrogating the system and a lot more.",
+            title: "Interrogating the system and a lot more.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-        
-          
         ],
       },
 
-        {
+      {
         title: "The Complete Ethical Hacking Course: Beginner to Advanced ",
         lectures: [
           {
-            title:
-              "Basic hacking terms",
+            title: "Basic hacking terms",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Hacking environment",
+            title: "Hacking environment",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Linux terminal",
+            title: "Linux terminal",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "VirtualBox",
+            title: "VirtualBox",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Proxy Chains and a lot more",
+            title: "Proxy Chains and a lot more",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
 
-        {
+      {
         title: "Photoshop",
         lectures: [
           {
@@ -3246,7 +3127,7 @@ const courses = [
         ],
       },
 
-        {
+      {
         title: "Photoshop",
         lectures: [
           {
@@ -3445,8 +3326,7 @@ const courses = [
       "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
     price: 89,
     level: "Beginner",
-    modules: 2,
-    lessons: 18,
+    duration: "12-15 Hours",
     schedule: "Online Class",
     language: "English",
     certificate: "Yes",
