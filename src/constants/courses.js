@@ -2658,45 +2658,10 @@ const courses = [
           },
         ],
       },
-    
-
-      {
-        title: "Windows XP Overview:",
-        lectures: [
-          {
-            title:
-              "Some Basic Terminology & Typing Skills",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Desktop Settings & Control Panel",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Ms. DOS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Ms. Paint",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "WordPad",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Accessories & Multimedia",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-    
     ],
+
+    
+        
     choose: [
       "Live Project based Training",
       "Easy to Understand Study Material",
@@ -2716,7 +2681,367 @@ const courses = [
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl: "assets/images/course/01.jpg",
     imgAlt: "course rajibraj91 rajibraj",
-    cate: "Adobe XD",
+    cate: "3D Annimation ",
+    reviewCount: "1000+ reviews",
+    tagline:
+      "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
+    overview:
+      "Our Graphic Design Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Graphic Designing. With our Graphic Design Training, you will develop new skills and improve your understanding of this challenging yet lucrative Graphic Design Program.",
+    tutor: "Rajib Raj",
+    tutorImg: "assets/images/course/author/01.jpg",
+    tutorImgAlt: "course author rajibraj91 rajibraj",
+    tutorHeadline: "Assistant Teacher",
+    tutorDesc:
+      "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
+    price: 1189,
+    level: "Beginner",
+    modules: 2,
+    lessons: 18,
+    schedule: "Online Class",
+    language: "English",
+    certificate: "Yes",
+    syllabus: [
+      {
+        title: "Computer-based Animation&Getting Started with Max",
+        lectures: [
+          {
+            title:
+              "Definition of Computer-based Animation,Basic Types of Animation: Real Time ,Non-real-time, Definition of Modelling,Creation of 3D objects",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Creation of 3D objects. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Exploring the Max Interface, Controlling & Configuring the  Viewports",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Customizing the Max Interface & Setting Preferences",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Working with Files, Importing & Exporting",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Selecting Objects &  Setting Object Properties",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              ", Duplicating Objects, Creating &     Editing Standard Primitive & extended Primitives objects, ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Transforming objects, Pivoting, aligning etc.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+      {
+        title: "2D Splines & Shapes& compound object ",
+        lectures: [
+          {
+            title:
+              "Understanding 2D Splines& shape",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Extrude & Bevel 2D  object to 3D",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Understanding Loft & terrain,",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Modeling simple objects with splines",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Understanding morph, scatter, conform",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "connect compound objects, blobmesh, Boolean",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Proboolean & procutter compound object",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "3DModelling",
+        lectures: [
+          {
+            title:
+              "Modeling with Polygons",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              ", using the graphite, working with XRefs",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Building simple scenes, Building complex scenes with XRefs",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "using assets tracking",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "deforming surfaces & using the mesh modifiers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " modeling with patches & NURBS",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "asdfjkl",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+
+      {
+        title: "Keyframe Animation",
+        lectures: [
+          {
+            title:
+              "Creating Keyframes, Auto Keyframes",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Move & Scale  Keyframe on the timeline",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Animating with constraints & simple controllers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+           {
+            title:
+              "animation Modifiers & complex controllers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "function curves in the track view",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "motion mixer etc",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+          
+        ],
+      },
+
+      {
+        title: "Simulation & Effects",
+        lectures: [
+          {
+            title:
+              "Bind to Space Warp object",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Gravity, wind, displace force   object",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  deflectors, FFD space warp",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "wave, ripple, bomb,  Creating particle system through parray",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "understanding  particle flow user interface",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              ", how to particle flow works",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " hair   & fur modifier",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " cloth & garment maker modifiers etc",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+
+      {
+        title: "Lighting& Camera ",
+        lectures: [
+          {
+            title:
+              "Configuring & Aiming Cameras",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "camera motion blur, camera depth of field",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " camera tracking",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "using basic lights & lighting  Techniques",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "working with advanced lighting",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Light Tracing, Radiosity",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "video post, mental ray lighting etc. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+
+      {
+        title: "Texturing with Max  ",
+        lectures: [
+          {
+            title:
+              "Using the material editor & the material explorer",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "creating & applying standard materials",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "adding material  details with maps",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              ", creating compound materials &  material modifiers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "unwrapping UVs & mapping texture",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "using atmospheric & render effects etc",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+        ],
+      },
+
+      {
+        title: "Rendering with V-Ray ",
+        lectures: [
+          {
+            title:
+              "V-ray light setup",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "V-ray rendering settings",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " , HDRI Illumination",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Fine-tuning shadows",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Final render setting etc",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+        ],
+      },
+    ],
+    choose: [
+      "Live Project based Training",
+      "Easy to Understand Study Material",
+      "Verifiable Certification",
+      "100% Job Assistance Program",
+      "Certified & Experienced Trainers",
+      "Content as per Industry Standards",
+    ],
+    preRequisite: [
+      "Basic Computer Knowledge",
+      "Graduation is recommended",
+      "Course assumes no previous experience",
+    ],
+  },
+  {
+    title: "Freelancing Tranning hai ye free rkh rha hu kr lo",
+    link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+    imgUrl: "assets/images/course/01.jpg",
+    imgAlt: "course rajibraj91 rajibraj",
+    cate: "Freelancing",
     reviewCount: "03 reviews",
     tagline:
       "The most impressive is collection of share me online college courses",
@@ -2728,7 +3053,7 @@ const courses = [
     tutorHeadline: "Assistant Teacher",
     tutorDesc:
       "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
-    price: 89,
+    price: 1499,
     level: "Beginner",
     modules: 2,
     lessons: 18,
@@ -2737,6 +3062,125 @@ const courses = [
     certificate: "Yes",
     syllabus: [
       {
+        title: "The Freelance Masterclass: For Creatives",
+        lectures: [
+          {
+            title:
+              "Finding clients",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Pricing your work",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Managing income and cash flow",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Creating business cards and a lot more.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          
+         
+        ],
+      },
+
+      {
+        title: "Become a Digital Marketing Professional: Freelance Career",
+        lectures: [
+          {
+            title:
+              "Market research",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Content marketing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "SEOs",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Advertisements",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+         
+        ],
+      },
+
+        {
+        title: "Learn SAP Course: Online for Beginners ",
+        lectures: [
+          {
+            title:
+              "SAP functionality",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "SAP System Basics",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "SAP Products",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Interrogating the system and a lot more.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        
+          
+        ],
+      },
+
+        {
+        title: "The Complete Ethical Hacking Course: Beginner to Advanced ",
+        lectures: [
+          {
+            title:
+              "Basic hacking terms",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Hacking environment",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Linux terminal",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "VirtualBox",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Proxy Chains and a lot more",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+
+        {
         title: "Photoshop",
         lectures: [
           {
@@ -2801,81 +3245,72 @@ const courses = [
           },
         ],
       },
-      {
-        title: "Illustrator",
+
+        {
+        title: "Photoshop",
         lectures: [
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-    ],
-    choose: [
-      "Live Project based Training",
-      "Easy to Understand Study Material",
-      "Verifiable Certification",
-      "100% Job Assistance Program",
-      "Certified & Experienced Trainers",
-      "Content as per Industry Standards",
-    ],
-    preRequisite: [
-      "Basic Computer Knowledge",
-      "Graduation is recommended",
-      "Course assumes no previous experience",
-    ],
-  },
-  {
-    title: "Freelancing",
-    link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-    imgUrl: "assets/images/course/01.jpg",
-    imgAlt: "course rajibraj91 rajibraj",
-    cate: "Adobe XD",
-    reviewCount: "03 reviews",
-    tagline:
-      "The most impressive is collection of share me online college courses",
-    overview:
-      "Our Graphic Design Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Graphic Designing. With our Graphic Design Training, you will develop new skills and improve your understanding of this challenging yet lucrative Graphic Design Program.",
-    tutor: "Rajib Raj",
-    tutorImg: "assets/images/course/author/01.jpg",
-    tutorImgAlt: "course author rajibraj91 rajibraj",
-    tutorHeadline: "Assistant Teacher",
-    tutorDesc:
-      "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
-    price: 89,
-    level: "Beginner",
-    modules: 2,
-    lessons: 18,
-    schedule: "Online Class",
-    language: "English",
-    certificate: "Yes",
-    syllabus: [
       {
         title: "Photoshop",
         lectures: [
