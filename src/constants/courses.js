@@ -2702,7 +2702,7 @@ const courses = [
     certificate: "Yes",
     syllabus: [
       {
-        title: "Computer-based Animation&Getting Started with Max",
+        title: "Introduction to 3D Animation",
         lectures: [
           {
             title:
@@ -2711,245 +2711,161 @@ const courses = [
           },
           {
             title:
-              "Creation of 3D objects. ",
+              "Understanding the principles of animation: timing, spacing, squash and stretch, anticipation, etc. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Exploring the Max Interface, Controlling & Configuring the  Viewports",
+              "Introduction to 3D animation software (e.g., Autodesk Maya, Blender)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Customizing the Max Interface & Setting Preferences",
+              "Navigating the 3D workspace: viewport, panels, menus, tools",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Working with Files, Importing & Exporting",
+              "Basic modeling techniques: creating and editing simple 3D shapes",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              " Selecting Objects &  Setting Object Properties",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              ", Duplicating Objects, Creating &     Editing Standard Primitive & extended Primitives objects, ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Transforming objects, Pivoting, aligning etc.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+         
          
         ],
       },
       {
-        title: "2D Splines & Shapes& compound object ",
+        title: "3D Modeling and Texturing",
         lectures: [
           {
             title:
-              "Understanding 2D Splines& shape",
+              "Intermediate modeling techniques: polygonal modeling, edge loops, extrusion, beveling",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Extrude & Bevel 2D  object to 3D",
+              "UV mapping and texturing fundamentals",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              " Understanding Loft & terrain,",
+              " Applying materials and textures to 3D models",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Modeling simple objects with splines",
+              "Introduction to lighting: types of lights, shadows, and shadings",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "Understanding morph, scatter, conform",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "connect compound objects, blobmesh, Boolean",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Proboolean & procutter compound object",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+       
         ],
       },
       {
-        title: "3DModelling",
+        title: "Rigging and Character Animation",
         lectures: [
           {
             title:
-              "Modeling with Polygons",
+              "Basics of rigging: joints, bones, IK (Inverse Kinematics), FK (Forward Kinematics)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              ", using the graphite, working with XRefs",
+              "Creating a basic character rig: spine, limbs, facial features",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Building simple scenes, Building complex scenes with XRefs",
+              "Principles of character animation: posing, keyframes, interpolation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "using assets tracking",
+              "Animating a bouncing ball exercise",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "deforming surfaces & using the mesh modifiers",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              " modeling with patches & NURBS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "asdfjkl",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+          
         ],
       },
 
       {
-        title: "Keyframe Animation",
+        title: "Advanced Animation Techniques",
         lectures: [
           {
             title:
-              "Creating Keyframes, Auto Keyframes",
+              "Introduction to advanced animation tools and workflows",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              " Move & Scale  Keyframe on the timeline",
+              " Animating characters with emotions and personality",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              " Animating with constraints & simple controllers",
+              "Lip-sync animation: syncing character dialogue with mouth movements",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
            {
             title:
-              "animation Modifiers & complex controllers",
+              "Exploring secondary motion and overlapping actions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "function curves in the track view",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "motion mixer etc",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          
+       
           
         ],
       },
 
       {
-        title: "Simulation & Effects",
+        title: "Special Effects and Dynamics",
         lectures: [
           {
             title:
-              "Bind to Space Warp object",
+              "Introduction to particle systems: creating fire, smoke, rain, etc.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Gravity, wind, displace force   object",
+              "Simulating physics-based animations: cloth, hair, rigid bodies",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "  deflectors, FFD space warp",
+              "Integrating dynamics with character animation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "wave, ripple, bomb,  Creating particle system through parray",
+              "Basics of rendering: setting up cameras, resolutions, and output formats",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "understanding  particle flow user interface",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              ", how to particle flow works",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              " hair   & fur modifier",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              " cloth & garment maker modifiers etc",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+         
+        
         ],
       },
 
       {
-        title: "Lighting& Camera ",
+        title: "Final Projects and Portfolio Development ",
         lectures: [
           {
             title:
-              "Configuring & Aiming Cameras",
+              "Collaborative project: students work in teams to create a short animated scene",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "camera motion blur, camera depth of field",
+              "Polishing animations: refining timing, adding details, enhancing realism",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              " camera tracking",
+              "Rendering final animations and compositing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "using basic lights & lighting  Techniques",
+              "Creating a portfolio: showcasing the best work from the course",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "working with advanced lighting",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              " Light Tracing, Radiosity",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "video post, mental ray lighting etc. ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+          
         ],
       },
 
@@ -2991,31 +2907,36 @@ const courses = [
       },
 
       {
-        title: "Rendering with V-Ray ",
+        title: "Assessment and Evaluation:",
         lectures: [
           {
             title:
-              "V-ray light setup",
+           " Class participation and engagement",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "V-ray rendering settings",
+              "Regular assignments and exercises to practice each topic",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              " , HDRI Illumination",
+              " Quizzes and tests to assess understanding of principles and techniques",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              " Fine-tuning shadows",
+              " Midterm project: individual character animation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Final render setting etc",
+              "Final project: team-based animated scene",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Portfolio assessment based on the quality of work presented",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           
@@ -3037,7 +2958,7 @@ const courses = [
     ],
   },
   {
-    title: "Freelancing Tranning hai ye free rkh rha hu kr lo",
+    title: "Freelancing Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl: "assets/images/course/01.jpg",
     imgAlt: "course rajibraj91 rajibraj",
@@ -3061,27 +2982,125 @@ const courses = [
     language: "English",
     certificate: "Yes",
     syllabus: [
+     
+     
       {
-        title: "The Freelance Masterclass: For Creatives",
+        title: "Introduction to Freelancing",
         lectures: [
           {
             title:
-              "Finding clients",
+              "Understanding the freelancing landscape",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Pricing your work",
+              "Pros and cons of freelancing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Managing income and cash flow",
+              "Setting freelancing goals and expectations",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        
+          
+         
+        ],
+      },
+
+      {
+        title: "Setting freelancing goals and expectations",
+        lectures: [
+          {
+            title:
+              "Self-assessment of digital marketing skills",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Creating business cards and a lot more.",
+              "Identifying your niche (e.g., social media, SEO, content marketing)",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Gap analysis and skill improvement plan",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+        
+          
+         
+        ],
+      },
+
+
+      {
+        title: "Building a Strong Foundation",
+        lectures: [
+          {
+            title:
+              "Digital marketing fundamentals and terminology",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Principles of effective online communication",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Understanding target audiences and buyer personas",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        
+          
+         
+        ],
+      },
+
+
+      {
+        title: "Creating Your Freelancer Brand",
+        lectures: [
+          {
+            title:
+              "Personal branding and online presence",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Designing a portfolio website showcasing your work",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Crafting an appealing freelancer profile on platforms like Upwork, Freelancer, etc.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        
+          
+         
+        ],
+      },
+      {
+        title: "Marketing and Client Acquisition",
+        lectures: [
+          {
+            title:
+              "Developing a client acquisition strategy",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Effective cold pitching and proposal writing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Leveraging social media for self-promotion",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         
@@ -3119,60 +3138,45 @@ const courses = [
       },
 
         {
-        title: "Learn SAP Course: Online for Beginners ",
+        title: " Client Management and Communication",
         lectures: [
           {
             title:
-              "SAP functionality",
+              "Setting client expectations and project scope",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "SAP System Basics",
+              "Effective communication and client updates",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "SAP Products",
+              "Handling feedback and revisions professionally",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "Interrogating the system and a lot more.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-         
+        
         
           
         ],
       },
 
         {
-        title: "The Complete Ethical Hacking Course: Beginner to Advanced ",
+        title: "Pricing and Negotiation ",
         lectures: [
           {
             title:
-              "Basic hacking terms",
+              "Understanding pricing models (hourly, fixed, value-based)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Hacking environment",
+              "Strategies for pricing your services competitively",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Linux terminal",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "VirtualBox",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Proxy Chains and a lot more",
+              "Negotiation techniques for securing fair compensation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
          
@@ -3181,236 +3185,132 @@ const courses = [
       },
 
         {
-        title: "Photoshop",
+        title: "Time Management and Productivity",
         lectures: [
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Effective time tracking and task management tools",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Creating a daily/weekly work schedule",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Balancing multiple projects and deadlines",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+        
+        ],
+      },
+
+        {
+        title: "Advanced Digital Marketing Techniques",
+        lectures: [
+          {
+            title:
+              "In-depth exploration of chosen digital marketing niche (e.g., SEO, social media advertising, email marketing)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Staying updated with industry trends and algorithm changes",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          
+         
+        ],
+      },
+      {
+        title: "Legal and Financial Considerations",
+        lectures: [
+          {
+            title:
+              "Creating freelancing contracts and agreements",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Managing taxes and finances as a freelancer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Protecting your intellectual property rights",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+          
+         
+        ],
+      },
+      {
+        title: "Continuous Learning and Growth",
+        lectures: [
+          {
+            title:
+              "Attending webinars, workshops, and industry events",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Expanding your skill set based on market demand",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+         
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Upskilling to offer more specialized services",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
 
-        {
-        title: "Photoshop",
-        lectures: [
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
       {
-        title: "Photoshop",
+        title: " Managing Stress and Self-Care",
         lectures: [
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Preventing burnout and maintaining work-life balance",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Strategies for managing stress and maintaining mental well-being",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+         
+        
         ],
       },
+
       {
-        title: "Illustrator",
+        title: "Final Project: Freelancing Business Plan",
         lectures: [
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Developing a detailed freelancing business plan tailored to your niche",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Setting financial goals and growth milestones",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+         
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Setting financial goals and growth milestones",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
+
+   
     ],
     choose: [
       "Live Project based Training",
@@ -3436,14 +3336,14 @@ const courses = [
     tagline:
       "The most impressive is collection of share me online college courses",
     overview:
-      "Our Graphic Design Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Graphic Designing. With our Graphic Design Training, you will develop new skills and improve your understanding of this challenging yet lucrative Graphic Design Program.",
+      "Remember, practice is key to improving as a content writer. Along with following this curriculum, actively write and seek feedback to refine your skills. As you gain experience and build your portfolio, you'll be better equipped to tackle diverse content writing projects and establish yourself as a proficient content creator.",
     tutor: "Rajib Raj",
     tutorImg: "assets/images/course/author/01.jpg",
     tutorImgAlt: "course author rajibraj91 rajibraj",
     tutorHeadline: "Assistant Teacher",
     tutorDesc:
       "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
-    price: 89,
+    price: 1199,
     level: "Beginner",
     modules: 2,
     lessons: 18,
@@ -3451,106 +3351,396 @@ const courses = [
     language: "English",
     certificate: "Yes",
     syllabus: [
+      
+      
       {
-        title: "Photoshop",
+        title: "Introduction to Content Writing",
         lectures: [
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Understanding the role of a content writer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Exploring the different types of content (blogs, articles, social media, web copy, etc.)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
+              "Defining your goals and objectives as a content writer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe photoshop, Menu bar, Property bar, Tools, Layers, Supportive options",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+         
+         
         ],
       },
+      
       {
-        title: "Illustrator",
+        title: "Grammar and Writing Fundamentals",
         lectures: [
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Brushing up on grammar, punctuation, and sentence structure",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Developing a strong vocabulary and writing style",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
+              "Learning to write clear and concise content",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "Introduction of Adobe Illustrator, some tools, Panels-Sub panels & flower making",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+         
+         
         ],
       },
+      
+      {
+        title: " Audience and Purpose",
+        lectures: [
+          {
+            title:
+              "Understanding your target audience and their preferences",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Defining the purpose of your content (inform, entertain, educate, persuade)",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Tailoring your writing style and tone to your audience",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      
+      {
+        title: "Research Skills",
+        lectures: [
+          {
+            title:
+              "Effective research techniques for gathering accurate information",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Citing sources and avoiding plagiarism",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Using reputable sources to enhance the credibility of your content",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      {
+        title: "Research Skills",
+        lectures: [
+          {
+            title:
+              "SEO and Keywords",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Citing sources and avoiding plagiarism",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Using reputable sources to enhance the credibility of your content",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      {
+        title: "SEO and Keywords",
+        lectures: [
+          {
+            title:
+              "Introduction to Search Engine Optimization (SEO)",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Identifying relevant keywords for your content",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Incorporating keywords naturally while maintaining readability",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      
+      {
+        title: "Crafting Compelling Headlines and Introductionst",
+        lectures: [
+          {
+            title:
+              "Writing attention-grabbing headlines",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Creating engaging introductions that hook the reader",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Utilizing storytelling techniques to captivate your audience",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      {
+        title: "Structuring and Organizing Content",
+        lectures: [
+          {
+            title:
+              "Organizing content with clear headings and subheadings",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Using bullet points and numbered lists for readability",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Maintaining a logical flow of ideas throughout the content",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      
+      {
+        title: " Editing and Proofreading",
+        lectures: [
+          {
+            title:
+              "Self-editing techniques for improving clarity and coherence",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Proofreading for grammar, spelling, and punctuation errors",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Seeking feedback from peers or mentors to refine your writing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      
+      {
+        title: "Writing for Different Platforms",
+        lectures: [
+          {
+            title:
+              "Adapting your writing style for blogs, social media, websites, and more",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Understanding the unique requirements of each platform",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Optimizing content length for various platforms",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      
+      {
+        title: "Content Promotion and Distribution",
+        lectures: [
+          {
+            title:
+              "Strategies for promoting your content on social media",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Utilizing email marketing and newsletters to reach your audience",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Collaborating with other content creators for cross-promotion",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      
+      {
+        title: "Writing for Different Platforms",
+        lectures: [
+          {
+            title:
+              "Adapting your writing style for blogs, social media, websites, and more",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Understanding the unique requirements of each platform",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Optimizing content length for various platforms",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      
+      {
+        title: "Content Promotion and Distribution",
+        lectures: [
+          {
+            title:
+              "Strategies for promoting your content on social media",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Utilizing email marketing and newsletters to reach your audience",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Collaborating with other content creators for cross-promotion",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      
+      {
+        title: "Freelancing and Client Management",
+        lectures: [
+          {
+            title:
+              "Finding content writing opportunities on freelancing platforms",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Crafting effective proposals and bids for projects",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Managing client expectations, revisions, and feedback",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      
+      {
+        title: "Continuous Learning and Growth",
+        lectures: [
+          {
+            title:
+              "Staying updated with industry trends and changes in content writing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Exploring new writing styles, formats, and technologies",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Attending webinars, workshops, and reading relevant books/blogs",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      
+      {
+        title: "Ethics and Copyright",
+        lectures: [
+          {
+            title:
+              "Understanding ethical considerations in content writing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Respecting copyright and intellectual property rights",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Properly attributing sources and obtaining necessary permissions",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+      
+      {
+        title: "Final Project: Content Portfolio",
+        lectures: [
+          {
+            title:
+              "Compiling a portfolio showcasing a variety of your best-written pieces",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Writing different types of content to demonstrate your versatility",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Presenting your portfolio in an organized and visually appealing manner",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+         
+        ],
+      },
+
     ],
     choose: [
       "Live Project based Training",
