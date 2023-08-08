@@ -2677,7 +2677,7 @@ const courses = [
     ],
   },
   {
-    title: "3D Animation",
+    title: "3D Animation Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl: "assets/images/course/01.jpg",
     imgAlt: "course rajibraj91 rajibraj",
@@ -2963,7 +2963,7 @@ const courses = [
     imgUrl: "assets/images/course/01.jpg",
     imgAlt: "course rajibraj91 rajibraj",
     cate: "Freelancing",
-    reviewCount: "03 reviews",
+    reviewCount: "1300 reviews",
     tagline:
       "The most impressive is collection of share me online college courses",
     overview:
@@ -3327,12 +3327,12 @@ const courses = [
     ],
   },
   {
-    title: "Content Writing",
+    title: "Content Writing Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl: "assets/images/course/01.jpg",
     imgAlt: "course rajibraj91 rajibraj",
-    cate: "Adobe XD",
-    reviewCount: "03 reviews",
+    cate: "Content Writing",
+    reviewCount: "1100+ reviews",
     tagline:
       "The most impressive is collection of share me online college courses",
     overview:
