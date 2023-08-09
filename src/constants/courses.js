@@ -2432,7 +2432,6 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
-
       },
       {
         title: "Project Exporting",
@@ -2506,8 +2505,7 @@ const courses = [
       "Very clean and organized with easy to follow tutorials, Exercises, and solutions. The training does start from the beginning with very little knowledge and gives a great overview and progresses into more complex concepts and ideas.",
     price: 1599,
     level: "Beginner",
-    modules: 2,
-    lessons: 18,
+    duration: "12-15 Hours",
     schedule: "Online Class",
     language: "English",
     certificate: "Yes",
@@ -2516,152 +2514,119 @@ const courses = [
         title: "Fundamentals of Computer ",
         lectures: [
           {
-            title:
-              "Introduction",
+            title: "Introduction",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Input / Output & Processing (CPU)",
+            title: "Input / Output & Processing (CPU)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Memory Device",
+            title: "Memory Device",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types of computers",
+            title: "Types of computers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Characteristics of Computer",
+            title: "Characteristics of Computer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "History & Generation",
+            title: "History & Generation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Applications of Computer",
+            title: "Applications of Computer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-          
-          
         ],
       },
       {
         title: "E-mail & Internet:",
         lectures: [
           {
-            title:
-              "Introduction",
+            title: "Introduction",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "E-mail Account & Its Functions",
+            title: "E-mail Account & Its Functions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Search Engine",
+            title: "Search Engine",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Surfing WebPages",
+            title: "Surfing WebPages",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Basics of Social Networking Site",
+            title: "Basics of Social Networking Site",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
         title: "Virus:",
         lectures: [
-
           {
-            title:
-              "General Introduction& Antivirus Utilities",
+            title: "General Introduction& Antivirus Utilities",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-    
 
       {
         title: "Application Software:",
         lectures: [
           {
-            title:
-              "Microsoft Word",
+            title: "Microsoft Word",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Microsoft PowerPoint",
+            title: "Microsoft PowerPoint",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Microsoft Excel",
+            title: "Microsoft Excel",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-           
         ],
       },
-    
 
       {
         title: "More : Practically Performed Activities",
         lectures: [
           {
-            title:
-              "Windows / Linux / and other Operating Systems",
+            title: "Windows / Linux / and other Operating Systems",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Burning CD/DVD",
+            title: "Burning CD/DVD",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Basics of Audio/Video editing",
+            title: "Basics of Audio/Video editing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Fundamentals of Hardware and Networking",
+            title: "Fundamentals of Hardware and Networking",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Formating of Hard disk",
+            title: "Formating of Hard disk",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Installation of Window",
+            title: "Installation of Window",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
     ],
 
-    
-        
     choose: [
       "Live Project based Training",
       "Easy to Understand Study Material",
@@ -2695,8 +2660,7 @@ const courses = [
       "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
     price: 1189,
     level: "Beginner",
-    modules: 2,
-    lessons: 18,
+    duration: "30-32 Hours",
     schedule: "Online Class",
     language: "English",
     certificate: "Yes",
@@ -2729,8 +2693,6 @@ const courses = [
               "Basic modeling techniques: creating and editing simple 3D shapes",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
       {
@@ -2742,13 +2704,11 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "UV mapping and texturing fundamentals",
+            title: "UV mapping and texturing fundamentals",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Applying materials and textures to 3D models",
+            title: " Applying materials and textures to 3D models",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2756,7 +2716,6 @@ const courses = [
               "Introduction to lighting: types of lights, shadows, and shadings",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-       
         ],
       },
       {
@@ -2778,11 +2737,9 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Animating a bouncing ball exercise",
+            title: "Animating a bouncing ball exercise",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
 
@@ -2790,13 +2747,11 @@ const courses = [
         title: "Advanced Animation Techniques",
         lectures: [
           {
-            title:
-              "Introduction to advanced animation tools and workflows",
+            title: "Introduction to advanced animation tools and workflows",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Animating characters with emotions and personality",
+            title: " Animating characters with emotions and personality",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2804,13 +2759,10 @@ const courses = [
               "Lip-sync animation: syncing character dialogue with mouth movements",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-           {
-            title:
-              "Exploring secondary motion and overlapping actions",
+          {
+            title: "Exploring secondary motion and overlapping actions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-       
-          
         ],
       },
 
@@ -2828,8 +2780,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Integrating dynamics with character animation",
+            title: "Integrating dynamics with character animation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2837,8 +2788,6 @@ const courses = [
               "Basics of rendering: setting up cameras, resolutions, and output formats",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-        
         ],
       },
 
@@ -2856,8 +2805,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Rendering final animations and compositing",
+            title: "Rendering final animations and compositing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2865,7 +2813,6 @@ const courses = [
               "Creating a portfolio: showcasing the best work from the course",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
 
@@ -2873,36 +2820,29 @@ const courses = [
         title: "Texturing with Max  ",
         lectures: [
           {
-            title:
-              "Using the material editor & the material explorer",
+            title: "Using the material editor & the material explorer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "creating & applying standard materials",
+            title: "creating & applying standard materials",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "adding material  details with maps",
+            title: "adding material  details with maps",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              ", creating compound materials &  material modifiers",
+            title: ", creating compound materials &  material modifiers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "unwrapping UVs & mapping texture",
+            title: "unwrapping UVs & mapping texture",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "using atmospheric & render effects etc",
+            title: "using atmospheric & render effects etc",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
 
@@ -2910,13 +2850,11 @@ const courses = [
         title: "Assessment and Evaluation:",
         lectures: [
           {
-            title:
-           " Class participation and engagement",
+            title: " Class participation and engagement",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Regular assignments and exercises to practice each topic",
+            title: "Regular assignments and exercises to practice each topic",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2925,13 +2863,11 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Midterm project: individual character animation",
+            title: " Midterm project: individual character animation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Final project: team-based animated scene",
+            title: "Final project: team-based animated scene",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -2939,7 +2875,6 @@ const courses = [
               "Portfolio assessment based on the quality of work presented",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
     ],
@@ -2976,36 +2911,26 @@ const courses = [
       "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
     price: 1499,
     level: "Beginner",
-    modules: 2,
-    lessons: 18,
+    duration: "30-32 Hours",
     schedule: "Online Class",
     language: "English",
     certificate: "Yes",
     syllabus: [
-     
-     
       {
         title: "Introduction to Freelancing",
         lectures: [
           {
-            title:
-              "Understanding the freelancing landscape",
+            title: "Understanding the freelancing landscape",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Pros and cons of freelancing",
+            title: "Pros and cons of freelancing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Setting freelancing goals and expectations",
+            title: "Setting freelancing goals and expectations",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-        
-          
-         
         ],
       },
 
@@ -3013,8 +2938,7 @@ const courses = [
         title: "Setting freelancing goals and expectations",
         lectures: [
           {
-            title:
-              "Self-assessment of digital marketing skills",
+            title: "Self-assessment of digital marketing skills",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3023,55 +2947,39 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Gap analysis and skill improvement plan",
+            title: "Gap analysis and skill improvement plan",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-        
-          
-         
         ],
       },
-
 
       {
         title: "Building a Strong Foundation",
         lectures: [
           {
-            title:
-              "Digital marketing fundamentals and terminology",
+            title: "Digital marketing fundamentals and terminology",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Principles of effective online communication",
+            title: "Principles of effective online communication",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding target audiences and buyer personas",
+            title: "Understanding target audiences and buyer personas",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-        
-          
-         
         ],
       },
-
 
       {
         title: "Creating Your Freelancer Brand",
         lectures: [
           {
-            title:
-              "Personal branding and online presence",
+            title: "Personal branding and online presence",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Designing a portfolio website showcasing your work",
+            title: "Designing a portfolio website showcasing your work",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3079,33 +2987,23 @@ const courses = [
               "Crafting an appealing freelancer profile on platforms like Upwork, Freelancer, etc.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-        
-          
-         
         ],
       },
       {
         title: "Marketing and Client Acquisition",
         lectures: [
           {
-            title:
-              "Developing a client acquisition strategy",
+            title: "Developing a client acquisition strategy",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Effective cold pitching and proposal writing",
+            title: "Effective cold pitching and proposal writing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Leveraging social media for self-promotion",
+            title: "Leveraging social media for self-promotion",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-          
-         
         ],
       },
 
@@ -3113,101 +3011,79 @@ const courses = [
         title: "Become a Digital Marketing Professional: Freelance Career",
         lectures: [
           {
-            title:
-              "Market research",
+            title: "Market research",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Content marketing",
+            title: "Content marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "SEOs",
+            title: "SEOs",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Advertisements",
+            title: "Advertisements",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-         
         ],
       },
 
-        {
+      {
         title: " Client Management and Communication",
         lectures: [
           {
-            title:
-              "Setting client expectations and project scope",
+            title: "Setting client expectations and project scope",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Effective communication and client updates",
+            title: "Effective communication and client updates",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Handling feedback and revisions professionally",
+            title: "Handling feedback and revisions professionally",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-        
-          
         ],
       },
 
-        {
+      {
         title: "Pricing and Negotiation ",
         lectures: [
           {
-            title:
-              "Understanding pricing models (hourly, fixed, value-based)",
+            title: "Understanding pricing models (hourly, fixed, value-based)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Strategies for pricing your services competitively",
+            title: "Strategies for pricing your services competitively",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Negotiation techniques for securing fair compensation",
+            title: "Negotiation techniques for securing fair compensation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
 
-        {
+      {
         title: "Time Management and Productivity",
         lectures: [
           {
-            title:
-              "Effective time tracking and task management tools",
+            title: "Effective time tracking and task management tools",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating a daily/weekly work schedule",
+            title: "Creating a daily/weekly work schedule",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Balancing multiple projects and deadlines",
+            title: "Balancing multiple projects and deadlines",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-        
         ],
       },
 
-        {
+      {
         title: "Advanced Digital Marketing Techniques",
         lectures: [
           {
@@ -3216,55 +3092,42 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Staying updated with industry trends and algorithm changes",
+            title: "Staying updated with industry trends and algorithm changes",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-          
-         
         ],
       },
       {
         title: "Legal and Financial Considerations",
         lectures: [
           {
-            title:
-              "Creating freelancing contracts and agreements",
+            title: "Creating freelancing contracts and agreements",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Managing taxes and finances as a freelancer",
+            title: "Managing taxes and finances as a freelancer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Protecting your intellectual property rights",
+            title: "Protecting your intellectual property rights",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-          
-         
         ],
       },
       {
         title: "Continuous Learning and Growth",
         lectures: [
           {
-            title:
-              "Attending webinars, workshops, and industry events",
+            title: "Attending webinars, workshops, and industry events",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Expanding your skill set based on market demand",
+            title: "Expanding your skill set based on market demand",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
           {
-            title:
-              "Upskilling to offer more specialized services",
+            title: "Upskilling to offer more specialized services",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -3274,8 +3137,7 @@ const courses = [
         title: " Managing Stress and Self-Care",
         lectures: [
           {
-            title:
-              "Preventing burnout and maintaining work-life balance",
+            title: "Preventing burnout and maintaining work-life balance",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3283,8 +3145,6 @@ const courses = [
               "Strategies for managing stress and maintaining mental well-being",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-        
         ],
       },
 
@@ -3297,20 +3157,16 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Setting financial goals and growth milestones",
+            title: "Setting financial goals and growth milestones",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
           {
-            title:
-              "Setting financial goals and growth milestones",
+            title: "Setting financial goals and growth milestones",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
-   
     ],
     choose: [
       "Live Project based Training",
@@ -3345,20 +3201,16 @@ const courses = [
       "I'm an Afro-Latina digital artist originally from Long Island, NY. I love to paint design and photo manpulate in Adobe Photoshop while helping others learn too. Follow me on Instagram or tweet me",
     price: 1199,
     level: "Beginner",
-    modules: 2,
-    lessons: 18,
+    duration: "30-32 Hours",
     schedule: "Online Class",
     language: "English",
     certificate: "Yes",
     syllabus: [
-      
-      
       {
         title: "Introduction to Content Writing",
         lectures: [
           {
-            title:
-              "Understanding the role of a content writer",
+            title: "Understanding the role of a content writer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3367,15 +3219,12 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Defining your goals and objectives as a content writer",
+            title: "Defining your goals and objectives as a content writer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: "Grammar and Writing Fundamentals",
         lectures: [
@@ -3385,26 +3234,21 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Developing a strong vocabulary and writing style",
+            title: "Developing a strong vocabulary and writing style",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Learning to write clear and concise content",
+            title: "Learning to write clear and concise content",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: " Audience and Purpose",
         lectures: [
           {
-            title:
-              "Understanding your target audience and their preferences",
+            title: "Understanding your target audience and their preferences",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3413,15 +3257,12 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Tailoring your writing style and tone to your audience",
+            title: "Tailoring your writing style and tone to your audience",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: "Research Skills",
         lectures: [
@@ -3431,8 +3272,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Citing sources and avoiding plagiarism",
+            title: "Citing sources and avoiding plagiarism",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3440,21 +3280,17 @@ const courses = [
               "Using reputable sources to enhance the credibility of your content",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
       {
         title: "Research Skills",
         lectures: [
           {
-            title:
-              "SEO and Keywords",
+            title: "SEO and Keywords",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Citing sources and avoiding plagiarism",
+            title: "Citing sources and avoiding plagiarism",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3462,21 +3298,17 @@ const courses = [
               "Using reputable sources to enhance the credibility of your content",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
       {
         title: "SEO and Keywords",
         lectures: [
           {
-            title:
-              "Introduction to Search Engine Optimization (SEO)",
+            title: "Introduction to Search Engine Optimization (SEO)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Identifying relevant keywords for your content",
+            title: "Identifying relevant keywords for your content",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3484,22 +3316,18 @@ const courses = [
               "Incorporating keywords naturally while maintaining readability",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: "Crafting Compelling Headlines and Introductionst",
         lectures: [
           {
-            title:
-              "Writing attention-grabbing headlines",
+            title: "Writing attention-grabbing headlines",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating engaging introductions that hook the reader",
+            title: "Creating engaging introductions that hook the reader",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3507,33 +3335,26 @@ const courses = [
               "Utilizing storytelling techniques to captivate your audience",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
       {
         title: "Structuring and Organizing Content",
         lectures: [
           {
-            title:
-              "Organizing content with clear headings and subheadings",
+            title: "Organizing content with clear headings and subheadings",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Using bullet points and numbered lists for readability",
+            title: "Using bullet points and numbered lists for readability",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Maintaining a logical flow of ideas throughout the content",
+            title: "Maintaining a logical flow of ideas throughout the content",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: " Editing and Proofreading",
         lectures: [
@@ -3543,8 +3364,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Proofreading for grammar, spelling, and punctuation errors",
+            title: "Proofreading for grammar, spelling, and punctuation errors",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3552,11 +3372,9 @@ const courses = [
               "Seeking feedback from peers or mentors to refine your writing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: "Writing for Different Platforms",
         lectures: [
@@ -3566,26 +3384,21 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding the unique requirements of each platform",
+            title: "Understanding the unique requirements of each platform",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Optimizing content length for various platforms",
+            title: "Optimizing content length for various platforms",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: "Content Promotion and Distribution",
         lectures: [
           {
-            title:
-              "Strategies for promoting your content on social media",
+            title: "Strategies for promoting your content on social media",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3598,11 +3411,9 @@ const courses = [
               "Collaborating with other content creators for cross-promotion",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: "Writing for Different Platforms",
         lectures: [
@@ -3612,26 +3423,21 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Understanding the unique requirements of each platform",
+            title: "Understanding the unique requirements of each platform",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Optimizing content length for various platforms",
+            title: "Optimizing content length for various platforms",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: "Content Promotion and Distribution",
         lectures: [
           {
-            title:
-              "Strategies for promoting your content on social media",
+            title: "Strategies for promoting your content on social media",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3644,11 +3450,9 @@ const courses = [
               "Collaborating with other content creators for cross-promotion",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: "Freelancing and Client Management",
         lectures: [
@@ -3658,20 +3462,16 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Crafting effective proposals and bids for projects",
+            title: "Crafting effective proposals and bids for projects",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Managing client expectations, revisions, and feedback",
+            title: "Managing client expectations, revisions, and feedback",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: "Continuous Learning and Growth",
         lectures: [
@@ -3681,8 +3481,7 @@ const courses = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Exploring new writing styles, formats, and technologies",
+            title: "Exploring new writing styles, formats, and technologies",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3690,22 +3489,18 @@ const courses = [
               "Attending webinars, workshops, and reading relevant books/blogs",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: "Ethics and Copyright",
         lectures: [
           {
-            title:
-              "Understanding ethical considerations in content writing",
+            title: "Understanding ethical considerations in content writing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Respecting copyright and intellectual property rights",
+            title: "Respecting copyright and intellectual property rights",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3713,11 +3508,9 @@ const courses = [
               "Properly attributing sources and obtaining necessary permissions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-      
+
       {
         title: "Final Project: Content Portfolio",
         lectures: [
@@ -3736,11 +3529,8 @@ const courses = [
               "Presenting your portfolio in an organized and visually appealing manner",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-
     ],
     choose: [
       "Live Project based Training",
