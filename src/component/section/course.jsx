@@ -3,8 +3,8 @@ import Rating from "../sidebar/rating";
 import courses from "../../constants/courses";
 import CourseCard from "./CourseCard/CourseCard";
 
-const subTitle = "Featured Courses";
-const title = "Pick A Course To Get Started";
+const subTitle = "Pick A Course To Get Started";
+const title = "Pick Your Professional Course";
 
 const Course = () => {
   return (

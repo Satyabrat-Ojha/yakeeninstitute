@@ -2,7 +2,7 @@
 import CountUp from 'react-countup';
 
 const subTitle = "START TO SUCCESS";
-const title = "Achieve Your Goals With Edukon";
+const title = "Achieve Your Goals With Yakeen The Learning Institute ";
 
 
 const achievementList = [
@@ -19,8 +19,8 @@ const achievementList = [
         desc: 'Qualified Teachers And Language Experts',
     },
     {
-        count: '2300',
-        desc: 'Innovative Foreign Language Courses',
+        count: '1000',
+        desc: 'Rating For All Courses',
     },
 ]
 

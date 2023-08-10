@@ -31,7 +31,7 @@ const achieveList = [
         title: 'Start Teaching Today',
         desc: 'Seamlessly engage technically sound coaborative reintermed goal oriented content rather than ethica',
         btnText: 'Become A Instructor',
-        siteLink: '#',
+        siteLink: '/instructor ',
     },
     {
         imgUrl: 'assets/images/achive/02.png',
@@ -39,7 +39,7 @@ const achieveList = [
         title: 'If You Join Our Course',
         desc: 'Seamlessly engage technically sound coaborative reintermed goal oriented content rather than ethica',
         btnText: 'Register For Free',
-        siteLink: '#',
+        siteLink: '/login',
     },
 ]
 

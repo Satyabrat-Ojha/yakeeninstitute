@@ -2,7 +2,7 @@
 import { Link } from "react-router-dom";
 
 
-const title = "Build Your Project Management Skills Online Anytime";
+const title = "Why Students Choose Us to Groom their Career";
 const btnText = "Sign Up Now";
 
 const skillList = [
@@ -10,25 +10,25 @@ const skillList = [
         imgUrl: 'assets/images/skill/icon/01.jpg',
         imgAlt: 'skill rajibraj91 rajibraj',
         title: 'Skilled Instructors',
-        desc: 'You pick the schedule.',
+        desc: 'Team of 470+ Experienced & Certified Instructors.',
     },
     {
         imgUrl: 'assets/images/skill/icon/02.jpg',
         imgAlt: 'skill rajibraj91 rajibraj',
         title: 'Get Certificate',
-        desc: 'You pick the schedule.',
+        desc: 'Industry Recognised Verifiable Certificate.',
     },
     {
         imgUrl: 'assets/images/skill/icon/03.jpg',
         imgAlt: 'skill rajibraj91 rajibraj',
-        title: 'Online Classes',
-        desc: 'You pick the schedule.',
+        title: 'placement Include',
+        desc: '250+ Collaboration with Universities & Companies and Student Placed.',
     },
     {
         imgUrl: 'assets/images/skill/icon/04.jpg',
         imgAlt: 'skill rajibraj91 rajibraj',
         title: 'Educator Helps',
-        desc: 'You pick the schedule.',
+        desc: 'More than 68806+ Students Trained with Practically. ',
     },
 ]
 

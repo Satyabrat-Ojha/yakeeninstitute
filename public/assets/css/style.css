@@ -1454,7 +1454,7 @@ button {
 .course-item.style-3 .course-inner .course-thumb::after {
   left: 0;
   bottom: 0;
-  background-image: linear-gradient(to bottom, #05193700, #05193747, #05193794, #051937c4, #051937db);
+  background-: linear-gradient(to bottom, #05193700, #05193747, #05193794, #051937c4, #051937db);
 }
 .course-item.style-3 .course-inner .course-content {
   padding-bottom: 40px;
