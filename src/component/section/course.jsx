@@ -20,6 +20,11 @@ const Course = () => {
               <CourseCard course={course} key={index} />
             ))}
           </div>
+          <div className="text-center mt-5">
+            <Link to="/course" className="lab-btn">
+              <span>Browse All Courses</span>
+            </Link>
+          </div>
         </div>
       </div>
     </div>
