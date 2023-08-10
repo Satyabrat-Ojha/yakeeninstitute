@@ -38,7 +38,7 @@ const CourseCard = ({ course }) => {
                   (total, course) => total + course.lectures.length,
                   0
                 )}{" "}
-                videos
+                Videos
               </li>
               <li>{course.duration}</li>
               <li>{course.syllabus.length} Modules</li>
