@@ -2,7 +2,8 @@ const courses = [
   {
     title: "Graphic Design Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-    imgUrl: "assets/images/course/01.jpg",
+    imgUrl:
+      "https://img.freepik.com/premium-photo/computer-screen-with-colorful-paint-it-generative-ai_97167-1066.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
     imgAlt: "course rajibraj91 rajibraj",
     cate: "Mutlimedia & Animation",
     reviewCount: "1000+ reviews",
@@ -416,7 +417,8 @@ const courses = [
   {
     title: "Digital Marketing Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-    imgUrl: "assets/images/course/01.jpg",
+    imgUrl:
+      "https://img.freepik.com/free-photo/young-team-leader-big-corporation-briefing-coworkers-pointing-graph-meeting-corporate-staff_482257-4169.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
     imgAlt: "course rajibraj91 rajibraj",
     cate: "Digital Marketing",
     reviewCount: "800+ reviews",
@@ -1690,7 +1692,8 @@ const courses = [
   {
     title: "Web Development Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-    imgUrl: "assets/images/course/01.jpg",
+    imgUrl:
+      "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
     imgAlt: "course rajibraj91 rajibraj",
     cate: "Web Development",
     reviewCount: "1500+ reviews",
@@ -2027,7 +2030,8 @@ const courses = [
   {
     title: "Video Editing Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-    imgUrl: "assets/images/course/01.jpg",
+    imgUrl:
+      "https://img.freepik.com/premium-photo/video-editing_313218-10.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
     imgAlt: "course rajibraj91 rajibraj",
     cate: "Video Editing",
     reviewCount: "1200+ reviews",
@@ -2489,7 +2493,8 @@ const courses = [
   {
     title: "Computer Knowledge Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-    imgUrl: "assets/images/course/01.jpg",
+    imgUrl:
+      "https://img.freepik.com/free-photo/gamification-creative-collage-concept_23-2149377955.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
     imgAlt: "course rajibraj91 rajibraj",
     cate: "Computer Knowledge",
     reviewCount: "1700+ reviews",
@@ -2644,7 +2649,8 @@ const courses = [
   {
     title: "3D Animation Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-    imgUrl: "assets/images/course/01.jpg",
+    imgUrl:
+      "https://img.freepik.com/premium-photo/3d-illustration-corporate-group-discussing-increase-business-profits_709268-4.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
     imgAlt: "course rajibraj91 rajibraj",
     cate: "3D Annimation ",
     reviewCount: "1000+ reviews",
@@ -2895,7 +2901,8 @@ const courses = [
   {
     title: "Freelancing Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-    imgUrl: "assets/images/course/01.jpg",
+    imgUrl:
+      "https://img.freepik.com/free-photo/young-millennial-student-searches-information-homework-writes-down-necessary-content-textbook-prepare-project-it-topic_273609-38712.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=sph",
     imgAlt: "course rajibraj91 rajibraj",
     cate: "Freelancing",
     reviewCount: "1300 reviews",
@@ -3185,7 +3192,8 @@ const courses = [
   {
     title: "Content Writing Tranning",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-    imgUrl: "assets/images/course/01.jpg",
+    imgUrl:
+      "https://img.freepik.com/premium-photo/businessman-working-laptop-with-financial-documents-top-view_394555-286.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
     imgAlt: "course rajibraj91 rajibraj",
     cate: "Content Writing",
     reviewCount: "1100+ reviews",
