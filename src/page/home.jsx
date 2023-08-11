@@ -10,6 +10,7 @@ import Course from "../component/section/course";
 import Instructor from "../component/section/instructor";
 import Sponsor from "../component/section/sponsor";
 import Student from "../component/section/student";
+import Assistance from "../component/section/Assistance/Assistance";
 
 const Home = () => {
   return (
@@ -24,6 +25,7 @@ const Home = () => {
       <Student />
       <Blog />
       <Achievement />
+      <Assistance />
       <Footer />
     </Fragment>
   );

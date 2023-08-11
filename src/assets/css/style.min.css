@@ -5668,7 +5668,7 @@ button {
 .banner-section {
   background-image: url(../images/bg-img/01.jpg);
   background-size: cover;
-  padding-top: 10rem;
+  padding-top: 7rem;
 }
 @media (min-width: 576px) {
   .banner-section {
