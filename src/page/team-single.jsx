@@ -40,6 +40,11 @@ const memSocialList = [
         className: 'twitter',
         siteLink: '#',
     },
+     {
+        iconName: 'icofont-facebook',
+        className: 'facebook',
+        siteLink: '#',
+    },
     {
         iconName: 'icofont-instagram',
         className: 'instagram',
@@ -172,6 +177,15 @@ const TeamSingle = () => {
                     </div>
                 </div>
             </section>
+
+
+
+
+
+
+
+
+            
             <Footer />
         </Fragment>
     );
