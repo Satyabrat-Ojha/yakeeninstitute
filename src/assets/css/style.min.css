@@ -5672,7 +5672,7 @@ button {
 }
 @media (min-width: 576px) {
   .banner-section {
-    padding-top: 215px;
+    padding-top: 130px;
   }
 }
 .banner-section .all-shapes {
@@ -5684,7 +5684,7 @@ button {
   border-radius: 100%;
   border: 1px dashed #ff70d2;
   border-width: 1.75px;
-  top: 25%;
+  top: 15%;
   right: 0%;
   animation: rotate 110s infinite linear;
 }

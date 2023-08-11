@@ -62,8 +62,8 @@ const Banner = () => {
     <section className="banner-section">
       <div className="container">
         <div className="section-wrapper">
-          <div className="row align-items-center">
-            <div className="col-xxl-5 col-xl-6 col-lg-10">
+          <div className="row">
+            <div className="col-xxl-5 col-xl-6 col-lg-10 pt-5">
               <div className="banner-content">
                 <h6 className="subtitle text-uppercase fw-medium">
                   {subTitle}
