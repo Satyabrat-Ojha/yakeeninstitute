@@ -1,0 +1,68 @@
+const instructorList = [
+  {
+    imgUrl: "assets/images/instructor/01.jpg",
+    imgAlt: "",
+    name: "Roshan Gupta",
+    degi: "Co-Founder, Grapic Designer",
+    courseCount: "08 courses",
+    studentAnroll: "30 students",
+  },
+  {
+    imgUrl: "assets/images/instructor/02.jpg",
+    imgAlt: "",
+    name: "Priyanshu Kumar",
+    degi: "Web Development Trainer",
+    courseCount: "08 courses",
+    studentAnroll: "30 students",
+  },
+  {
+    imgUrl: "assets/images/instructor/03.jpg",
+    imgAlt: "",
+    name: "Aman Singh",
+    degi: "Flutter Expert Trainer",
+    courseCount: "08 courses",
+    studentAnroll: "30 students",
+  },
+  {
+    imgUrl: "assets/images/instructor/04.jpg",
+    imgAlt: "",
+    name: "Sidhu Singh",
+    degi: "Education Department",
+    courseCount: "08 courses",
+    studentAnroll: "30 students",
+  },
+  {
+    imgUrl: "assets/images/instructor/05.jpg",
+    imgAlt: "",
+    name: "Amit Tiwari",
+    degi: "Basic Computer of Application",
+    courseCount: "08 courses",
+    studentAnroll: "30 students",
+  },
+  {
+    imgUrl: "assets/images/instructor/06.jpg",
+    imgAlt: "",
+    name: "Akhalesh",
+    degi: "Digital Marketing Trainer",
+    courseCount: "08 courses",
+    studentAnroll: "30 students",
+  },
+  {
+    imgUrl: "assets/images/instructor/07.jpg",
+    imgAlt: "",
+    name: "Ankit",
+    degi: "Advance Excel",
+    courseCount: "08 courses",
+    studentAnroll: "30 students",
+  },
+  {
+    imgUrl: "assets/images/instructor/08.jpg",
+    imgAlt: "",
+    name: "Rohit Singh",
+    degi: "SEO Expert",
+    courseCount: "08 courses",
+    studentAnroll: "30 students",
+  },
+];
+
+export default instructorList;

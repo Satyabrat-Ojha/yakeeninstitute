@@ -21,7 +21,7 @@ import Home from "./page/home";
 // import HomeFive from "./page/home-5";
 // import HomeSix from "./page/home-6";
 // import HomeSeven from "./page/home-7";
-import InstructorPage from "./page/instructor";
+// import InstructorPage from "./page/instructor";
 import LoginPage from "./page/login";
 import SearchNone from "./page/search-none";
 import SearchPage from "./page/search-page";
@@ -51,9 +51,8 @@ function App() {
         <Route path="blog-3" element={<BlogPageThree />} />
         <Route path="blog-single" element={<BlogSingle />} />
         <Route path="about" element={<AboutPage />} />
-        <Route path="team" element={<TeamPage />} />
-        <Route path="team-single" element={<TeamSingle />} />
-        <Route path="instructor" element={<InstructorPage />} />
+        <Route path="instructor" element={<TeamPage />} />
+        <Route path="instructor-single" element={<TeamSingle />} />
         <Route path="shop" element={<ShopPage />} />
         <Route path="shop-single" element={<ShopDetails />} />
         <Route path="cart-page" element={<CartPage />} />
