@@ -45,12 +45,12 @@ const Instructor = () => {
               </div>
             ))}
           </div>
-          <div className="text-center footer-btn">
+          {/* <div className="text-center footer-btn">
             <p>
               Want to help people learn, grow and achieve more in life?
               <Link to="/team">Become an instructor</Link>
             </p>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
