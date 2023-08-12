@@ -11,17 +11,26 @@ const studentList = [
     {
         imgUrl: 'assets/images/feedback/student/01.jpg',
         imgAlt: 'student rajibraj91 rajibraj',
-        name: 'Oliver Beddows',
-        degi: 'UX designer',
-        desc: 'Rapidiously buildcollaboration anden deas sharing viaing and bleedng edgeing nterfaces fnergstcally plagiarize teams anbuilding paradgms whereas goingi forward process and monetze',
+        name: 'Kajal',
+        degi: 'Graphic Designer',
+        desc: 'Yakeen The Learning Insitute have made efforts ensuring maximum nurder of students placement. They started grooming us for placement in the first few months',
     },
-    {
+
+     {
         imgUrl: 'assets/images/feedback/student/02.jpg',
         imgAlt: 'student rajibraj91 rajibraj',
-        name: 'Madley Pondor',
-        degi: 'UX designer',
-        desc: 'Rapidiously buildcollaboration anden deas sharing viaing and bleedng edgeing nterfaces fnergstcally plagiarize teams anbuilding paradgms whereas goingi forward process and monetze',
+        name: 'Sonali Verma',
+        degi: 'Web Developer',
+        desc: 'The study environment is good and trainers are full of knowledge. I personally recommend Yakeen The Learning Institute to all the students who looking for quality education',
     },
+    {
+        imgUrl: 'assets/images/feedback/student/03.jpg',
+        imgAlt: 'student rajibraj91 rajibraj',
+        name: 'Vivek Kumar',
+        degi: 'Excel Expert',
+        desc: 'I have completed my Certification from Yakeen The Learning Institute, Complete project based training really help me to sharpen my skills',
+    },
+   
 ]
 
 

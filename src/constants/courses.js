@@ -426,8 +426,8 @@ const courses = [
       "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
       "Our Digital Marketing Training Program has been designed by our Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Digital Marketing. With our Digital Marketing Training, you will develop new skills and improve your understanding of this challenging yet lucrative Digital Marketing Course.",
-    tutor: "Abhishek Kumar",
-    tutorImg: "assets/images/course/author/01.jpg",
+    tutor: "Akhalesh",
+    tutorImg: "assets/images/course/author/02.jpg",
     tutorImgAlt: "course author rajibraj91 rajibraj",
     tutorHeadline: "Assistant Teacher",
     tutorDesc:
@@ -1701,8 +1701,8 @@ const courses = [
       "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
       "Our Web Development Training Program has been designed by our Web Developer Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Web Development Programming. With our Web Development Training, you will develop new skills and improve your understanding of this challenging yet lucrative Web Development Program.",
-    tutor: " Dharmendra Singh",
-    tutorImg: "assets/images/course/author/01.jpg",
+    tutor: " Priyanshu Kumar",
+    tutorImg: "assets/images/course/author/03.jpg",
     tutorImgAlt: "course author rajibraj91 rajibraj",
     tutorHeadline: "Assistant Teacher",
     tutorDesc:
@@ -2039,8 +2039,8 @@ const courses = [
       "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
       "Our Video Editing Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Video Editing. With our Video Editing Training, you will develop new skills and improve your understanding of this challenging yet lucrative Video Editing Program.",
-    tutor: "Rajib Raj",
-    tutorImg: "assets/images/course/author/01.jpg",
+    tutor: "Aman Singh",
+    tutorImg: "assets/images/course/author/04.jpg",
     tutorImgAlt: "course author rajibraj91 rajibraj",
     tutorHeadline: "Assistant Teacher",
     tutorDesc:
@@ -2502,8 +2502,8 @@ const courses = [
       "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
       "Our Graphic Design Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Graphic Designing. With our Graphic Design Training, you will develop new skills and improve your understanding of this challenging yet lucrative Graphic Design Program.",
-    tutor: "Rajib Raj",
-    tutorImg: "assets/images/course/author/01.jpg",
+    tutor: "Amit Tiwari",
+    tutorImg: "assets/images/course/author/05.jpg",
     tutorImgAlt: "course author rajibraj91 rajibraj",
     tutorHeadline: "Assistant Teacher",
     tutorDesc:
@@ -2658,7 +2658,7 @@ const courses = [
       "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.",
     overview:
       "Our Graphic Design Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Graphic Designing. With our Graphic Design Training, you will develop new skills and improve your understanding of this challenging yet lucrative Graphic Design Program.",
-    tutor: "Rajib Raj",
+    tutor: "Rohit Singh ",
     tutorImg: "assets/images/course/author/01.jpg",
     tutorImgAlt: "course author rajibraj91 rajibraj",
     tutorHeadline: "Assistant Teacher",
@@ -2910,8 +2910,8 @@ const courses = [
       "The most impressive is collection of share me online college courses",
     overview:
       "Our Graphic Design Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Graphic Designing. With our Graphic Design Training, you will develop new skills and improve your understanding of this challenging yet lucrative Graphic Design Program.",
-    tutor: "Rajib Raj",
-    tutorImg: "assets/images/course/author/01.jpg",
+    tutor: "Sidhu Singh",
+    tutorImg: "assets/images/course/author/07.jpg",
     tutorImgAlt: "course author rajibraj91 rajibraj",
     tutorHeadline: "Assistant Teacher",
     tutorDesc:
@@ -3201,8 +3201,8 @@ const courses = [
       "The most impressive is collection of share me online college courses",
     overview:
       "Remember, practice is key to improving as a content writer. Along with following this curriculum, actively write and seek feedback to refine your skills. As you gain experience and build your portfolio, you'll be better equipped to tackle diverse content writing projects and establish yourself as a proficient content creator.",
-    tutor: "Rajib Raj",
-    tutorImg: "assets/images/course/author/01.jpg",
+    tutor: "Ankit ",
+    tutorImg: "assets/images/course/author/08.jpg",
     tutorImgAlt: "course author rajibraj91 rajibraj",
     tutorHeadline: "Assistant Teacher",
     tutorDesc:

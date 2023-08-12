@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 
 const subTitle = "FORM OUR BLOG POSTS";
-const title = "More Articles From Resource Library";
+const title = "Read Our Latest Tech News";
 
 
 const blogList = [

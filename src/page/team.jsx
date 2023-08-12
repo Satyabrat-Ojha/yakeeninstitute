@@ -6,6 +6,73 @@ import PageHeader from "../component/layout/pageheader";
 import Rating from "../component/sidebar/rating";
 
 const instructorList = [
+<<<<<<< HEAD
+    {
+        imgUrl: 'assets/images/instructor/01.jpg',
+        imgAlt: 'instructor rajibraj91 rajibraj',
+        name: 'Roshan Gupta',
+        degi: 'Master of Education Degree',
+        courseCount: 'Graphi Design Trainer',
+        studentAnroll: '30 students',
+    },
+    {
+        imgUrl: 'assets/images/instructor/02.jpg',
+        imgAlt: 'instructor rajibraj91 rajibraj',
+        name: 'Priyanshu Kumar',
+        degi: 'Master of Education Degree',
+        courseCount: 'Web Development Trainer',
+        studentAnroll: '30 students',
+    },
+    {
+        imgUrl: 'assets/images/instructor/03.jpg',
+        imgAlt: 'instructor rajibraj91 rajibraj',
+        name: 'Aman Singh',
+        degi: 'Master of Education Degree',
+        courseCount: 'Flutter Expert Trainer',
+        studentAnroll: '30 students',
+    },
+    {
+        imgUrl: 'assets/images/instructor/04.jpg',
+        imgAlt: 'instructor rajibraj91 rajibraj',
+        name: 'Sidhu Singh',
+        degi: 'Master of Education Degree',
+        courseCount: 'Education Department',
+        studentAnroll: '30 students',
+    },
+    {
+        imgUrl: 'assets/images/instructor/05.jpg',
+        imgAlt: 'instructor rajibraj91 rajibraj',
+        name: 'Amit Tiwari',
+        degi: 'Master of Education Degree',
+        courseCount: 'Basic Computer of Application',
+        studentAnroll: '30 students',
+    },
+    {
+        imgUrl: 'assets/images/instructor/06.jpg',
+        imgAlt: 'instructor rajibraj91 rajibraj',
+        name: 'Akhalesh ',
+        degi: 'Master of Education Degree',
+        courseCount: 'Digital Marketing Trainer',
+        studentAnroll: '30 students',
+    },
+    {
+        imgUrl: 'assets/images/instructor/07.jpg',
+        imgAlt: 'instructor rajibraj91 rajibraj',
+        name: 'Ankit ',
+        degi: 'Master of Education Degree',
+        courseCount: 'Advance Excel',
+        studentAnroll: '30 students',
+    },
+    {
+        imgUrl: 'assets/images/instructor/08.jpg',
+        imgAlt: 'instructor rajibraj91 rajibraj',
+        name: 'Rohit Singh ',
+        degi: 'Master of Education Degree',
+        courseCount: 'SEO Expert',
+        studentAnroll: '30 students',
+    },
+]
+=======
   {
     imgUrl: "assets/images/instructor/01.jpg",
     imgAlt: "instructor rajibraj91 rajibraj",
@@ -71,6 +138,7 @@ const instructorList = [
     studentAnroll: "30 students",
   },
 ];
+>>>>>>> 469905c883fb68aa8574301caa9c1fa417a147d7
 
 const achieveList = [
   {

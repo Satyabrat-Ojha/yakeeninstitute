@@ -5,7 +5,112 @@ import Header from "../component/layout/header";
 import PageHeader from "../component/layout/pageheader";
 import Progress from "../component/sidebar/progress";
 import Rating from "../component/sidebar/rating";
+<<<<<<< HEAD
+
+const name = "Roshan Gupta";
+const degi = "Co-Founder Yakeen The Learning Institute ";
+const desc = "Infrastruct ntrinsicl grow optimal talers rather than efectve nformaon Collabora optimize partnersh and frictionles deliverables";
+const subTitle = "Personal Statement";
+const infoDetails = "Enthusa expedte clent focused growth strateg wherea clent centered infrastruct ntrinsicl grow optimal talers rather than efectve nformaon Collabora optimize partnersh and frictionles deliverables infrastructs ntrinsicl grow optimal talers rather efectve";
+const skillTitle = "Personal Language Skill";
+const awardTitle = "Recognitions Award";
+
+const memInfoLisst = [
+    {
+        leftText: 'Adress',
+        rightText: 'C-73, Shaliamar Garden, Ghaziabad',
+    },
+    {
+        leftText: 'Email',
+        rightText: 'emileelogan@gamil.com',
+    },
+    {
+        leftText: 'Phone',
+        rightText: '+021 548 736 982 ,01236985',
+    },
+    {
+        leftText: 'website',
+        rightText: 'www.yakeenthelearninginstitute.com',
+    },
+]
+
+const memSocialList = [
+    {
+        iconName: 'icofont-twitter',
+        className: 'twitter',
+        siteLink: '#',
+    },
+     {
+        iconName: 'icofont-facebook',
+        className: 'facebook',
+        siteLink: '#',
+    },
+    {
+        iconName: 'icofont-instagram',
+        className: 'instagram',
+        siteLink: '#',
+    },
+    {
+        iconName: 'icofont-basketball',
+        className: 'basketball',
+        siteLink: '#',
+    },
+    {
+        iconName: 'icofont-vimeo',
+        className: 'vimeo',
+        siteLink: '#',
+    },
+    {
+        iconName: 'icofont-behance',
+        className: 'behance',
+        siteLink: '#',
+    },
+]
+
+const skillList = [
+    {
+        percentage: '80',
+        text: 'English'
+    },
+    {
+        percentage: '70',
+        text: 'Hindi'
+    },
+    {
+        percentage: '90',
+        text: 'Bangla'
+    },
+    {
+        percentage: '50',
+        text: 'Arabic'
+    },
+]
+
+const awardList = [
+    {
+        imgUrl: 'assets/images/instructor/single/icon/01.png',
+        imgAlt: 'instructor',
+        text: 'Award 2018',
+    },
+    {
+        imgUrl: 'assets/images/instructor/single/icon/02.png',
+        imgAlt: 'instructor',
+        text: 'Award 2019',
+    },
+    {
+        imgUrl: 'assets/images/instructor/single/icon/03.png',
+        imgAlt: 'instructor',
+        text: 'Award 2020',
+    },
+    {
+        imgUrl: 'assets/images/instructor/single/icon/04.png',
+        imgAlt: 'instructor',
+        text: 'Award 2022',
+    },
+]
+=======
 import { useLocation } from "react-router-dom";
+>>>>>>> 469905c883fb68aa8574301caa9c1fa417a147d7
 
 const TeamSingle = () => {
   const { search } = useLocation();
@@ -77,6 +182,24 @@ const TeamSingle = () => {
                 <div className="instructor-single-thumb">
                   <img src={instructor.imgUrl} alt="instructor" />
                 </div>
+<<<<<<< HEAD
+            </section>
+
+
+
+
+
+
+
+
+            
+            <Footer />
+        </Fragment>
+    );
+}
+ 
+export default TeamSingle;
+=======
                 <div className="instructor-single-content">
                   <h4 className="title">{name}</h4>
                   <p className="ins-dege">{degi}</p>
@@ -119,3 +242,4 @@ const TeamSingle = () => {
 };
 
 export default TeamSingle;
+>>>>>>> 469905c883fb68aa8574301caa9c1fa417a147d7
