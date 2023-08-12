@@ -35,40 +35,8 @@ const Header = () => {
                   <li>
                     <NavLink to="/course">Course</NavLink>
                   </li>
-                  <li className="menu-item-has-children">
-                    <a
-                      href="#"
-                      role="button"
-                      data-bs-toggle="dropdown"
-                      aria-haspopup="true"
-                      aria-expanded="false"
-                      data-bs-offset="0,0"
-                    >
-                      Services
-                    </a>
-                    <ul className="lab-ul dropdown-menu">
-                      <li>
-                        <NavLink to="/contact">Classroom Training</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/contact">Online Training</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/contact">Summer Internship</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/contact">Winter Internship</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/contact">Corporate Training</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/contact">Industrial Training</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/contact">College Campus Training</NavLink>
-                      </li>
-                    </ul>
+                  <li>
+                    <NavLink to="/instructor">Instructor</NavLink>
                   </li>
                   {/* <li className="menu-item-has-children">
                     <a
