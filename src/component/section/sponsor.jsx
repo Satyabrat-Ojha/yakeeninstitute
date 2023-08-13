@@ -66,17 +66,21 @@ const Sponsor = () => {
       <div className="container">
         <div className="section-wrapper">
           <div className="sponsor-slider">
+            <style>
+              {`
+              .swiper-wrapper {
+                transition-timing-function: linear;
+              }
+        `}
+            </style>
             <Swiper
-              freeMode={true}
-              spaceBetween={0}
-              slidesPerView={2}
-              loop={true}
+              loop={"true"}
               autoplay={{
-                delay: 1,
+                delay: 0,
                 disableOnInteraction: false,
               }}
-              speed={5000}
-              // modules={[Autoplay]}
+              modules={[Autoplay]}
+              speed={2000}
               breakpoints={{
                 0: {
                   width: 100,
