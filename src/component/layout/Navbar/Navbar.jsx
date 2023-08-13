@@ -3,6 +3,7 @@ import { useState } from "react";
 
 const Navbar = () => {
   const [hovered, setHovered] = useState(false);
+  const [isOpen, setIsOpen] = useState(false);
 
   return (
     <header className={styles.header}>
@@ -15,7 +16,34 @@ const Navbar = () => {
               width={80}
             />
           </a>
-          <div className={styles.navbarCollapse}>
+          <button
+            className={`${styles.navbarToggler} border-0 p-0 shadow-none ${
+              isOpen ? "" : "collapsed"
+            }`}
+            onClick={() => setIsOpen(!isOpen)}
+          >
+            <img
+              src="https://www.wscubetech.com/images/menubar-icon.svg"
+              width="35"
+              height="35"
+              alt="Menu"
+              className={`${styles.imgFluid} open-icon ${
+                isOpen ? "d-none" : ""
+              }`}
+            />
+            <img
+              src="https://www.wscubetech.com/images/close-menu.svg"
+              width="25"
+              height="25"
+              alt="Menu"
+              className={`${styles.imgFluid} close-icon ${
+                isOpen ? "" : "d-none"
+              }`}
+            />
+          </button>
+          <div
+            className={`${styles.navbarCollapse} ${isOpen ? styles.show : ""}`}
+          >
             <ul
               className={`${styles.navbarNav} me-auto mb-2 mb-lg-0 ${styles.wsMainMenu}`}
             >
