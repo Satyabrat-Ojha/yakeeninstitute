@@ -284,6 +284,14 @@ const Navbar = () => {
               Sign In
             </a>
           </div>
+          <div
+            className={
+              !isOpen
+                ? "d-none"
+                : `position-fixed w-100 h-100 overflow-hidden ${styles.menuBackdrop} left-0`
+            }
+            onClick={() => setIsOpen(false)}
+          ></div>
         </div>
       </nav>
     </header>
