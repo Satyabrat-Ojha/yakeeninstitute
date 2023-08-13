@@ -1,5 +1,6 @@
 import styles from "./Navbar.module.css";
 import { useState } from "react";
+import logo from "../../../logo.svg";
 
 const Navbar = () => {
   const [hovered, setHovered] = useState(false);
@@ -10,11 +11,7 @@ const Navbar = () => {
       <nav className={styles.navbar}>
         <div className={styles.container}>
           <a className={`${styles.brand} me-xl-4 me-3`} href="/">
-            <img
-              src="assets/images/logo/01.png"
-              alt="Wscube tech logo"
-              width={80}
-            />
+            <img src={logo} alt="logo" width={80} />
           </a>
           <button
             className={`${styles.navbarToggler} border-0 p-0 shadow-none ${
