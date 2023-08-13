@@ -1,7 +1,8 @@
 import { Component, Fragment } from "react";
 import { Link } from "react-router-dom";
 import Footer from "../component/layout/footer";
-import Header from "../component/layout/header";
+// import Header from "../component/layout/header";
+import Header from "../component/layout/Navbar/Navbar";
 import PageHeader from "../component/layout/pageheader";
 import GroupSelect from "../component/sidebar/group-select";
 import Pagination from "../component/sidebar/pagination";

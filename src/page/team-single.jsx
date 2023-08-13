@@ -1,7 +1,8 @@
 import { Fragment } from "react";
 import instructorList from "../constants/instructors";
 import Footer from "../component/layout/footer";
-import Header from "../component/layout/header";
+// import Header from "../component/layout/header";
+import Header from "../component/layout/Navbar/Navbar";
 import PageHeader from "../component/layout/pageheader";
 import Progress from "../component/sidebar/progress";
 import Rating from "../component/sidebar/rating";

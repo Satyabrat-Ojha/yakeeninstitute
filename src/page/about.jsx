@@ -1,6 +1,7 @@
 import { Fragment } from "react";
 import Footer from "../component/layout/footer";
-import Header from "../component/layout/header";
+// import Header from "../component/layout/header";
+import Header from "../component/layout/Navbar/Navbar";
 import PageHeader from "../component/layout/pageheader";
 import AchievementTwo from "../component/section/achievement-2";
 import Blog from "../component/section/blog";

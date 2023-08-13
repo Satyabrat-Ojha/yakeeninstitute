@@ -1,7 +1,8 @@
 import { Component, Fragment } from "react";
 import { Link, useNavigate, useLocation } from "react-router-dom";
 import Footer from "../component/layout/footer";
-import Header from "../component/layout/header";
+// import Header from "../component/layout/header";
+import Header from "../component/layout/Navbar/Navbar";
 import PageHeaderTwo from "../component/layout/pageheader-2";
 import Author from "../component/sidebar/author";
 import Comment from "../component/sidebar/comment";
