@@ -1,6 +1,7 @@
 import { Component, Fragment } from "react";
 import Footer from "../component/layout/footer";
-import Header from "../component/layout/header";
+// import Header from "../component/layout/header";
+import Header from "../component/layout/Navbar/Navbar";
 import About from "../component/section/about";
 import Achievement from "../component/section/achievement";
 import Banner from "../component/section/banner";

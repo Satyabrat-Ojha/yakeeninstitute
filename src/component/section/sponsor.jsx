@@ -67,14 +67,16 @@ const Sponsor = () => {
         <div className="section-wrapper">
           <div className="sponsor-slider">
             <Swiper
-              spaceBetween={20}
+              freeMode={true}
+              spaceBetween={0}
               slidesPerView={2}
-              loop={"true"}
+              loop={true}
               autoplay={{
-                delay: 2000,
+                delay: 1,
                 disableOnInteraction: false,
               }}
-              modules={[Autoplay]}
+              speed={5000}
+              // modules={[Autoplay]}
               breakpoints={{
                 0: {
                   width: 100,

@@ -162,6 +162,10 @@
   transition: 0.2s;
 }
 
+.megaMenuList ul li a:hover {
+  color: #2699fb !important;
+}
+
 .admissionBtn {
   background: #fff;
   border: 1.5px solid #d0d5dd !important;
