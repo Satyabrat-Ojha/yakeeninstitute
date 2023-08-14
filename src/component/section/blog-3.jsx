@@ -18,10 +18,10 @@ const blogList = [
     {
         imgUrl: 'assets/images/blog/11.jpg',
         imgAlt: 'blog thumb rajibraj91 rajibraj',
-        title: 'Scottish Creatives To Receive Funded Business.',
-        author: 'Begrass Tyson',
-        date: 'April 23,2022',
-        desc: 'Proactively enhance prospective resources for next generation convergence. Dramatically myocardinate high-quality vortals through transparent.',
+        title: 'Top 7 Secrets of Successful Graphic Design Style Guides for Visual Communication',
+        author: 'Begrass ',
+        date: 'july 23,2023',
+        desc:' Graphic design style guides are powerful tools for maintaining brand consistency and effective visual communication. These comprehensive documents serve as a roadmap for designers, marketers.',
         btnText: 'Read More',
     },
     {
