@@ -72,9 +72,9 @@ const Category = () => {
           <h2 className="title">{title}</h2>
         </div>
         <div className="section-wrapper">
-          <div className="row g-5 justify-content-center row-cols-xl-4 row-cols-md-3 row-cols-sm-3 row-cols-1">
+          <div className="row mx-auto justify-content-center row-cols-xl-4 row-cols-md-3 row-cols-sm-3 row-cols-1">
             {categoryList.map((val, i) => (
-              <div className="col" key={i}>
+              <div className="col my-2" key={i}>
                 <div className="category-item text-center">
                   <div className="category-inner">
                     <div className="category-thumb">

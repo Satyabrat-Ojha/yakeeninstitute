@@ -166,6 +166,12 @@
   transition: opacity 0.2s;
 }
 
+@media (max-width: 991px) {
+  .mainMegaMenu {
+    display: none;
+  }
+}
+
 .mainMegaMenu.active {
   visibility: visible;
   opacity: 1;
