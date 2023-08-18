@@ -226,10 +226,7 @@ const Navbar = () => {
               {" "}
               Admission Now
             </a>
-            <a
-              class={`btn shadow-none ${styles.signInBtn}`}
-              href="https://www.wscubetech.com/login.html"
-            >
+            <a class={`btn shadow-none ${styles.signInBtn}`} href="/login">
               Sign In
             </a>
           </div>
