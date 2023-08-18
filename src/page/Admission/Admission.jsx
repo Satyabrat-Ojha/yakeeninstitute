@@ -4,8 +4,6 @@ import { db } from "../../firebaseConfig";
 import { setDoc, doc } from "firebase/firestore";
 import { useNavigate } from "react-router-dom";
 
-const navigate = useNavigate();
-
 const Admission = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
@@ -23,6 +21,7 @@ const Admission = () => {
   const [course, setCourse] = useState("");
   const [education, setEducation] = useState("");
 
+  const navigate = useNavigate();
   const handleSubmit = async (e) => {
     e.preventDefault();
     const data = {
