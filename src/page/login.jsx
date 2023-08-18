@@ -5,10 +5,30 @@ import Footer from "../component/layout/footer";
 import Header from "../component/layout/Navbar/Navbar";
 import PageHeader from "../component/layout/pageheader";
 
+import { database } from "../firebaseConfig";
+import { signInWithEmailAndPassword } from "firebase/auth";
+import { useNavigate } from "react-router-dom";
+
 const title = "Login";
 const btnText = "Submit Now";
 
 const LoginPage = () => {
+  const navigate = useNavigate();
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const email = e.target.email.value;
+    const password = e.target.password.value;
+    signInWithEmailAndPassword(database, email, password)
+      .then((data) => {
+        console.log(data, "autdata");
+        navigate("/");
+      })
+      .catch((err) => {
+        alert(err.code);
+      });
+    // console.log(email, password);
+  };
+
   return (
     <Fragment>
       <Header />
@@ -17,9 +37,9 @@ const LoginPage = () => {
         <div className="container">
           <div className="account-wrapper">
             <h3 className="title">{title}</h3>
-            <form className="account-form">
+            <form className="account-form" onSubmit={(e) => handleSubmit(e)}>
               <div className="form-group">
-                <input type="text" name="name" placeholder="User Name *" />
+                <input type="email" name="email" placeholder="Email *" />
               </div>
               <div className="form-group">
                 <input

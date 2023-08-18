@@ -88,9 +88,9 @@ form .category label .dot {
   border: 5px solid transparent;
   transition: all 0.3s ease;
 }
-#dot-1:checked ~ .category label .one,
-#dot-2:checked ~ .category label .two,
-#dot-3:checked ~ .category label .three {
+.dot1:checked ~ .category label .one,
+.dot2:checked ~ .category label .two,
+.dot3:checked ~ .category label .three {
   background: #9b59b6;
   border-color: #d9d9d9;
 }
@@ -156,7 +156,7 @@ select {
   border-radius: 3px;
 }
 
-#course {
+.course {
   height: 45px;
   width: 100%;
   outline: none;
