@@ -76,26 +76,17 @@ const Navbar = () => {
                         </div>
                         <ul className="list-unstyled">
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-web-development-course-india.html"
-                              title="Web Development Course"
-                            >
+                            <a href="#" title="Web Development Course">
                               Web Development Course
                             </a>
                           </li>
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/best-wordpress-online-course-india.html"
-                              title="WordPress Course"
-                            >
+                            <a href="#" title="WordPress Course">
                               WordPress Course
                             </a>
                           </li>
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-mern-stack-developer-course-india.html"
-                              title="MERN Stack Course"
-                            >
+                            <a href="#" title="MERN Stack Course">
                               MERN Stack Course
                             </a>
                           </li>
@@ -109,26 +100,17 @@ const Navbar = () => {
                         </div>
                         <ul class="list-unstyled">
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-data-science-certification-course.html"
-                              title="Data Science Course"
-                            >
+                            <a href="#" title="Data Science Course">
                               Data Science Course
                             </a>
                           </li>
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-data-analytics-course.html"
-                              title="Data Analytics Course"
-                            >
+                            <a href="#" title="Data Analytics Course">
                               Data Analytics Course
                             </a>
                           </li>
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-python-certification-course-india.html"
-                              title="Python Course"
-                            >
+                            <a href="#" title="Python Course">
                               Python Course
                             </a>
                           </li>
@@ -144,26 +126,17 @@ const Navbar = () => {
                         </div>
                         <ul className="list-unstyled">
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-web-development-course-india.html"
-                              title="Web Development Course"
-                            >
+                            <a href="#" title="Web Development Course">
                               Web Development Course
                             </a>
                           </li>
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/best-wordpress-online-course-india.html"
-                              title="WordPress Course"
-                            >
+                            <a href="#" title="WordPress Course">
                               WordPress Course
                             </a>
                           </li>
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-mern-stack-developer-course-india.html"
-                              title="MERN Stack Course"
-                            >
+                            <a href="#" title="MERN Stack Course">
                               MERN Stack Course
                             </a>
                           </li>
@@ -177,18 +150,12 @@ const Navbar = () => {
                         </div>
                         <ul className="list-unstyled">
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-ethical-hacking-course.html"
-                              title="Ethical Hacking Course"
-                            >
+                            <a href="#" title="Ethical Hacking Course">
                               Ethical Hacking Course
                             </a>
                           </li>
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-pentesting-course.html"
-                              title="Penetration Testing Course"
-                            >
+                            <a href="#" title="Penetration Testing Course">
                               Penetration Testing Course
                             </a>
                           </li>
@@ -204,42 +171,27 @@ const Navbar = () => {
                         </div>
                         <ul className="list-unstyled">
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-seo-course-india.html"
-                              title="SEO Course"
-                            >
+                            <a href="#" title="SEO Course">
                               SEO Course
                             </a>
                           </li>
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-digital-marketing-course-india.html"
-                              title="Digital Marketing Course"
-                            >
+                            <a href="#" title="Digital Marketing Course">
                               Digital Marketing Course
                             </a>
                           </li>
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-content-writing-course.html"
-                              title="Content Writing Course"
-                            >
+                            <a href="#" title="Content Writing Course">
                               Content Writing Course
                             </a>
                           </li>
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-advertising-course-india.html"
-                              title="Full Online Ads Course"
-                            >
+                            <a href="#" title="Full Online Ads Course">
                               Full Online Ads Course
                             </a>
                           </li>
                           <li>
-                            <a
-                              href="https://www.wscubetech.com/online-youtube-seo-marketing-course-india.html"
-                              title="YouTube Course"
-                            >
+                            <a href="#" title="YouTube Course">
                               YouTube Course
                             </a>
                           </li>
@@ -268,7 +220,7 @@ const Navbar = () => {
           </div>
           <div class="d-lg-flex d-none">
             <a
-              href="https://www.wscubetech.com/become-instructor.html"
+              href="https://forms.gle/z6i2QUseZrAEALKk7"
               class={`btn shadow-none me-2 ${styles.admissionBtn}`}
             >
               {" "}
@@ -276,7 +228,7 @@ const Navbar = () => {
             </a>
             <a
               class={`btn shadow-none ${styles.signInBtn}`}
-              href="https://www.wscubetech.com/contact-us.html"
+              href="https://www.wscubetech.com/login.html"
             >
               Sign In
             </a>
