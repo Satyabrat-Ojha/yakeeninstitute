@@ -220,7 +220,7 @@ const Navbar = () => {
           </div>
           <div class="d-lg-flex d-none">
             <a
-              href="https://forms.gle/z6i2QUseZrAEALKk7"
+              href="/admission"
               class={`btn shadow-none me-2 ${styles.admissionBtn}`}
             >
               {" "}

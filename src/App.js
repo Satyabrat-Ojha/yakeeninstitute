@@ -23,6 +23,7 @@ import ShopDetails from "./page/shop-single";
 import SignupPage from "./page/signup";
 import TeamPage from "./page/team";
 import TeamSingle from "./page/team-single";
+import Admission from "./page/Admission/Admission";
 
 function App() {
   return (
@@ -46,6 +47,7 @@ function App() {
         <Route path="search-page" element={<SearchPage />} />
         <Route path="search-none" element={<SearchNone />} />
         <Route path="contact" element={<ContactPage />} />
+        <Route path="admission" element={<Admission />} />
         <Route path="login" element={<LoginPage />} />
         <Route path="signup" element={<SignupPage />} />
         <Route path="forgetpass" element={<ForgetPass />} />
