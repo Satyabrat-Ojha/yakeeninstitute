@@ -1,9 +1,56 @@
 import styles from "./Admission.module.css";
+import { useState } from "react";
+import { db } from "../../firebaseConfig";
+import { setDoc, doc } from "firebase/firestore";
+import { useNavigate } from "react-router-dom";
+
+const navigate = useNavigate();
 
 const Admission = () => {
-  const handleSubmit = (e) => {
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [phone, setPhone] = useState("");
+  const [address, setAddress] = useState("");
+  const [fatherName, setFatherName] = useState("");
+  const [motherName, setMotherName] = useState("");
+  const [parentsQualification, setParentsQualification] = useState("");
+  const [dob, setDob] = useState("");
+  const [aadhar, setAadhar] = useState("");
+  const [joiningDate, setJoiningDate] = useState("");
+  const [courseBatchTiming, setCourseBatchTiming] = useState("");
+  const [courseDuration, setCourseDuration] = useState("");
+  const [gender, setGender] = useState("");
+  const [course, setCourse] = useState("");
+  const [education, setEducation] = useState("");
+
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    alert("Form Submitted");
+    const data = {
+      name,
+      email,
+      phone,
+      address,
+      fatherName,
+      motherName,
+      parentsQualification,
+      dob,
+      aadhar,
+      joiningDate,
+      courseBatchTiming,
+      courseDuration,
+      gender,
+      course,
+      education,
+    };
+    const docRef = doc(db, "admissionUsers", email);
+    setDoc(docRef, data)
+      .then(() => {
+        alert("Document has been added successfully");
+        navigate("/");
+      })
+      .catch((error) => {
+        console.log(error);
+      });
   };
 
   return (
@@ -15,31 +62,63 @@ const Admission = () => {
             <div className={styles.userDetails}>
               <div className={styles.inputBox}>
                 <span className={styles.details}>Full Name</span>
-                <input type="text" placeholder="Enter your name" required />
+                <input
+                  type="text"
+                  placeholder="Enter your name"
+                  value={name}
+                  onChange={(e) => setName(e.target.value)}
+                  required
+                />
               </div>
               <div className={styles.inputBox}>
                 <span className={styles.details}>Email</span>
-                <input type="text" placeholder="Enter your email" required />
+                <input
+                  type="text"
+                  placeholder="Enter your email"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
+                  required
+                />
               </div>
               <div className={styles.inputBox}>
                 <span className={styles.details}>Phone Number</span>
-                <input type="text" placeholder="Enter your number" required />
+                <input
+                  type="text"
+                  placeholder="Enter your number"
+                  value={phone}
+                  onChange={(e) => setPhone(e.target.value)}
+                  required
+                />
               </div>
               <div className={styles.inputBox}>
                 <span className={styles.details}>Type Full Address </span>
-                <input type="text" placeholder="Enter your address" required />
+                <input
+                  type="text"
+                  placeholder="Enter your address"
+                  value={address}
+                  onChange={(e) => setAddress(e.target.value)}
+                  required
+                />
               </div>
               <div className={styles.inputBox}>
                 <span className={styles.details}>Father's Name</span>
                 <input
                   type="text"
                   placeholder="Enter your father name"
+                  value={fatherName}
+                  onChange={(e) => setFatherName(e.target.value)}
                   required
                 />
               </div>
               <div className={styles.inputBox}>
                 <span className={styles.details}>Mother's Name</span>
-                <input type="text" placeholder="Enter your mother" required />
+                <input
+                  type="text"
+                  placeholder="Enter your mother"
+                  value={motherName}
+                  onChange={(e) => setMotherName(e.target.value)}
+                  required
+                />
               </div>
               <div className={styles.inputBox}>
                 <span className={styles.details}>
@@ -48,6 +127,8 @@ const Admission = () => {
                 <input
                   type="text"
                   placeholder="Enter parents qualification"
+                  value={parentsQualification}
+                  onChange={(e) => setParentsQualification(e.target.value)}
                   required
                 />
               </div>
@@ -56,6 +137,8 @@ const Admission = () => {
                 <input
                   type="date"
                   placeholder="Enter your date of birth"
+                  value={dob}
+                  onChange={(e) => setDob(e.target.value)}
                   required
                 />
               </div>
@@ -65,21 +148,41 @@ const Admission = () => {
                 <input
                   type="text"
                   placeholder="Enter your adhar number"
+                  value={aadhar}
+                  onChange={(e) => setAadhar(e.target.value)}
                   required
                 />
               </div>
               <div className={styles.inputBox}>
                 <span className={styles.details}>Date of Joining</span>
-                <input type="date" placeholder="Enter joining date" required />
+                <input
+                  type="date"
+                  placeholder="Enter joining date"
+                  value={joiningDate}
+                  onChange={(e) => setJoiningDate(e.target.value)}
+                  required
+                />
               </div>
               <div className={styles.inputBox}>
                 <span className={styles.details}>Course Batch Timing </span>
-                <input type="text" placeholder="Enter timing" required />
+                <input
+                  type="text"
+                  placeholder="Enter timing"
+                  value={courseBatchTiming}
+                  onChange={(e) => setCourseBatchTiming(e.target.value)}
+                  required
+                />
               </div>
 
               <div className={styles.inputBox}>
                 <span className={styles.details}>Course Duration</span>
-                <input type="text" placeholder="Enter duration" required />
+                <input
+                  type="text"
+                  placeholder="Enter duration"
+                  value={courseDuration}
+                  onChange={(e) => setCourseDuration(e.target.value)}
+                  required
+                />
               </div>
             </div>
             <div className={styles.genderDetails}>
@@ -87,18 +190,21 @@ const Admission = () => {
                 type="radio"
                 name="gender"
                 id="dot-1"
+                onChange={() => setGender("Male")}
                 className={styles.dot1}
               />
               <input
                 type="radio"
                 name="gender"
                 id="dot-2"
+                onChange={() => setGender("Female")}
                 className={styles.dot2}
               />
               <input
                 type="radio"
                 name="gender"
                 id="dot-3"
+                onChange={() => setGender("Prefer not to say")}
                 className={styles.dot3}
               />
               <span className={styles.genderTitle}>Gender</span>
@@ -117,34 +223,62 @@ const Admission = () => {
                 </label>
               </div>
             </div>
-            <label1 for="course">Select a Course:</label1>
-            <select id="course" className={styles.course} name="course">
-              <option value="c">Basic Computer of Application</option>
-              <option value="c++">Tally ERP/ Tally Prime</option>
-              <option value="java">Advance Excel</option>
-              <option value="python">
-                DIT( Diploma Information Technology)
-              </option>
-              <option value="html">Graphic Designing</option>
-              <option value="css">Website Development</option>
-              <option value="js">Motion Graphic Designing</option>
-              <option value="react">Java Training</option>
-              <option value="sql">Digital Marketing</option>
-              <option value="dbms">Video Editing</option>
-              <option value="dbms">Python</option>
-              <option value="dbms">Visual Basic</option>
-              <option value="dbms">Power BI</option>
-            </select>
-            <label1 for="education">Education Qualification:</label1>
-            <select id="education" className={styles.course} name="education">
-              <option value="c">10th Completed</option>
-              <option value="c++">12th Completed</option>
-              <option value="java">Graduation Completed</option>
-              <option value="python">Post Graduation Completed</option>
-              <option value="html">Pursuing Schooling</option>
-              <option value="css">Pursuing Graduation</option>
-              <option value="js">Other</option>
-            </select>
+            <div className={styles.courseSelection}>
+              <span className={styles.details}>Select a Course</span>
+              <select
+                id="course"
+                className={styles.course}
+                name="course"
+                value={course}
+                onChange={(e) => setCourse(e.target.value)}
+              >
+                <option value="">Select a course</option>
+                <option value="Basic Computer of Application">
+                  Basic Computer of Application
+                </option>
+                <option value="Tally ERP/ Tally Prime">
+                  Tally ERP/ Tally Prime
+                </option>
+                <option value="Advance Excel">Advance Excel</option>
+                <option value="DIT( Diploma Information Technology)">
+                  DIT( Diploma Information Technology)
+                </option>
+                <option value="Graphic Designing">Graphic Designing</option>
+                <option value="Website Development">Website Development</option>
+                <option value="Motion Graphic Designing">
+                  Motion Graphic Designing
+                </option>
+                <option value="Java Training">Java Training</option>
+                <option value="Digital Marketing">Digital Marketing</option>
+                <option value="Video Editing">Video Editing</option>
+                <option value="Python">Python</option>
+                <option value="Visual Basic">Visual Basic</option>
+                <option value="Power BI">Power BI</option>
+              </select>
+            </div>
+            <div className={styles.educationSelection}>
+              <label htmlFor="education">Education Qualification:</label>
+              <select
+                id="education"
+                className={styles.course}
+                name="education"
+                value={education}
+                onChange={(e) => setEducation(e.target.value)}
+              >
+                <option value="">Select education qualification</option>
+                <option value="10th Completed">10th Completed</option>
+                <option value="12th Completed">12th Completed</option>
+                <option value="Graduation Completed">
+                  Graduation Completed
+                </option>
+                <option value="Post Graduation Completed">
+                  Post Graduation Completed
+                </option>
+                <option value="Pursuing Schooling">Pursuing Schooling</option>
+                <option value="Pursuing Graduation">Pursuing Graduation</option>
+                <option value="Other">Other</option>
+              </select>
+            </div>
             <div className={styles.button}>
               <input type="submit" value="Register" />
             </div>
