@@ -201,11 +201,11 @@ const Navbar = () => {
                   </div>
                 </div>
               </li>
-              <li class={`${styles.navItem} position-relative mx-lg-1`}>
+              {/* <li class={`${styles.navItem} position-relative mx-lg-1`}>
                 <a href="/instructor" className={styles.navLink}>
                   Instructor
                 </a>
-              </li>
+              </li> */}
               <li class={`${styles.navItem} position-relative mx-lg-1`}>
                 <a href="/about" className={styles.navLink}>
                   About

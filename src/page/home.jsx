@@ -22,7 +22,7 @@ const Home = () => {
       <Category />
       <Course />
       <About />
-      <Instructor />
+      {/* <Instructor /> */}
       <Student />
       <Blog />
       <Achievement />
