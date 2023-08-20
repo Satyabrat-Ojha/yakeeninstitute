@@ -45,8 +45,12 @@ const Navbar = () => {
               className={`${styles.navbarNav} me-auto mb-2 mb-lg-0 ${styles.wsMainMenu}`}
             >
               <li class={`${styles.navItem} position-relative mx-lg-1`}>
-                <a href="/" className={styles.navLink}>
-                  Home
+                <a className={styles.navLink}>
+                  Classroom Training{" "}
+                  <img
+                    src="https://www.wscubetech.com/images/up-arrow.svg"
+                    alt="arrow"
+                  />
                 </a>
               </li>
               <li
@@ -54,8 +58,8 @@ const Navbar = () => {
                 onMouseEnter={() => setHovered(true)}
                 onMouseLeave={() => setHovered(false)}
               >
-                <a href="/course" className={styles.navLink}>
-                  {"Courses "}
+                <a className={styles.navLink}>
+                  Online Training{" "}
                   <img
                     src="https://www.wscubetech.com/images/up-arrow.svg"
                     alt="arrow"
@@ -127,17 +131,12 @@ const Navbar = () => {
                         <ul className="list-unstyled">
                           <li>
                             <a href="#" title="Web Development Course">
-                              Web Development Course
+                              Android App Development Course
                             </a>
                           </li>
                           <li>
                             <a href="#" title="WordPress Course">
-                              WordPress Course
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#" title="MERN Stack Course">
-                              MERN Stack Course
+                              Flutter App Development Course
                             </a>
                           </li>
                         </ul>
@@ -207,13 +206,30 @@ const Navbar = () => {
                 </a>
               </li> */}
               <li class={`${styles.navItem} position-relative mx-lg-1`}>
-                <a href="/about" className={styles.navLink}>
-                  About
+                <a className={styles.navLink}>
+                  Our Centers{" "}
+                  <img
+                    src="https://www.wscubetech.com/images/up-arrow.svg"
+                    alt="arrow"
+                  />
                 </a>
               </li>
               <li class={`${styles.navItem} position-relative mx-lg-1`}>
-                <a href="/contact" className={styles.navLink}>
-                  Contact
+                <a className={styles.navLink}>
+                  Learners Zone{" "}
+                  <img
+                    src="https://www.wscubetech.com/images/up-arrow.svg"
+                    alt="arrow"
+                  />
+                </a>
+              </li>
+              <li class={`${styles.navItem} position-relative mx-lg-1`}>
+                <a className={styles.navLink}>
+                  More{" "}
+                  <img
+                    src="https://www.wscubetech.com/images/up-arrow.svg"
+                    alt="arrow"
+                  />
                 </a>
               </li>
             </ul>
@@ -224,10 +240,10 @@ const Navbar = () => {
               class={`btn shadow-none me-2 ${styles.admissionBtn}`}
             >
               {" "}
-              Admission Now
+              Offline Admission
             </a>
-            <a class={`btn shadow-none ${styles.signInBtn}`} href="/login">
-              Sign In
+            <a class={`btn shadow-none ${styles.signInBtn}`} href="/contact">
+              Reach us
             </a>
           </div>
           <div
