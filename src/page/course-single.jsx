@@ -77,7 +77,9 @@ const CourseSingle = () => {
                               <span>
                                 {index + 1}.{module.title}
                               </span>{" "}
-                              <span>{module.lectures.length} lectures</span>{" "}
+                              <span className="d-none d-md-inline">
+                                {module.lectures.length} lectures
+                              </span>{" "}
                             </button>
                           </div>
                           <div
