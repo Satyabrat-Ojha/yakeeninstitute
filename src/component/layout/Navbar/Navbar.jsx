@@ -2,6 +2,8 @@ import styles from "./Navbar.module.css";
 import { useState } from "react";
 import logo from "../../../logo.svg";
 import OnlineTraining from "./OnlineTraining";
+import OurCenters from "./OurCenters";
+import More from "./More";
 
 const Navbar = () => {
   const [hovered, setHovered] = useState(false);
@@ -55,20 +57,14 @@ const Navbar = () => {
                 </a>
               </li>
               <OnlineTraining />
-              {/* <li class={`${styles.navItem} position-relative mx-lg-1`}>
-                <a href="/instructor" className={styles.navLink}>
-                  Instructor
-                </a>
-              </li> */}
-              <li class={`${styles.navItem} position-relative mx-lg-1`}>
-                <a className={styles.navLink}>
-                  Our Centers{" "}
-                  <img
-                    src="https://www.wscubetech.com/images/up-arrow.svg"
-                    alt="arrow"
-                  />
+              <li
+                class={`${styles.navItem} position-relative mx-lg-1 d-lg-none`}
+              >
+                <a href="/admission" className={styles.navLink}>
+                  Offline Admission
                 </a>
               </li>
+              <OurCenters />
               <li class={`${styles.navItem} position-relative mx-lg-1`}>
                 <a className={styles.navLink}>
                   Learners Zone{" "}
@@ -78,15 +74,7 @@ const Navbar = () => {
                   />
                 </a>
               </li>
-              <li class={`${styles.navItem} position-relative mx-lg-1`}>
-                <a className={styles.navLink}>
-                  More{" "}
-                  <img
-                    src="https://www.wscubetech.com/images/up-arrow.svg"
-                    alt="arrow"
-                  />
-                </a>
-              </li>
+              <More />
             </ul>
           </div>
           <div class="d-lg-flex d-none">

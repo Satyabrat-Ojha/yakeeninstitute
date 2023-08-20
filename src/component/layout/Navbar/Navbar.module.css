@@ -122,7 +122,10 @@
 }
 
 .navItem {
-  padding: 5px;
+  padding: 0 5px;
+  height: 91px;
+  display: flex;
+  align-items: center;
 }
 
 @media (min-width: 992px) {
@@ -208,7 +211,7 @@
 
 .mainMegaMenu {
   visibility: hidden;
-  top: 82px;
+  top: 91px;
   max-width: 1325px;
   box-shadow: 0 5px 40px rgb(179 188 195 / 20%);
   z-index: 99;
@@ -225,6 +228,13 @@
 .mainMegaMenu.active {
   visibility: visible;
   opacity: 1;
+}
+
+.smallMenu {
+  width: max-content;
+  left: unset !important;
+  right: unset !important;
+  min-width: 160px;
 }
 
 .listHeading {
@@ -266,4 +276,22 @@
 
 .megaMenuList ul li a:hover {
   color: #2699fb !important;
+}
+
+.megaMenuList .smallList {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.smallList li {
+  margin: 0 !important;
+}
+
+.megaMenuList .smallList li a {
+  padding: 0.5rem 1.5rem !important;
+  display: block;
+  transition: 0.2s;
+}
+.smallList li a:hover {
+  background-color: #f8f9fd !important;
 }

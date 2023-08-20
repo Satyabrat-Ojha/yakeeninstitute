@@ -6,7 +6,7 @@ const OnlineTraining = () => {
 
   return (
     <li
-      class={`${styles.navItem} position-relative mx-lg-1`}
+      className={`${styles.navItem} position-relative mx-lg-1`}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
     >

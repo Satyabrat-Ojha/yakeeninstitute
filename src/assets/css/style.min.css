@@ -3569,7 +3569,7 @@ button {
   -webkit-transform: translateY(-5px);
   -ms-transform: translateY(-5px);
   transform: translateY(-5px);
-  box-shadow: 0 5px 10px rgba(241, 97, 38, 0.5);
+  box-shadow: 0 5px 10px #146bb749;
 }
 .lab-btn-text {
   font-size: 1.125rem;

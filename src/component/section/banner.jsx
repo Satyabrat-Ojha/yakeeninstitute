@@ -71,7 +71,7 @@ const Banner = () => {
                 {title}
                 <p className="desc">{desc}</p>
                 <Link to="/login" className="lab-btn">
-                  <span>Get Started</span>
+                  <span>Explore Courses</span>
                 </Link>
                 {/* <form action="/">
                   <div className="banner-icon">
