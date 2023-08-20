@@ -295,3 +295,9 @@
 .smallList li a:hover {
   background-color: #f8f9fd !important;
 }
+
+.largeList li {
+  display: inline-block;
+  width: 45%;
+  margin: 0.2rem 1rem 0.2rem 0 !important;
+}

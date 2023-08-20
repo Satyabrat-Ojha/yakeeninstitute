@@ -3,6 +3,7 @@ import { useState } from "react";
 import logo from "../../../logo.svg";
 import OnlineTraining from "./OnlineTraining";
 import OurCenters from "./OurCenters";
+import LearnersZone from "./LearnersZone";
 import More from "./More";
 
 const Navbar = () => {
@@ -65,15 +66,7 @@ const Navbar = () => {
                 </a>
               </li>
               <OurCenters />
-              <li class={`${styles.navItem} position-relative mx-lg-1`}>
-                <a className={styles.navLink}>
-                  Learners Zone{" "}
-                  <img
-                    src="https://www.wscubetech.com/images/up-arrow.svg"
-                    alt="arrow"
-                  />
-                </a>
-              </li>
+              <LearnersZone />
               <More />
             </ul>
           </div>
