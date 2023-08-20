@@ -11,7 +11,7 @@ const OurCenters = () => {
       onMouseLeave={() => setHovered(false)}
     >
       <a className={styles.navLink}>
-        Our Centers{" "}
+        More{" "}
         <img src="https://www.wscubetech.com/images/up-arrow.svg" alt="arrow" />
       </a>
       <div
