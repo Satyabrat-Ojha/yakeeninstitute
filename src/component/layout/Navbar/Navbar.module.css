@@ -301,3 +301,24 @@
   width: 45%;
   margin: 0.2rem 1rem 0.2rem 0 !important;
 }
+
+.navTabsButton {
+  min-width: 200px;
+}
+
+.subMenu {
+  padding: 15px;
+  color: #43505b;
+}
+.subMenu:hover,
+.subMenu.active {
+  color: #f8f9fd;
+  background-color: #2699fb !important;
+}
+
+.showSubMenu {
+  display: none;
+}
+.showSubMenu.active {
+  display: block;
+}
