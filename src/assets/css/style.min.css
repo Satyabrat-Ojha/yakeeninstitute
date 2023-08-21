@@ -1,15 +1,5 @@
-﻿@import "https://fonts.googleapis.com/css2?family=Barlow:wght@100;200;300;400;500;600;700;800;900&display=swap"; /*! @@@@@@@@@@@@@@@@@@@@@@
+﻿@import "https://fonts.googleapis.com/css2?family=Barlow:wght@100;200;300;400;500;600;700;800;900&display=swap";
 
-Template Name: Edukon
-Template URI: https://themeforest.net/user/CodexCoder
-Author: CodexCoder
-Author URI: https://themeforest.net/user/CodexCoder
-Description: Description
-Version: 1.0.0
-Text Domain: edukon
-Tags: academy, children, education, institute, kids, kids care, kids care home, kids school, kinder garden, kindergarten, nursery, play school, pre-school, responsive
-
-@@@@@@@@@@@@@@@@@@@@@@ */
 .news-letter .section-wrapper,
 footer.style-2 .footer-bottom .section-wrapper,
 footer.style-2
@@ -3411,6 +3401,18 @@ footer.style-2
   outline: none;
   box-shadow: none;
 }
+::-webkit-scrollbar {
+  width: 5px;
+  height: 7px;
+  background-color: #8f7777;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #2699fb;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+  background-color: #f5f5f5;
+}
 html {
   scroll-behavior: auto !important;
 }
@@ -3623,6 +3625,7 @@ button {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
+  appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
 }
@@ -8977,6 +8980,7 @@ button {
   border: 1px solid #ecf0f3;
   color: #555;
   outline: none;
+  appearance: none;
   -webkit-appearance: none;
   z-index: 1;
   background: transparent;
@@ -9616,6 +9620,7 @@ button {
   padding: 9px 20px;
   background: transparent;
   z-index: 1;
+  appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
   border: 1px solid #ecf0f3;

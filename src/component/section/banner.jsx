@@ -70,7 +70,7 @@ const Banner = () => {
                 </h6>
                 {title}
                 <p className="desc">{desc}</p>
-                <Link to="/login" className="lab-btn">
+                <Link to="/course" className="lab-btn">
                   <span>Explore Courses</span>
                 </Link>
                 {/* <form action="/">
