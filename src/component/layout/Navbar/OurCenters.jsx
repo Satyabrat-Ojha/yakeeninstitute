@@ -22,10 +22,10 @@ const OurCenters = () => {
         <div className={styles.megaMenuList}>
           <ul className={`list-unstyled ${styles.smallList}`}>
             <li>
-              <a className="text-left">Jodhpur Center</a>
+              <a className="text-left">Ghaziabad</a>
             </li>
             <li>
-              <a className="text-left">Jaipur Center</a>
+              <a className="text-left">Lajpat Nagar</a>
             </li>
           </ul>
         </div>

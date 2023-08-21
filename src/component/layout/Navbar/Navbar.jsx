@@ -1,6 +1,7 @@
 import styles from "./Navbar.module.css";
 import { useState } from "react";
 import logo from "../../../logo.svg";
+import ClassroomTraining from "./ClassroomTaining";
 import OnlineTraining from "./OnlineTraining";
 import OurCenters from "./OurCenters";
 import LearnersZone from "./LearnersZone";
@@ -48,15 +49,7 @@ const Navbar = () => {
             <ul
               className={`${styles.navbarNav} me-auto mb-2 mb-lg-0 ${styles.wsMainMenu}`}
             >
-              <li class={`${styles.navItem} position-relative mx-lg-1`}>
-                <a className={styles.navLink}>
-                  Classroom Training{" "}
-                  <img
-                    src="https://www.wscubetech.com/images/up-arrow.svg"
-                    alt="arrow"
-                  />
-                </a>
-              </li>
+              <ClassroomTraining />
               <OnlineTraining />
               <li
                 class={`${styles.navItem} position-relative mx-lg-1 d-lg-none`}
