@@ -74,7 +74,8 @@
 }
 
 .Language {
-  color: #f37120;
+  /* color: #f37120; */
+  color: rgb(116, 100, 99);
   font-weight: 700;
   font-size: 0.875rem;
   line-height: 22px;
@@ -90,7 +91,7 @@
 }
 
 .active.Title {
-  color: #f37120;
+  color: #146cb7;
 }
 
 .VideoCounts {
