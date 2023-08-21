@@ -17,7 +17,7 @@ const OnlineTraining = () => {
       <div
         className={`${styles.mainMegaMenu} ${
           hovered ? styles.active : ""
-        } position-fixed bg-white w-100 start-0 end-0 mx-auto px-4 pb-4 border-bottom`}
+        } position-fixed bg-white w-100 start-0 end-0 mx-md-auto px-md-4 pb-4 border-bottom`}
       >
         <div className="row pb-3 pb-lg-0">
           <div className="col-lg-4">

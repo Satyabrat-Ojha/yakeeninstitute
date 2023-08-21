@@ -8,7 +8,6 @@ import LearnersZone from "./LearnersZone";
 import More from "./More";
 
 const Navbar = () => {
-  const [hovered, setHovered] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
 
   return (

@@ -4,6 +4,7 @@ import { useState } from "react";
 const OnlineTraining = () => {
   const [hovered, setHovered] = useState(false);
   const [center, setCenter] = useState("Ghaziabad");
+  const [hidden, setHidden] = useState(true);
 
   return (
     <li
@@ -18,7 +19,7 @@ const OnlineTraining = () => {
       <div
         className={`${styles.mainMegaMenu} ${
           hovered ? styles.active : ""
-        } position-fixed bg-white w-100 start-0 end-0 mx-auto pe-lg-4`}
+        } position-fixed bg-white w-100 start-0 end-0 mx-md-auto pe-lg-4`}
       >
         <div className={`${styles.menuNavTabs} d-lg-flex`}>
           <ul
@@ -31,6 +32,7 @@ const OnlineTraining = () => {
                 center === "Ghaziabad" ? styles.active : ""
               }`}
               onMouseEnter={() => setCenter("Ghaziabad")}
+              onClick={() => setHidden(false)}
             >
               Ghaziabad{" "}
               <span className="ms-1 fs-13 arrow-right d-lg-block d-none">
@@ -44,6 +46,7 @@ const OnlineTraining = () => {
                 center === "Lajpat Nagar" ? styles.active : ""
               }`}
               onMouseEnter={() => setCenter("Lajpat Nagar")}
+              onClick={() => setHidden(false)}
             >
               Lajpat Nagar{" "}
               <span className="ms-1 fs-13 arrow-right d-lg-block d-none">
@@ -54,7 +57,7 @@ const OnlineTraining = () => {
           <div
             className={`${styles.showSubMenu} w-100 ps-3 pd-md-3 ${
               center === "Ghaziabad" ? styles.active : ""
-            }`}
+            } ${hidden ? styles.hidden : ""}`}
           >
             <div className="row pb-0 pb-lg-3">
               <div className="col-lg-4">
@@ -314,7 +317,7 @@ const OnlineTraining = () => {
           <div
             className={`${styles.showSubMenu} w-100 ps-3 pd-md-3 ${
               center === "Lajpat Nagar" ? styles.active : ""
-            }`}
+            } ${hidden ? styles.hidden : ""}`}
           >
             <div className="row pb-0 pb-lg-3">
               <div className="col-lg-4">

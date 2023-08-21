@@ -91,7 +91,7 @@
   .navbarCollapse {
     display: none;
     position: fixed;
-    top: 80px;
+    top: 90px;
     left: 0;
     width: 300px;
     height: 100%;
@@ -104,21 +104,9 @@
 .navbarNav {
   margin: 0 auto;
   display: flex;
-  flex-direction: column;
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
-}
-
-@media (max-width: 991px) {
-  .navbarNav {
-    background-color: #fafaf2;
-    padding: 1rem 1rem 5.5rem !important;
-    height: 100% !important;
-    width: 100% !important;
-    overflow-y: auto !important;
-    margin-left: 0;
-  }
 }
 
 .navItem {
@@ -126,12 +114,6 @@
   height: 91px;
   display: flex;
   align-items: center;
-}
-
-@media (min-width: 992px) {
-  .navbarNav {
-    flex-direction: row;
-  }
 }
 
 .navLink {
@@ -149,17 +131,29 @@
   opacity: 0.8;
 }
 
+@media (max-width: 991px) {
+  .navbarNav {
+    background-color: #fafaf2;
+    padding: 1rem 1rem 5.5rem !important;
+    height: 100% !important;
+    width: 100% !important;
+    overflow-y: auto !important;
+    margin-left: 0;
+    flex-direction: column;
+  }
+  .navItem {
+    height: unset;
+    display: block;
+  }
+  .navLink {
+    padding: 0.5rem 0.25rem !important;
+    width: 100%;
+  }
+}
+
 @media (max-width: 1299px) {
   .navLink {
     font-size: 16px !important;
-  }
-}
-@media (max-width: 991px) {
-  .navLink {
-    padding: 0.5rem 0.25rem !important;
-  }
-  .navLink img {
-    display: none;
   }
 }
 
@@ -199,12 +193,18 @@
   transition: all 0.2s ease-in-out;
 }
 
+@media (max-width: 1100px) {
+  .signInBtn {
+    display: none !important;
+  }
+}
+
 @media (max-width: 991px) {
   .menuBackdrop {
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 98;
     display: flex !important;
-    top: 80px;
+    top: 90px;
     backdrop-filter: blur(3px);
   }
 }
@@ -219,15 +219,27 @@
   transition: opacity 0.2s;
 }
 
-@media (max-width: 991px) {
-  .mainMegaMenu {
-    display: none;
-  }
-}
-
 .mainMegaMenu.active {
   visibility: visible;
   opacity: 1;
+}
+
+@media (max-width: 991px) {
+  .mainMegaMenu {
+    max-height: 100%;
+    left: 0 !important;
+    top: unset !important;
+    right: unset !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+    max-width: 300px !important;
+    overflow-x: hidden;
+  }
+  li:hover .mainMegaMenu,
+  li:hover .smallMenu {
+    position: relative !important;
+    width: 100%;
+  }
 }
 
 .smallMenu {
@@ -321,4 +333,10 @@
 }
 .showSubMenu.active {
   display: block;
+}
+
+@media (max-width: 991px) {
+  .showSubMenu.hidden {
+    display: none !important;
+  }
 }

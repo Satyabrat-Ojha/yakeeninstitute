@@ -17,7 +17,7 @@ const OurCenters = () => {
       <div
         className={`${styles.mainMegaMenu} ${hovered ? styles.active : ""} ${
           styles.smallMenu
-        } position-fixed bg-white mx-auto pb-3 border-bottom`}
+        } position-fixed bg-white mx-md-auto pb-3 border-bottom`}
       >
         <div className={styles.megaMenuList}>
           <ul className={`list-unstyled ${styles.smallList}`}>
