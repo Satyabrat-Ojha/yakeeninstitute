@@ -1,5 +1,7 @@
 import styles from "./Navbar.module.css";
 import { useState } from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
 
 const OnlineTraining = () => {
   const [hovered, setHovered] = useState(false);
@@ -28,29 +30,29 @@ const OnlineTraining = () => {
             <li
               className={`${
                 styles.subMenu
-              } d-flex justify-content-around align-items-center cursor-pointer label-color-1 border-bottom ${
+              } d-flex justify-content-between align-items-center cursor-pointer label-color-1 border-bottom ${
                 center === "Ghaziabad" ? styles.active : ""
               }`}
               onMouseEnter={() => setCenter("Ghaziabad")}
               onClick={() => setHidden(false)}
             >
               Ghaziabad{" "}
-              <span className="ms-1 fs-13 arrow-right d-lg-block d-none">
-                <i className="fas fa-chevron-right"></i>
+              <span className={`ms-1 ${styles.arrowRight} d-lg-block d-none`}>
+                <FontAwesomeIcon icon={faChevronRight} />
               </span>
             </li>
             <li
               className={`${
                 styles.subMenu
-              } d-flex justify-content-around align-items-center cursor-pointer label-color-1 border-bottom ${
+              } d-flex justify-content-between align-items-center cursor-pointer label-color-1 border-bottom ${
                 center === "Lajpat Nagar" ? styles.active : ""
               }`}
               onMouseEnter={() => setCenter("Lajpat Nagar")}
               onClick={() => setHidden(false)}
             >
               Lajpat Nagar{" "}
-              <span className="ms-1 fs-13 arrow-right d-lg-block d-none">
-                <i className="fas fa-chevron-right"></i>
+              <span className={`ms-1 ${styles.arrowRight} d-lg-block d-none`}>
+                <FontAwesomeIcon icon={faChevronRight} />
               </span>
             </li>
           </ul>
