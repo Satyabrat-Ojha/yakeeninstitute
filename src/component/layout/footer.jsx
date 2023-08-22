@@ -100,7 +100,7 @@ const quickList = [
   },
   {
     text: "Privacy Policy",
-    link: "#",
+    link: "https://docs.google.com/document/d/14Fz3aLjjIpEgL259qS5ozougFpF6hLhYn96Udg_K4pk/edit?usp=sharing",
   },
   {
     text: "Terms of Use",
@@ -113,8 +113,8 @@ const tweetList = [
     iconName: "icofont-twitter",
     desc: (
       <p>
-        Aminur islam <a href="#">@YakeenTheLearningInstitute  #HTML_Template</a> Grab your
-        item, 50% Big Sale Offer !!
+        Aminur islam <a href="#">@YakeenTheLearningInstitute #HTML_Template</a>{" "}
+        Grab your item, 50% Big Sale Offer !!
       </p>
     ),
   },
@@ -122,8 +122,8 @@ const tweetList = [
     iconName: "icofont-twitter",
     desc: (
       <p>
-        Somrat islam <a href="#">@YakeenTheLearningInstitute #HTML_Template</a> Grab your
-        item, 50% Big Sale Offer !!
+        Somrat islam <a href="#">@YakeenTheLearningInstitute #HTML_Template</a>{" "}
+        Grab your item, 50% Big Sale Offer !!
       </p>
     ),
   },
