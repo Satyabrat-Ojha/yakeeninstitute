@@ -54,7 +54,7 @@ const Admission = () => {
     setDoc(docRef, data)
       .then(() => {
         alert("Document has been added successfully");
-        navigate("/");
+        navigate("https://pmny.in/pIrjJakiOaM0");
       })
       .catch((error) => {
         console.log(error);
@@ -208,8 +208,7 @@ const Admission = () => {
                 onChange={() => setGender("Female")}
                 className={styles.dot2}
               />
-        
-        
+
               <span className={styles.genderTitle}>Gender</span>
               <div className={styles.category}>
                 <label for="dot-1">
@@ -220,7 +219,6 @@ const Admission = () => {
                   <span className={`${styles.dot} ${styles.two}`}></span>
                   <span className={styles.gender}>Female</span>
                 </label>
-                
               </div>
             </div>
             <div className={styles.courseSelection}>
