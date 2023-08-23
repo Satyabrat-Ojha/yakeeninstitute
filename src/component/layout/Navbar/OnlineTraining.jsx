@@ -1,5 +1,6 @@
 import styles from "./Navbar.module.css";
 import { useState } from "react";
+import UpArrow from "./UpArrow.svg";
 
 const OnlineTraining = () => {
   const [hovered, setHovered] = useState(false);
@@ -11,8 +12,7 @@ const OnlineTraining = () => {
       onMouseLeave={() => setHovered(false)}
     >
       <a className={styles.navLink}>
-        Online Training{" "}
-        <img src="https://www.wscubetech.com/images/up-arrow.svg" alt="arrow" />
+        Online Training <img src={UpArrow} alt="arrow" />
       </a>
       <div
         className={`${styles.mainMegaMenu} ${
@@ -27,19 +27,13 @@ const OnlineTraining = () => {
               </div>
               <ul className="list-unstyled">
                 <li>
-                  <a href="#" title="Web Development Course">
-                    Web Development Course
-                  </a>
+                  <a title="Web Development Course">Web Development Course</a>
                 </li>
                 <li>
-                  <a href="#" title="WordPress Course">
-                    WordPress Course
-                  </a>
+                  <a title="WordPress Course">WordPress Course</a>
                 </li>
                 <li>
-                  <a href="#" title="MERN Stack Course">
-                    MERN Stack Course
-                  </a>
+                  <a title="MERN Stack Course">MERN Stack Course</a>
                 </li>
               </ul>
             </div>
@@ -49,19 +43,13 @@ const OnlineTraining = () => {
               </div>
               <ul class="list-unstyled">
                 <li>
-                  <a href="#" title="Data Science Course">
-                    Data Science Course
-                  </a>
+                  <a title="Data Science Course">Data Science Course</a>
                 </li>
                 <li>
-                  <a href="#" title="Data Analytics Course">
-                    Data Analytics Course
-                  </a>
+                  <a title="Data Analytics Course">Data Analytics Course</a>
                 </li>
                 <li>
-                  <a href="#" title="Python Course">
-                    Python Course
-                  </a>
+                  <a title="Python Course">Python Course</a>
                 </li>
               </ul>
             </div>
@@ -73,14 +61,12 @@ const OnlineTraining = () => {
               </div>
               <ul className="list-unstyled">
                 <li>
-                  <a href="#" title="Web Development Course">
+                  <a title="Web Development Course">
                     Android App Development Course
                   </a>
                 </li>
                 <li>
-                  <a href="#" title="WordPress Course">
-                    Flutter App Development Course
-                  </a>
+                  <a title="WordPress Course">Flutter App Development Course</a>
                 </li>
               </ul>
             </div>
@@ -90,12 +76,10 @@ const OnlineTraining = () => {
               </div>
               <ul className="list-unstyled">
                 <li>
-                  <a href="#" title="Ethical Hacking Course">
-                    Ethical Hacking Course
-                  </a>
+                  <a title="Ethical Hacking Course">Ethical Hacking Course</a>
                 </li>
                 <li>
-                  <a href="#" title="Penetration Testing Course">
+                  <a title="Penetration Testing Course">
                     Penetration Testing Course
                   </a>
                 </li>
@@ -109,29 +93,21 @@ const OnlineTraining = () => {
               </div>
               <ul className="list-unstyled">
                 <li>
-                  <a href="#" title="SEO Course">
-                    SEO Course
-                  </a>
+                  <a title="SEO Course">SEO Course</a>
                 </li>
                 <li>
-                  <a href="#" title="Digital Marketing Course">
+                  <a title="Digital Marketing Course">
                     Digital Marketing Course
                   </a>
                 </li>
                 <li>
-                  <a href="#" title="Content Writing Course">
-                    Content Writing Course
-                  </a>
+                  <a title="Content Writing Course">Content Writing Course</a>
                 </li>
                 <li>
-                  <a href="#" title="Full Online Ads Course">
-                    Full Online Ads Course
-                  </a>
+                  <a title="Full Online Ads Course">Full Online Ads Course</a>
                 </li>
                 <li>
-                  <a href="#" title="YouTube Course">
-                    YouTube Course
-                  </a>
+                  <a title="YouTube Course">YouTube Course</a>
                 </li>
               </ul>
             </div>

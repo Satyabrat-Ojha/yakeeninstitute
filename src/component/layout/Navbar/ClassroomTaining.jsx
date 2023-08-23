@@ -2,6 +2,7 @@ import styles from "./Navbar.module.css";
 import { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
+import UpArrow from "./UpArrow.svg";
 
 const OnlineTraining = () => {
   const [hovered, setHovered] = useState(false);
@@ -15,8 +16,7 @@ const OnlineTraining = () => {
       onMouseLeave={() => setHovered(false)}
     >
       <a className={styles.navLink}>
-        Classroom Training{" "}
-        <img src="https://www.wscubetech.com/images/up-arrow.svg" alt="arrow" />
+        Classroom Training <img src={UpArrow} alt="arrow" />
       </a>
       <div
         className={`${styles.mainMegaMenu} ${
@@ -71,82 +71,36 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled ">
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/web-development-training-certification-course-jodhpur.html"
-                        title="Website Development Course"
-                      >
+                      <a title="Website Development Course">
                         Website Development Course
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/wordpress-training-course-jodhpur.html"
-                        title="Wordpress Course"
-                      >
-                        Wordpress Course
-                      </a>
+                      <a title="Wordpress Course">Wordpress Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/php-training-certification-course-jodhpur.html"
-                        title="PHP Course"
-                      >
-                        PHP Course
-                      </a>
+                      <a title="PHP Course">PHP Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/javascript-training-certification-course-jodhpur.html"
-                        title="JavaScript Course"
-                      >
-                        JavaScript Course
-                      </a>
+                      <a title="JavaScript Course">JavaScript Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/bootstrap-training-certification-course-jodhpur.html"
-                        title="Bootstrap Course"
-                      >
-                        Bootstrap Course
-                      </a>
+                      <a title="Bootstrap Course">Bootstrap Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/laravel-training-jodhpur.html"
-                        title="Laravel Course"
-                      >
-                        Laravel Course
-                      </a>
+                      <a title="Laravel Course">Laravel Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/nodejs-development-training-certification-jodhpur.html"
-                        title="Node JS Course"
-                      >
-                        Node JS Course
-                      </a>
+                      <a title="Node JS Course">Node JS Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/angularjs-development-training-certification-jodhpur.html"
-                        title="Angular JS Course "
-                      >
-                        Angular JS Course
-                      </a>
+                      <a title="Angular JS Course ">Angular JS Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/reactjs-training-course-jodhpur.html"
-                        title="React JS Course"
-                      >
-                        React JS Course
-                      </a>
+                      <a title="React JS Course">React JS Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/mern-stack-training-jodhpur.html"
-                        title="Mern Stack Training Jodhpur"
-                      >
+                      <a title="Mern Stack Training Jodhpur">
                         Mern Stack Course
                       </a>
                     </li>
@@ -160,34 +114,16 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/python-training-jodhpur.html"
-                        title="Python Course"
-                      >
-                        Python Course
-                      </a>
+                      <a title="Python Course">Python Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/java-j2se-training-certification-course-jodhpur.html"
-                        title="Java Course"
-                      >
-                        Java Course
-                      </a>
+                      <a title="Java Course">Java Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/c-programming-development-training-certification-jodhpur.html"
-                        title="C Programming Course"
-                      >
-                        C Programming Course
-                      </a>
+                      <a title="C Programming Course">C Programming Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/cpp-programming-development-training-certification-jodhpur.html"
-                        title="C++ Programming Course"
-                      >
+                      <a title="C++ Programming Course">
                         C++ Programming Course
                       </a>
                     </li>
@@ -199,36 +135,20 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/seo-training-course-jodhpur.html"
-                        title="SEO Course"
-                      >
-                        SEO Course
-                      </a>
+                      <a title="SEO Course">SEO Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/digital-marketing-course-jodhpur.html"
-                        title="Digital Marketing Course"
-                      >
+                      <a title="Digital Marketing Course">
                         Digital Marketing Course
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/content-writing-course-jodhpur.html"
-                        title="Content Writing Course"
-                      >
+                      <a title="Content Writing Course">
                         Content Writing Course
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/google-ads-training-course-jodhpur.html"
-                        title="Google Ads Course"
-                      >
-                        Google Ads Course
-                      </a>
+                      <a title="Google Ads Course">Google Ads Course</a>
                     </li>
                   </ul>
                 </div>
@@ -240,18 +160,12 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/android-development-training-jodhpur.html"
-                        title="Android App Development Course"
-                      >
+                      <a title="Android App Development Course">
                         Android App Development Course
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/flutter-training-course-jodhpur.html"
-                        title="Flutter App Development Course"
-                      >
+                      <a title="Flutter App Development Course">
                         Flutter App Development Course
                       </a>
                     </li>
@@ -265,26 +179,15 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/data-science-training-course-jodhpur.html"
-                        title="Data Science Course"
-                      >
-                        Data Science Course
-                      </a>
+                      <a title="Data Science Course">Data Science Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/graphic-designing-course-jodhpur.html"
-                        title="Graphic Designing Course"
-                      >
+                      <a title="Graphic Designing Course">
                         Graphic Designing Course
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/data-analytics-course-jodhpur.html"
-                        title="Data Analytics Course "
-                      >
+                      <a title="Data Analytics Course ">
                         Data Analytics Course{" "}
                       </a>
                     </li>
@@ -296,18 +199,12 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/ethical-hacking-course-jodhpur.html"
-                        title="Ethical Hacking Course"
-                      >
+                      <a title="Ethical Hacking Course">
                         Ethical Hacking Course
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/penetration-testing-course-jodhpur.html"
-                        title="Penetration Testing Course"
-                      >
+                      <a title="Penetration Testing Course">
                         Penetration Testing Course
                       </a>
                     </li>
@@ -331,100 +228,39 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled ">
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/web-development-course-jaipur.html"
-                        title="Web Development Course "
-                      >
+                      <a title="Web Development Course ">
                         Web Development Course{" "}
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/mern-stack-development-course-jaipur.html"
-                        title="MERN Stack Course "
-                      >
-                        MERN Stack Course{" "}
-                      </a>
+                      <a title="MERN Stack Course ">MERN Stack Course </a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/web-designing-course-jaipur.html"
-                        title="Web Designing Course "
-                      >
-                        Web Designing Course
-                      </a>
+                      <a title="Web Designing Course ">Web Designing Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/laravel-training-jaipur.html"
-                        title="Laravel Training"
-                      >
-                        {" "}
-                        Laravel Training
-                      </a>
+                      <a title="Laravel Training"> Laravel Training</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/reactjs-training-jaipur.html"
-                        title=" ReactJs Training"
-                      >
-                        {" "}
-                        ReactJs Training
-                      </a>
+                      <a title=" ReactJs Training"> ReactJs Training</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/php-training-jaipur.html"
-                        title="PHP  Training"
-                      >
-                        {" "}
-                        PHP Training
-                      </a>
+                      <a title="PHP  Training"> PHP Training</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/angularjs-training-jaipur.html"
-                        title="AngularJs Training"
-                      >
-                        {" "}
-                        AngularJs Training
-                      </a>
+                      <a title="AngularJs Training"> AngularJs Training</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/nodejs-training-jaipur.html"
-                        title="NodeJs Training"
-                      >
-                        {" "}
-                        NodeJs Training
-                      </a>
+                      <a title="NodeJs Training"> NodeJs Training</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/javascript-training-jaipur.html"
-                        title="Javascript Training"
-                      >
-                        {" "}
-                        Javascript Training
-                      </a>
+                      <a title="Javascript Training"> Javascript Training</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/html-training-jaipur.html"
-                        title="HTML Training"
-                      >
-                        {" "}
-                        HTML Training
-                      </a>
+                      <a title="HTML Training"> HTML Training</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/wordpress-training-course-jaipur.html"
-                        title="Wordpress Training"
-                      >
-                        {" "}
-                        Wordpress Training
-                      </a>
+                      <a title="Wordpress Training"> Wordpress Training</a>
                     </li>
                   </ul>
                 </div>
@@ -438,35 +274,16 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/python-training-course-jaipur.html"
-                        title="Python Course"
-                      >
-                        {" "}
-                        Python Course
-                      </a>
+                      <a title="Python Course"> Python Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/java-training-jaipur.html"
-                        title="Java Course"
-                      >
-                        Java Course
-                      </a>
+                      <a title="Java Course">Java Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/c-language-course-jaipur.html"
-                        title="C Programming Course"
-                      >
-                        C Programming Course
-                      </a>
+                      <a title="C Programming Course">C Programming Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/cpp-course-jaipur.html"
-                        title="C++ Programming Course"
-                      >
+                      <a title="C++ Programming Course">
                         C++ Programming Course
                       </a>
                     </li>
@@ -480,38 +297,18 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/seo-course-jaipur.html"
-                        title="SEO Course"
-                      >
-                        SEO Course
-                      </a>
+                      <a title="SEO Course">SEO Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/digital-marketing-course-jaipur.html"
-                        title="Digital Marketing Course"
-                      >
+                      <a title="Digital Marketing Course">
                         Digital Marketing Course
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/social-media-marketing-course-jaipur.html"
-                        title="Social Media Course"
-                      >
-                        {" "}
-                        Social Media Course
-                      </a>
+                      <a title="Social Media Course"> Social Media Course</a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/google-ads-training-course-jaipur.html"
-                        title="Google Ads Course"
-                      >
-                        {" "}
-                        Google Ads Course{" "}
-                      </a>
+                      <a title="Google Ads Course"> Google Ads Course </a>
                     </li>
                   </ul>
                 </div>
@@ -525,18 +322,12 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/data-analytics-course-jaipur.html"
-                        title="Data Analytics Course"
-                      >
+                      <a title="Data Analytics Course">
                         Data Analytics Course{" "}
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/graphic-designing-course-jaipur.html"
-                        title="Graphic Designing Course"
-                      >
+                      <a title="Graphic Designing Course">
                         Graphic Designing Course{" "}
                       </a>
                     </li>
@@ -550,18 +341,12 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/penetration-testing-course-jaipur.html"
-                        title="Penetration Testing Course"
-                      >
+                      <a title="Penetration Testing Course">
                         Penetration Testing Course
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="https://www.wscubetech.com/ethical-hacking-course-jaipur.html"
-                        title="Ethical Hacking Course"
-                      >
+                      <a title="Ethical Hacking Course">
                         {" "}
                         Ethical Hacking Course
                       </a>

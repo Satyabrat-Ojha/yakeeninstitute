@@ -1,5 +1,6 @@
 import styles from "./Navbar.module.css";
 import { useState } from "react";
+import UpArrow from "./UpArrow.svg";
 
 const OnlineTraining = () => {
   const [hovered, setHovered] = useState(false);
@@ -11,8 +12,7 @@ const OnlineTraining = () => {
       onMouseLeave={() => setHovered(false)}
     >
       <a className={styles.navLink}>
-        Learners Zone{" "}
-        <img src="https://www.wscubetech.com/images/up-arrow.svg" alt="arrow" />
+        Learners Zone <img src={UpArrow} alt="arrow" />
       </a>
       <div
         className={`${styles.mainMegaMenu} ${
@@ -27,94 +27,58 @@ const OnlineTraining = () => {
               </div>
               <ul className={`${styles.largeList} list-unstyled`}>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/html-interview-questions-answers/">
-                    HTML
-                  </a>
+                  <a>HTML</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/seo-interview-questions/">
-                    SEO
-                  </a>
+                  <a>SEO</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/php-interview-questions-answers/">
-                    PHP
-                  </a>
+                  <a>PHP</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/interview-question-html5">
-                    HTML5
-                  </a>
+                  <a>HTML5</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/css-interview-questions-answers">
-                    CSS
-                  </a>
+                  <a>CSS</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/interview-question-css3">
-                    CSS3
-                  </a>
+                  <a>CSS3</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/javascript-interview-questions/">
-                    JAVASCRIPT
-                  </a>
+                  <a>JAVASCRIPT</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/interview-question-android">
-                    ANDROID
-                  </a>
+                  <a>ANDROID</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/mysql-interview-questions-answers/">
-                    MYSQL
-                  </a>
+                  <a>MYSQL</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/interview-question-jquery">
-                    JQUERY
-                  </a>
+                  <a>JQUERY</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/c-programming-interview-questions-answers/">
-                    C
-                  </a>
+                  <a>C</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/interview-question-cpp">
-                    CPP
-                  </a>
+                  <a>CPP</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/content-writing-interview-questions-answers/">
-                    Content Writing
-                  </a>
+                  <a>Content Writing</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/reactjs-interview-questions-answers/">
-                    ReactJS
-                  </a>
+                  <a>ReactJS</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/top-65-django-interview-questions-and-answers/">
-                    Django
-                  </a>
+                  <a>Django</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/python-interview-questions-and-answers/">
-                    Python
-                  </a>
+                  <a>Python</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/digital-marketing-interview-questions-answers/">
-                    Digital Marketing
-                  </a>
+                  <a>Digital Marketing</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/blog/top-email-marketing-interview-questions-answers/">
-                    Email Marketing
-                  </a>
+                  <a>Email Marketing</a>
                 </li>
               </ul>
             </div>
@@ -128,46 +92,40 @@ const OnlineTraining = () => {
               </div>
               <ul className={`${styles.largeList} list-unstyled`}>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-html">HTML</a>
+                  <a>HTML</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-seo">SEO</a>
+                  <a>SEO</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-php">PHP</a>
+                  <a>PHP</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-html5">HTML5</a>
+                  <a>HTML5</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-css">CSS</a>
+                  <a>CSS</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-css3">CSS3</a>
+                  <a>CSS3</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-javascript">
-                    JAVASCRIPT
-                  </a>
+                  <a>JAVASCRIPT</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-android">
-                    ANDROID
-                  </a>
+                  <a>ANDROID</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-mysql">MYSQL</a>
+                  <a>MYSQL</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-jquery">
-                    JQUERY
-                  </a>
+                  <a>JQUERY</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-c">C</a>
+                  <a>C</a>
                 </li>
                 <li>
-                  <a href="https://www.wscubetech.com/quiz-test-cpp">CPP</a>
+                  <a>CPP</a>
                 </li>
               </ul>
             </div>
@@ -181,60 +139,25 @@ const OnlineTraining = () => {
               </div>
               <ul className="list-unstyled">
                 <li>
-                  <a
-                    href="https://www.wscubetech.com/bca-internship-jodhpur.html"
-                    title="BCA Internship"
-                  >
-                    BCA Internship{" "}
-                  </a>
+                  <a title="BCA Internship">BCA Internship </a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.wscubetech.com/mca-internship-training-institute-jodhpur.html"
-                    title="MCA Internship"
-                  >
-                    MCA Internship
-                  </a>
+                  <a title="MCA Internship">MCA Internship</a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.wscubetech.com/bsc-it-internship-training-institute-jodhpur.html"
-                    title="BSc Internship"
-                  >
-                    BSc Internship
-                  </a>
+                  <a title="BSc Internship">BSc Internship</a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.wscubetech.com/msc-it-internship-training-institute-jodhpur.html"
-                    title="MSc Internship"
-                  >
-                    MSc Internship
-                  </a>
+                  <a title="MSc Internship">MSc Internship</a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.wscubetech.com/btech-internship-jodhpur.html"
-                    title="BTech Internship"
-                  >
-                    BTech Internship{" "}
-                  </a>
+                  <a title="BTech Internship">BTech Internship </a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.wscubetech.com/polytechnic-internship-training-institute-jodhpur.html"
-                    title="Polytechnic Internship"
-                  >
-                    Polytechnic Internship
-                  </a>
+                  <a title="Polytechnic Internship">Polytechnic Internship</a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.wscubetech.com/internship-summer-training-jodhpur.html"
-                    title="Summer Training"
-                  >
-                    Summer Training
-                  </a>
+                  <a title="Summer Training">Summer Training</a>
                 </li>
               </ul>
             </div>

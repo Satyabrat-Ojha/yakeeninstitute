@@ -1,5 +1,6 @@
 import styles from "./Navbar.module.css";
 import { useState } from "react";
+import UpArrow from "./UpArrow.svg";
 
 const OurCenters = () => {
   const [hovered, setHovered] = useState(false);
@@ -11,8 +12,7 @@ const OurCenters = () => {
       onMouseLeave={() => setHovered(false)}
     >
       <a className={styles.navLink}>
-        More{" "}
-        <img src="https://www.wscubetech.com/images/up-arrow.svg" alt="arrow" />
+        More <img src={UpArrow} alt="arrow" />
       </a>
       <div
         className={`${styles.mainMegaMenu} ${hovered ? styles.active : ""} ${
@@ -22,7 +22,9 @@ const OurCenters = () => {
         <div className={styles.megaMenuList}>
           <ul className={`list-unstyled ${styles.smallList}`}>
             <li>
-              <a className="text-left">About Us</a>
+              <a className="text-left" href="/about">
+                About Us
+              </a>
             </li>
             <li>
               <a className="text-left">Blog</a>
