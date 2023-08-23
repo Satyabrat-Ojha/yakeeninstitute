@@ -1,0 +1,176 @@
+.AboutPageIntro {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin: 40px 0;
+  padding: 0 20px;
+  height: 100%;
+}
+.AboutPageIntro .AboutPageLeft {
+  height: 100%;
+  max-width: 630px;
+}
+
+.AboutPageIntro .AboutPageLeft h1 {
+  font-size: 50px;
+  font-weight: 400;
+  text-align: start;
+}
+
+.AboutPageIntro .AboutPageLeft p {
+  line-height: 1.5;
+  margin-top: 15px;
+  font-size: 25px;
+  letter-spacing: 0.2px;
+  color: rgb(99, 98, 98);
+}
+.AboutPageImg {
+  margin: 15px 0;
+  width: 800px;
+  /* height: 300px; */
+}
+
+.AboutPageLeft button {
+  margin: 25px 4px 0 4px;
+  padding: 15px 30px;
+  background-color: rgb(17, 84, 201);
+  cursor: pointer;
+  border: none;
+  text-transform: uppercase;
+  color: white;
+
+  font-weight: bold;
+}
+
+.template {
+  width: 330px;
+  padding: 20px;
+  height: 100%;
+  box-shadow: 0px 0px 8px 0px rgb(167, 162, 162);
+}
+.template .tempp {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.itm1 {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  color: black;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.itm1:hover i {
+  color: rgb(18, 99, 197);
+}
+i {
+  font-size: 35px;
+}
+.itm1 .detail {
+  width: 200px;
+}
+.itm1 .detail h3 {
+  font-weight: 400;
+  font-size: 1.3rem;
+}
+.itm1 .detail p {
+  margin-top: 3px;
+  color: rgb(83, 83, 83);
+  font-size: 15px;
+}
+.template h4 {
+  cursor: pointer;
+  color: rgb(29, 95, 236);
+  margin-top: 15px;
+  font-size: 16px;
+}
+@media screen and (max-width: 1400px) {
+  .AboutPageImg {
+    width: 700px;
+    /* height: 300px; */
+  }
+}
+@media screen and (max-width: 1100px) {
+  .AboutPageImg {
+    width: 600px;
+    /* height: 250px; */
+  }
+  .AboutPageIntro .AboutPageLeft h1 {
+    font-size: 45px;
+  }
+  .AboutPageIntro .AboutPageLeft p {
+    font-size: 20px;
+  }
+  .AboutPageLeft button {
+    margin: 25px 4px 0 4px;
+    padding: 15px 20px;
+  }
+}
+@media screen and (max-width: 963px) {
+  .AboutPageIntro {
+    flex-direction: column;
+    align-items: center;
+  }
+  .AboutPageImg-stack {
+    margin: 50px 0;
+  }
+  .AboutPageIntro .AboutPageLeft {
+    text-align: center;
+  }
+  .AboutPageIntro .AboutPageLeft h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+  .AboutPageIntro .AboutPageLeft p {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 660px) {
+  .AboutPageImg {
+    width: 500px;
+    /* height: 220px; */
+  }
+  .AboutPageIntro .AboutPageLeft h1 {
+    font-size: 35px;
+  }
+  .AboutPageIntro .AboutPageLeft p {
+    font-size: 17px;
+    margin-top: 15px;
+  }
+  .AboutPageLeft button {
+    padding: 13px 18px;
+  }
+}
+@media screen and (max-width: 510px) {
+  .AboutPageImg {
+    width: 420px;
+    /* height: 200px; */
+  }
+}
+@media screen and (max-width: 430px) {
+  .AboutPageImg {
+    width: 320px;
+    /* height: 150px; */
+  }
+  .AboutPageIntro .AboutPageLeft h1 {
+    font-size: 30px;
+  }
+  .AboutPageIntro .AboutPageLeft p {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 330px) {
+  .AboutPageImg {
+    width: 250px;
+    /* height: 120px; */
+  }
+  .AboutPageIntro .AboutPageLeft h1 {
+    font-size: 26px;
+  }
+  .AboutPageIntro .AboutPageLeft p {
+    font-size: 14px;
+    margin-top: 4px;
+  }
+}

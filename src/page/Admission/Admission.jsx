@@ -174,7 +174,7 @@ const Admission = () => {
               <div className={styles.inputBox}>
                 <span className={styles.details}>Course Batch Timing </span>
                 <input
-                  type="text"
+                  type="time"
                   placeholder="Enter timing"
                   value={courseBatchTiming}
                   onChange={(e) => setCourseBatchTiming(e.target.value)}

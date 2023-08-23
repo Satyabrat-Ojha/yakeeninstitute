@@ -129,10 +129,10 @@ form .button input:hover {
   form .category {
     width: 100%;
   }
-  .content form .userDetails {
+  /* .content form .userDetails {
     max-height: 300px;
     overflow-y: scroll;
-  }
+  } */
   .userDetails::-webkit-scrollbar {
     width: 5px;
   }

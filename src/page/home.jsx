@@ -4,7 +4,7 @@ import Footer from "../component/layout/footer";
 import Header from "../component/layout/Navbar/Navbar";
 import About from "../component/section/about";
 import Achievement from "../component/section/achievement";
-import Banner from "../component/section/banner";
+import Banner from "../component/section/Banner/Banner";
 import Blog from "../component/section/blog";
 import Category from "../component/section/category";
 import Course from "../component/section/course";
