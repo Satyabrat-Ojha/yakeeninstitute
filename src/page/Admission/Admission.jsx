@@ -208,13 +208,8 @@ const Admission = () => {
                 onChange={() => setGender("Female")}
                 className={styles.dot2}
               />
-              <input
-                type="radio"
-                name="gender"
-                id="dot-3"
-                onChange={() => setGender("Prefer not to say")}
-                className={styles.dot3}
-              />
+        
+        
               <span className={styles.genderTitle}>Gender</span>
               <div className={styles.category}>
                 <label for="dot-1">
@@ -225,10 +220,7 @@ const Admission = () => {
                   <span className={`${styles.dot} ${styles.two}`}></span>
                   <span className={styles.gender}>Female</span>
                 </label>
-                <label for="dot-3">
-                  <span className={`${styles.dot} ${styles.three}`}></span>
-                  <span className={styles.gender}>Prefer not to say</span>
-                </label>
+                
               </div>
             </div>
             <div className={styles.courseSelection}>
