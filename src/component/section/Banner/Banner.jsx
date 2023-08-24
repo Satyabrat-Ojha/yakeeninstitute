@@ -34,7 +34,10 @@ const Banner = () => {
 
       <div className={styles.template}>
         <p className={styles.tempp}>popular courses</p>
-        <div className={styles.itm1}>
+        <Link
+          to="/course-single?name=Graphic%20Design%20Tranning"
+          className={styles.itm1}
+        >
           <div className={styles.icon}>
             <img src={img1} width="45px" />
           </div>
@@ -45,8 +48,11 @@ const Banner = () => {
           <div className={styles.icons}>
             <i>&#129170;</i>
           </div>
-        </div>
-        <div className={styles.itm1}>
+        </Link>
+        <Link
+          to="/course-single?name=Web%20Development%20Tranning"
+          className={styles.itm1}
+        >
           <div className={styles.icon}>
             <img src={img3} width="45px" />
           </div>
@@ -57,8 +63,11 @@ const Banner = () => {
           <div className={styles.icons}>
             <i>&#129170;</i>{" "}
           </div>
-        </div>
-        <div className={styles.itm1}>
+        </Link>
+        <Link
+          to="/course-single?name=Video%20Editing%20Tranning"
+          className={styles.itm1}
+        >
           <div className={styles.icon}>
             <img src={img4} width="45px" />
           </div>
@@ -69,8 +78,11 @@ const Banner = () => {
           <div className={styles.icons}>
             <i>&#129170;</i>
           </div>
-        </div>
-        <div className={styles.itm1}>
+        </Link>
+        <Link
+          to="/course-single?name=Content%20Writing%20Tranning"
+          className={styles.itm1}
+        >
           <div className={styles.icon}>
             <img src={img8} width="45px" />
           </div>
@@ -81,8 +93,11 @@ const Banner = () => {
           <div className={styles.icons}>
             <i>&#129170;</i>
           </div>
-        </div>
-        <div className={styles.itm1}>
+        </Link>
+        <Link
+          to="/course-single?name=Digital%20Marketing%20Tranning"
+          className={styles.itm1}
+        >
           <div className={styles.icon}>
             <img src={img2} width="45px" />
           </div>
@@ -93,7 +108,7 @@ const Banner = () => {
           <div className={styles.icons}>
             <i>&#129170;</i>
           </div>
-        </div>
+        </Link>
         <Link to="/course">
           <h4>EXPLORE ALL COURSES</h4>
         </Link>
