@@ -5,7 +5,6 @@ const desc =
   "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.";
 const courseTitle = "Courses";
 const quickTitle = "Quick Links";
-const tweetTitle = "Recent Tweets";
 
 const addressList = [
   {
@@ -25,28 +24,24 @@ const addressList = [
 const socialList = [
   {
     iconName: "icofont-facebook",
-    siteLink: "#",
+    siteLink: "https://www.facebook.com/yakeenlearning",
     className: "facebook",
   },
   {
     iconName: "icofont-twitter",
-    siteLink: "#",
+    siteLink: "https://twitter.com/yakeeninstitute",
     className: "twitter",
   },
   {
     iconName: "icofont-linkedin",
-    siteLink: "#",
+    siteLink:
+      "https://www.linkedin.com/company/yakeen-institute/?originalSubdomain=in",
     className: "linkedin",
   },
   {
-    iconName: "icofont-instagram",
-    siteLink: "#",
+    iconName: "icofont-youtube-play",
+    siteLink: "https://www.youtube.com/@yakeenlearning/videos",
     className: "instagram",
-  },
-  {
-    iconName: "icofont-pinterest",
-    siteLink: "#",
-    className: "pinterest",
   },
 ];
 
@@ -104,46 +99,6 @@ const quickList = [
   },
   {
     text: "Terms of Use",
-    link: "#",
-  },
-];
-
-const tweetList = [
-  {
-    iconName: "icofont-twitter",
-    desc: (
-      <p>
-        Aminur islam <a href="#">@YakeenTheLearningInstitute #HTML_Template</a>{" "}
-        Grab your item, 50% Big Sale Offer !!
-      </p>
-    ),
-  },
-  {
-    iconName: "icofont-twitter",
-    desc: (
-      <p>
-        Somrat islam <a href="#">@YakeenTheLearningInstitute #HTML_Template</a>{" "}
-        Grab your item, 50% Big Sale Offer !!
-      </p>
-    ),
-  },
-];
-
-const footerbottomList = [
-  {
-    text: "Faculty",
-    link: "#",
-  },
-  {
-    text: "Staff",
-    link: "#",
-  },
-  {
-    text: "Students",
-    link: "#",
-  },
-  {
-    text: "Alumni",
     link: "#",
   },
 ];
@@ -234,7 +189,11 @@ const FooterThree = () => {
                       <ul className="lab-ul social-icons">
                         {socialList.map((val, i) => (
                           <li key={i}>
-                            <a href={val.siteLink} className={val.className}>
+                            <a
+                              href={val.siteLink}
+                              target="_blank"
+                              className={val.className}
+                            >
                               <i className={val.iconName}></i>
                             </a>
                           </li>
@@ -248,18 +207,6 @@ const FooterThree = () => {
           </div>
         </div>
       </div>
-      {/* <div className="footer-bottom">
-                <div className="container">
-                    <div className="section-wrapper">
-                        <p>&copy; 2022 <Link to="/">Edukon</Link> Designed by <a href="https://themeforest.net/user/CodexCoder" target="_blank">CodexCoder</a> </p>
-                        <div className="footer-bottom-list">
-                            {footerbottomList.map((val, i) => (
-                                <a href={val.link} key={i}>{val.text}</a>
-                            ))}
-                        </div>
-                    </div>
-                </div>
-            </div> */}
     </footer>
   );
 };
