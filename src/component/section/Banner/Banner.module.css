@@ -126,6 +126,9 @@ i {
   .AboutPageIntro .AboutPageLeft p {
     font-size: 18px;
   }
+  /* .icons {
+    display: none;
+  } */
 }
 @media screen and (max-width: 660px) {
   .AboutPageImg {

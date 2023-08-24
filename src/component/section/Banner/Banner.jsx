@@ -7,6 +7,8 @@ import img6 from "./06.jpg";
 import img8 from "./08.jpg";
 import Artboard from "./Artboard 1-100.jpg";
 import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCaretRight } from "@fortawesome/free-solid-svg-icons";
 
 const Banner = () => {
   return (
@@ -46,7 +48,7 @@ const Banner = () => {
             <p>Visual Creations at Your Fingertips </p>
           </div>
           <div className={styles.icons}>
-            <i>&#129170;</i>
+            <FontAwesomeIcon icon={faCaretRight} />{" "}
           </div>
         </Link>
         <Link
@@ -61,7 +63,7 @@ const Banner = () => {
             <p>Crafting Digital Experiences with Code</p>
           </div>
           <div className={styles.icons}>
-            <i>&#129170;</i>{" "}
+            <FontAwesomeIcon icon={faCaretRight} />{" "}
           </div>
         </Link>
         <Link
@@ -76,7 +78,7 @@ const Banner = () => {
             <p>Storytelling through Visual Mastery</p>
           </div>
           <div className={styles.icons}>
-            <i>&#129170;</i>
+            <FontAwesomeIcon icon={faCaretRight} />{" "}
           </div>
         </Link>
         <Link
@@ -91,7 +93,7 @@ const Banner = () => {
             <p>Precision in Information Management</p>
           </div>
           <div className={styles.icons}>
-            <i>&#129170;</i>
+            <FontAwesomeIcon icon={faCaretRight} />{" "}
           </div>
         </Link>
         <Link
@@ -106,7 +108,7 @@ const Banner = () => {
             <p>Navigation the Digital Landscape</p>
           </div>
           <div className={styles.icons}>
-            <i>&#129170;</i>
+            <FontAwesomeIcon icon={faCaretRight} />{" "}
           </div>
         </Link>
         <Link to="/course">
