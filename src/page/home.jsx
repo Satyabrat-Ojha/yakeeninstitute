@@ -12,6 +12,7 @@ import Instructor from "../component/section/instructor";
 import Sponsor from "../component/section/sponsor";
 import Student from "../component/section/student";
 import Assistance from "../component/section/Assistance/Assistance";
+import Talk from "../component/section/Talk/Talk";
 
 const Home = () => {
   return (
@@ -27,6 +28,7 @@ const Home = () => {
       <Blog />
       <Achievement />
       {/* <Assistance /> */}
+      <Talk />
       <Footer />
     </Fragment>
   );

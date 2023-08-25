@@ -1,0 +1,168 @@
+.talk {
+  padding: 20px 16px;
+  width: 100%;
+  margin: 0 auto;
+}
+@media only screen and (min-width: 769px) {
+  .talk {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+}
+@media (min-width: 768px) {
+  .talk {
+    max-width: 740px;
+  }
+}
+@media (min-width: 850px) {
+  .talk {
+    max-width: 830px;
+  }
+}
+@media (min-width: 991px) {
+  .talk {
+    max-width: 960px;
+  }
+}
+@media (min-width: 1024px) {
+  .talk {
+    max-width: 1020px;
+  }
+}
+@media (min-width: 1250px) {
+  .talk {
+    max-width: 1220px;
+  }
+}
+@media (min-width: 1366px) {
+  .talk {
+    max-width: 1280px;
+  }
+}
+
+.contactUs {
+  background-color: #705ded;
+  position: relative;
+  overflow: hidden;
+  padding: 24px;
+  color: #fff;
+  border-radius: 8px;
+}
+@media only screen and (min-width: 768px) {
+  .contactUs {
+    padding: 48px;
+    display: flex;
+    align-items: center;
+  }
+}
+.contactUs::before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: #0084ff;
+  border-radius: 50%;
+  left: -70px;
+  bottom: -90px;
+}
+.contactUs::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  background: #fe9f0f;
+  border-radius: 50%;
+  right: -250px;
+  top: -260px;
+}
+@media only screen and (min-width: 768px) {
+  .contactUs::before {
+    left: 55%;
+    bottom: -230px;
+    width: 300px;
+    height: 300px;
+  }
+  .contactUs::after {
+    right: -160px;
+    top: -200px;
+  }
+}
+
+.contactUsBody {
+  position: relative;
+  z-index: 1;
+}
+@media only screen and (min-width: 768px) {
+  .contactUsBody {
+    width: 60%;
+  }
+}
+
+.contactUsBody .overline {
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.contactUsBody .title {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 500;
+  color: #fff;
+  margin-top: 12px;
+}
+@media only screen and (min-width: 992px) {
+  .contactUsBody .title {
+    font-size: 48px;
+    line-height: 64px;
+  }
+}
+
+.contactUsBody .subtitle {
+  font-size: 20px;
+  line-height: 32px;
+  margin-top: 8px;
+  color: hsla(0, 0%, 100%, 0.74);
+}
+@media only screen and (min-width: 768px) {
+  .contactUsBody .subtitle {
+    margin-top: 16px;
+  }
+}
+
+.contactUsBtn {
+  position: relative;
+  z-index: 1;
+  margin-top: 56px;
+}
+@media only screen and (min-width: 768px) {
+  .contactUsBtn {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+  }
+}
+
+.contactUsBtn .btn {
+  display: block;
+  width: 100%;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 1.25px;
+  color: #000;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 16px 24px;
+  text-align: center;
+  font-weight: 500;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+@media only screen and (min-width: 768px) {
+  .contactUsBtn .btn {
+    width: auto;
+  }
+}
