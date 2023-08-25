@@ -46,13 +46,15 @@
 
 .template {
   width: 330px;
-  padding: 20px;
+  /* padding: 20px; */
   height: 100%;
   box-shadow: 0px 0px 8px 0px rgb(167, 162, 162);
 }
 .template .tempp {
-  font-weight: bold;
+  font-weight: 500;
   text-transform: uppercase;
+  font-size: 1rem;
+  margin: 20px;
 }
 .itm1 {
   display: flex;
@@ -61,30 +63,44 @@
   color: black;
   justify-content: space-between;
   margin-top: 10px;
+  padding: 0 20px;
 }
-.itm1:hover i {
+.itm1:hover svg {
   color: rgb(18, 99, 197);
 }
-i {
-  font-size: 35px;
+.itm1 svg {
+  font-size: 20px;
 }
 .itm1 .detail {
   width: 200px;
 }
 .itm1 .detail h3 {
   font-weight: 400;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
 }
 .itm1 .detail p {
   margin-top: 3px;
   color: rgb(83, 83, 83);
-  font-size: 15px;
+  font-size: 13px;
 }
-.template h4 {
+
+.hrule {
+  background-color: rgb(167, 162, 162);
+  margin-bottom: 0 !important;
+}
+
+.explore {
+  padding: 20px !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.explore h4 {
   cursor: pointer;
-  color: rgb(29, 95, 236);
-  margin-top: 15px;
+  color: #ff0000;
   font-size: 16px;
+  font-weight: 500;
+  margin: 0;
 }
 @media screen and (max-width: 1400px) {
   .AboutPageImg {

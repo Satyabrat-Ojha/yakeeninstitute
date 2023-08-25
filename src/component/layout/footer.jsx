@@ -8,12 +8,16 @@ const quickTitle = "Quick Links";
 
 const addressList = [
   {
-    iconName: "icofont-google-map",
-    text: "Plot No-114 Vrindavan Garden, near Nitco Road, Khajoor Park, Ghaziabad, Uttar Pradesh 201005",
+    iconName: "icofont-phone",
+    text: "+91 96310 05476",
   },
   {
     iconName: "icofont-phone",
-    text: "+91-96310 05476",
+    text: "+91 96549 18028",
+  },
+  {
+    iconName: "icofont-google-map",
+    text: "Plot No-114 Vrindavan Garden, near Nitco Road, Khajoor Park, Ghaziabad, Uttar Pradesh 201005",
   },
   {
     iconName: "icofont-envelope",
@@ -106,15 +110,15 @@ const quickList = [
 const FooterThree = () => {
   return (
     <footer className="style-2">
-      <div className="footer-top dark-view" style={{ padding: "63px 0" }}>
+      <div className="footer-top dark-view" style={{ padding: "40px 0" }}>
         <div className="container">
-          <div className="row g-4 row-cols-xl-4 row-cols-sm-2 row-cols-1 justify-content-center">
+          <div className="row g-4 row-cols-xl-5 row-cols-sm-2 row-cols-1 justify-content-center">
             <div className="col">
               <div className="footer-item">
                 <div className="footer-inner">
                   <div className="footer-content">
                     <div className="title">
-                      <h4>{courseTitle}</h4>
+                      <h4>Programming Training</h4>
                     </div>
                     <div className="content">
                       <ul className="lab-ul">
@@ -134,7 +138,7 @@ const FooterThree = () => {
                 <div className="footer-inner">
                   <div className="footer-content">
                     <div className="title">
-                      <h4>{quickTitle}</h4>
+                      <h4>Design Training</h4>
                     </div>
                     <div className="content">
                       <ul className="lab-ul">
@@ -154,7 +158,27 @@ const FooterThree = () => {
                 <div className="footer-inner">
                   <div className="footer-content">
                     <div className="title">
-                      <h4>{quickTitle}</h4>
+                      <h4>Special Notes</h4>
+                    </div>
+                    <div className="content">
+                      <ul className="lab-ul">
+                        {quickList.map((val, i) => (
+                          <li key={i}>
+                            <a href={val.link}>{val.text}</a>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col">
+              <div className="footer-item">
+                <div className="footer-inner">
+                  <div className="footer-content">
+                    <div className="title">
+                      <h4>Company</h4>
                     </div>
                     <div className="content">
                       <ul className="lab-ul">
@@ -174,10 +198,10 @@ const FooterThree = () => {
                 <div className="footer-inner">
                   <div className="footer-content">
                     <div className="title">
-                      <h4>{title}</h4>
+                      <h4>Contact Team</h4>
                     </div>
                     <div className="content">
-                      <p>{desc}</p>
+                      {/* <p>{desc}</p> */}
                       <ul className="lab-ul office-address">
                         {addressList.map((val, i) => (
                           <li key={i} className="pt-2">

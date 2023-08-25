@@ -9,6 +9,7 @@ import Artboard from "./Artboard 1-100.jpg";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCaretRight } from "@fortawesome/free-solid-svg-icons";
+import { faAngleRight } from "@fortawesome/free-solid-svg-icons";
 
 const Banner = () => {
   return (
@@ -111,8 +112,14 @@ const Banner = () => {
             <FontAwesomeIcon icon={faCaretRight} />{" "}
           </div>
         </Link>
-        <Link to="/course">
+        <hr className={styles.hrule} />
+        <Link to="/course" className={styles.explore}>
           <h4>EXPLORE ALL COURSES</h4>
+          <FontAwesomeIcon
+            color="#ff0000"
+            fontSize="16px"
+            icon={faAngleRight}
+          />
         </Link>
       </div>
     </div>
