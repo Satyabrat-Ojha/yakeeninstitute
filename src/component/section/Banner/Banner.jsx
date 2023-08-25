@@ -20,9 +20,9 @@ const Banner = () => {
         </h1>
 
         <p>
-          Explore your potential through courses like Graphic Design, Web
-          Development, and more. Master industry-relavant skills for a
-          successful journey with Yakeen the Learning Instite.
+          Offline & Online certification courses in Graphic Designing, Video
+          Editing, ChatGPT, Digital Marketing, Web/App Development, Advance
+          Excel, Data Science, and 20+ more skills
         </p>
         <Link to="/course">
           <button className={styles.allBtn}>
