@@ -1,11 +1,3 @@
-import { Link } from "react-router-dom";
-
-const title = "About Yakeen";
-const desc =
-  "Yakeen The Learning Institute offers comprehensive technology training courses with a practical focus and personalized attention to students.";
-const courseTitle = "Courses";
-const quickTitle = "Quick Links";
-
 const addressList = [
   {
     iconName: "icofont-phone",
@@ -49,40 +41,118 @@ const socialList = [
   },
 ];
 
-const courseList = [
+const programmingList = [
   {
-    text: "All Courses",
+    text: "Web Development Training",
     link: "#",
   },
   {
-    text: "Forms and Admision materials",
+    text: "Ethical Hacking Training",
     link: "#",
   },
   {
-    text: "Professional Courses",
+    text: "Software Testing Training",
     link: "#",
   },
   {
-    text: "Course Outline",
+    text: "Node JS Training",
     link: "#",
   },
   {
-    text: "Policy",
+    text: "Python Training",
     link: "#",
   },
   {
-    text: "FAQs",
+    text: "Java Training",
     link: "#",
   },
   {
-    text: "Online Course",
+    text: "C++ Training",
+    link: "#",
+  },
+  {
+    text: "Android Development Training",
+    link: "#",
+  },
+  {
+    text: "Angular Courses",
     link: "#",
   },
 ];
 
-const quickList = [
+const designList = [
   {
-    text: "Summer Sessions",
+    text: "Graphic Design Training",
+    link: "#",
+  },
+  {
+    text: "Video Editing Training",
+    link: "#",
+  },
+  {
+    text: "Animation Training",
+    link: "#",
+  },
+  {
+    text: "Digital Art Training",
+    link: "#",
+  },
+  {
+    text: "Motion Graphic Training",
+    link: "#",
+  },
+  {
+    text: "Photoshop Training",
+    link: "#",
+  },
+  {
+    text: "Illustrator Training",
+    link: "#",
+  },
+  {
+    text: "Wordpress Course",
+    link: "#",
+  },
+];
+
+const specialList = [
+  {
+    text: "HTML",
+    link: "#",
+  },
+  {
+    text: "Graphic Design",
+    link: "#",
+  },
+  {
+    text: "CSS",
+    link: "#",
+  },
+  {
+    text: "Digital Marketing",
+    link: "#",
+  },
+  {
+    text: "Photoshop Shortkeys",
+    link: "#",
+  },
+  {
+    text: "Wordpress Pulgin",
+    link: "#",
+  },
+  {
+    text: "Design Resources",
+    link: "#",
+  },
+];
+
+const companyList = [
+  {
+    text: "About Us",
+    link: "#",
+  },
+  {
+    text: "Press",
     link: "#",
   },
   {
@@ -90,19 +160,23 @@ const quickList = [
     link: "#",
   },
   {
-    text: "Gallery",
+    text: "Newsroom",
     link: "#",
   },
   {
-    text: "Forums",
+    text: "Branding Assets",
     link: "#",
   },
   {
-    text: "Privacy Policy",
-    link: "https://docs.google.com/document/d/14Fz3aLjjIpEgL259qS5ozougFpF6hLhYn96Udg_K4pk/edit?usp=sharing",
+    text: "Sitemap",
+    link: "#",
   },
   {
-    text: "Terms of Use",
+    text: "Blog",
+    link: "#",
+  },
+  {
+    text: "Careers",
     link: "#",
   },
 ];
@@ -122,7 +196,7 @@ const FooterThree = () => {
                     </div>
                     <div className="content">
                       <ul className="lab-ul">
-                        {courseList.map((val, i) => (
+                        {programmingList.map((val, i) => (
                           <li key={i}>
                             <a href={val.link}>{val.text}</a>
                           </li>
@@ -142,7 +216,7 @@ const FooterThree = () => {
                     </div>
                     <div className="content">
                       <ul className="lab-ul">
-                        {quickList.map((val, i) => (
+                        {designList.map((val, i) => (
                           <li key={i}>
                             <a href={val.link}>{val.text}</a>
                           </li>
@@ -162,7 +236,7 @@ const FooterThree = () => {
                     </div>
                     <div className="content">
                       <ul className="lab-ul">
-                        {quickList.map((val, i) => (
+                        {specialList.map((val, i) => (
                           <li key={i}>
                             <a href={val.link}>{val.text}</a>
                           </li>
@@ -182,7 +256,7 @@ const FooterThree = () => {
                     </div>
                     <div className="content">
                       <ul className="lab-ul">
-                        {quickList.map((val, i) => (
+                        {companyList.map((val, i) => (
                           <li key={i}>
                             <a href={val.link}>{val.text}</a>
                           </li>
