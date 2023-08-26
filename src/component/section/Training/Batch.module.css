@@ -1,0 +1,70 @@
+.batchSection {
+  padding: 4rem 0;
+}
+
+.detailsHeading {
+  font-size: 35px;
+  line-height: 45px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.batchTable {
+  background-color: #fff;
+  border-radius: 8px;
+  filter: drop-shadow(0 3px 10px rgba(0, 22, 50, 0.06));
+  overflow-x: auto;
+}
+
+.batchTable table {
+  border-collapse: inherit;
+}
+
+.batchTable table th {
+  background-color: #f8f9fd;
+}
+
+.batchTable table th,
+.batchTable table td {
+  font-size: 15px;
+  padding: 0.75rem 1rem;
+  border: 0 !important;
+  border-bottom: 1px solid #e8ebed !important;
+}
+
+.enquiryNow {
+  color: #fff;
+  background: #146cb7;
+  border: 1px solid #146cb7;
+  border-radius: 8px;
+  opacity: 1 !important;
+  font-weight: 500;
+  font-size: 16px;
+}
+.enquiryNow:hover {
+  color: #146cb7;
+  background: #fff;
+}
+
+@media (max-width: 991px) {
+  .batchSection {
+    text-align: center;
+    padding: 1.5rem 0;
+  }
+
+  .detailsHeading {
+    font-size: 22px;
+    line-height: 35px;
+  }
+
+  .batchTable {
+    margin-bottom: 1.5rem;
+  }
+
+  .batchTable table th,
+  .batchTable table td {
+    white-space: nowrap;
+    font-size: 14px;
+    text-align: left;
+  }
+}

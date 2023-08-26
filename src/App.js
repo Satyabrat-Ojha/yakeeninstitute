@@ -24,6 +24,7 @@ import SignupPage from "./page/signup";
 import TeamPage from "./page/team";
 import TeamSingle from "./page/team-single";
 import Admission from "./page/Admission/Admission";
+import Training from "./page/Training/Training";
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="training" element={<Training />} />
         <Route path="course" element={<CoursePage />} />
         <Route path="course-single" element={<CourseSingle />} />
         <Route path="course-view" element={<CourseView />} />
