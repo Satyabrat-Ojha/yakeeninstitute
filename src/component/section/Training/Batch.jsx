@@ -47,7 +47,7 @@ const Batch = () => {
           <div className="col-lg-8 pt-lg-5 pt-4">
             <div className="text-center">
               <button
-                className={`btn py-lg-3 py-2 px-md-5 px-4 ${styles.enquiryNow}`}
+                className={`btn py-lg-3 py-2 px-md-5 px-4 ${styles.batchBtn}`}
               >
                 Get Next Batch Details
               </button>

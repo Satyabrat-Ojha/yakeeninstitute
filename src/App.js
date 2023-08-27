@@ -24,7 +24,7 @@ import SignupPage from "./page/signup";
 import TeamPage from "./page/team";
 import TeamSingle from "./page/team-single";
 import Admission from "./page/Admission/Admission";
-import Training from "./page/Training/Training";
+import Training from "./page/Training";
 
 function App() {
   return (
