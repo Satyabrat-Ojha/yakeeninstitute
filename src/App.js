@@ -35,6 +35,7 @@ function App() {
         <Route path="training" element={<Training />} />
         <Route path="course" element={<CoursePage />} />
         <Route path="course-single" element={<CourseSingle />} />
+        <Route path="course/:name" element={<CourseSingle />} />
         <Route path="course-view" element={<CourseView />} />
         <Route path="blog" element={<BlogPage />} />
         <Route path="blog-2" element={<BlogPageTwo />} />

@@ -1,5 +1,5 @@
 import { Component, Fragment } from "react";
-import { Link, useNavigate, useLocation } from "react-router-dom";
+import { Link, useNavigate, useLocation, useParams } from "react-router-dom";
 import Footer from "../component/layout/footer";
 // import Header from "../component/layout/header";
 import Header from "../component/layout/Navbar/Navbar";
@@ -11,11 +11,16 @@ import CourseSideDetail from "../component/sidebar/course-detail";
 import Respond from "../component/sidebar/respond";
 import courses from "../constants/courses";
 
+const kebab = (s) => {
+  return s
+    .replace(/([a-z])([A-Z])/g, "$1-$2")
+    .toLowerCase()
+    .replace(/\s+/g, "-");
+};
+
 const CourseSingle = () => {
-  const { search } = useLocation();
-  const searchParams = new URLSearchParams(search);
-  const name = searchParams.get("name");
-  const course = courses.find((course) => course.title === name);
+  const { name } = useParams();
+  const course = courses.find((course) => kebab(course.title) === kebab(name));
   if (!course) {
     return "course name not found";
   }

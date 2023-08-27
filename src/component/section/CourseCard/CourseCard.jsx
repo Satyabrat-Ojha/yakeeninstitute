@@ -11,9 +11,18 @@ const CourseCard = ({ course }) => {
     code: "YAKEEN50",
   };
 
+  const kebab = (s) => {
+    return s
+      .replace(/([a-z])([A-Z])/g, "$1-$2")
+      .toLowerCase()
+      .replace(/\s+/g, "-");
+  };
+
+  const courseName = kebab(course.title);
+
   return (
     <Link
-      to={`/course-single?name=${course.title}`}
+      to={`/course/${courseName}`}
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >

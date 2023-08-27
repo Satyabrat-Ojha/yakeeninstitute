@@ -1,6 +1,6 @@
 const courses = [
   {
-    title: "Graphic Design Tranning",
+    title: "Graphic Design Training",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl:
       "https://img.freepik.com/premium-photo/computer-screen-with-colorful-paint-it-generative-ai_97167-1066.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
@@ -20,7 +20,7 @@ const courses = [
     price: 2599,
     level: "Professional",
     duration: "42-45 Hours",
-    schedule: "Tranning + Certificate",
+    schedule: "Training + Certificate",
     language: "English",
     certificate: "Yes",
     syllabus: [
@@ -415,7 +415,7 @@ const courses = [
     ],
   },
   {
-    title: "Digital Marketing Tranning",
+    title: "Digital Marketing Training",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl:
       "https://img.freepik.com/free-photo/young-team-leader-big-corporation-briefing-coworkers-pointing-graph-meeting-corporate-staff_482257-4169.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
@@ -435,7 +435,7 @@ const courses = [
     price: 1899,
     level: "Professional",
     duration: "42-45 Hours",
-    schedule: "Tranning + Certificate",
+    schedule: "Training + Certificate",
     language: "English",
     certificate: "Yes",
     syllabus: [
@@ -1690,7 +1690,7 @@ const courses = [
     ],
   },
   {
-    title: "Web Development Tranning",
+    title: "Web Development Training",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl:
       "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
@@ -1710,7 +1710,7 @@ const courses = [
     price: 1349,
     level: "Professional",
     duration: "30-32 Hours",
-    schedule: "Tranning + Certificate",
+    schedule: "Training + Certificate",
     language: "English",
     certificate: "Yes",
     syllabus: [
@@ -2028,7 +2028,7 @@ const courses = [
     ],
   },
   {
-    title: "Video Editing Tranning",
+    title: "Video Editing Training",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl:
       "https://img.freepik.com/premium-photo/video-editing_313218-10.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
@@ -2491,7 +2491,7 @@ const courses = [
     ],
   },
   {
-    title: "Computer Knowledge Tranning",
+    title: "Computer Knowledge Training",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl:
       "https://img.freepik.com/free-photo/gamification-creative-collage-concept_23-2149377955.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
@@ -2647,7 +2647,7 @@ const courses = [
     ],
   },
   {
-    title: "3D Animation Tranning",
+    title: "3D Animation Training",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl:
       "https://img.freepik.com/premium-photo/3d-illustration-corporate-group-discussing-increase-business-profits_709268-4.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
@@ -2899,7 +2899,7 @@ const courses = [
     ],
   },
   {
-    title: "Freelancing Tranning",
+    title: "Freelancing Training",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl:
       "https://img.freepik.com/free-photo/young-millennial-student-searches-information-homework-writes-down-necessary-content-textbook-prepare-project-it-topic_273609-38712.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=sph",
@@ -3190,7 +3190,7 @@ const courses = [
     ],
   },
   {
-    title: "Content Writing Tranning",
+    title: "Content Writing Training",
     link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
     imgUrl:
       "https://img.freepik.com/premium-photo/businessman-working-laptop-with-financial-documents-top-view_394555-286.jpg?size=626&ext=jpg&ga=GA1.2.2011638061.1681547245&semt=ais",
