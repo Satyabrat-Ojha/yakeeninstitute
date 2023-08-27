@@ -1,0 +1,47 @@
+.overviewSection {
+  background: url(./iq-dot-bg.webp) top 3rem left 3rem/80px no-repeat,
+    url(./iq-circle.webp) bottom 3rem right 2rem/110px no-repeat #f8f9fd;
+  padding: 4rem 0;
+}
+
+.overviewSection .overviewHeading {
+  font-size: 35px;
+  line-height: 45px;
+  font-weight: 500;
+}
+
+.overviewContent {
+  color: #43505b;
+  line-height: 26px;
+  font-size: 16px;
+}
+
+.overviewSection .certificate {
+  border-radius: 10px;
+  filter: drop-shadow(0 3px 10px rgba(0, 22, 50, 0.06));
+}
+
+@media (max-width: 991px) {
+  .overviewSection {
+    background: #f8f9fd;
+    text-align: center;
+    padding: 1.5rem 0;
+  }
+
+  .overviewSection .overviewHeading {
+    font-size: 22px;
+    line-height: 35px;
+  }
+
+  .crsRowReverse {
+    flex-direction: column-reverse !important;
+  }
+
+  .overviewContent {
+    font-size: 14px;
+  }
+
+  .overviewSection .certificate {
+    margin-bottom: 1.5rem !important;
+  }
+}
