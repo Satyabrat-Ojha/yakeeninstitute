@@ -33,6 +33,10 @@
   color: #000;
 }
 
+.curriculumAccordion .accordionItem:last-child {
+  border-bottom: 0 !important;
+}
+
 .accordionItem .accordionHeader {
   margin-bottom: 0;
 }
@@ -69,9 +73,90 @@
   transition: transform 0.2s ease-in-out;
 }
 
+.accordionItem .accordionButton:not(.collapsed)::after {
+  background-image: url(./down-active.svg);
+  transform: rotate(-180deg);
+}
+
 .accordionItem:first-of-type .accordionButton {
   border-top-left-radius: calc(0.375rem - 1px);
   border-top-right-radius: calc(0.375rem - 1px);
+}
+
+.accordionItem .accordionButton:not(.collapsed) {
+  color: #0a2134 !important;
+  background-color: #f8f9fd !important;
+  box-shadow: 0 2px 4px 2px #f3f3f3 !important;
+}
+
+.accordionCollapse {
+  overflow: hidden;
+  transition: max-height 0.2s ease-in-out;
+}
+
+.accordionCollapse {
+  transform-origin: top;
+  transform: scaleY(0);
+  opacity: 0;
+  transition: transform 0.2s ease-in-out, opacity 0.2s ease-in-out,
+    max-height 0.2s ease-in-out;
+  max-height: 0;
+}
+
+.accordionCollapse.show {
+  max-height: unset;
+  transform: scaleY(1);
+  opacity: 1;
+  transition: transform 0.2s ease-in-out, opacity 0.2s ease-in-out,
+    max-height 0.2s ease-in-out;
+}
+
+.accordionCollapse .accordionBody {
+  padding: 1rem 1.25rem;
+}
+
+.accordionCollapse .accordionBody ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.accordionCollapse .accordionBody ul li {
+  padding-left: 1.5rem !important;
+  position: relative;
+  font-weight: 400 !important;
+  font-size: 16px !important;
+  line-height: 26px !important;
+  color: #43505b !important;
+  margin-bottom: 8px !important;
+  display: inline-block;
+  width: 47%;
+}
+
+.accordionCollapse .accordionBody ul li::before {
+  min-width: 6px;
+  max-width: 6px;
+  min-height: 6px;
+  background-color: #2699fb;
+  border-radius: 50%;
+  content: "";
+  display: block !important;
+  position: absolute;
+  left: 0;
+  top: 10px;
+}
+
+.curriculumSection .batchBtn {
+  color: #fff;
+  background: #146cb7;
+  border: 1px solid #146cb7;
+  border-radius: 8px;
+  opacity: 1 !important;
+  font-weight: 500;
+  font-size: 16px;
+}
+.curriculumSection .batchBtn:hover {
+  color: #146cb7;
+  background: #fff;
 }
 
 @media (max-width: 991px) {
@@ -95,5 +180,11 @@
   .accordionItem .accordionButton {
     font-size: 15px;
     line-height: 25px;
+  }
+
+  .accordionCollapse .accordionBody ul li {
+    display: block;
+    width: 100% !important;
+    font-size: 14px !important;
   }
 }
