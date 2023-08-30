@@ -4,6 +4,7 @@ import Batch from "../component/section/Training/Batch";
 import Overview from "../component/section/Training/Overview";
 import Curriculum from "../component/section/Training/Curriculum";
 import Feature from "../component/section/Training/Feature";
+import Book from "../component/section/Training/Book";
 import Footer from "../component/layout/footer";
 
 const Training = () => {
@@ -15,6 +16,7 @@ const Training = () => {
       <Overview />
       <Curriculum />
       <Feature />
+      <Book />
       <Footer />
     </>
   );

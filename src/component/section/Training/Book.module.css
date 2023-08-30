@@ -1,0 +1,31 @@
+.bookSection {
+  padding: 4rem 0;
+}
+
+.bookSection .bookTitle {
+  font-size: 35px;
+  line-height: 45px;
+  font-weight: 600;
+}
+
+.bookSection .form {
+  border-radius: 8px;
+  filter: drop-shadow(0 3px 10px rgba(0, 22, 50, 0.06));
+}
+
+.bookSection .bookDesc {
+  color: #43505b;
+  line-height: 26px;
+  font-weight: 400;
+}
+
+@media (max-width: 991px) {
+  .bookSection {
+    padding: 1.5rem 0;
+  }
+
+  .bookSection .bookTitle {
+    font-size: 22px;
+    line-height: 35px;
+  }
+}

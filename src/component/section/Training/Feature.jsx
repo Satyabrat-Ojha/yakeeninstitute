@@ -1,6 +1,10 @@
 import styles from "./Feature.module.css";
 
 const Feature = () => {
+  const WhatsAppNumber = "919631005476";
+  const WhatsAppMessage =
+    "I am interested in your Web Development Training in Jodhpur (Classroom Course With Certificate and Placement), please give a call back.";
+
   return (
     <section className={styles.featureSection}>
       <div className="container">
@@ -126,6 +130,21 @@ const Feature = () => {
                     explore promising career opportunities.
                   </p>
                 </div>
+              </div>
+              <div className="col-lg-12 text-center pt-3">
+                <a
+                  href={`https://api.whatsapp.com/send?phone=${WhatsAppNumber}&text=${WhatsAppMessage}}`}
+                  className={`${styles.whatsappBtn} me-2 me-lg-3 btn shadow-none`}
+                  target="_blank"
+                >
+                  Enquire on WhatsApp
+                </a>
+                <a
+                  className={`${styles.callBtn} btn shadow-none`}
+                  href="tel:+919631005476"
+                >
+                  Call Us
+                </a>
               </div>
             </div>
           </div>
