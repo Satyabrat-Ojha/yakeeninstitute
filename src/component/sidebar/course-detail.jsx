@@ -105,14 +105,14 @@ const CourseSideDetail = ({ course }) => {
             ))}
           </ul>
         </div>
-        <div className="sidebar-payment">
+        {/* <div className="sidebar-payment">
           <div className="sp-title">
             <h6>{paymentTitle}</h6>
           </div>
           <div className="sp-thumb">
             <img src="assets/images/pyment/01.jpg" alt="CodexCoder" />
           </div>
-        </div>
+        </div> */}
         <div className="sidebar-social">
           <div className="ss-title">
             <h6>{shareTitle}</h6>

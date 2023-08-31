@@ -91,10 +91,7 @@ const Banner = () => {
 
         <div className={styles.template}>
           <p className={styles.tempp}>popular courses</p>
-          <Link
-            to="/course-single?name=Graphic%20Design%20Tranning"
-            className={styles.itm1}
-          >
+          <Link to="/course/graphic-design-training" className={styles.itm1}>
             <div className={styles.icon}>
               <img src={img1} width="45px" />
             </div>
@@ -106,10 +103,7 @@ const Banner = () => {
               <FontAwesomeIcon icon={faCaretRight} />{" "}
             </div>
           </Link>
-          <Link
-            to="/course-single?name=Web%20Development%20Tranning"
-            className={styles.itm1}
-          >
+          <Link to="/course/web-development-training" className={styles.itm1}>
             <div className={styles.icon}>
               <img src={img3} width="45px" />
             </div>
@@ -121,10 +115,7 @@ const Banner = () => {
               <FontAwesomeIcon icon={faCaretRight} />{" "}
             </div>
           </Link>
-          <Link
-            to="/course-single?name=Video%20Editing%20Tranning"
-            className={styles.itm1}
-          >
+          <Link to="/course/video-editing-training" className={styles.itm1}>
             <div className={styles.icon}>
               <img src={img4} width="45px" />
             </div>
@@ -136,10 +127,7 @@ const Banner = () => {
               <FontAwesomeIcon icon={faCaretRight} />{" "}
             </div>
           </Link>
-          <Link
-            to="/course-single?name=Content%20Writing%20Tranning"
-            className={styles.itm1}
-          >
+          <Link to="/course/content-writing-training" className={styles.itm1}>
             <div className={styles.icon}>
               <img src={img8} width="45px" />
             </div>
@@ -151,10 +139,7 @@ const Banner = () => {
               <FontAwesomeIcon icon={faCaretRight} />{" "}
             </div>
           </Link>
-          <Link
-            to="/course-single?name=Digital%20Marketing%20Tranning"
-            className={styles.itm1}
-          >
+          <Link to="/course/digital-marketing-training" className={styles.itm1}>
             <div className={styles.icon}>
               <img src={img2} width="45px" />
             </div>

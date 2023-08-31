@@ -12,7 +12,7 @@ const courses = [
     overview:
       "Our Graphic Design Training Program has been designed by our Multimedia & Animation Experts Team so that we can share our knowledge and help you learn complex theory, Concepts & Assignments in a simple way. We will walk you step-by-step into the World of Graphic Designing. With our Graphic Design Training, you will develop new skills and improve your understanding of this challenging yet lucrative Graphic Design Program.",
     tutor: "Roshan Gupta",
-    tutorImg: "assets/images/course/author/01.jpg",
+    tutorImg: "/assets/images/course/author/01.jpg",
     tutorImgAlt: "course author rajibraj91 rajibraj",
     tutorHeadline: "Assistant Teacher",
     tutorDesc:

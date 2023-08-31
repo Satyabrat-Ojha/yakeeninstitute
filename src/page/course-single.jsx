@@ -121,12 +121,12 @@ const CourseSingle = () => {
                   </div>
                 </div>
 
-                <Author
+                {/* <Author
                   name={course.tutor}
                   image={course.tutorImg}
                   tagline={course.tutorTagline}
                   desc={course.tutorDesc}
-                />
+                /> */}
                 {/* <Comment /> */}
                 {/* <Respond /> */}
               </div>

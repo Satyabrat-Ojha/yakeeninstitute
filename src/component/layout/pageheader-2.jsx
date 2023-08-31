@@ -34,8 +34,8 @@ const PageHeaderTwo = ({ course }) => {
               <h2 className="phs-title">{title}</h2>
               <p className="phs-desc">{desc}</p>
               <div className="phs-thumb">
-                <img src={authorImg} alt="rajibraj91" />
-                <span>{author}</span>
+                {/* <img src={authorImg} alt="rajibraj91" />
+                <span>{author}</span> */}
                 <div className="course-reiew">
                   <Rating />
                   <span className="ratting-count">{reviewCount}</span>
