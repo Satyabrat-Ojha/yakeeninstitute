@@ -2,7 +2,6 @@ import styles from "./Admission.module.css";
 import { useState } from "react";
 import { db } from "../../firebaseConfig";
 import { setDoc, doc } from "firebase/firestore";
-import { useNavigate } from "react-router-dom";
 
 const Admission = () => {
   const [name, setName] = useState("");
@@ -25,7 +24,7 @@ const Admission = () => {
   const year = currentDate.getFullYear();
   const month = String(currentDate.getMonth() + 1).padStart(2, "0");
   const day = String(currentDate.getDate()).padStart(2, "0");
-  const date = `${year}-${month}-${day} `;
+  const date = `${year}-${month}-${day}`;
 
   const handleSubmit = async (e) => {
     e.preventDefault();

@@ -18,7 +18,19 @@ const Book = () => {
           </div>
           <div className="col-lg-12 pt-4">
             <div className={`${styles.form} bg-white p-lg-4 p-3`}>
-              <form className="row"></form>
+              <form className="row">
+                <div className="col-lg-6 mb-3">
+                  <label for="enrollName" className={styles.label}>
+                    Name
+                  </label>
+                  <input
+                    type="text"
+                    name="name"
+                    id="enrollName"
+                    className={styles.textInput}
+                  />
+                </div>
+              </form>
             </div>
           </div>
         </div>
