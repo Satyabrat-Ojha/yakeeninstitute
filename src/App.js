@@ -25,6 +25,8 @@ import TeamPage from "./page/team";
 import TeamSingle from "./page/team-single";
 import Admission from "./page/Admission/Admission";
 import Training from "./page/Training";
+import Ghaziabad from "./page/Ghaziabad";
+import LajpatNagar from "./page/LajpatNagar";
 
 function App() {
   return (
@@ -32,6 +34,8 @@ function App() {
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="ghaziabad/:name" element={<Ghaziabad />} />
+        <Route path="lajpat-nagar/:name" element={<LajpatNagar />} />
         <Route path="training" element={<Training />} />
         <Route path="course" element={<CoursePage />} />
         <Route path="course-single" element={<CourseSingle />} />

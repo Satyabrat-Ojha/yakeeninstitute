@@ -71,7 +71,10 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled ">
                     <li>
-                      <a title="Website Development Course">
+                      <a
+                        title="Website Development Course"
+                        href="/ghaziabad/web-development-training"
+                      >
                         Website Development Course
                       </a>
                     </li>

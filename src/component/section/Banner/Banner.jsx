@@ -222,7 +222,7 @@ const Banner = () => {
                 </div>
                 <div className="col-md-6 mb-3">
                   <label className={styles.label} for="course_type">
-                    Course Type
+                    Mode of Training
                   </label>
                   <select
                     name="course_type"
@@ -231,7 +231,7 @@ const Banner = () => {
                     onChange={(e) => setCourse_type(e.target.value)}
                     required
                   >
-                    <option value="">Select Course Type</option>
+                    <option value="">Select Mode</option>
                     <option value="Online">Online</option>
                     <option value="Offline">Offline</option>
                   </select>
@@ -242,7 +242,7 @@ const Banner = () => {
                   }`}
                 >
                   <label className={styles.label} for="course_type">
-                    Skill Center
+                    Select Branch
                   </label>
                   <select
                     name="skill_center"
@@ -253,7 +253,7 @@ const Banner = () => {
                       ? { disabled: true }
                       : { required: true })}
                   >
-                    <option value="">Select Skill Center</option>
+                    <option value="">Select Branch</option>
                     <option value="Ghaziabad">Ghaziabad</option>
                     <option value="Lajpat Nagar">Lajpat Nagar</option>
                   </select>

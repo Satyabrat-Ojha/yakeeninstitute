@@ -19,6 +19,50 @@
   font-weight: 400;
 }
 
+.bookSection .label {
+  color: #0a2134;
+  font-size: 15px;
+  margin-bottom: 0.5rem;
+}
+
+.bookSection .textInput,
+.bookSection .formSelect {
+  min-height: 40px;
+  border-radius: 3px;
+  display: block !important;
+  color: #43505b;
+  font-size: 15px;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.bookSection .formBtn {
+  color: #fff;
+  background: #146cb7;
+  border: 1px solid #146cb7;
+  border-radius: 8px;
+  opacity: 1 !important;
+  font-weight: 500;
+  font-size: 18px;
+  box-sizing: border-box;
+  padding: 10px 18px;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+  transition: 0.4s;
+}
+.bookSection .formBtn:hover {
+  color: #146cb7;
+  background: #fff;
+}
+
 @media (max-width: 991px) {
   .bookSection {
     padding: 1.5rem 0;

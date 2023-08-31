@@ -1,6 +1,6 @@
 import styles from "./Batch.module.css";
 
-const Batch = () => {
+const Batch = ({ course }) => {
   return (
     <section className={styles.batchSection}>
       <div className="container">
@@ -20,26 +20,12 @@ const Batch = () => {
                   </tr>
                 </thead>
                 <tbody>
-                  <tr>
-                    <td>(Mon - Sat) 5 Months</td>
-                    <td>9:00 AM to 10:00 AM </td>
-                  </tr>{" "}
-                  <tr>
-                    <td>(Mon - Sat) 5 Months</td>
-                    <td> 10:00 AM to 11:00 AM</td>
-                  </tr>{" "}
-                  <tr>
-                    <td>(Mon - Sat) 5 Months</td>
-                    <td>4:00 PM to 5:00 PM</td>
-                  </tr>{" "}
-                  <tr>
-                    <td>(Mon - Sat) 5 Months</td>
-                    <td>5:00 PM to 6:00 PM </td>
-                  </tr>{" "}
-                  <tr>
-                    <td>(Mon - Sat) 5 Months</td>
-                    <td> 6:00 PM to 7:00 PM </td>
-                  </tr>{" "}
+                  {course.batchDetails.map((batch, index) => (
+                    <tr>
+                      <td>{batch.duration}</td>
+                      <td>{batch.timing}</td>
+                    </tr>
+                  ))}
                 </tbody>
               </table>
             </div>
