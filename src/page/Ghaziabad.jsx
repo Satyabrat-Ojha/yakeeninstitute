@@ -10,10 +10,7 @@ import courses from "../constants/ghaziabadTraning";
 import { useParams } from "react-router-dom";
 
 const kebab = (s) => {
-  return s
-    .replace(/([a-z])([A-Z])/g, "$1-$2")
-    .toLowerCase()
-    .replace(/\s+/g, "-");
+  return s.toLowerCase().replace(/\s+/g, "-");
 };
 
 const Training = () => {

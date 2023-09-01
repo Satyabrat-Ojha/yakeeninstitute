@@ -79,10 +79,17 @@ const OnlineTraining = () => {
                       </a>
                     </li>
                     <li>
-                      <a title="Wordpress Course">Wordpress Course</a>
+                      <a
+                        title="Wordpress Course"
+                        href="/ghaziabad/wordpress-training"
+                      >
+                        Wordpress Course
+                      </a>
                     </li>
                     <li>
-                      <a title="PHP Course">PHP Course</a>
+                      <a title="PHP Course" href="/ghaziabad/php-training">
+                        PHP Course
+                      </a>
                     </li>
                     <li>
                       <a title="JavaScript Course">JavaScript Course</a>
