@@ -144,7 +144,7 @@ const OnlineTraining = () => {
                         title="Mern Stack Training Jodhpur"
                         href="/ghaziabad/mern-stack-training"
                       >
-                        Mern Stack Course
+                        MERN Stack Course
                       </a>
                     </li>
                   </ul>
