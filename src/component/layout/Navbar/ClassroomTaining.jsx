@@ -92,25 +92,25 @@ const OnlineTraining = () => {
                       </a>
                     </li>
                     <li>
-                      <a title="JavaScript Course">JavaScript Course</a>
+                      <a title="JavaScript Course"  href="/ghaziabad/javascript-training">JavaScript Course</a>
                     </li>
                     <li>
-                      <a title="Bootstrap Course">Bootstrap Course</a>
+                      <a title="Bootstrap Course"href="/ghaziabad/bootstrap-training">Bootstrap Course</a>
                     </li>
                     <li>
-                      <a title="Laravel Course">Laravel Course</a>
+                      <a title="Laravel Course"href="/ghaziabad/laravel-training">Laravel Course</a>
                     </li>
                     <li>
-                      <a title="Node JS Course">Node JS Course</a>
+                      <a title="Node JS Course"href="/ghaziabad/javascript-training">Node JS Course</a>
                     </li>
                     <li>
-                      <a title="Angular JS Course ">Angular JS Course</a>
+                      <a title="Angular JS Course "href="/ghaziabad/javascript-training">Angular JS Course</a>
                     </li>
                     <li>
-                      <a title="React JS Course">React JS Course</a>
+                      <a title="React JS Course"href="/ghaziabad/javascript-training">React JS Course</a>
                     </li>
                     <li>
-                      <a title="Mern Stack Training Jodhpur">
+                      <a title="Mern Stack Training Jodhpur"href="/ghaziabad/javascript-training">
                         Mern Stack Course
                       </a>
                     </li>
