@@ -1582,7 +1582,6 @@ const GhaziabadTraning = [
       "Learn JavaScript in Jodhpur from our experts and practice in an intuitive environment. The challenges are based on real-world projects to ensure you learn best practices one step at a time.",
       "This course covers all basic to proficient concepts, such as data types, operators, creating and using variables, generating outputs, structuring your code to make decisions in your programs or looping over the same block of code multiple times, creating and manipulating strings and arrays, defining and calling functions, and so on.",
       "JavaScript course in Jodhpur trains you on how to use this powerful app creation tool in various ways. Please fill out the form or call us now to book your two days of FREE demo classes!",
-
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -1598,7 +1597,6 @@ const GhaziabadTraning = [
             title: "What are its uses?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -1620,7 +1618,6 @@ const GhaziabadTraning = [
             title: "Data types",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -1638,7 +1635,6 @@ const GhaziabadTraning = [
             title: "Multi-line comments",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -1664,7 +1660,6 @@ const GhaziabadTraning = [
             title: "JS global variables",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -1682,7 +1677,6 @@ const GhaziabadTraning = [
             title: "Examples",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -1700,8 +1694,6 @@ const GhaziabadTraning = [
             title: "Different JavaScript operators",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -1719,8 +1711,6 @@ const GhaziabadTraning = [
             title: "else if statement",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -1742,7 +1732,6 @@ const GhaziabadTraning = [
             title: " Code blocks",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -1776,7 +1765,6 @@ const GhaziabadTraning = [
             title: "Loop while",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -1853,10 +1841,7 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
-
   // bootstrap course
-
 
   {
     title: "Bootstrap Training",
@@ -1896,7 +1881,6 @@ const GhaziabadTraning = [
       "Learning Bootstrap does not require a lot of time, and with the Wscube Tech team, it's effortless to understand.",
       "Learn Bootstrap from scratch with the rigorous training by our front-end web development experts, and practice in an intuitive environment. The projects are based on real-world challenges to ensure you learn best practices one step at a time.",
       "The Bootstrap training in Jodhpur by WsCube Tech covers fundamental to advanced topics to give learners the practical knowledge they need to use this CSS framework.",
-
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -1981,8 +1965,6 @@ const GhaziabadTraning = [
             title: "Customizing Bootstrap Package",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -2020,8 +2002,6 @@ const GhaziabadTraning = [
             title: "Forms",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -2076,9 +2056,6 @@ const GhaziabadTraning = [
             title: "Wells",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
-
         ],
       },
       {
@@ -2132,8 +2109,6 @@ const GhaziabadTraning = [
             title: "Carousel Captions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -2171,13 +2146,8 @@ const GhaziabadTraning = [
             title: "Migrating Custom CSS",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
-
         ],
       },
-
-
     ],
     features: [
       {
@@ -2214,12 +2184,7 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
-
-
   // Laravel course
-
-
 
   {
     title: "Laravel Training",
@@ -2259,7 +2224,6 @@ const GhaziabadTraning = [
       "Whether you want to learn Laravel from scratch, have basic knowledge of HTML/CSS/PHP and want to upgrade your skills, or are interested in learning Laravel, this training is meant for you.",
       "It is a classroom-based Laravel full course with training by an experienced developer who has worked on hundreds of Laravel and PHP projects. Along with mastering the essential concepts, you will get to work on real projects, become certified, get job assistance, and upgrade your skills to explore high-paying career opportunities.",
       "By the end of the best Laravel training in Jodhpur, you will be on your way to kickstarting a promising career in the field of web development. For any queries, feel free to call us or fill out the inquiry form.",
-
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -2295,7 +2259,6 @@ const GhaziabadTraning = [
             title: "Editor Setup",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -2325,8 +2288,6 @@ const GhaziabadTraning = [
             title: "Maintenance Mode",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -2344,7 +2305,6 @@ const GhaziabadTraning = [
             title: "Routing Parameters",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -2366,8 +2326,6 @@ const GhaziabadTraning = [
             title: "Controller Routing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -2389,7 +2347,6 @@ const GhaziabadTraning = [
             title: "Validation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -2416,7 +2373,6 @@ const GhaziabadTraning = [
             title: "Extends Layouts",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -2430,9 +2386,6 @@ const GhaziabadTraning = [
             title: "Redirecting to Controller Actions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
-
         ],
       },
       {
@@ -2450,8 +2403,6 @@ const GhaziabadTraning = [
             title: "Deleting data",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -2510,7 +2461,6 @@ const GhaziabadTraning = [
         ],
       },
 
-
       {
         title: "Database",
         lectures: [
@@ -2546,12 +2496,8 @@ const GhaziabadTraning = [
             title: "Seeders & Faker",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
-
-
 
       {
         title: "Authentication ",
@@ -2568,12 +2514,8 @@ const GhaziabadTraning = [
             title: "Password Reset",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
-
-
-
 
       {
         title: "Eloquent ORM",
@@ -2601,9 +2543,6 @@ const GhaziabadTraning = [
         ],
       },
 
-
-
-
       {
         title: "Rest API CRUD",
         lectures: [
@@ -2619,17 +2558,8 @@ const GhaziabadTraning = [
             title: "Crud Demo",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
-
-
-
-
-
-
-
-
     ],
     features: [
       {
@@ -2666,14 +2596,7 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
-
-
-
-
   //Node JS Course
-
-
 
   {
     title: "NodeJS Training",
@@ -2736,7 +2659,6 @@ const GhaziabadTraning = [
             title: "Module implementation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -2791,7 +2713,6 @@ const GhaziabadTraning = [
             title: "Create a directory",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -2841,7 +2762,6 @@ const GhaziabadTraning = [
             title: "Admin setup ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
     ],
@@ -2880,11 +2800,7 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
   // Angular JS Course
-
-
-
 
   {
     title: "AngularJS Training",
@@ -2920,13 +2836,11 @@ const GhaziabadTraning = [
     ],
     overviewHeading: "Overview of AngularJs Training in Ghaziabad",
     overview: [
-     
-     "AngularJS is a JavaScript framework that is mostly used for creating Single-Page Applications (SPAs) that run in browsers. Gmail and Facebook are examples of SPAs that run in browsers without page reloading.",
-     "The demand for Web Developers having AngularJS skills is high. It’s because Angular provides high performance, reduces code writing, simplifies the testing process, and makes it easier to integrate new features.",
-     "If you want to differentiate yourself in the field of web development, you must learn Angular and practice it with the most trusted AngularJS course in Jodhpur. At WsCube Tech, we aim to help you acquire new skills and upgrade existing skills.",
-     "You will receive a professional AngularJS certificate and find assistance in placement so that you can make your career as a Web Developer, UI Developer, Front-End Developer, JS Developer, or Web App Developer.",
-     "For any queries or questions related to our AngularJS training in Jodhpur, feel free to call us or book free demo sessions now!",
-
+      "AngularJS is a JavaScript framework that is mostly used for creating Single-Page Applications (SPAs) that run in browsers. Gmail and Facebook are examples of SPAs that run in browsers without page reloading.",
+      "The demand for Web Developers having AngularJS skills is high. It’s because Angular provides high performance, reduces code writing, simplifies the testing process, and makes it easier to integrate new features.",
+      "If you want to differentiate yourself in the field of web development, you must learn Angular and practice it with the most trusted AngularJS course in Jodhpur. At WsCube Tech, we aim to help you acquire new skills and upgrade existing skills.",
+      "You will receive a professional AngularJS certificate and find assistance in placement so that you can make your career as a Web Developer, UI Developer, Front-End Developer, JS Developer, or Web App Developer.",
+      "For any queries or questions related to our AngularJS training in Jodhpur, feel free to call us or book free demo sessions now!",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -2946,7 +2860,6 @@ const GhaziabadTraning = [
             title: "MVC Architecture",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -2988,8 +2901,6 @@ const GhaziabadTraning = [
             title: "Routing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -3007,7 +2918,6 @@ const GhaziabadTraning = [
             title: "Multi-line comments",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -3065,7 +2975,6 @@ const GhaziabadTraning = [
             title: "ngStyle and ngClass",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -3128,8 +3037,6 @@ const GhaziabadTraning = [
             title: "Component lifecycle in AngularJS",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -3172,8 +3079,6 @@ const GhaziabadTraning = [
             title: "ngSwitch",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -3195,7 +3100,6 @@ const GhaziabadTraning = [
             title: "Logging service injection",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
 
           {
             title: "How to create a Data service?",
@@ -3302,9 +3206,6 @@ const GhaziabadTraning = [
             title: "Building Syntax using Localization",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-
-      
         ],
       },
     ],
@@ -3343,18 +3244,7 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
-
-
-
-
-
-
-
-
-
   // reactjs course
-
 
   {
     title: "ReactJS Training",
@@ -3393,8 +3283,8 @@ const GhaziabadTraning = [
       "ReactJS is a library for JavaScript front-end development that has gained immense popularity over the years. If you want to excel as a front-end developer and give wings to your career in web development, you must master ReactJS.",
       "Yakeen Tech brings you a completely practical-based and job-oriented ReactJS course in Jodhpur. In this course, you will learn about the working of ReactJS, basics, fundamentals, as well as advanced concepts. It is a comprehensive React training that helps you master all the aspects of the ReactJS library.",
       "JOnce you complete the training, you will be prepared for a job interview, get the certification, and feature for the interviews at top companies hiring ReactJS Front-End Developers.",
-"You can enroll in this ReactJS certification course in Jodhpur whether you are a beginner or have some prior experience and want to take your career to the next level. We cover the entire course from zero level and help you become a pro.",
-"Have any questions or queries related to our React training in Jodhpur? Call us now or book two days of FREE demo classes.",
+      "You can enroll in this ReactJS certification course in Jodhpur whether you are a beginner or have some prior experience and want to take your career to the next level. We cover the entire course from zero level and help you become a pro.",
+      "Have any questions or queries related to our React training in Jodhpur? Call us now or book two days of FREE demo classes.",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -3418,7 +3308,6 @@ const GhaziabadTraning = [
             title: "Scope of ReactJS",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -3489,7 +3378,6 @@ const GhaziabadTraning = [
             title: "React JS browser plugins overview",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -3537,11 +3425,13 @@ const GhaziabadTraning = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "How to set default values on all formats of Input elements?",
+            title:
+              "How to set default values on all formats of Input elements?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "How to set default values on all formats of Input elements?",
+            title:
+              "How to set default values on all formats of Input elements?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3552,8 +3442,6 @@ const GhaziabadTraning = [
             title: "How to write Styles?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -3583,8 +3471,6 @@ const GhaziabadTraning = [
             title: "Component Unmount",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -3610,9 +3496,6 @@ const GhaziabadTraning = [
             title: "IIFE in JSX for a complex logic overview",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-
-
         ],
       },
       {
@@ -3626,8 +3509,6 @@ const GhaziabadTraning = [
             title: "Sharing events between the components",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-       
-
         ],
       },
       {
@@ -3641,7 +3522,6 @@ const GhaziabadTraning = [
             title: "Introduction to styled-components",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
 
@@ -3664,7 +3544,6 @@ const GhaziabadTraning = [
             title: " Integration of React cookie",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -3706,7 +3585,6 @@ const GhaziabadTraning = [
             title: " How does Flux and React work together?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -3745,8 +3623,6 @@ const GhaziabadTraning = [
             title: " Selector",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
 
@@ -3775,9 +3651,6 @@ const GhaziabadTraning = [
           },
         ],
       },
-
-
-      
     ],
     features: [
       {
@@ -3814,23 +3687,17 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
-
-
-
-  // mearn stack course
-
+  // MERN stack course
 
   {
-    title: "Mearn Stack Training",
+    title: "MERN Stack Training",
     heading:
-      "MearnStack Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+      "MERN Stack Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "MERN Stack combines four JavaScript-based technologies- MongoDB, ExpressJS, ReactJS, and NodeJS. It is a full-stack development structure, bringing both front-end and backend. Join the best MERN Stack training in Jodhpur and master how to develop responsive, dynamic, and appealing websites and web apps.",
       "Our course includes several hands-on projects, job assistance, assessments, practical training, and professional certification. Our mentors strive to transform learners into accomplished and confident MERN Stack developers who can handle complex projects seamlessly.",
-      
     ],
     batchDetails: [
       {
@@ -3854,7 +3721,7 @@ const GhaziabadTraning = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of MearnStack Training in Ghaziabad",
+    overviewHeading: "Overview of MERN Stack Training in Ghaziabad",
     overview: [
       "MERN is a full-stack web development structure that combines MongoDB, ExpressJS, ReactJS, and NodeJS, four primary JavaScript-based technologies. It is an open-source technology stack that accelerates the development process and ensures responsive and dynamic websites and web apps.",
       "In the stack, MongoDB is a database management program, ExpressJS is a lightweight framework, ReactJS is a JavaScript library, and NodeJS is a JavaScript runtime environment.",
@@ -3862,7 +3729,6 @@ const GhaziabadTraning = [
       "They ensure group discussions, regular doubt sessions, practical learning, and constant interaction to make learning engaging and seamless.",
       "During the course, you will learn to work with forms, tables, session storage, geolocator APIs, lists, and videos. We will also teach you to style HTML documents using CSS classes, box models, animation, Id, flexbox, etc. There is a brief introduction to Bootstrap as well to help you make responsive pages.",
       "Hands-on projects, included in each module, will enhance your knowledge and give you practical exposure. We have covered each topic comprehensively, so you don’t miss anything and walk out as a well-versed developer. So, join our best MERN Stack training in Jodhpur now and get career-ready.",
-
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -3878,7 +3744,6 @@ const GhaziabadTraning = [
             title: "What are its uses?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -3900,7 +3765,6 @@ const GhaziabadTraning = [
             title: "Data types",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -3918,7 +3782,6 @@ const GhaziabadTraning = [
             title: "Multi-line comments",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -3944,7 +3807,6 @@ const GhaziabadTraning = [
             title: "JS global variables",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -3962,7 +3824,6 @@ const GhaziabadTraning = [
             title: "Examples",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -3980,8 +3841,6 @@ const GhaziabadTraning = [
             title: "Different JavaScript operators",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -3999,8 +3858,6 @@ const GhaziabadTraning = [
             title: "else if statement",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
       {
@@ -4022,7 +3879,6 @@ const GhaziabadTraning = [
             title: " Code blocks",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -4056,7 +3912,6 @@ const GhaziabadTraning = [
             title: "Loop while",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -4132,11 +3987,6 @@ const GhaziabadTraning = [
     ],
     whatsappNumber: "919631005476",
   },
-
-
-
-
-
 ];
 
 export default GhaziabadTraning;
