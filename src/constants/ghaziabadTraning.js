@@ -1541,9 +1541,9 @@ const GhaziabadTraning = [
     ],
     whatsappNumber: "919631005476",
   },
-  
-// javascript traning
-  
+
+  // javascript traning
+
   {
     title: "Javascript Training",
     heading:
@@ -1582,7 +1582,7 @@ const GhaziabadTraning = [
       "Learn JavaScript in Jodhpur from our experts and practice in an intuitive environment. The challenges are based on real-world projects to ensure you learn best practices one step at a time.",
       "This course covers all basic to proficient concepts, such as data types, operators, creating and using variables, generating outputs, structuring your code to make decisions in your programs or looping over the same block of code multiple times, creating and manipulating strings and arrays, defining and calling functions, and so on.",
       "JavaScript course in Jodhpur trains you on how to use this powerful app creation tool in various ways. Please fill out the form or call us now to book your two days of FREE demo classes!",
-  
+
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -1598,7 +1598,7 @@ const GhaziabadTraning = [
             title: "What are its uses?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
         ],
       },
       {
@@ -1620,7 +1620,7 @@ const GhaziabadTraning = [
             title: "Data types",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
         ],
       },
       {
@@ -1638,7 +1638,7 @@ const GhaziabadTraning = [
             title: "Multi-line comments",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
         ],
       },
       {
@@ -1664,7 +1664,7 @@ const GhaziabadTraning = [
             title: "JS global variables",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
         ],
       },
       {
@@ -1682,7 +1682,7 @@ const GhaziabadTraning = [
             title: "Examples",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
+
         ],
       },
       {
@@ -1700,8 +1700,8 @@ const GhaziabadTraning = [
             title: "Different JavaScript operators",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-       
+
+
         ],
       },
       {
@@ -1719,8 +1719,8 @@ const GhaziabadTraning = [
             title: "else if statement",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
+
+
         ],
       },
       {
@@ -1742,7 +1742,7 @@ const GhaziabadTraning = [
             title: " Code blocks",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
+
         ],
       },
       {
@@ -1852,7 +1852,7 @@ const GhaziabadTraning = [
     ],
     whatsappNumber: "919631005476",
   },
-  
+
 
 
   // bootstrap course
@@ -1896,7 +1896,7 @@ const GhaziabadTraning = [
       "Learning Bootstrap does not require a lot of time, and with the Wscube Tech team, it's effortless to understand.",
       "Learn Bootstrap from scratch with the rigorous training by our front-end web development experts, and practice in an intuitive environment. The projects are based on real-world challenges to ensure you learn best practices one step at a time.",
       "The Bootstrap training in Jodhpur by WsCube Tech covers fundamental to advanced topics to give learners the practical knowledge they need to use this CSS framework.",
-  
+
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -1982,7 +1982,7 @@ const GhaziabadTraning = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
-        
+
         ],
       },
       {
@@ -2021,7 +2021,7 @@ const GhaziabadTraning = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
-         
+
         ],
       },
       {
@@ -2051,34 +2051,34 @@ const GhaziabadTraning = [
             title: "Using a Dropdown for a Select",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
           {
             title: "Input Groups",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
           {
             title: "Pagination",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
           {
             title: "Thumbnails",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
           {
             title: "Panels",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
           {
             title: "Wells",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
 
-         
+
+
         ],
       },
       {
@@ -2132,7 +2132,7 @@ const GhaziabadTraning = [
             title: "Carousel Captions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
 
         ],
       },
@@ -2172,12 +2172,12 @@ const GhaziabadTraning = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
-        
-       
+
+
         ],
       },
-      
-      
+
+
     ],
     features: [
       {
@@ -2213,7 +2213,7 @@ const GhaziabadTraning = [
     ],
     whatsappNumber: "919631005476",
   },
-  
+
 
 
 
@@ -2259,7 +2259,7 @@ const GhaziabadTraning = [
       "Whether you want to learn Laravel from scratch, have basic knowledge of HTML/CSS/PHP and want to upgrade your skills, or are interested in learning Laravel, this training is meant for you.",
       "It is a classroom-based Laravel full course with training by an experienced developer who has worked on hundreds of Laravel and PHP projects. Along with mastering the essential concepts, you will get to work on real projects, become certified, get job assistance, and upgrade your skills to explore high-paying career opportunities.",
       "By the end of the best Laravel training in Jodhpur, you will be on your way to kickstarting a promising career in the field of web development. For any queries, feel free to call us or fill out the inquiry form.",
-  
+
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -2295,7 +2295,7 @@ const GhaziabadTraning = [
             title: "Editor Setup",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
         ],
       },
       {
@@ -2325,8 +2325,8 @@ const GhaziabadTraning = [
             title: "Maintenance Mode",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-        
+
+
         ],
       },
       {
@@ -2344,7 +2344,7 @@ const GhaziabadTraning = [
             title: "Routing Parameters",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
         ],
       },
       {
@@ -2366,8 +2366,8 @@ const GhaziabadTraning = [
             title: "Controller Routing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
+
+
         ],
       },
       {
@@ -2389,7 +2389,7 @@ const GhaziabadTraning = [
             title: "Validation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
+
         ],
       },
       {
@@ -2407,7 +2407,7 @@ const GhaziabadTraning = [
             title: "Sharing Data with all Views",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "Blade Templates",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
@@ -2416,7 +2416,7 @@ const GhaziabadTraning = [
             title: "Extends Layouts",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-       
+
         ],
       },
       {
@@ -2430,9 +2430,9 @@ const GhaziabadTraning = [
             title: "Redirecting to Controller Actions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-         
-         
+
+
+
         ],
       },
       {
@@ -2450,8 +2450,8 @@ const GhaziabadTraning = [
             title: "Deleting data",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-          
+
+
         ],
       },
       {
@@ -2547,7 +2547,7 @@ const GhaziabadTraning = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
-         
+
         ],
       },
 
@@ -2568,7 +2568,7 @@ const GhaziabadTraning = [
             title: "Password Reset",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
         ],
       },
 
@@ -2619,7 +2619,7 @@ const GhaziabadTraning = [
             title: "Crud Demo",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
         ],
       },
 
@@ -2665,7 +2665,7 @@ const GhaziabadTraning = [
     ],
     whatsappNumber: "919631005476",
   },
-  
+
 
 
 
@@ -2676,14 +2676,14 @@ const GhaziabadTraning = [
 
 
   {
-    title: "Javascript Training",
+    title: "NodeJS Training",
     heading:
-      "PHP Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+      "NodeJS Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "JavaScript is one of the web's most influential and adaptable scripting languages. This JavaScript course in Jodhpur by WsCube Tech will teach you the fundamentals and get you comfortable creating JS projects.",
-      "You can learn all the basic and advanced features of JavaScript, including making your website interactive, modifying content, validating forms, creating dynamic pages, and so much more. The JavaScript training in Jodhpur is intended to help you build and advance your career in web development.",
+      "Learn the fundamentals as well as advanced concepts of NodeJS in depth. This course by WsCube Tech will teach you the fundamentals of this popular runtime and get you comfortable creating Node-based projects.",
+      "NodeJS training in Jodhpur teaches you how to use JavaScript to create network applications fast and efficiently. The NodeJS certification course with Wscube Tech is intended to help you understand and develop top-notch web apps.",
     ],
     batchDetails: [
       {
@@ -2707,13 +2707,1162 @@ const GhaziabadTraning = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of JavaScript Training in Ghaziabad",
+    overviewHeading: "Overview of NodeJs Training in Ghaziabad",
     overview: [
-      "JavaScript is the most extensively used and popular client-side scripting language. It is intended to enhance web pages with interactivity and dynamic effects by changing the content delivered on the web pages.",
-      "Learn JavaScript in Jodhpur from our experts and practice in an intuitive environment. The challenges are based on real-world projects to ensure you learn best practices one step at a time.",
-      "This course covers all basic to proficient concepts, such as data types, operators, creating and using variables, generating outputs, structuring your code to make decisions in your programs or looping over the same block of code multiple times, creating and manipulating strings and arrays, defining and calling functions, and so on.",
-      "JavaScript course in Jodhpur trains you on how to use this powerful app creation tool in various ways. Please fill out the form or call us now to book your two days of FREE demo classes!",
-  
+      "NodeJS training in Jodhpur teaches you how to use JavaScript to create network applications fast and efficiently. The NodeJS certification course with Wscube Tech is intended to help you understand and develop top-notch web apps.",
+      "Because of its ability to manage asynchronous activities, it is excellent for creating chat and gaming apps, but it can be used for much more. NodeJS course in Jodhpur trains you how to use this powerful app creation tool in various ways.",
+      "Our training is an excellent method to get started in the field of web development. It employs Java programming, which is common among web developers. Writing Javascript applications without a web browser is possible with Node JS. ",
+      "Our training is an excellent method to get started in the field of web development. It employs Java programming, which is common among web developers. Writing Javascript applications without a web browser is possible with Node JS. ",
+    ],
+    certificateImgUrl:
+      "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
+    syllabus: [
+      {
+        title: "Introduction to Nodejs ",
+        lectures: [
+          {
+            title: "What is Node.js?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Environment setup",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Node package manager",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Module implementation",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "NodeJS Fundamentals",
+        lectures: [
+          {
+            title: "IDEs to use",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Global object",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Process object",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Process object",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Modules",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Readline",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Child processes",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "File System",
+        lectures: [
+          {
+            title: "Read file",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Write file",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Rename a directory",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Create a directory",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "Essential Concepts of Node",
+        lectures: [
+          {
+            title: "HTTP requests",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Web servers ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to serve files?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "HTTP and JSON data",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Post data ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Understanding NPM",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Introduction to AXIOS ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Database setup",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Dynamic page content",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Creating login and registration views ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Admin setup ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+    ],
+    features: [
+      {
+        title: "Training by Experts",
+        imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
+        desc: "To make you an expert and professional, we offer complete NodeJs training in Jodhpur by highly-experienced mentors.",
+      },
+      {
+        title: "100% Practical-Oriented",
+        imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
+        desc: "Learning NodeJS requires a good amount of practice. We provide regular assignments and different projects for practical exposure.",
+      },
+      {
+        title: "Rigorous Classroom Learning",
+        imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
+        desc: "Our classrooms are digitalized, distraction-free, and allow 1:1 interaction with the mentor for the next-level learning experience.",
+      },
+      {
+        title: "Work on various Projects",
+        imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
+        desc: "During the NodeJS training in Jodhpur, you will create various types of Projects. It will assist you in understanding NodeJs concepts.",
+      },
+      {
+        title: "Job Assistance",
+        imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
+        desc: "We prepare you for the job and conduct your interviews with top companies to help you get good jobs in NodeJS development.",
+      },
+      {
+        title: "Professional NodeJs Certification",
+        imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
+        desc: "After completing our program, you will become a qualified NodeJS developer. This certificate helps you obtain good jobs.",
+      },
+    ],
+    whatsappNumber: "919631005476",
+  },
+
+
+  // Angular JS Course
+
+
+
+
+  {
+    title: "AngularJS Training",
+    heading:
+      "AngularJS Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+    center: "Ghaziabad",
+    imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
+    desc: [
+      "AngularJS is the #1 choice of web developers when it comes to choosing a JavaScript framework. If you want to become a proficient web developer or JavaScript developer, you must learn AngularJS skills.",
+      "In this AngularJS course in Jodhpur by WsCube Tech, you will learn and practice all the concepts of the framework, and work on live projects. The entire course is covered by a highly-experienced mentor. The course includes certification, job assistance, classroom training, and hands-on projects.",
+    ],
+    batchDetails: [
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "9:00 AM - 10:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "10:00 AM - 11:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "4:00 AM - 5:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "5:00 AM - 6:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "6:00 AM - 7:00 PM",
+      },
+    ],
+    overviewHeading: "Overview of AngularJs Training in Ghaziabad",
+    overview: [
+     
+     "AngularJS is a JavaScript framework that is mostly used for creating Single-Page Applications (SPAs) that run in browsers. Gmail and Facebook are examples of SPAs that run in browsers without page reloading.",
+     "The demand for Web Developers having AngularJS skills is high. It’s because Angular provides high performance, reduces code writing, simplifies the testing process, and makes it easier to integrate new features.",
+     "If you want to differentiate yourself in the field of web development, you must learn Angular and practice it with the most trusted AngularJS course in Jodhpur. At WsCube Tech, we aim to help you acquire new skills and upgrade existing skills.",
+     "You will receive a professional AngularJS certificate and find assistance in placement so that you can make your career as a Web Developer, UI Developer, Front-End Developer, JS Developer, or Web App Developer.",
+     "For any queries or questions related to our AngularJS training in Jodhpur, feel free to call us or book free demo sessions now!",
+
+    ],
+    certificateImgUrl:
+      "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
+    syllabus: [
+      {
+        title: "Introduction to AngularJS",
+        lectures: [
+          {
+            title: "What is AngularJS?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Environment Setup",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "MVC Architecture",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "AngularJS Key Features",
+        lectures: [
+          {
+            title: "Modules and dependency injection",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Controllers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Expressions",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Two-way data binding",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Directives",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Services",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Scopes",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Filters",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Routing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+
+        ],
+      },
+      {
+        title: "JS Comments",
+        lectures: [
+          {
+            title: "What are comments in JS?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Single-line comments",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Multi-line comments",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "JTwo-way data binding",
+        lectures: [
+          {
+            title: "Loading of Angular App",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Components",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "AppModule and Declaring Component",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Custom Components",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Component Templates",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Component Styles",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Component Selector",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Databinding",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "String interpolation",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Property binding",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Event binding",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Directives",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "ngStyle and ngClass",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "Implementing AngularJS",
+        lectures: [
+          {
+            title: "How to use AngularJS?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to set up new projects?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to create and use components?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Adding navigation bar",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Adding content to components",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Components and Data Binding",
+        lectures: [
+          {
+            title: "How to split apps into components?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "   Overview of property and event binding",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Overview of property and event binding",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Binding custom properties",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Alias assigning to custom properties",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "View encapsulation",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Accessing templates and DOM",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Component lifecycle in AngularJS",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+
+        ],
+      },
+      {
+        title: "Directives",
+        lectures: [
+          {
+            title: "ngFor and ngIf",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "ngClass and ngStyle",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Creating Attribute Directive",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          {
+            title: "Renderer",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          {
+            title: "Hosting events with HostListener",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          {
+            title: "Hosting properties using HostBinding",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          {
+            title: "Binding to directive properties",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          {
+            title: "ngSwitch",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+
+        ],
+      },
+      {
+        title: "Services and Dependency Injection",
+        lectures: [
+          {
+            title: "Introduction",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Basics of services in AngularJS",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to create a Logging service?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Logging service injection",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+
+          {
+            title: "How to create a Data service?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "What is a Hierarchical Injector?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Service injection",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Important Concepts",
+        lectures: [
+          {
+            title: "Configuration of AngularJS",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Structure of an AngularJS Application",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Using Controllers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Adapting to model changes",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Angular.js Building Blocks",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Angular JS Scopes",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Using Filters",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Understanding Filters syntax and expression",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Building your own custom Filters",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Understanding Server Communication",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Communicating through $http.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "PUT",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "POST",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "GET",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "PATCH",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "JSON Conversion",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Understanding Caching Responses",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Request and Response Transformation",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Using RESTFUL Resources",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Angular Localizatio",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Building Syntax using Localization",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Building Syntax using Localization",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+
+      
+        ],
+      },
+    ],
+    features: [
+      {
+        title: "Learn From Industry Experts",
+        imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
+        desc: "The entire Angular training in Jodhpur is covered by an experienced developer who has worked on hundreds of AngularJS projects. You always get high-quality training.",
+      },
+      {
+        title: "100% Job Assistance",
+        imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
+        desc: "Once the course is over, we prepare you for the job interviews, and arrange your interviews with top organizations. You can easily kickstart your career in web development.",
+      },
+      {
+        title: "AngularJS Certification  ",
+        imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
+        desc: "This is an AngularJS certification course, which means you will get a professional certificate once the course is complete and you have worked on the projects.",
+      },
+      {
+        title: "Hands-on Real Projects",
+        imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
+        desc: "Angular plays a crucial part in JavaScript-based projects and requires immense practice. For that, we provide you with live websites and web apps for practical exposure.",
+      },
+      {
+        title: "Intensive Classroom Training",
+        imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
+        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
+      },
+      {
+        title: "Comprehensive Curriculum ",
+        imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
+        desc: "Ae offer the most comprehensive AngularJS training with the latest course syllabus, covering all aspects in-depth. You master all the concepts with proper guidance.",
+      },
+    ],
+    whatsappNumber: "919631005476",
+  },
+
+
+
+
+
+
+
+
+
+
+
+  // reactjs course
+
+
+  {
+    title: "ReactJS Training",
+    heading:
+      "ReactJS  Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+    center: "Ghaziabad",
+    imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
+    desc: [
+      "ReactJS has become the most preferred JavaScript library in web development. It’s time for you to learn ReactJS practically and enhance your skills for exploring high-paying & promising career opportunities.",
+      "Enroll now in the basic to advanced ReactJS training in Jodhpur covering all the concepts practically. You will acquire new skills, work on real projects & assignments, become a certified ReactJS developer, and easily get placed at top organizations.",
+    ],
+    batchDetails: [
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "9:00 AM - 10:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "10:00 AM - 11:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "4:00 AM - 5:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "5:00 AM - 6:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "6:00 AM - 7:00 PM",
+      },
+    ],
+    overviewHeading: "Overview of ReactJs Training in Ghaziabad",
+    overview: [
+      "ReactJS is a library for JavaScript front-end development that has gained immense popularity over the years. If you want to excel as a front-end developer and give wings to your career in web development, you must master ReactJS.",
+      "Yakeen Tech brings you a completely practical-based and job-oriented ReactJS course in Jodhpur. In this course, you will learn about the working of ReactJS, basics, fundamentals, as well as advanced concepts. It is a comprehensive React training that helps you master all the aspects of the ReactJS library.",
+      "JOnce you complete the training, you will be prepared for a job interview, get the certification, and feature for the interviews at top companies hiring ReactJS Front-End Developers.",
+"You can enroll in this ReactJS certification course in Jodhpur whether you are a beginner or have some prior experience and want to take your career to the next level. We cover the entire course from zero level and help you become a pro.",
+"Have any questions or queries related to our React training in Jodhpur? Call us now or book two days of FREE demo classes.",
+    ],
+    certificateImgUrl:
+      "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
+    syllabus: [
+      {
+        title: "Introduction to ReactJS",
+        lectures: [
+          {
+            title: "What is ReactJS?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Advantages of ReactJS",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Workflow of ReactJS",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Scope of ReactJS",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "Overview of JSX",
+        lectures: [
+          {
+            title: "Introduction of Virtual DOM",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Difference between JS and JSX",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "React Components overview",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Containers and components",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "What are Child Components?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "What are Namespace components?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "What are the JavaScript expressions available in JSX",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "ReactJS Environment Setup",
+        lectures: [
+          {
+            title: "Node setup",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to use NPM?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to create package.json and its purpose?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "ES6 Introduction and features",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Webpack Overview",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Best IDE for React",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to write optimized code in ReactJS?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "React JS browser plugins overview",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "Real-Time App Using ReactJS",
+        lectures: [
+          {
+            title: "Create a React component with JSX template",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to create Nested Components?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "What is ReactJS render?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "React Props overview",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Introduction of Props validation with data types.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Flow of States, Initialize states, and update states",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "ReactJS UI and Forms",
+        lectures: [
+          {
+            title: "Lists of Form components",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Setup Controlled and Uncontrolled form components",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Control Input elements",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to set default values on all formats of Input elements?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to set default values on all formats of Input elements?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "     How to write Styles?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to write Styles?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+
+        ],
+      },
+      {
+        title: "ReactJS Component Lifecycle",
+        lectures: [
+          {
+            title: "Initial Render",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " ops Change",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "state Change",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Component willMount",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Component Unmount",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Component Unmount",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+
+        ],
+      },
+      {
+        title: "Routing in ReactJS and Other JS Concepts",
+        lectures: [
+          {
+            title: "Overview of Single Page Application",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to configure React Router?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "History of Router",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to Handle Conditional statement in JSX?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "IIFE in JSX for a complex logic overview",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+
+
+        ],
+      },
+      {
+        title: "Event Handling in JSX",
+        lectures: [
+          {
+            title: "onBlur, onKeyUp, onChange, and other events in ReactJS",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Sharing events between the components",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+       
+
+        ],
+      },
+      {
+        title: "How to Write Styles in ReactJS?",
+        lectures: [
+          {
+            title: "CSS and inline styles in React JS overview.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Introduction to styled-components",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+
+      {
+        title: "React Router With Navigation",
+        lectures: [
+          {
+            title: "How to Load the router library?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Configure the React Router?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to Pass and receive parameters?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Integration of React cookie",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "Flux Overview",
+        lectures: [
+          {
+            title: "HWhat is Flux Architecture?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "What are the Flux Components available?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Stores",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Dispatchers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " View Controllers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Actions",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Views",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " How does Flux work?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " How does Flux and React work together?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+
+      {
+        title: "Redux Overview",
+        lectures: [
+          {
+            title: "Introduction to One Store",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Provider Component",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Actions",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Reducers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "sagas",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Dispatchers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "View Controllers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Selector",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+
+        ],
+      },
+
+      {
+        title: "Unit Testing Overview",
+        lectures: [
+          {
+            title: "hat are the necessary Tools required for Unit Testing?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Configure the React Router?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Introduction to JEST",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "      How to Test React Component?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to Test React Router??",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+
+
+      
+    ],
+    features: [
+      {
+        title: "Learn From Expert Developers",
+        imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
+        desc: "The entire ReactJS training in Jodhpur is covered by an experienced front-end developer who has worked on hundreds of projects. You always get high-quality training.",
+      },
+      {
+        title: "Job Assistance",
+        imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
+        desc: "Once the course is over, we prepare you for the job interviews, and arrange your interviews with top organizations. You can easily kickstart your career as a ReactJS developer..",
+      },
+      {
+        title: "Hands-on Projects",
+        imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
+        desc: "ReactJS plays a crucial part in JavaScript-based projects and requires immense practice. For that, we provide you with live websites and web apps for practical exposure.",
+      },
+      {
+        title: "Most Comprehensive Curriculum",
+        imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
+        desc: "We offer the most comprehensive ReactJs training with the latest course syllabus, covering all aspects in-depth. You master all the concepts with proper guidance.",
+      },
+      {
+        title: "Job Assistance",
+        imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
+        desc: "We prepare you for the job and conduct your interviews with top companies to help you get good jobs in the field of website development.",
+      },
+      {
+        title: "ReactJS Certification",
+        imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
+        desc: "This is a ReactJS course in Jodhpur with certificate, which means you will get a professional certificate once the course is complete and you have worked on the projects",
+      },
+    ],
+    whatsappNumber: "919631005476",
+  },
+
+
+
+
+
+  // mearn stack course
+
+
+  {
+    title: "Mearn Stack Training",
+    heading:
+      "MearnStack Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+    center: "Ghaziabad",
+    imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
+    desc: [
+      "MERN Stack combines four JavaScript-based technologies- MongoDB, ExpressJS, ReactJS, and NodeJS. It is a full-stack development structure, bringing both front-end and backend. Join the best MERN Stack training in Jodhpur and master how to develop responsive, dynamic, and appealing websites and web apps.",
+      "Our course includes several hands-on projects, job assistance, assessments, practical training, and professional certification. Our mentors strive to transform learners into accomplished and confident MERN Stack developers who can handle complex projects seamlessly.",
+      
+    ],
+    batchDetails: [
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "9:00 AM - 10:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "10:00 AM - 11:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "4:00 AM - 5:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "5:00 AM - 6:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "6:00 AM - 7:00 PM",
+      },
+    ],
+    overviewHeading: "Overview of MearnStack Training in Ghaziabad",
+    overview: [
+      "MERN is a full-stack web development structure that combines MongoDB, ExpressJS, ReactJS, and NodeJS, four primary JavaScript-based technologies. It is an open-source technology stack that accelerates the development process and ensures responsive and dynamic websites and web apps.",
+      "In the stack, MongoDB is a database management program, ExpressJS is a lightweight framework, ReactJS is a JavaScript library, and NodeJS is a JavaScript runtime environment.",
+      "Yakeen Tech offers the best MERN Stack development course in Jodhpur that focuses on producing the most efficient and skilled developers. Our team has the most experienced and qualified mentors who train you to build rich websites and guide you through every step.",
+      "They ensure group discussions, regular doubt sessions, practical learning, and constant interaction to make learning engaging and seamless.",
+      "During the course, you will learn to work with forms, tables, session storage, geolocator APIs, lists, and videos. We will also teach you to style HTML documents using CSS classes, box models, animation, Id, flexbox, etc. There is a brief introduction to Bootstrap as well to help you make responsive pages.",
+      "Hands-on projects, included in each module, will enhance your knowledge and give you practical exposure. We have covered each topic comprehensively, so you don’t miss anything and walk out as a well-versed developer. So, join our best MERN Stack training in Jodhpur now and get career-ready.",
+
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -2729,7 +3878,7 @@ const GhaziabadTraning = [
             title: "What are its uses?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
         ],
       },
       {
@@ -2751,7 +3900,7 @@ const GhaziabadTraning = [
             title: "Data types",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
         ],
       },
       {
@@ -2769,7 +3918,7 @@ const GhaziabadTraning = [
             title: "Multi-line comments",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
         ],
       },
       {
@@ -2795,7 +3944,7 @@ const GhaziabadTraning = [
             title: "JS global variables",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
         ],
       },
       {
@@ -2813,7 +3962,7 @@ const GhaziabadTraning = [
             title: "Examples",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
+
         ],
       },
       {
@@ -2831,8 +3980,8 @@ const GhaziabadTraning = [
             title: "Different JavaScript operators",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-       
+
+
         ],
       },
       {
@@ -2850,8 +3999,8 @@ const GhaziabadTraning = [
             title: "else if statement",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
+
+
         ],
       },
       {
@@ -2873,7 +4022,7 @@ const GhaziabadTraning = [
             title: " Code blocks",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
+
         ],
       },
       {
@@ -2951,996 +4100,43 @@ const GhaziabadTraning = [
     ],
     features: [
       {
-        title: "Training by Experts",
+        title: "learner Support & Help",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "To make you an expert and professional, we offer complete JavaScript training in Jodhpur by highly-experienced mentors and web developers.",
+        desc: "Yakeen Tech offers support services to its learners, ensuring to resolve their queries at the earliest. Feel free to connect with us regarding training, projects, doubt sessions, etc.",
       },
       {
-        title: "100% Practical-Oriented",
+        title: "Expert Mentors",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "Learning JavaScript requires a good amount of practice. Therefore, we provide regular assignments and different projects for practical exposure.",
+        desc: "We have highly qualified and experienced mentors on board to guide aspirants and hone their skills. They have worked for leading companies and top institutes for over a decade.",
+      },
+      {
+        title: "Placement Assistance",
+        imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
+        desc: "Upon completing the MERN Stack course in Jodhpur, our job assistance team will help you find the most suitable opportunity based on your expertise and preference.",
       },
       {
         title: "Hands-on Projects",
-        imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "Get an opportunity to work on plenty of projects that will give you a deep experience. Showcase it in your resume & increase your chance of getting hired!",
-      },
-      {
-        title: "Rigorous Classroom Learning",
         imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "Our classrooms are digitalized, distraction-free, and allow 1:1 interaction with the mentor for the next-level learning experience.",
+        desc: "After completing each module, you’ll get to work on projects related to front-end, back-end, and full-stack web development. Our mentors will evaluate your work and provide valuable feedback.",
       },
       {
-        title: "Job Assistance",
+        title: "Comprehensive & Updated Syllabus",
         imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "We prepare you for the job and conduct your interviews with top companies to help you get good jobs in the field of website development.",
+        desc: "Our experts keep a close watch on the latest industry trends and requirements to curate an updated curriculum for our learners.",
       },
       {
         title: "Professional Certification",
         imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "After completing our program, you will become a qualified JavaScript developer. This certificate helps you obtain good jobs.",
+        desc: "After completing the course, we will reward you with an industry-recognised certificate to validate your capabilities as a MERN Stack developer.",
       },
     ],
     whatsappNumber: "919631005476",
   },
-  
-
-// Angular JS Course
-
-
-
-
-{
-  title: "Javascript Training",
-  heading:
-    "PHP Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-  center: "Ghaziabad",
-  imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
-  desc: [
-    "JavaScript is one of the web's most influential and adaptable scripting languages. This JavaScript course in Jodhpur by WsCube Tech will teach you the fundamentals and get you comfortable creating JS projects.",
-    "You can learn all the basic and advanced features of JavaScript, including making your website interactive, modifying content, validating forms, creating dynamic pages, and so much more. The JavaScript training in Jodhpur is intended to help you build and advance your career in web development.",
-  ],
-  batchDetails: [
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "9:00 AM - 10:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "10:00 AM - 11:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "4:00 AM - 5:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "5:00 AM - 6:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "6:00 AM - 7:00 PM",
-    },
-  ],
-  overviewHeading: "Overview of JavaScript Training in Ghaziabad",
-  overview: [
-    "JavaScript is the most extensively used and popular client-side scripting language. It is intended to enhance web pages with interactivity and dynamic effects by changing the content delivered on the web pages.",
-    "Learn JavaScript in Jodhpur from our experts and practice in an intuitive environment. The challenges are based on real-world projects to ensure you learn best practices one step at a time.",
-    "This course covers all basic to proficient concepts, such as data types, operators, creating and using variables, generating outputs, structuring your code to make decisions in your programs or looping over the same block of code multiple times, creating and manipulating strings and arrays, defining and calling functions, and so on.",
-    "JavaScript course in Jodhpur trains you on how to use this powerful app creation tool in various ways. Please fill out the form or call us now to book your two days of FREE demo classes!",
-
-  ],
-  certificateImgUrl:
-    "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
-  syllabus: [
-    {
-      title: "JavaScript Introduction",
-      lectures: [
-        {
-          title: "What is JavaScript?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "What are its uses?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-      ],
-    },
-    {
-      title: "JavaScript Basics",
-      lectures: [
-        {
-          title: "Writing Hello World program in JS",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "What are variables in JS?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Built-in methods",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Data types",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-      
-      ],
-    },
-    {
-      title: "JS Comments",
-      lectures: [
-        {
-          title: "What are comments in JS?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Single-line comments",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Multi-line comments",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-      ],
-    },
-    {
-      title: "JS Variables",
-      lectures: [
-        {
-          title: "What are variables in JS?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "How to declare a variable?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "When to use variables?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Examples",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "JS global variables",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-      ],
-    },
-    {
-      title: "JS Data Types",
-      lectures: [
-        {
-          title: "What are data types?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Different data types in JS",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Examples",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        
-      ],
-    },
-    {
-      title: "JS Operators",
-      lectures: [
-        {
-          title: "Understanding operators in JavaScript",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "   Role of operators",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Different JavaScript operators",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-      
-     
-      ],
-    },
-    {
-      title: "Conditional Statements",
-      lectures: [
-        {
-          title: "if statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "else statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "else if statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-       
-      ],
-    },
-    {
-      title: "JS Switch",
-      lectures: [
-        {
-          title: "Understanding switch statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Break keyword",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Default keyword",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: " Code blocks",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        
-      ],
-    },
-    {
-      title: "JS Loops",
-      lectures: [
-        {
-          title: "What are JavaScript loops?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Different types of loops",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "For loop",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Loop scope",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "For in loop",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "For of loop",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Loop while",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-
-      ],
-    },
-
-    {
-      title: "JavaScript DOM",
-      lectures: [
-        {
-          title: "Introduction to DOM",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "DOM Methods",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "DOM Documents",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: " DOM Elements",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Animations",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Events",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Collections",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: " Node Lists",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-      ],
-    },
-  ],
-  features: [
-    {
-      title: "Training by Experts",
-      imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-      desc: "To make you an expert and professional, we offer complete JavaScript training in Jodhpur by highly-experienced mentors and web developers.",
-    },
-    {
-      title: "100% Practical-Oriented",
-      imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-      desc: "Learning JavaScript requires a good amount of practice. Therefore, we provide regular assignments and different projects for practical exposure.",
-    },
-    {
-      title: "Hands-on Projects",
-      imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-      desc: "Get an opportunity to work on plenty of projects that will give you a deep experience. Showcase it in your resume & increase your chance of getting hired!",
-    },
-    {
-      title: "Rigorous Classroom Learning",
-      imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-      desc: "Our classrooms are digitalized, distraction-free, and allow 1:1 interaction with the mentor for the next-level learning experience.",
-    },
-    {
-      title: "Job Assistance",
-      imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-      desc: "We prepare you for the job and conduct your interviews with top companies to help you get good jobs in the field of website development.",
-    },
-    {
-      title: "Professional Certification",
-      imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-      desc: "After completing our program, you will become a qualified JavaScript developer. This certificate helps you obtain good jobs.",
-    },
-  ],
-  whatsappNumber: "919631005476",
-},
 
 
 
 
 
-
-
-
-
-
-
-// reactjs course
-
-
-{
-  title: "Javascript Training",
-  heading:
-    "PHP Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-  center: "Ghaziabad",
-  imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
-  desc: [
-    "JavaScript is one of the web's most influential and adaptable scripting languages. This JavaScript course in Jodhpur by WsCube Tech will teach you the fundamentals and get you comfortable creating JS projects.",
-    "You can learn all the basic and advanced features of JavaScript, including making your website interactive, modifying content, validating forms, creating dynamic pages, and so much more. The JavaScript training in Jodhpur is intended to help you build and advance your career in web development.",
-  ],
-  batchDetails: [
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "9:00 AM - 10:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "10:00 AM - 11:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "4:00 AM - 5:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "5:00 AM - 6:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "6:00 AM - 7:00 PM",
-    },
-  ],
-  overviewHeading: "Overview of JavaScript Training in Ghaziabad",
-  overview: [
-    "JavaScript is the most extensively used and popular client-side scripting language. It is intended to enhance web pages with interactivity and dynamic effects by changing the content delivered on the web pages.",
-    "Learn JavaScript in Jodhpur from our experts and practice in an intuitive environment. The challenges are based on real-world projects to ensure you learn best practices one step at a time.",
-    "This course covers all basic to proficient concepts, such as data types, operators, creating and using variables, generating outputs, structuring your code to make decisions in your programs or looping over the same block of code multiple times, creating and manipulating strings and arrays, defining and calling functions, and so on.",
-    "JavaScript course in Jodhpur trains you on how to use this powerful app creation tool in various ways. Please fill out the form or call us now to book your two days of FREE demo classes!",
-
-  ],
-  certificateImgUrl:
-    "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
-  syllabus: [
-    {
-      title: "JavaScript Introduction",
-      lectures: [
-        {
-          title: "What is JavaScript?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "What are its uses?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-      ],
-    },
-    {
-      title: "JavaScript Basics",
-      lectures: [
-        {
-          title: "Writing Hello World program in JS",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "What are variables in JS?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Built-in methods",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Data types",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-      
-      ],
-    },
-    {
-      title: "JS Comments",
-      lectures: [
-        {
-          title: "What are comments in JS?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Single-line comments",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Multi-line comments",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-      ],
-    },
-    {
-      title: "JS Variables",
-      lectures: [
-        {
-          title: "What are variables in JS?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "How to declare a variable?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "When to use variables?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Examples",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "JS global variables",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-      ],
-    },
-    {
-      title: "JS Data Types",
-      lectures: [
-        {
-          title: "What are data types?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Different data types in JS",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Examples",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        
-      ],
-    },
-    {
-      title: "JS Operators",
-      lectures: [
-        {
-          title: "Understanding operators in JavaScript",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "   Role of operators",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Different JavaScript operators",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-      
-     
-      ],
-    },
-    {
-      title: "Conditional Statements",
-      lectures: [
-        {
-          title: "if statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "else statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "else if statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-       
-      ],
-    },
-    {
-      title: "JS Switch",
-      lectures: [
-        {
-          title: "Understanding switch statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Break keyword",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Default keyword",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: " Code blocks",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        
-      ],
-    },
-    {
-      title: "JS Loops",
-      lectures: [
-        {
-          title: "What are JavaScript loops?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Different types of loops",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "For loop",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Loop scope",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "For in loop",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "For of loop",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Loop while",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-
-      ],
-    },
-
-    {
-      title: "JavaScript DOM",
-      lectures: [
-        {
-          title: "Introduction to DOM",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "DOM Methods",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "DOM Documents",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: " DOM Elements",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Animations",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Events",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Collections",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: " Node Lists",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-      ],
-    },
-  ],
-  features: [
-    {
-      title: "Training by Experts",
-      imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-      desc: "To make you an expert and professional, we offer complete JavaScript training in Jodhpur by highly-experienced mentors and web developers.",
-    },
-    {
-      title: "100% Practical-Oriented",
-      imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-      desc: "Learning JavaScript requires a good amount of practice. Therefore, we provide regular assignments and different projects for practical exposure.",
-    },
-    {
-      title: "Hands-on Projects",
-      imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-      desc: "Get an opportunity to work on plenty of projects that will give you a deep experience. Showcase it in your resume & increase your chance of getting hired!",
-    },
-    {
-      title: "Rigorous Classroom Learning",
-      imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-      desc: "Our classrooms are digitalized, distraction-free, and allow 1:1 interaction with the mentor for the next-level learning experience.",
-    },
-    {
-      title: "Job Assistance",
-      imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-      desc: "We prepare you for the job and conduct your interviews with top companies to help you get good jobs in the field of website development.",
-    },
-    {
-      title: "Professional Certification",
-      imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-      desc: "After completing our program, you will become a qualified JavaScript developer. This certificate helps you obtain good jobs.",
-    },
-  ],
-  whatsappNumber: "919631005476",
-},
-
-
-
-
-
-// mearn stack course
-
-
-{
-  title: "Javascript Training",
-  heading:
-    "PHP Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-  center: "Ghaziabad",
-  imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
-  desc: [
-    "JavaScript is one of the web's most influential and adaptable scripting languages. This JavaScript course in Jodhpur by WsCube Tech will teach you the fundamentals and get you comfortable creating JS projects.",
-    "You can learn all the basic and advanced features of JavaScript, including making your website interactive, modifying content, validating forms, creating dynamic pages, and so much more. The JavaScript training in Jodhpur is intended to help you build and advance your career in web development.",
-  ],
-  batchDetails: [
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "9:00 AM - 10:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "10:00 AM - 11:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "4:00 AM - 5:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "5:00 AM - 6:00 PM",
-    },
-    {
-      duration: "(Mon - Sat) 5 Months",
-      timing: "6:00 AM - 7:00 PM",
-    },
-  ],
-  overviewHeading: "Overview of JavaScript Training in Ghaziabad",
-  overview: [
-    "JavaScript is the most extensively used and popular client-side scripting language. It is intended to enhance web pages with interactivity and dynamic effects by changing the content delivered on the web pages.",
-    "Learn JavaScript in Jodhpur from our experts and practice in an intuitive environment. The challenges are based on real-world projects to ensure you learn best practices one step at a time.",
-    "This course covers all basic to proficient concepts, such as data types, operators, creating and using variables, generating outputs, structuring your code to make decisions in your programs or looping over the same block of code multiple times, creating and manipulating strings and arrays, defining and calling functions, and so on.",
-    "JavaScript course in Jodhpur trains you on how to use this powerful app creation tool in various ways. Please fill out the form or call us now to book your two days of FREE demo classes!",
-
-  ],
-  certificateImgUrl:
-    "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
-  syllabus: [
-    {
-      title: "JavaScript Introduction",
-      lectures: [
-        {
-          title: "What is JavaScript?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "What are its uses?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-      ],
-    },
-    {
-      title: "JavaScript Basics",
-      lectures: [
-        {
-          title: "Writing Hello World program in JS",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "What are variables in JS?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Built-in methods",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Data types",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-      
-      ],
-    },
-    {
-      title: "JS Comments",
-      lectures: [
-        {
-          title: "What are comments in JS?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Single-line comments",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Multi-line comments",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-      ],
-    },
-    {
-      title: "JS Variables",
-      lectures: [
-        {
-          title: "What are variables in JS?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "How to declare a variable?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "When to use variables?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Examples",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "JS global variables",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-      ],
-    },
-    {
-      title: "JS Data Types",
-      lectures: [
-        {
-          title: "What are data types?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Different data types in JS",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Examples",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        
-      ],
-    },
-    {
-      title: "JS Operators",
-      lectures: [
-        {
-          title: "Understanding operators in JavaScript",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "   Role of operators",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Different JavaScript operators",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-      
-     
-      ],
-    },
-    {
-      title: "Conditional Statements",
-      lectures: [
-        {
-          title: "if statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "else statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "else if statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-       
-       
-      ],
-    },
-    {
-      title: "JS Switch",
-      lectures: [
-        {
-          title: "Understanding switch statement",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Break keyword",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Default keyword",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: " Code blocks",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        
-      ],
-    },
-    {
-      title: "JS Loops",
-      lectures: [
-        {
-          title: "What are JavaScript loops?",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Different types of loops",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "For loop",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Loop scope",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "For in loop",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "For of loop",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Loop while",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-
-      ],
-    },
-
-    {
-      title: "JavaScript DOM",
-      lectures: [
-        {
-          title: "Introduction to DOM",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "DOM Methods",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "DOM Documents",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: " DOM Elements",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Animations",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Events",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: "Collections",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-        {
-          title: " Node Lists",
-          link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-        },
-      ],
-    },
-  ],
-  features: [
-    {
-      title: "Training by Experts",
-      imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-      desc: "To make you an expert and professional, we offer complete JavaScript training in Jodhpur by highly-experienced mentors and web developers.",
-    },
-    {
-      title: "100% Practical-Oriented",
-      imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-      desc: "Learning JavaScript requires a good amount of practice. Therefore, we provide regular assignments and different projects for practical exposure.",
-    },
-    {
-      title: "Hands-on Projects",
-      imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-      desc: "Get an opportunity to work on plenty of projects that will give you a deep experience. Showcase it in your resume & increase your chance of getting hired!",
-    },
-    {
-      title: "Rigorous Classroom Learning",
-      imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-      desc: "Our classrooms are digitalized, distraction-free, and allow 1:1 interaction with the mentor for the next-level learning experience.",
-    },
-    {
-      title: "Job Assistance",
-      imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-      desc: "We prepare you for the job and conduct your interviews with top companies to help you get good jobs in the field of website development.",
-    },
-    {
-      title: "Professional Certification",
-      imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-      desc: "After completing our program, you will become a qualified JavaScript developer. This certificate helps you obtain good jobs.",
-    },
-  ],
-  whatsappNumber: "919631005476",
-},
-
-
-
-
-  
 ];
 
 export default GhaziabadTraning;

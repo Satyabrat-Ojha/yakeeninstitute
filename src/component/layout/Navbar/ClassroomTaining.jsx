@@ -101,16 +101,16 @@ const OnlineTraining = () => {
                       <a title="Laravel Course"href="/ghaziabad/laravel-training">Laravel Course</a>
                     </li>
                     <li>
-                      <a title="Node JS Course"href="/ghaziabad/javascript-training">Node JS Course</a>
+                      <a title="Node JS Course"href="/ghaziabad/nodejs-training">Node JS Course</a>
                     </li>
                     <li>
-                      <a title="Angular JS Course "href="/ghaziabad/javascript-training">Angular JS Course</a>
+                      <a title="Angular JS Course "href="/ghaziabad/angularjs-training">Angular JS Course</a>
                     </li>
                     <li>
-                      <a title="React JS Course"href="/ghaziabad/javascript-training">React JS Course</a>
+                      <a title="React JS Course"href="/ghaziabad/reactJS-training">React JS Course</a>
                     </li>
                     <li>
-                      <a title="Mern Stack Training Jodhpur"href="/ghaziabad/javascript-training">
+                      <a title="Mern Stack Training Jodhpur"href="/ghaziabad/mearn stack-training">
                         Mern Stack Course
                       </a>
                     </li>
