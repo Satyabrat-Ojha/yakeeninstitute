@@ -7,7 +7,7 @@ const Overview = ({ course }) => {
         <div className="row">
           <div className="col-lg-12 text-center">
             <h2 className={`${styles.overviewHeading} mb-lg-3 mb-2`}>
-              Overview of our {course.title} in {course.center}{" "}
+              {course.overviewHeading}
             </h2>
           </div>
         </div>

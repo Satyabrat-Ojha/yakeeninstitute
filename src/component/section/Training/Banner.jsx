@@ -11,10 +11,7 @@ const Banner = ({ course }) => {
         <div className={`row ${styles.crsRowReverse}`}>
           <div className="col-lg-8">
             <div className="pe-lg-4">
-              <h1 className="mb-lg-3 mb-2">
-                {course.title} in {course.center} (Classroom Course With
-                Certificate &amp; Placement)
-              </h1>
+              <h1 className="mb-lg-3 mb-2">{course.heading}</h1>
               <div
                 className={`${styles.ratingContainer} d-flex align-items-center my-3 my-lg-4`}
               >
