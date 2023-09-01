@@ -8,7 +8,7 @@ const title = "Classes Taught By Real Creators";
 const Instructor = () => {
   return (
     <div className="instructor-section padding-tb section-bg">
-      <div className="container">
+      {/* <div className="container">
         <div className="section-header text-center">
           <span className="subtitle">{subTitle}</span>
           <h2 className="title">{title}</h2>
@@ -45,14 +45,14 @@ const Instructor = () => {
               </div>
             ))}
           </div>
-          {/* <div className="text-center footer-btn">
+          <div className="text-center footer-btn">
             <p>
               Want to help people learn, grow and achieve more in life?
               <Link to="/team">Become an instructor</Link>
             </p>
-          </div> */}
+          </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

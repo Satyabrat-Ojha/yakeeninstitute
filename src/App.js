@@ -46,8 +46,8 @@ function App() {
         <Route path="blog-3" element={<BlogPageThree />} />
         <Route path="blog-single" element={<BlogSingle />} />
         <Route path="about" element={<AboutPage />} />
-        <Route path="instructor" element={<TeamPage />} />
-        <Route path="instructor-single" element={<TeamSingle />} />
+        {/* <Route path="instructor" element={<TeamPage />} /> */}
+        {/* <Route path="instructor-single" element={<TeamSingle />} /> */}
         <Route path="shop" element={<ShopPage />} />
         <Route path="shop-single" element={<ShopDetails />} />
         <Route path="cart-page" element={<CartPage />} />
