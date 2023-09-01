@@ -12,10 +12,7 @@ import Respond from "../component/sidebar/respond";
 import courses from "../constants/courses";
 
 const kebab = (s) => {
-  return s
-    .replace(/([a-z])([A-Z])/g, "$1-$2")
-    .toLowerCase()
-    .replace(/\s+/g, "-");
+  return s.toLowerCase().replace(/\s+/g, "-");
 };
 
 const CourseSingle = () => {

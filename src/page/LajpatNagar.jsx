@@ -6,21 +6,29 @@ import Curriculum from "../component/section/Training/Curriculum";
 import Feature from "../component/section/Training/Feature";
 import Book from "../component/section/Training/Book";
 import Footer from "../component/layout/footer";
+import courses from "../constants/lajpatnagarTraining";
+import { useParams } from "react-router-dom";
 
-import courses from "../constants/courses";
+const kebab = (s) => {
+  return s.toLowerCase().replace(/\s+/g, "-");
+};
 
 const Training = () => {
-  const course = courses[0];
+  const { name } = useParams();
+  const course = courses.find((course) => kebab(course.title) === kebab(name));
+  if (!course) {
+    return "course name not found";
+  }
 
   return (
     <>
       <Navbar />
-      <Banner />
-      <Batch />
-      <Overview />
-      <Curriculum />
-      <Feature />
-      <Book />
+      <Banner course={course} />
+      <Batch course={course} />
+      <Overview course={course} />
+      <Curriculum course={course} />
+      <Feature course={course} />
+      <Book course={course} />
       <Footer />
     </>
   );
