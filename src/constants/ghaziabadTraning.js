@@ -4727,7 +4727,7 @@ const GhaziabadTraning = [
           },
           {
             title:
-              "Why Use NumPy?",
+              "Why use Pandas?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -4735,21 +4735,35 @@ const GhaziabadTraning = [
     ],
     features: [
       {
-        title: "What are Pandas?",
+        title: "Training by Experts",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
+        desc: "To ensure that you get high-quality content & learning experience, we provide the entire Python training in Jodhpur by an experienced Python developer.",
       },
       {
-        title: "Why use Pandas?",
+        title: "Placement Assistance",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
+        desc: "Once you complete the course, we assist you in Python interview preparation and resume building. Your interviews are arranged with top companies hiring Python developers in India.",
       },
       {
-        title: "What can Pandas do?",
+        title: "Intensive Classroom Training",
         imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
+        desc: "This is a classroom Python training course in Jodhpur. For the best learning experience, the classroom is fully-digitized, distraction-free, and offers 1:1 interaction with the mentor.",
       },
-      
+      {
+        title: "100% Practical-Oriented",
+        imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
+        desc: "Python is something that requires immense practice. On that front, you will get to work on real Python projects for practical exposure and experience.",
+      },
+      {
+        title: "100% Job Assistance",
+        imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
+        desc: "Your level of knowledge, learning, and practicals are regularly assessed by your mentor so that you can work on your weak areas and improve your skills further.",
+      },
+      {
+        title: "Pro Python Certification",
+        imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
+        desc: "Along with advanced skills, you get a professional Python training certificate. You can add it to your resume and explore great job opportunities in India or globally.",
+      },
     ],
     whatsappNumber: "919631005476",
   },
@@ -4758,14 +4772,14 @@ const GhaziabadTraning = [
 
 
   {
-    title: "Python Training",
+    title: "Core Java Training",
     heading:
       "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
-      "You will work on both front-end and backend development by learning HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, jQuery, WordPress, PHP, Laravel, MySQL, AJAX, and more. By the end of this website development training, you will be on your way to becoming a proficient web developer.",
+      "Want to become a developer, learn how to build apps, or learn how to code, then Java is among the best programming languages to go with. Java can be used for many tasks, including creating extensive systems, mobile applications, and software.",
+      "The demand for skilled Java programmers and developers is surging. Top companies, brands, and startups are looking for candidates proficient in Java programming. It’s time for you to make the most out of these opportunities by learning it with the best Java training course in Jodhpur!",
     ],
     batchDetails: [
       {
@@ -4789,65 +4803,213 @@ const GhaziabadTraning = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of our Java Development Training in Ghaziabad",
     overview: [
-      "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
-      "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
-      "Upon completing the course, you will receive the certificate, internship opportunities, as well as job assistance. We ensure that you become highly skilled and explore great career opportunities in the field of website designing and development.",
-      "Once you have the skills, you can choose to go for a full-time job, become a freelance web developer, or start your own website development company.",
-      "Take two days of FREE demo classes to learn risk-free and confidently!",
+      " Many excellent books are online, but reading them won't make you a coder. The most ideal way to learn Java and become a programmer is to write a lot of code.",
+      " WsCube Tech’s Java programming course consists of 80% practice and 20% fundamental Java theory. You require this to become an actual Java developer or programmer.",
+      " In this course, you will learn essential Java programming principles, including object-oriented programming (OOP). In addition, seven Java applications, including a simple calculator, will be built by you as you progress.",
+      " With this Java course in Jodhpur, you will stay abreast of the most recent revisions and updates while boosting your self-assurance in your subject matter knowledge.",
+      " This course will not only train you for operators, arrays, loops, methods, and constructors, but also offer you a solid foundation in Java, the most popular programming language for software development.",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
       {
-        title: "Getting started with Basics",
+        title: "Introduction to Java",
         lectures: [
           {
-            title: "HISTORY OF WEB",
+            title: "Java Runtime Environment (JRE)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CLIENT SERVER ARCHITECTURE",
+            title: "History of Java",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "Key features of Java",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Writing Hello Java program",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Java Development Kit",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Java Runtime Environment (JRE)",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Java Virtual Machine (JVM)",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Variable and Data Type Unicode System ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Java Operators",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Java Programs",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "Java OOPS Concept",
         lectures: [
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              "Static keyword",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+              "Method Overloading",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title:
+              "Constructor",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        ],
-      },
+
+          {
+            title:
+              "This keyword",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+            {
+              title:
+                "Inheritance method",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+            {
+              title:
+                "Overriding",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+            {
+              title:
+                "Covariant return type",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+            {
+              title:
+                "Super keyword instance initializer block",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+            {
+              title:
+                "Final keyword",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+            {
+              title:
+                "Runtime polymorphism",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+            {
+              title:
+                "  Dynamic binding",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+            {
+              title:
+                "Instance of operator abstract class",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+            {
+              title:
+                "Interface abstract vs interface package access modifiers",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+            {
+              title:
+                "Encapsulation",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+            {
+              title:
+                "Object class",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+            {
+              title:
+                "Java Array",
+              link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+            },
+          ],
+        },
       {
-        title: "More on HTML",
+        title: "Java String",
         lectures: [
           {
-            title: "MORE TAGS :- Practice creating HTML with more tags",
+            title: " What is string in Java?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: " Immutable string ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " String comparison ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "String concatenation  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Substring methods of string class ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " StringBuffer class ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: "  StringBuilder class",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+        
+
+          {
+            title: " Difference between String and StringBuffer ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+
+          {
+            title: " Difference between StringBuffer and StringBuilder ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " How to create immutable class?  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "StringTokenizer in Java  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "  toString method  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+
         ],
       },
       {
@@ -4865,55 +5027,189 @@ const GhaziabadTraning = [
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "Exception Handling",
         lectures: [
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              " What is an exception?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              "Try and Catch block ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              "Multiple Catch block ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title:
+              "Nested Try ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Finally Block",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Throw Keyword ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Exception propagation ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Throws Keyword ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Throw vs Throws ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Final vs Finally vs Finalize ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Exception Handling With Method Overriding ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+      
         ],
       },
       {
-        title: "Intro to CSS",
+        title: "Java Inner Class",
         lectures: [
           {
             title:
-              "CSS INTRODUCTION :-  What is CSS and how to use it in HTML?",
+              "What is inner class in Java?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "BLOG PAGE :-  Building and styling the blog project",
+            title:
+              "Member inner class",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title:
+              "Anonymous inner class",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Local inner class",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Static nested class",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "   Nested interface",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+         
         ],
       },
       {
-        title: "Styling with CSS",
+        title: "Java Multithreading",
         lectures: [
           {
             title:
-              "CSS UNITS :-  Learning about various CSS units used to style HTML elements",
+              " What is multithreading? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CSS BOX MODE :-  Understanding the CSS box model",
+            title:
+              "  Lifecycle of a thread ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title:
+              " What is multithreading? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Understanding thread schedular",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          {
+            title:
+              " Thread sleep in Java",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Starting a thread twice ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Joining threads in Java ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Naming a thread ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Thread priority  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Daemon thread ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Thread group ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Thread group ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " ShutdownHook in Java ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Garbage collection in Java",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Java Runtime Class",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        
         ],
       },
       {
-        title: "Starting with the Resume project",
+        title: "Java Synchronization",
         lectures: [
           {
             title:
