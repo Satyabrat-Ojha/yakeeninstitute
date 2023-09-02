@@ -3690,7 +3690,7 @@ const GhaziabadTraning = [
   // MERN stack course
 
   {
-    title: "MERN Stack Training",
+    title: "MERN Stack Tranning",
     heading:
       "MERN Stack Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
@@ -3747,153 +3747,180 @@ const GhaziabadTraning = [
         ],
       },
       {
-        title: "JavaScript Basics",
+        title: "Introduction to Mean Stack ",
         lectures: [
           {
-            title: "Writing Hello World program in JS",
+            title: "Overview of MERN Stack",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "What are variables in JS?",
+            title: "Setting up Development Environment",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "Built-in methods",
+            title: "Introduction to Git and Version Control",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "Data types",
+            title: "Building a Simple MERN Application",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "JS Comments",
+        title: "Front-End Development with React",
         lectures: [
           {
-            title: "What are comments in JS?",
+            title: "Introduction to React",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "Single-line comments",
+            title: "Components, JSX, and Props",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "Multi-line comments",
+            title: "State and Lifecycle",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Handling Forms and Events",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Routing with React Router",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "JS Variables",
+        title: "Back-End Development with Node.js and Express.js",
         lectures: [
           {
-            title: "What are variables in JS?",
+            title: "Introduction to Node.js and Express.js",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "How to declare a variable?",
+            title: "Creating RESTful APIs with Express.js",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "When to use variables?",
+            title: "Middleware and Authentication",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "Examples",
+            title: "Error Handling and Logging",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "JS global variables",
+            title: "Connecting Node.js to MongoDB",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "JS Data Types",
+        title: "Database Management with MongoDB ",
         lectures: [
           {
-            title: "What are data types?",
+            title: "Introduction to NoSQL and MongoDB",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "Different data types in JS",
+            title: "CRUD Operations with MongoDB",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "Examples",
+            title: "Data Modeling with Mongoose",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Indexing and Aggregation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "JS Operators",
+        title: " Advanced Front-End Topics",
         lectures: [
           {
-            title: "Understanding operators in JavaScript",
+            title: "State Management with Redux",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "   Role of operators",
+            title: " Asynchronous Programming with Redux Thunk",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "Different JavaScript operators",
+            title: "Styling in React with CSS and CSS-in-JS",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Testing React Components",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Performance Optimization Techniques",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+        ],
+      },
+      {
+        title: "Advanced Back-End Topics",
+        lectures: [
+          {
+            title: "User Authentication and Authorization",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Real-Time Web Applications with WebSockets",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "API Testing and Documentation",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          {
+            title: "Deployment and Hosting on Cloud Platforms",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+        ],
+      },
+      {
+        title: "Project Development  ",
+        lectures: [
+          {
+            title: "Group or Individual Projects",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Building a Full-Stack MERN Application",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Continuous Integration and Deployment (CI/CD)",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Project Management and Collaboration Tools",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Conditional Statements",
+        title: "Final Project Presentations and Wrap-Up",
         lectures: [
           {
-            title: "if statement",
+            title: "Final Project Demonstrations",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "else statement",
+            title: "Peer Review and Feedback",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "else if statement",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "JS Switch",
-        lectures: [
-          {
-            title: "Understanding switch statement",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Break keyword",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Default keyword",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Code blocks",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "JS Loops",
-        lectures: [
-          {
-            title: "What are JavaScript loops?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Different types of loops",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "For loop",
+            title: "Career Opportunities and Job Search Strategies",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -3901,55 +3928,13 @@ const GhaziabadTraning = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "For in loop",
+            title: "Course Conclusion and Certification",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title: "For of loop",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Loop while",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
+          
+        
 
-      {
-        title: "JavaScript DOM",
-        lectures: [
-          {
-            title: "Introduction to DOM",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "DOM Methods",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "DOM Documents",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " DOM Elements",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Animations",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Events",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Collections",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Node Lists",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+      
         ],
       },
     ],

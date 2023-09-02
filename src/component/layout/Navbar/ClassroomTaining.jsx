@@ -92,59 +92,26 @@ const OnlineTraining = () => {
                       </a>
                     </li>
                     <li>
-                      <a
-                        title="JavaScript Course"
-                        href="/ghaziabad/javascript-training"
-                      >
-                        JavaScript Course
-                      </a>
+                      <a title="JavaScript Course"  href="/ghaziabad/javascript-training">JavaScript Course</a>
                     </li>
                     <li>
-                      <a
-                        title="Bootstrap Course"
-                        href="/ghaziabad/bootstrap-training"
-                      >
-                        Bootstrap Course
-                      </a>
+                      <a title="Bootstrap Course"href="/ghaziabad/bootstrap-training">Bootstrap Course</a>
                     </li>
                     <li>
-                      <a
-                        title="Laravel Course"
-                        href="/ghaziabad/laravel-training"
-                      >
-                        Laravel Course
-                      </a>
+                      <a title="Laravel Course"href="/ghaziabad/laravel-training">Laravel Course</a>
                     </li>
                     <li>
-                      <a
-                        title="Node JS Course"
-                        href="/ghaziabad/nodejs-training"
-                      >
-                        Node JS Course
-                      </a>
+                      <a title="Node JS Course"href="/ghaziabad/nodejs-training">Node JS Course</a>
                     </li>
                     <li>
-                      <a
-                        title="Angular JS Course "
-                        href="/ghaziabad/angularjs-training"
-                      >
-                        Angular JS Course
-                      </a>
+                      <a title="Angular JS Course "href="/ghaziabad/angularjs-training">Angular JS Course</a>
                     </li>
                     <li>
-                      <a
-                        title="React JS Course"
-                        href="/ghaziabad/reactJS-training"
-                      >
-                        React JS Course
-                      </a>
+                      <a title="React JS Course"href="/ghaziabad/reactjs-training">React JS Course</a>
                     </li>
                     <li>
-                      <a
-                        title="Mern Stack Training Jodhpur"
-                        href="/ghaziabad/mern-stack-training"
-                      >
-                        MERN Stack Course
+                      <a title="Mern Stack Training Jodhpur"href="/ghaziabad/mearn stack-training">
+                        Mern Stack Course
                       </a>
                     </li>
                   </ul>
