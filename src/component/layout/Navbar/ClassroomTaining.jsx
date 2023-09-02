@@ -197,7 +197,7 @@ const OnlineTraining = () => {
                       </a>
                     </li>
                     <li>
-                      <a title="Data Analytics Course ">
+                      <a title="Data Analytics Course " href="/ghaziabad/python-training">
                         Data Analytics Course{" "}
                       </a>
                     </li>
