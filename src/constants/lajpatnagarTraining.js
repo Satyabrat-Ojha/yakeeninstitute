@@ -376,7 +376,7 @@ const lajpatnagarTraining = [
     whatsappNumber: "919631005476",
   },
 
-  // Wordpress Tranning
+  // Wordpress Training
 
   {
     title: "Wordpress Training",
@@ -1121,7 +1121,7 @@ const lajpatnagarTraining = [
     whatsappNumber: "919631005476",
   },
 
-  // php traning
+  // php training
 
   {
     title: "php Training",
@@ -1542,7 +1542,7 @@ const lajpatnagarTraining = [
     whatsappNumber: "919631005476",
   },
 
-  // javascript traning
+  // javascript training
 
   {
     title: "Javascript Training",

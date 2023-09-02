@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
 import UpArrow from "./UpArrow.svg";
 
-const OnlineTraining = () => {
+const ClassroomTraining = () => {
   const [hovered, setHovered] = useState(false);
   const [center, setCenter] = useState("Ghaziabad");
   const [hidden, setHidden] = useState(true);
@@ -165,7 +165,7 @@ const OnlineTraining = () => {
                       </a>
                     </li>
                     <li>
-                      <a title="Java Course" href="/ghaziabad/python-training">
+                      <a title="Java Course" href="/ghaziabad/java-training">
                         Java Course
                       </a>
                     </li>
@@ -456,4 +456,4 @@ const OnlineTraining = () => {
   );
 };
 
-export default OnlineTraining;
+export default ClassroomTraining;
