@@ -226,6 +226,7 @@ const Admission = () => {
                 name="course"
                 value={course}
                 onChange={(e) => setCourse(e.target.value)}
+                required
               >
                 <option value="">Select a course</option>
                 <option value="Basic Computer of Application">
@@ -259,6 +260,7 @@ const Admission = () => {
                 name="education"
                 value={education}
                 onChange={(e) => setEducation(e.target.value)}
+                required
               >
                 <option value="">Select education qualification</option>
                 <option value="10th Completed">10th Completed</option>

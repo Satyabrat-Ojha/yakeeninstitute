@@ -36,7 +36,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="ghaziabad/:name" element={<Ghaziabad />} />
         <Route path="lajpat-nagar/:name" element={<LajpatNagar />} />
-        <Route path="training" element={<Training />} />
+        <Route path="online-training/:name" element={<Training />} />
         <Route path="course" element={<CoursePage />} />
         <Route path="course-single" element={<CourseSingle />} />
         <Route path="course/:name" element={<CourseSingle />} />

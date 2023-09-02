@@ -3,6 +3,21 @@
   background: #f8f9fd;
 }
 
+.trainingBanner .liveClass ul {
+  margin-bottom: 0;
+  color: #27c971;
+  padding: 4px 18px;
+  border: 1px solid #d0d5dd;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.trainingBanner .liveClass ul li {
+  position: relative;
+  left: 6px;
+}
+
 .trainingBanner h1 {
   font-size: 50px;
   line-height: 65px;
@@ -87,6 +102,10 @@
 
   .crsRowReverse {
     flex-direction: column-reverse !important;
+  }
+
+  .trainingBanner .liveClass {
+    justify-content: center;
   }
 
   .trainingBanner h1 {
