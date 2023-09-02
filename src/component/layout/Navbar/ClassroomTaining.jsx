@@ -92,26 +92,59 @@ const OnlineTraining = () => {
                       </a>
                     </li>
                     <li>
-                      <a title="JavaScript Course"  href="/ghaziabad/javascript-training">JavaScript Course</a>
+                      <a
+                        title="JavaScript Course"
+                        href="/ghaziabad/javascript-training"
+                      >
+                        JavaScript Course
+                      </a>
                     </li>
                     <li>
-                      <a title="Bootstrap Course"href="/ghaziabad/bootstrap-training">Bootstrap Course</a>
+                      <a
+                        title="Bootstrap Course"
+                        href="/ghaziabad/bootstrap-training"
+                      >
+                        Bootstrap Course
+                      </a>
                     </li>
                     <li>
-                      <a title="Laravel Course"href="/ghaziabad/laravel-training">Laravel Course</a>
+                      <a
+                        title="Laravel Course"
+                        href="/ghaziabad/laravel-training"
+                      >
+                        Laravel Course
+                      </a>
                     </li>
                     <li>
-                      <a title="Node JS Course"href="/ghaziabad/nodejs-training">Node JS Course</a>
+                      <a
+                        title="Node JS Course"
+                        href="/ghaziabad/nodejs-training"
+                      >
+                        Node JS Course
+                      </a>
                     </li>
                     <li>
-                      <a title="Angular JS Course "href="/ghaziabad/angularjs-training">Angular JS Course</a>
+                      <a
+                        title="Angular JS Course "
+                        href="/ghaziabad/angularjs-training"
+                      >
+                        Angular JS Course
+                      </a>
                     </li>
                     <li>
-                      <a title="React JS Course"href="/ghaziabad/reactjs-training">React JS Course</a>
+                      <a
+                        title="React JS Course"
+                        href="/ghaziabad/reactjs-training"
+                      >
+                        React JS Course
+                      </a>
                     </li>
                     <li>
-                      <a title="Mern Stack Training Jodhpur"href="/ghaziabad/mearn stack-training">
-                        Mern Stack Course
+                      <a
+                        title="Mern Stack Training Jodhpur"
+                        href="/ghaziabad/mern-stack-training"
+                      >
+                        MERN Stack Course
                       </a>
                     </li>
                   </ul>
@@ -124,16 +157,31 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="Python Course"href="/ghaziabad/python-training">Python Course</a>
+                      <a
+                        title="Python Course"
+                        href="/ghaziabad/python-training"
+                      >
+                        Python Course
+                      </a>
                     </li>
                     <li>
-                      <a title="Java Course" href="/ghaziabad/python-training">Java Course</a>
+                      <a title="Java Course" href="/ghaziabad/python-training">
+                        Java Course
+                      </a>
                     </li>
                     <li>
-                      <a title="C Programming Course" href="/ghaziabad/python-training">C Programming Course</a>
+                      <a
+                        title="C Programming Course"
+                        href="/ghaziabad/python-training"
+                      >
+                        C Programming Course
+                      </a>
                     </li>
                     <li>
-                      <a title="C++ Programming Course" href="/ghaziabad/python-training">
+                      <a
+                        title="C++ Programming Course"
+                        href="/ghaziabad/python-training"
+                      >
                         C++ Programming Course
                       </a>
                     </li>
@@ -145,20 +193,33 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="SEO Course" href="/ghaziabad/python-training">SEO Course</a>
+                      <a title="SEO Course" href="/ghaziabad/python-training">
+                        SEO Course
+                      </a>
                     </li>
                     <li>
-                      <a title="Digital Marketing Course" href="/ghaziabad/python-training">
+                      <a
+                        title="Digital Marketing Course"
+                        href="/ghaziabad/python-training"
+                      >
                         Digital Marketing Course
                       </a>
                     </li>
                     <li>
-                      <a title="Content Writing Course" href="/ghaziabad/python-training">
+                      <a
+                        title="Content Writing Course"
+                        href="/ghaziabad/python-training"
+                      >
                         Content Writing Course
                       </a>
                     </li>
                     <li>
-                      <a title="Google Ads Course" href="/ghaziabad/python-training">Google Ads Course</a>
+                      <a
+                        title="Google Ads Course"
+                        href="/ghaziabad/python-training"
+                      >
+                        Google Ads Course
+                      </a>
                     </li>
                   </ul>
                 </div>
@@ -170,12 +231,18 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="Android App Development Course" href="/ghaziabad/python-training">
+                      <a
+                        title="Android App Development Course"
+                        href="/ghaziabad/python-training"
+                      >
                         Android App Development Course
                       </a>
                     </li>
                     <li>
-                      <a title="Flutter App Development Course"href="/ghaziabad/python-training">
+                      <a
+                        title="Flutter App Development Course"
+                        href="/ghaziabad/python-training"
+                      >
                         Flutter App Development Course
                       </a>
                     </li>
@@ -189,15 +256,26 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="Data Science Course"href="/ghaziabad/python-training">Data Science Course</a>
+                      <a
+                        title="Data Science Course"
+                        href="/ghaziabad/python-training"
+                      >
+                        Data Science Course
+                      </a>
                     </li>
                     <li>
-                      <a title="Graphic Designing Course"href="/ghaziabad/python-training">
+                      <a
+                        title="Graphic Designing Course"
+                        href="/ghaziabad/python-training"
+                      >
                         Graphic Designing Course
                       </a>
                     </li>
                     <li>
-                      <a title="Data Analytics Course " href="/ghaziabad/python-training">
+                      <a
+                        title="Data Analytics Course "
+                        href="/ghaziabad/python-training"
+                      >
                         Data Analytics Course{" "}
                       </a>
                     </li>
@@ -209,12 +287,18 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="Ethical Hacking Course"href="/ghaziabad/python-training">
+                      <a
+                        title="Ethical Hacking Course"
+                        href="/ghaziabad/python-training"
+                      >
                         Ethical Hacking Course
                       </a>
                     </li>
                     <li>
-                      <a title="Penetration Testing Course"href="/ghaziabad/python-training">
+                      <a
+                        title="Penetration Testing Course"
+                        href="/ghaziabad/python-training"
+                      >
                         Penetration Testing Course
                       </a>
                     </li>

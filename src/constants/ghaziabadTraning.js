@@ -376,7 +376,7 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-  // Wordpress Tranning
+  // Wordpress Training
 
   {
     title: "Wordpress Training",
@@ -1850,7 +1850,7 @@ const GhaziabadTraning = [
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "JBootstrap is one of the most popular front-end web development libraries. It offers a customizable HTML, CSS, and JavaScript templates for developing contemporary and responsive websites. Bootstrap is the framework used to create all the stunning websites you see today, complete with large fonts and sleek form fields.",
+      "Bootstrap is one of the most popular front-end web development libraries. It offers a customizable HTML, CSS, and JavaScript templates for developing contemporary and responsive websites. Bootstrap is the framework used to create all the stunning websites you see today, complete with large fonts and sleek form fields.",
       "If you want to learn it and are looking for some top-notch Bootstrap course in Jodhpur, then WsCube Tech is the right place for you. With us, you can master all the concepts of Bootstrap from basics to advanced and make a great career in web development.",
     ],
     batchDetails: [
@@ -3690,7 +3690,7 @@ const GhaziabadTraning = [
   // MERN stack course
 
   {
-    title: "MERN Stack Tranning",
+    title: "MERN Stack Training",
     heading:
       "MERN Stack Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
@@ -3861,7 +3861,6 @@ const GhaziabadTraning = [
             title: "Performance Optimization Techniques",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
         ],
       },
       {
@@ -3879,12 +3878,11 @@ const GhaziabadTraning = [
             title: "API Testing and Documentation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
+
           {
             title: "Deployment and Hosting on Cloud Platforms",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -3931,10 +3929,6 @@ const GhaziabadTraning = [
             title: "Course Conclusion and Certification",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-        
-
-      
         ],
       },
     ],
@@ -3973,9 +3967,7 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
-
-// Python Course
+  // Python Course
 
   {
     title: "Python Training",
@@ -4354,8 +4346,7 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-  // java tranning
-
+  // java Training
 
   {
     title: "Python Training",
@@ -4733,9 +4724,6 @@ const GhaziabadTraning = [
     ],
     whatsappNumber: "919631005476",
   },
-
-
-
 
   // c programming
 
@@ -5116,11 +5104,7 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
-
-
   // c++ programming
-
 
   {
     title: "Python Training",
@@ -5498,8 +5482,6 @@ const GhaziabadTraning = [
     ],
     whatsappNumber: "919631005476",
   },
-
-
 
   //  digital marketing
 
@@ -5880,9 +5862,6 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-  
-
-
   //content writing
 
   {
@@ -6262,11 +6241,7 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
-
-
   // google adds course
-
 
   {
     title: "Python Training",
@@ -6644,11 +6619,6 @@ const GhaziabadTraning = [
     ],
     whatsappNumber: "919631005476",
   },
-
-
-
-
-
 
   // android app development course
 
@@ -7029,9 +6999,6 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
-
-
   //flutter app developmetn course
 
   {
@@ -7410,10 +7377,6 @@ const GhaziabadTraning = [
     ],
     whatsappNumber: "919631005476",
   },
-
-
-
-
 
   //data science
 
@@ -7794,12 +7757,7 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
-
-
-
   // graphic design
-
 
   {
     title: "Python Training",
@@ -8177,11 +8135,6 @@ const GhaziabadTraning = [
     ],
     whatsappNumber: "919631005476",
   },
-
-
-
-
-
 
   // data analytics
 
@@ -8562,12 +8515,6 @@ const GhaziabadTraning = [
     whatsappNumber: "919631005476",
   },
 
-
-
-
-
-
-
   // ethical hacking course
 
   {
@@ -8946,12 +8893,6 @@ const GhaziabadTraning = [
     ],
     whatsappNumber: "919631005476",
   },
-
-
-
-
-
-
 
   // presentation testing course
 
