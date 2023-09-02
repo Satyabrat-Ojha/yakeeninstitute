@@ -70,6 +70,7 @@ const Book = ({ course }) => {
                     placeholder="Enter your name"
                     className={styles.textInput}
                     onChange={(e) => setName(e.target.value)}
+                    required
                   />
                 </div>
                 <div className="col-lg-6 mb-3">
@@ -83,6 +84,7 @@ const Book = ({ course }) => {
                     placeholder="Enter your email"
                     className={styles.textInput}
                     onChange={(e) => setEmail(e.target.value)}
+                    required
                   />
                 </div>
                 <div className="col-lg-6 mb-3">
@@ -96,6 +98,7 @@ const Book = ({ course }) => {
                     placeholder="Enter your Mobile Number"
                     className={styles.textInput}
                     onChange={(e) => setPhone(e.target.value)}
+                    required
                   />
                 </div>
                 <div className="col-md-6 mb-3">
