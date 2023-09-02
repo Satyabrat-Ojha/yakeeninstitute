@@ -1,7 +1,7 @@
 import styles from "./Navbar.module.css";
 import { useState } from "react";
 import logo from "../../../logo.svg";
-import ClassroomTraining from "./ClassroomTaining";
+import ClassroomTraining from "./ClassroomTraining";
 import OnlineTraining from "./OnlineTraining";
 import OurCenters from "./OurCenters";
 import LearnersZone from "./LearnersZone";
