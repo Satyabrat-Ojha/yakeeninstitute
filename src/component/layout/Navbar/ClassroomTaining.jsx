@@ -124,16 +124,16 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="Python Course">Python Course</a>
+                      <a title="Python Course"href="/ghaziabad/python-training">Python Course</a>
                     </li>
                     <li>
-                      <a title="Java Course">Java Course</a>
+                      <a title="Java Course" href="/ghaziabad/python-training">Java Course</a>
                     </li>
                     <li>
-                      <a title="C Programming Course">C Programming Course</a>
+                      <a title="C Programming Course" href="/ghaziabad/python-training">C Programming Course</a>
                     </li>
                     <li>
-                      <a title="C++ Programming Course">
+                      <a title="C++ Programming Course" href="/ghaziabad/python-training">
                         C++ Programming Course
                       </a>
                     </li>
@@ -145,20 +145,20 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="SEO Course">SEO Course</a>
+                      <a title="SEO Course" href="/ghaziabad/python-training">SEO Course</a>
                     </li>
                     <li>
-                      <a title="Digital Marketing Course">
+                      <a title="Digital Marketing Course" href="/ghaziabad/python-training">
                         Digital Marketing Course
                       </a>
                     </li>
                     <li>
-                      <a title="Content Writing Course">
+                      <a title="Content Writing Course" href="/ghaziabad/python-training">
                         Content Writing Course
                       </a>
                     </li>
                     <li>
-                      <a title="Google Ads Course">Google Ads Course</a>
+                      <a title="Google Ads Course" href="/ghaziabad/python-training">Google Ads Course</a>
                     </li>
                   </ul>
                 </div>
@@ -170,12 +170,12 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="Android App Development Course">
+                      <a title="Android App Development Course" href="/ghaziabad/python-training">
                         Android App Development Course
                       </a>
                     </li>
                     <li>
-                      <a title="Flutter App Development Course">
+                      <a title="Flutter App Development Course"href="/ghaziabad/python-training">
                         Flutter App Development Course
                       </a>
                     </li>
@@ -189,10 +189,10 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="Data Science Course">Data Science Course</a>
+                      <a title="Data Science Course"href="/ghaziabad/python-training">Data Science Course</a>
                     </li>
                     <li>
-                      <a title="Graphic Designing Course">
+                      <a title="Graphic Designing Course"href="/ghaziabad/python-training">
                         Graphic Designing Course
                       </a>
                     </li>
@@ -209,12 +209,12 @@ const OnlineTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="Ethical Hacking Course">
+                      <a title="Ethical Hacking Course"href="/ghaziabad/python-training">
                         Ethical Hacking Course
                       </a>
                     </li>
                     <li>
-                      <a title="Penetration Testing Course">
+                      <a title="Penetration Testing Course"href="/ghaziabad/python-training">
                         Penetration Testing Course
                       </a>
                     </li>
