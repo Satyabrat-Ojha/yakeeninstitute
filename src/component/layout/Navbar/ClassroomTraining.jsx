@@ -172,7 +172,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="C Programming Course"
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/c-training"
                       >
                         C Programming Course
                       </a>
@@ -180,7 +180,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="C++ Programming Course"
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/c++-training"
                       >
                         C++ Programming Course
                       </a>

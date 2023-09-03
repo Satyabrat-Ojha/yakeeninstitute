@@ -4664,9 +4664,9 @@ const GhaziabadTraining = [
   // java training
 
   {
-    title: "Java Training",
+    title: "java training",
     heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+      "Java Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
@@ -4884,66 +4884,57 @@ const GhaziabadTraining = [
         ],
       },
       {
-        title: "Forms",
+        title: " Exception Handling",
         lectures: [
           {
-            title: "FORM :- What is an HTML form?",
+            title: "What is an exception?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
+            title: "Try and Catch block",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "Multiple Catch block",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Nested Try",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Finally Block",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Throw Keyword",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Exception propagation",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Throws Keyword",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Throw vs Throws",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Final vs Finally vs Finalize",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Exception Handling With Method Overriding",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          
         ],
       },
-      {
-        title: "Exception Handling",
-        lectures: [
-          {
-            title: " What is an exception?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Try and Catch block ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Multiple Catch block ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Nested Try ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Finally Block",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Throw Keyword ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Exception propagation ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Throws Keyword ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Throw vs Throws ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Final vs Finally vs Finalize ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Exception Handling With Method Overriding ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+      
         ],
       },
       {
@@ -5052,212 +5043,520 @@ const GhaziabadTraining = [
         ],
       },
       {
-        title: "Flex",
+        title: "Java Applet",
         lectures: [
           {
-            title: "INTRO TO FLEX :- Learning what flex is and how it works",
+            title: " Basics of Applet in Java",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Graphics in Applet",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " How to display image in Applet?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Animation in Applet",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Event handling in Applet",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Java Applet Class ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Painting in Applet",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Digital Clock in Applet ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Analogue Clock in Applet ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Parameter in Applet ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Applet communication",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Java AWT Basics",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+
+          {
+            title: "Event Handling ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+         
+        ],
+      },
+
+      {
+        title: "Java Input/Output",
+        lectures: [
+          {
+            title:
+              " Input and Output in Java",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "FLEX PROPERTIES :- Discovering various flex properties used to style HTML elements",
+              "File input and output ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "USING FLEX IN RESUME :- Utilising flex to style the Resume project",
+              "ByteArrayOutputStream Class ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " SequenceInputStream Class",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " BufferedOutputStream Class",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " FileWriter and FileReader",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " CharArrayWriter",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Input by BufferedReader ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Input by Console",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Input by Scanner",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " PrintStream Class",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Compress and Uncompress File",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " PipedInputStream and PipedOututStream",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+         
+        ],
+      },
+
+      {
+        title: "Java Swing",
+        lectures: [
+          {
+            title:
+              "Basics of Swing in Java  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Java JButton Class ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "JRadioButton Class  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "JTextArea Class  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " JComboBox Class ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "   JTable Class ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " JColorChooser Class ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " JProgressBar Class ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " JSlider Class ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Digital Watch Graphics in Java Swing ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Displaying Image ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Editing menu for Notepad  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Opening Dialog Box ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Java Layout Manager ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+
+      {
+        title: "JAVA JDBC and Online XML Data Parsing",
+        lectures: [
+          {
+            title:
+              " Database Management System",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Database Manipulations ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " SQLite Database integration in Java Project",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " XML Parsing Online",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+
+      {
+        title: "Java Projects",
+        lectures: [
+          {
+            title:
+              " Notepad",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Puzzle game",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Pic Puzzle game ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Tic Tac Toe Game",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Crystal App",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Age Puzzle",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "BMI Calculator ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  KBC game",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Tourist app ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Meditation app",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Contact app",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Weather app ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " POI App",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Currency Convertor ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+         
+        ],
+      },
+
+      {
+        title: "Android Animations",
+        lectures: [
+          {
+            title: "View Animation ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Tween Animation",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Frame animation ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Property Animation ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          
+        ],
+      },
+
+      {
+        title: "Persistent data Storage",
+        lectures: [
+          {
+            title: "Shared Preference",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Preference Screen",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "SQLite Database",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+
+      {
+        title: "Managing Long Running Processes",
+        lectures: [
+          {
+            title:
+              " UI Thread",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Handlers and loppers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Causes of ANR issue and its solution",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
 
       {
-        title: "Completing Resume",
+        title: "Services",
         lectures: [
           {
             title:
-              "PSEUDO ELEMENTS :- What are pseudo elements and where to use them?",
+              "Service Lifecycle",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "FINISHING UP :- Finish building the Resume",
+            title: "Unbound Service",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Bound Service",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
 
       {
-        title: "Responsive designs",
+        title: "Broadcast Receivers",
         lectures: [
           {
             title:
-              "MEDIA QUERIES   What is responsive design and how to use media queries to build a responsive web app that works with multiple devices?",
+              " ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Animations and 3D space",
+        title: "Content Providers",
         lectures: [
           {
             title:
-              "HANIMATION PROPERTIES   Basics of CSS animation and how to animate HTML elements using animate.css",
+              " ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Bootstrap",
+        title: "Web Services",
         lectures: [
           {
             title:
-              "FRONTEND FRAMEWORKS :- What are frontend frameworks and how to use one",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
+              " HTTP Networking",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "BOOTSTRAP COMPONENTS :- Using various other bootstrap elements like Navbar, Jumbotron etc",
+              " Jason Parsing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "ASSIGNMENT :-  Build a music player project with your newly gained skillset",
+              "XML Parsing ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Starting with Javascript",
+        title: "Google Maps",
         lectures: [
           {
-            title: "INTRO TO JS :- What is JS and history of JS",
+            title:
+              " Shared Preference",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "VARIABLES, OPERATORS, LOOPS :- Learning the basics of the language",
+              "Preference Screen ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "SQLite Database ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "JavaScript: Functions and Arrays",
+        title: "Android Tools",
         lectures: [
           {
-            title: "SCOPE :- Understanding scope in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "HOISTING :- What is hoisting and its application?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
             title:
-              "ARRAYS AND ITS USAGE :- What are arrays and using array functions like splice, slice etc.",
+              " ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Objects and Timing Events",
+        title: "Publishing your App",
         lectures: [
           {
             title:
-              "What are objects, how to create them and using different notations to access object’s data",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "OBJECT FUNCTIONS :- Learn to iterate over objects, delete object properties, creating nested objects",
+              " ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
-      },
+      
 
-      {
-        title: "Understanding DOM",
-        lectures: [
-          {
-            title:
-              "Understanding DOM, what it is, how to access elements from the DOM",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "EVENTS :- How to manipulate DOM events in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
 
-      {
-        title: "Calculator Project",
-        lectures: [
-          {
-            title:
-              "Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Mini Projects Using Javascript",
-        lectures: [
-          {
-            title: "LET V/S VAR :- Learning different ways to create variable",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "CATCH ME IF YOU CAN :-  Build a game using vanilla Javascript",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-    ],
+      
+    
+    
     features: [
       {
-        title: "Training by Pro Web Developers",
+        title: "Training by Java Experts",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
+        desc: "To make you an expert in Java, we offer complete Java training in Jodhpur by highly-experienced mentors.",
       },
       {
-        title: "Most Comprehensive Curriculum",
+        title: "100% Practical-Oriented",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
+        desc: "Gain practical exposure to Java programming with our completely practical-oriented and skill-based Java course.",
       },
       {
         title: "Intensive Classroom Training",
         imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
+        desc: "We have fully digitized classrooms in Jodhpur that offer you an intensive learning experience with a distraction-free environment.",
       },
       {
-        title: "Hands-on 12 Live Projectsg",
+        title: "Work on Real Projects",
         imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
+        desc: "During the course, you will get to work on plenty of Java-based programming and development projects for the live experience.",
       },
       {
         title: "Job Assistance",
         imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
+        desc: "On course completion, our team helps you in preparing for the job interview, and conducts your interviews at top companies.",
       },
       {
-        title: "Web Development Certification",
+        title: "Professional Java Certification",
         imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
+        desc: "Once you complete the Java certification course, you will be rewarded with a professional certificate to help you explore great career opportunities.",
       },
     ],
     whatsappNumber: "919631005476",
@@ -5266,14 +5565,14 @@ const GhaziabadTraining = [
   // c programming
 
   {
-    title: "Python Training",
+    title: "C Programming",
     heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+      "C Programming Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
-      "You will work on both front-end and backend development by learning HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, jQuery, WordPress, PHP, Laravel, MySQL, AJAX, and more. By the end of this website development training, you will be on your way to becoming a proficient web developer.",
+      "Learn the fundamentals as well as advanced concepts of C programming in depth. This C language course in Jodhpur by WsCube Tech will teach you the fundamentals of this popular programming and get you comfortable creating projects.",
+      "C is often called a middle-level computer language since it combines the elements of high-level languages with the functionalism of assembly language. Take the next important step towards building your career. Book your free class and start learning now!",
     ],
     batchDetails: [
       {
@@ -5297,346 +5596,240 @@ const GhaziabadTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of our C programming  Training in Ghaziabad",
     overview: [
-      "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
-      "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
-      "Upon completing the course, you will receive the certificate, internship opportunities, as well as job assistance. We ensure that you become highly skilled and explore great career opportunities in the field of website designing and development.",
-      "Once you have the skills, you can choose to go for a full-time job, become a freelance web developer, or start your own website development company.",
-      "Take two days of FREE demo classes to learn risk-free and confidently!",
+      "C is a general-purpose, compiled programming language. It is a procedural language and does not support object-oriented programming styles.",
+      "Learn C Programming from our experts from scratch, and practice in an intuitive environment. The challenges are based on real-world projects to ensure you learn best practices one step at a time.",
+      "C is a flexible language that may be used to create both low-level applications that interact with the computer's hardware and high-level applications like video games. The static type system in the flexible programming language C guards against undesired programming actions.",
+      "C is the foundation for many of today’s popular modern languages, like Java and C++. Start your C training with Wscube Tech.",
+      "Do fill out the form or call us now to book your two days of FREE demo classes!",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
       {
-        title: "Getting started with Basics",
+        title: "Introduction to C Programming",
         lectures: [
           {
-            title: "HISTORY OF WEB",
+            title: "What is C programming?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CLIENT SERVER ARCHITECTURE",
+            title: " Role and applications",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Career options",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "Basics of C language",
         lectures: [
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              "  Flow Control",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+              " if...else ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title:
+              " for Loop ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " while Loop ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " break and continue ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "    switch...case ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  goto",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "More on HTML",
+        title: "Functions in C",
         lectures: [
           {
-            title: "MORE TAGS :- Practice creating HTML with more tags",
+            title: "What are Functions? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: " C User-defined Functions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: " Function Types",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Recursion",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Storage Class ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Function Examples ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
         ],
       },
       {
-        title: "Forms",
+        title: "Arrays",
         lectures: [
           {
-            title: "FORM :- What is an HTML form?",
+            title: " What are Arrays? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
+            title: " Multi-dimensional Arrays ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        ],
-      },
-      {
-        title: "Introduction to HTML",
-        lectures: [
+        
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Arrays & Function ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+        
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Pointers ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+        
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Memory Allocation ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        ],
-      },
-      {
-        title: "Intro to CSS",
-        lectures: [
-          {
-            title:
-              "CSS INTRODUCTION :-  What is CSS and how to use it in HTML?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "BLOG PAGE :-  Building and styling the blog project",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Styling with CSS",
-        lectures: [
-          {
-            title:
-              "CSS UNITS :-  Learning about various CSS units used to style HTML elements",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "CSS BOX MODE :-  Understanding the CSS box model",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Starting with the Resume project",
-        lectures: [
-          {
-            title:
-              "STARTING THE PROJECT :-  Start building the Resume project by creating the HTML structure",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Flex",
-        lectures: [
-          {
-            title: "INTRO TO FLEX :- Learning what flex is and how it works",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "FLEX PROPERTIES :- Discovering various flex properties used to style HTML elements",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "USING FLEX IN RESUME :- Utilising flex to style the Resume project",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
+        
 
-      {
-        title: "Completing Resume",
-        lectures: [
-          {
-            title:
-              "PSEUDO ELEMENTS :- What are pseudo elements and where to use them?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FINISHING UP :- Finish building the Resume",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
         ],
       },
-
       {
-        title: "Responsive designs",
+        title: "Strings",
         lectures: [
           {
             title:
-              "MEDIA QUERIES   What is responsive design and how to use media queries to build a responsive web app that works with multiple devices?",
+              "What is String?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title:
+              "String Functions",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
         ],
       },
-
       {
-        title: "Animations and 3D space",
+        title: "Structure And Union",
         lectures: [
           {
             title:
-              "HANIMATION PROPERTIES   Basics of CSS animation and how to animate HTML elements using animate.css",
+              "Structure ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title:
+              " Struct & Pointers",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          {
+            title:
+              "Struct & Function ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          {
+            title:
+              "Unions ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+
         ],
       },
-
       {
-        title: "Bootstrap",
+        title: "C Programming Files",
         lectures: [
           {
             title:
-              "FRONTEND FRAMEWORKS :- What are frontend frameworks and how to use one",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
+              "Input/Output  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "BOOTSTRAP COMPONENTS :- Using various other bootstrap elements like Navbar, Jumbotron etc",
+              "  Enumeration",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title:
+              " Preprocessors ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "ASSIGNMENT :-  Build a music player project with your newly gained skillset",
+              "  Standard Library",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        ],
-      },
-
-      {
-        title: "Starting with Javascript",
-        lectures: [
-          {
-            title: "INTRO TO JS :- What is JS and history of JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "VARIABLES, OPERATORS, LOOPS :- Learning the basics of the language",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "JavaScript: Functions and Arrays",
-        lectures: [
-          {
-            title: "SCOPE :- Understanding scope in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "HOISTING :- What is hoisting and its application?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ARRAYS AND ITS USAGE :- What are arrays and using array functions like splice, slice etc.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Objects and Timing Events",
-        lectures: [
-          {
-            title:
-              "What are objects, how to create them and using different notations to access object’s data",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "OBJECT FUNCTIONS :- Learn to iterate over objects, delete object properties, creating nested objects",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Understanding DOM",
-        lectures: [
-          {
-            title:
-              "Understanding DOM, what it is, how to access elements from the DOM",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "EVENTS :- How to manipulate DOM events in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Calculator Project",
-        lectures: [
-          {
-            title:
-              "Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Mini Projects Using Javascript",
-        lectures: [
-          {
-            title: "LET V/S VAR :- Learning different ways to create variable",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "CATCH ME IF YOU CAN :-  Build a game using vanilla Javascript",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+        
+       
+    
+     
         ],
       },
     ],
     features: [
       {
-        title: "Training by Pro Web Developers",
+        title: "Training by Experts ",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
+        desc: "To make you an expert and professional, we offer complete C training in Jodhpur by highly-experienced mentors.",
       },
       {
-        title: "Most Comprehensive Curriculum",
+        title: "100% Practical-Oriented",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
+        desc: "Learning C requires a good amount of practice. We provide regular assignments and different projects for practical exposure.",
       },
       {
-        title: "Intensive Classroom Training",
+        title: "Classroom Learning",
         imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
+        desc: "Our classrooms are digitalized, distraction-free, and allow 1:1 interaction with the mentor for the next-level learning experience.",
       },
       {
-        title: "Hands-on 12 Live Projectsg",
+        title: "Work on Projects",
         imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
+        desc: "During the C training in Jodhpur, you will create various types of Projects. It will assist you in understanding C concepts.",
       },
       {
         title: "Job Assistance",
         imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
+        desc: "We prepare you for the job and conduct your interviews with top companies to help you get good jobs in C Programming.",
       },
       {
-        title: "Web Development Certification",
+        title: "Professional C Certification",
         imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
+        desc: "After completing our program, you will become a qualified C Language developer. This certificate helps you obtain good jobs.",
       },
     ],
     whatsappNumber: "919631005476",
@@ -5645,14 +5838,1347 @@ const GhaziabadTraining = [
   // c++ programming
 
   {
-    title: "Python Training",
+    title: "C++ Training",
     heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+      "C++ Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
-      "You will work on both front-end and backend development by learning HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, jQuery, WordPress, PHP, Laravel, MySQL, AJAX, and more. By the end of this website development training, you will be on your way to becoming a proficient web developer.",
+      "C++ is a popular object-oriented programming language because it can be used to create different types of web solutions, and improve cybersecurity. WsCube Tech offers the best C++ programming course in Jodhpur. Explore our best-rated and hands-on training to learn from the ground up or expand your knowledge.",
+      "This training is covered from scratch so that you can master it even if you are an absolute beginner. This certification course will walk you through every step of writing, compiling, and debugging C++ programs, with plenty of examples.",
+    ],
+    batchDetails: [
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "9:00 AM - 10:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "10:00 AM - 11:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "4:00 AM - 5:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "5:00 AM - 6:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "6:00 AM - 7:00 PM",
+      },
+    ],
+    overviewHeading: "Overview of our C++ Training in Ghaziabad",
+    overview: [
+      "C++ or CPP programming is a well-known language and is popular as an extension of C programming. It is commonly used for cross-platform development. One can learn it to build solid websites and apps.",
+      "This course by Wscube Tech emphasizes 'how' rather than 'what.' For example, in the function lesson, we teach how to create a function in C++ rather than what a function is. Developers and programmers",
+      "Learn C++ from our experts from scratch, and practice in an intuitive environment. The challenges are based on real-world projects to ensure you learn best practices one step at a time.",
+      "Enhance your skill set and boost your career through innovative and independent learning from our C++ training institute in Jodhpur. Fill out the form or call us now to book your two days of FREE demo classes!",
+     
+    ],
+    certificateImgUrl:
+      "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
+    syllabus: [
+      {
+        title: "Introduction C++ Programming Language  ",
+        lectures: [
+          {
+            title: "What is C++ Programming? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Evolution and History of C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Difference Between C and C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Object Oriented Programming and key concept of OOP",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Input and Output in C++",
+        lectures: [
+          {
+            title:
+              " Streams in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "    Program to understand cin and cout streams",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Program to understand get() and put() functions",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Program to understand read() and write() functions  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Program to understand getline() and write() functions ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+         
+        ],
+      },
+      {
+        title: "C++ Declarations",
+        lectures: [
+          {
+            title: " Tokens in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Tokens in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Data Types in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Explicit Type Casting ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Implicit Type Casting ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Operators in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "Operators in C++  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "Referencing and Dereferencing operators  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Scope Resolution Operator ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "   Scope Resolution Operator",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Memory Management Operators ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " malloc() vs new in c++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "Demo of new and delete operators  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "  Allocation and deallocation memory dynamically",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Array of pointers ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Dynamic memory allocation for 2-D array ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Reference Variables in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Free vs delete in c++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Comma Operator ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+
+        ],
+      },
+      {
+        title: "Control Structures in C++",
+        lectures: [
+          {
+            title: " C++ if-else ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Find grades according to the marks of a learner ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " C++ switch ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Check whether a character is VOWEL or CONSONANT",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " C++ Looping ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Check whether a number is neon number or not ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Check whether a number is automorphic number or not ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Check whether a number is automorphic number or not ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Print Floyd triangle ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " goto statement in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " exit() function in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Continue Statement in C++",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          
+        ],
+      },
+      {
+        title: "Functions in C++",
+        lectures: [
+          {
+            title:
+              " C++ Functions ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Passing by pointer Vs Passing by Reference ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Call by Address",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Call by reference ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Return by Reference ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Default Arguments ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Inline Function ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Difference Between Inline and Macro ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Polymorphism and Function Overloading ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "Classes and Objects in C++",
+        lectures: [
+          {
+            title:
+              " Classes and Objects in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Public, Private and Protected Keywords  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Demo of class and object ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Sorting of array elements ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Demo of string using class and object ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Find reverse of string ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Passing objects to function ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Returning object as argument ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Array of Objects ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Implement outside member function using Inline ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Static data member and Static member function  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Friend Function in C++",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "Constructor and Destructor in C++",
+        lectures: [
+          {
+            title:
+              "  Constructors in C++",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Copy Constructor in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Constructor Overloading ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Constructor with default Arguments ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Anonymous Objects ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Constructor and Destructor with Static Members  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "Constructors in C++",
+        lectures: [
+          {
+            title:
+              " Operator Overloading ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Overloading with friend function ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Conversion from basic data type to user-defined data type (class type) ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Conversion from class type to basic data type ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Conversion from one class type to another class type ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Rules for Overloading Operators ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "Inheritance",
+        lectures: [
+          {
+            title: " Inheritance and Access Specifiers in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Virtual base class in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Single level inheritance ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Constructor in multiple inheritance ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Parameterized constructor in inheritance ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Containership ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Advantages and Disadvantages of Inheritance ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+         
+        ],
+      },
+
+      {
+        title: "Pointers to Objects and Virtual Functions",
+        lectures: [
+          {
+            title:
+              " Pointer to objects",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " C++ this Pointer",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " C++ virtual functionEarly binding and Late binding in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  C++ virtual function ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Early binding and Late binding in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " C++ virtual function ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Pure Virtual Functions and Abstract Classes in C++  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Differences b/w compile time and run time polymorphism",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+         
+        ],
+      },
+
+      {
+        title: "C++ Files and Streams",
+        lectures: [
+          {
+            title:
+              " File Handling using File Streams in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " C++ FileStream example reading from a file ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " C++ FileStream example reading from a file ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " C++ Read and Write Example ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Demo of EOF function and append mode ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Reversing the file content ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+
+      {
+        title: "Exception Handling",
+        lectures: [
+          {
+            title:
+              " Exception Handling in C++ ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Exception in Constructors and Destructors",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Controlling Uncaught Exceptions  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Exception and Inheritance ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+        ],
+      },
+
+      {
+        title: "C++ Standard Template Library (STL)",
+        lectures: [
+          {
+            title:
+              "ARRAY Container in STL",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "PAIR in STL in C++",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "TUPLE in STL in C++",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Vector Class in STL in C++",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      
+
+      
+      },
+    ],
+    features: [
+      {
+        title: "Training by Experts",
+        imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
+        desc: "To make you a professional at this language, we offer complete C++ training in Jodhpur by highly-experienced mentors.",
+      },
+      {
+        title: "100% Practical-Oriented",
+        imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
+        desc: "Learning C++ requires a good amount of practice. Therefore, we provide regular assignments and different projects for practical exposure.",
+      },
+      {
+        title: "Smart Classroom Learning",
+        imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
+        desc: "Our classrooms are digitalized, distraction-free, and allow 1:1 interaction with the mentor for the next-level learning experience.",
+      },
+      {
+        title: "Work on Projects",
+        imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
+        desc: "During the C++ training in Jodhpur, you will create various types of projects. It will assist you in understanding the concepts and gaining experience.",
+      },
+      {
+        title: "Job Assistance",
+        imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
+        desc: "We prepare you for the job and conduct your interviews with top companies to help you get good jobs and build a great career.",
+      },
+      {
+        title: "Professional C++ Certification",
+        imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
+        desc: "After completing our program, you will become a qualified C++ programmer. This certificate helps you apply for good jobs and get selected.",
+      },
+    ],
+    whatsappNumber: "919631005476",
+  },
+
+  //  SEO  course
+
+  {
+    title: "SEO Training",
+    heading:
+      "SEO Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+    center: "Ghaziabad",
+    imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
+    desc: [
+      "Become a highly skilled and certified SEO expert by learning search engine optimization from experienced digital marketers. It is one of the most demanded skills today with opportunities to build a great career.",
+      "WsCube Tech is offering the best SEO course in Jodhpur with certificate and placement assistance. In this advanced course, you will learn all aspects of search engine optimization in a practical manner. Whether you are a learner, graduate, job seeker, business owner, or digital marketer, you must learn SEO skills with us to give wings to your career in this field. ",
+    ],
+    batchDetails: [
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "9:00 AM - 10:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "10:00 AM - 11:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "4:00 AM - 5:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "5:00 AM - 6:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "6:00 AM - 7:00 PM",
+      },
+    ],
+    overviewHeading: "Overview of our SEO Course  Training in Ghaziabad",
+    overview: [
+      "SEO or Search Engine Optimization is the skill that helps businesses & website owners to rank on the first page of Google and other search engines for the queries people search for related to their services or products. ",
+      "Every business wants its website to have massive traffic so that it can generate more sales and grow the business online. This has made SEO an in-demand skill. From startups to small businesses to MNCs & top brands, every organization is hiring skilled SEO professionals ",
+      "If you want to build your career in this field, then WsCube Tech’s SEO training in Jodhpur is for you. We have been offering top-notch search engine optimization course for the last 10+ years. Over the years, we have trained and helped numerous learners to learn SEO and find high-paying and flourishing job opportunities. ",
+      "During the entire training, you will get guidance from an SEO expert, get to work on top SEO tools, practice on live websites, and master the art of ranking websites on the 1st page of Google. ",
+    
+    ],
+    certificateImgUrl:
+      "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
+    syllabus: [
+      {
+        title: "Introduction to SEO",
+        lectures: [
+          {
+            title: " What is SEO and why is it important? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Types of SEO ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  How do search engines work?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  How do search engines work?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Crawling, indexing, and ranking",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Crawling, indexing, and ranking",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+       
+        ],
+      },
+      {
+        title: "What is SEO and why is it important?",
+        lectures: [
+        
+          {
+            title:
+              " What is CMS and WordPress? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Introduction to WordPress website creation ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Static vs dynamic website ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " What are domain name and web hosting? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " How to get a domain name and web hosting? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  How to connect a domain with a hosting server?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " How to install WordPress and activate your site? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  How to choose a theme and install it?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Choosing right plugins ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Setting up site favicon and logo ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Creating web pages and adding them to the menu  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "How to create a submenu?  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " How to design a five-page website? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " How to set the front page? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " How to publish blog posts? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " How to create categories and tags? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " How to add posts to categories and tags? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Setting blog title and heading tags (H1-H6), images, videos ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Anchor text: internal and external linking ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " URL renaming or rewriting ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Featured image and excerpt  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Widget customization (sidebar and footer) ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Contact form 7  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Practical Assignment ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        
+        ],
+      },
+      {
+        title: "Keyword Research",
+        lectures: [
+          {
+            title: " What are keywords? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Types of keywords  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Long-tail and LSI keywords ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "How to do keyword research?  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "Keyword research tools  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+
+        
+        ],
+      },
+      {
+        title: "On-Page SEO",
+        lectures: [
+          {
+            title: " Keyword optimization ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Title tag ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Meta description",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " How to use heading tags? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Role of keyword density in content",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Anchor text  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " What is the bounce rate? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " What is keyword stuffing? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Plagiarism checker",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Keyword prominence, proximity, and cannibalization ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Image optimization (alt tag, title, compression) ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " How do permalinks matter in SEO? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " SEO-friendly URLs and structure ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Subdomains ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Breadcrumbs",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  The golden rule for first-page ranking",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Practical assignment  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+         
+        ],
+      },
+      {
+        title: "Technical SEO",
+        lectures: [
+          {
+            title:
+              " Introduction to technical SEO ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " HTML sitemap vs XML sitemap ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Sitemap creation ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Robots.txt file ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Canonical tag optimization",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Best practices for 404 error pages ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "301/302 URL redirection  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Schema markup and structured data",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Role of Open Graph tags in SEO",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " W3C validation ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " JavaScript and CSS optimizatio ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " How to increase page loading time? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " How to perform an SEO audit of a website? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        
+        ],
+      },
+      {
+        title: "Off-Page SEO",
+        lectures: [
+          {
+            title:
+              " Introduction to off-page SEO ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " What are backlinks? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Inbound vs outbound links ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Inbound vs outbound links ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " What is link juice? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Do follow vs no-follow backlinks ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " How to build quality backlinks? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " What are Domain Authority (DA) and page authority (PA)? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Search Engine Submission ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Free classified submission ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Image submission ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "   PDF submission ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Social bookmarking  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Forum posting ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Guest blogging ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Social bookmarking",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Press release submission ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "   Infographic submission ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Web 2.0 ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Article submission ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Video submission ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Q&A submission ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Practical Assignment ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "Using SEO Tools",
+        lectures: [
+          {
+            title:
+              "How to use Moz for SEO analysis of a website?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "How to use Ahrefs for content ideas?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "How to use Ahrefs for content ideas?",
+        lectures: [
+          {
+            title:
+              " Introduction to Google Search Console ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " How to integrate a website to Search Console? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Performance and URL inspection ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Sitemaps and coverage ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Enhancement reports ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Security and manual actions",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Breadcrumbs",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " URL removal and disavow ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Core web vitals ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Page speed ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Sharing user access ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        ],
+      },
+      {
+        title: "Introduction to Google Search Console",
+        lectures: [
+          {
+            title: "  Introduction to Google Analytics",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "  Setting up Google Analytics",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " How to link a website to GA? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Dashboard overview ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Real-time reports ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Audience reports- Overview, active users, lifetime value report ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Acquisition report ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Behavior report ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "How to track conversion",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "Creating remarketing audience  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: "  Creating remarketing audience",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Creating trackable links with UTM parameters ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Creating trackable links with UTM parameters ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          {
+            title: " Integrating Google Search Console and GA ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
+          
+        ],
+      },
+    ],
+    features: [
+      {
+        title: "Learn from SEO Expert",
+        imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
+        desc: "The full SEO course in Jodhpur is covered by an SEO professional who has numerous years of experience and holds expertise in ranking plenty of websites on Google’s 1st page.",
+      },
+      {
+        title: "Latest SEO Techniques",
+        imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
+        desc: "Our expert mentor will teach you all the essential techniques that help in boosting the website's ranking on Google. These include both basic and advanced techniques.",
+      },
+      {
+        title: "Use Premium SEO Tools",
+        imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
+        desc: "During the training, you get access to all the important SEO tools, like SEMrush, UberSuggest, Google Analytics, Google Search Console, Yoast SEO, etc.",
+      },
+      {
+        title: "Practice on Live Websites",
+        imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
+        desc: "Throughout the complete SEO training in Jodhpur, you will practice all the concepts on live websites and blogs. It is essential for real experience and learning things effectively.",
+      },
+      {
+        title: "Internship and Job Assistance",
+        imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
+        desc: "On course completion, we prepare you for getting high-paying and rewarding jobs. It includes internship opportunities, SEO interview preparation, and placement assistance.",
+      },
+      {
+        title: "Professional SEO Certification",
+        imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
+        desc: "This is an SEO course in Jodhpur with certificate, which means you will get the professional SEO certification once you complete the training and projects.",
+      },
+    ],
+    whatsappNumber: "919631005476",
+  },
+
+  //Digital Marketing Course
+
+  {
+    title: "Digital Marketing Training",
+    heading:
+      "Digital Marketing Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+    center: "Ghaziabad",
+    imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
+    desc: [
+     " If your aim is to master digital marketing skills practically and build a promising career in this field, WsCube Tech’s job-oriented and 100% practical Digital Marketing Course in Jodhpur is for you.",
+     " Learn from industry experts, get certified, work on real projects, get assistance in placement, and become a pro digital marketer. As the most trusted and best digital marketing institute in Jodhpur, we have trained 34,000+ digital marketers over the last decade. Enroll now to jumpstart a promising career!",
     ],
     batchDetails: [
       {
@@ -5678,342 +7204,525 @@ const GhaziabadTraining = [
     ],
     overviewHeading: "Overview of our Web Development Training in Ghaziabad",
     overview: [
-      "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
-      "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
-      "Upon completing the course, you will receive the certificate, internship opportunities, as well as job assistance. We ensure that you become highly skilled and explore great career opportunities in the field of website designing and development.",
-      "Once you have the skills, you can choose to go for a full-time job, become a freelance web developer, or start your own website development company.",
-      "Take two days of FREE demo classes to learn risk-free and confidently!",
+      "As every business shifts online to boost business growth, digital marketing plays the role of a primary catalyst. It is the era of digital marketing and opens doors to new career opportunities for anyone who is interested in making it big in the future. ",
+      "If you have the right skills, you will be on your way to not only building a great career, but also starting your own agency. At WsCube Tech, we aim to help you acquire all types of digital marketing skills, including SEO (Search Engine Optimization), Social Media Marketing (SMM), Google Ads, YouTube Marketing, Content Marketing, App Store Optimization (ASO), Email Marketing, and much more. ",
+      "This is the most comprehensive digital marketing course in Jodhpur and in India, which includes advanced modules which are not covered by others. ",
+      " Since digital marketing doesn’t require any technical skills, literally anyone can learn these skills. So whether you are a college learner, job seeker, freelancer, business owner, or even an existing marketer who wants to make it big, this digital marketing training in Jodhpur is for you.",
+      " If you have any questions or queries related to our course on digital marketing in Jodhpur, we are just a call away. Moreover, you can take two days of FREE demo classes before enrolling.",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
       {
-        title: "Getting started with Basics",
+        title: "Introduction to Digital Marketing",
         lectures: [
           {
-            title: "HISTORY OF WEB",
+            title: " What is Digital Marketing? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CLIENT SERVER ARCHITECTURE",
+            title: " Scope of Digital Marketing ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Requirement of Digital Marketing ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Latest Trends in Digital Marketing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Digital Marketing for Working Professionals ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Digital Marketing for Small, Medium, and Large Businesses ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Job opportunities in Digital Marketing ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+        
+        ],
+      },
+      {
+        title: "Successful Digital Marketing Case Studies",
+        lectures: [
+          {
+            title:
+              "Objectives of Online Marketing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Elements of Successful Digital Strategy",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Secrets of Successful Digital Marketing Campaigns",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Practical: Defining a Business Objective",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "Graphic Designing Using Canva ",
         lectures: [
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: "Digital Banner Designing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+              " Graphic Design Fundamentals",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: "How to Use Canva?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Logo & Graphic Designing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Live Practice– Designing Logos and Banners",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "More on HTML",
+        title: "Domain Marketing",
         lectures: [
           {
-            title: "MORE TAGS :- Practice creating HTML with more tags",
+            title: " What is Domain Name? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+              " Types of Domains and Extensions ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: "  How to Buy Right Domain Name?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title:
+              " What is Web Hosting, cPanel & FTP Account? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  What is Domain Marketing?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  How to Sell a Domain Name?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Top Domain Selling Platforms ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
         ],
       },
       {
-        title: "Forms",
+        title: "What is Domain Name?",
         lectures: [
           {
-            title: "FORM :- What is an HTML form?",
+            title:
+              " What is WordPress?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
+              " Why Learn WordPress in Digital Marketing?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title:
+              "   WordPress.com vs WordPress.org",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "WordPress installation and Creating 1st Website   ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  WordPress Page Builders ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  WordPress Plugins and Settings ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Using WordPress for Blogging ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " WordPress for Business Websites  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " WordPress for Business Websites  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  WordPress for eCommerce ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+       
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "eCommerce Website Development With Shopify",
         lectures: [
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              " Shopify Introduction ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              " Why Use Shopify for eCommerce? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              "  Setting up Free Shopify Account",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title:
+              " Important Tools for Shopify ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Building eCommerce Site With Shopify ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+         
         ],
       },
       {
-        title: "Intro to CSS",
+        title: "SEO Mastery",
         lectures: [
           {
             title:
-              "CSS INTRODUCTION :-  What is CSS and how to use it in HTML?",
+              " What is SEO? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "BLOG PAGE :-  Building and styling the blog project",
+            title: "   Importance of SEO ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title:
+              " How do Search Engines Work? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Introduction to SERP ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Different SEO Techniques",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Top Ranking Factors ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Black Hat vs White Hat SEO ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Black Hat vs White Hat SEO ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Different Google Algorithms ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " On-Page SEO Basics ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " On-Page SEO Basics ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Technical SEO Basics ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Technical SEO Advanced ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Advanced Keyword Research ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Working on On-Page SEO ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Working on Off-Page SEO ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Local SEO ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Mobile SEO ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Google Search Console in Depth ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Indexing in Search Console",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Fixing Errors in Search Console ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " HTTPS & SSL Certificate ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Optimizing Website Speed ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " SEO Case Studies ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " eCommerce SEO ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " SEO Reporting ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
       {
-        title: "Styling with CSS",
+        title: "Blogging",
         lectures: [
           {
             title:
-              "CSS UNITS :-  Learning about various CSS units used to style HTML elements",
+              " What is a Blog? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CSS BOX MODE :-  Understanding the CSS box model",
+            title:
+              " How does Blogging Work? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title:
+              " Benefits of Blogging ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  SEO in Blogging",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Making Money with Blogging ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Niche Blogging and Categories ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Creating 90-Days Blog Strategy ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Monetizing the Blog",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Applying for Google AdSense ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Applying for Other Ad Platforms ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+
         ],
       },
       {
-        title: "Starting with the Resume project",
+        title: "Google AdSense",
         lectures: [
           {
-            title:
-              "STARTING THE PROJECT :-  Start building the Resume project by creating the HTML structure",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Flex",
-        lectures: [
-          {
-            title: "INTRO TO FLEX :- Learning what flex is and how it works",
+            title: "What is Google AdSense?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "FLEX PROPERTIES :- Discovering various flex properties used to style HTML elements",
+              "Account Approval & Account Setup",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "USING FLEX IN RESUME :- Utilising flex to style the Resume project",
+              "AdSense Guidelines & Requirements",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Niche Content Research",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Traffic Strategy",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
 
       {
-        title: "Completing Resume",
+        title: "Third-Party Ads",
         lectures: [
           {
             title:
-              "PSEUDO ELEMENTS :- What are pseudo elements and where to use them?",
+              "What are Third-Party Ads?   ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "FINISHING UP :- Finish building the Resume",
+            title: " How to Run Ads on Hotstar? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " How to Run Ads on MX Player? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Online Ad Platforms and Ad Buying Models ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Publishing Ads on Third Party Platforms ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
         ],
       },
 
       {
-        title: "Responsive designs",
+        title: "National & International Freelancing",
         lectures: [
           {
             title:
-              "MEDIA QUERIES   What is responsive design and how to use media queries to build a responsive web app that works with multiple devices?",
+              " Earning as a Freelancer ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        ],
-      },
+          {
+            title:
+              " Top Freelancing Platforms ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Building Freelancing Profile ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Live Walkthrough: How to Win Projects?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "How to Set Pricing for Your Services?  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
 
-      {
-        title: "Animations and 3D space",
-        lectures: [
-          {
-            title:
-              "HANIMATION PROPERTIES   Basics of CSS animation and how to animate HTML elements using animate.css",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
         ],
-      },
 
-      {
-        title: "Bootstrap",
-        lectures: [
-          {
-            title:
-              "FRONTEND FRAMEWORKS :- What are frontend frameworks and how to use one",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "BOOTSTRAP COMPONENTS :- Using various other bootstrap elements like Navbar, Jumbotron etc",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ASSIGNMENT :-  Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Starting with Javascript",
-        lectures: [
-          {
-            title: "INTRO TO JS :- What is JS and history of JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "VARIABLES, OPERATORS, LOOPS :- Learning the basics of the language",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "JavaScript: Functions and Arrays",
-        lectures: [
-          {
-            title: "SCOPE :- Understanding scope in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "HOISTING :- What is hoisting and its application?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ARRAYS AND ITS USAGE :- What are arrays and using array functions like splice, slice etc.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Objects and Timing Events",
-        lectures: [
-          {
-            title:
-              "What are objects, how to create them and using different notations to access object’s data",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "OBJECT FUNCTIONS :- Learn to iterate over objects, delete object properties, creating nested objects",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Understanding DOM",
-        lectures: [
-          {
-            title:
-              "Understanding DOM, what it is, how to access elements from the DOM",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "EVENTS :- How to manipulate DOM events in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Calculator Project",
-        lectures: [
-          {
-            title:
-              "Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Mini Projects Using Javascript",
-        lectures: [
-          {
-            title: "LET V/S VAR :- Learning different ways to create variable",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "CATCH ME IF YOU CAN :-  Build a game using vanilla Javascript",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
       },
     ],
     features: [
       {
-        title: "Training by Pro Web Developers",
+        title: "Learn From Industry Experts",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
         desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
       },
       {
-        title: "Most Comprehensive Curriculum",
+        title: "Guaranteed Job Assistance",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
         desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
       },
       {
-        title: "Intensive Classroom Training",
+        title: " Intensive Classroom Training",
         imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
         desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
       },
       {
-        title: "Hands-on 12 Live Projectsg",
+        title: "Most Comprehensive Syllabus",
         imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
         desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
       },
       {
-        title: "Job Assistance",
+        title: "100% Practical-Oriented",
         imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
         desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
       },
       {
-        title: "Web Development Certification",
+        title: "Pro Digital Marketing Certificate",
         imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
         desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
       },
@@ -6021,17 +7730,17 @@ const GhaziabadTraining = [
     whatsappNumber: "919631005476",
   },
 
-  //  digital marketing
+  // Content Writing Course
 
   {
-    title: "Python Training",
+    title: "Content Writing  Training",
     heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+      "Content Writing  Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
-      "You will work on both front-end and backend development by learning HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, jQuery, WordPress, PHP, Laravel, MySQL, AJAX, and more. By the end of this website development training, you will be on your way to becoming a proficient web developer.",
+      "Want to kickstart your career as a skilled content writer and make it big? Master the art of writing different types of content with the classroom-based content writing course in Jodhpur.",
+      "In this course, you will learn how to write impactful content for different types of businesses and websites, with regular practice on real assignments. It is a content writing certification course that helps you get a full-time job as a content writer, start freelance writing, or become an influential blogger.",
     ],
     batchDetails: [
       {
@@ -6057,11 +7766,11 @@ const GhaziabadTraining = [
     ],
     overviewHeading: "Overview of our Web Development Training in Ghaziabad",
     overview: [
-      "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
-      "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
-      "Upon completing the course, you will receive the certificate, internship opportunities, as well as job assistance. We ensure that you become highly skilled and explore great career opportunities in the field of website designing and development.",
-      "Once you have the skills, you can choose to go for a full-time job, become a freelance web developer, or start your own website development company.",
-      "Take two days of FREE demo classes to learn risk-free and confidently!",
+      "The demand for Content Writers has dramatically increased over the last few years. The reasons behind this fast-growing demand are businesses shifting online. Every business and website requires content in the form of articles, web content, landing pages, press releases, professional emails, guest posts, case studies, and more. ",
+      "Moreover, to improve the ranking of the website on Google, quality content plays the biggest role. This is why Content is called the King in SEO and Digital Marketing. ",
+      "If you have the zeal to become a content writer in India or abroad, then WsCube Tech’s Content Writing Training in Jodhpur is the perfect solution for you. ",
+      "This is the most comprehensive course in the country with the latest and well-structured curriculum, training by an experienced Content Writer, professional certification, dedicated doubt-clearing sessions, as well as job assistance. You can also choose to do an internship for more practical exposure and a chance to work on real projects. ",
+      " Learn today’s most-demanded skill, understand how to monetize your skills, and build a growing career in Content Writing.",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -6070,820 +7779,131 @@ const GhaziabadTraining = [
         title: "Getting started with Basics",
         lectures: [
           {
-            title: "HISTORY OF WEB",
+            title: " What is Content Writing?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CLIENT SERVER ARCHITECTURE",
+            title: "Role and Importance of Content",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Fields of Content Writing",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Types of Content",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Content Writing vs Creative Writing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "Fundamentals of Content Writing",
         lectures: [
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              "Language and Tone",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+              "Grammar",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title:
+              "Plagiarisme",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "Research",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Readability",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "SEO Optimization",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "British/American English",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "More on HTML",
+        title: "Plagiarism",
         lectures: [
           {
-            title: "MORE TAGS :- Practice creating HTML with more tags",
+            title: "What is Plagiarism?s",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+              "Types of Plagiarism",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: "Why and how to avoid Plagiarism?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Google's guidelines",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Plagiarism checker tools (Free and Premium)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Forms",
+        title: "Article & Blog Post Writing",
         lectures: [
           {
-            title: "FORM :- What is an HTML form?",
+            title: "What is an article and blog post?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Introduction to HTML",
-        lectures: [
-          {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              "What makes a great article?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              "Types of blog posts",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Intro to CSS",
-        lectures: [
-          {
-            title:
-              "CSS INTRODUCTION :-  What is CSS and how to use it in HTML?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "BLOG PAGE :-  Building and styling the blog project",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Styling with CSS",
-        lectures: [
-          {
-            title:
-              "CSS UNITS :-  Learning about various CSS units used to style HTML elements",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "CSS BOX MODE :-  Understanding the CSS box model",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Starting with the Resume project",
-        lectures: [
-          {
-            title:
-              "STARTING THE PROJECT :-  Start building the Resume project by creating the HTML structure",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Flex",
-        lectures: [
-          {
-            title: "INTRO TO FLEX :- Learning what flex is and how it works",
+              "How to write a blog post?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "FLEX PROPERTIES :- Discovering various flex properties used to style HTML elements",
+              "Using stock-free images and where to find",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "USING FLEX IN RESUME :- Utilising flex to style the Resume project",
+              "Guest post writing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        ],
-      },
 
-      {
-        title: "Completing Resume",
-        lectures: [
           {
             title:
-              "PSEUDO ELEMENTS :- What are pseudo elements and where to use them?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FINISHING UP :- Finish building the Resume",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Responsive designs",
-        lectures: [
-          {
-            title:
-              "MEDIA QUERIES   What is responsive design and how to use media queries to build a responsive web app that works with multiple devices?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Animations and 3D space",
-        lectures: [
-          {
-            title:
-              "HANIMATION PROPERTIES   Basics of CSS animation and how to animate HTML elements using animate.css",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Bootstrap",
-        lectures: [
-          {
-            title:
-              "FRONTEND FRAMEWORKS :- What are frontend frameworks and how to use one",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
+              "How to do content research?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "BOOTSTRAP COMPONENTS :- Using various other bootstrap elements like Navbar, Jumbotron etc",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ASSIGNMENT :-  Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Starting with Javascript",
-        lectures: [
-          {
-            title: "INTRO TO JS :- What is JS and history of JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "VARIABLES, OPERATORS, LOOPS :- Learning the basics of the language",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "JavaScript: Functions and Arrays",
-        lectures: [
-          {
-            title: "SCOPE :- Understanding scope in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "HOISTING :- What is hoisting and its application?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ARRAYS AND ITS USAGE :- What are arrays and using array functions like splice, slice etc.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Objects and Timing Events",
-        lectures: [
-          {
-            title:
-              "What are objects, how to create them and using different notations to access object’s data",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "OBJECT FUNCTIONS :- Learn to iterate over objects, delete object properties, creating nested objects",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Understanding DOM",
-        lectures: [
-          {
-            title:
-              "Understanding DOM, what it is, how to access elements from the DOM",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "EVENTS :- How to manipulate DOM events in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Calculator Project",
-        lectures: [
-          {
-            title:
-              "Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Mini Projects Using Javascript",
-        lectures: [
-          {
-            title: "LET V/S VAR :- Learning different ways to create variable",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "CATCH ME IF YOU CAN :-  Build a game using vanilla Javascript",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-    ],
-    features: [
-      {
-        title: "Training by Pro Web Developers",
-        imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
-      },
-      {
-        title: "Most Comprehensive Curriculum",
-        imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
-      },
-      {
-        title: "Intensive Classroom Training",
-        imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
-      },
-      {
-        title: "Hands-on 12 Live Projectsg",
-        imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
-      },
-      {
-        title: "Job Assistance",
-        imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
-      },
-      {
-        title: "Web Development Certification",
-        imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
-      },
-    ],
-    whatsappNumber: "919631005476",
-  },
-
-  //content writing
-
-  {
-    title: "Python Training",
-    heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
-    imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
-    desc: [
-      "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
-      "You will work on both front-end and backend development by learning HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, jQuery, WordPress, PHP, Laravel, MySQL, AJAX, and more. By the end of this website development training, you will be on your way to becoming a proficient web developer.",
-    ],
-    batchDetails: [
-      {
-        duration: "(Mon - Sat) 5 Months",
-        timing: "9:00 AM - 10:00 PM",
-      },
-      {
-        duration: "(Mon - Sat) 5 Months",
-        timing: "10:00 AM - 11:00 PM",
-      },
-      {
-        duration: "(Mon - Sat) 5 Months",
-        timing: "4:00 AM - 5:00 PM",
-      },
-      {
-        duration: "(Mon - Sat) 5 Months",
-        timing: "5:00 AM - 6:00 PM",
-      },
-      {
-        duration: "(Mon - Sat) 5 Months",
-        timing: "6:00 AM - 7:00 PM",
-      },
-    ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
-    overview: [
-      "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
-      "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
-      "Upon completing the course, you will receive the certificate, internship opportunities, as well as job assistance. We ensure that you become highly skilled and explore great career opportunities in the field of website designing and development.",
-      "Once you have the skills, you can choose to go for a full-time job, become a freelance web developer, or start your own website development company.",
-      "Take two days of FREE demo classes to learn risk-free and confidently!",
-    ],
-    certificateImgUrl:
-      "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
-    syllabus: [
-      {
-        title: "Getting started with Basics",
-        lectures: [
-          {
-            title: "HISTORY OF WEB",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "CLIENT SERVER ARCHITECTURE",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Introduction to HTML",
-        lectures: [
-          {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "TABLE :- Learn to create tables in HTML",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "More on HTML",
-        lectures: [
-          {
-            title: "MORE TAGS :- Practice creating HTML with more tags",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "TABLE :- Learn to create tables in HTML",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Forms",
-        lectures: [
-          {
-            title: "FORM :- What is an HTML form?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Introduction to HTML",
-        lectures: [
-          {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Intro to CSS",
-        lectures: [
-          {
-            title:
-              "CSS INTRODUCTION :-  What is CSS and how to use it in HTML?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "BLOG PAGE :-  Building and styling the blog project",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Styling with CSS",
-        lectures: [
-          {
-            title:
-              "CSS UNITS :-  Learning about various CSS units used to style HTML elements",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "CSS BOX MODE :-  Understanding the CSS box model",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Starting with the Resume project",
-        lectures: [
-          {
-            title:
-              "STARTING THE PROJECT :-  Start building the Resume project by creating the HTML structure",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Flex",
-        lectures: [
-          {
-            title: "INTRO TO FLEX :- Learning what flex is and how it works",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "FLEX PROPERTIES :- Discovering various flex properties used to style HTML elements",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "USING FLEX IN RESUME :- Utilising flex to style the Resume project",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Completing Resume",
-        lectures: [
-          {
-            title:
-              "PSEUDO ELEMENTS :- What are pseudo elements and where to use them?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FINISHING UP :- Finish building the Resume",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Responsive designs",
-        lectures: [
-          {
-            title:
-              "MEDIA QUERIES   What is responsive design and how to use media queries to build a responsive web app that works with multiple devices?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Animations and 3D space",
-        lectures: [
-          {
-            title:
-              "HANIMATION PROPERTIES   Basics of CSS animation and how to animate HTML elements using animate.css",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Bootstrap",
-        lectures: [
-          {
-            title:
-              "FRONTEND FRAMEWORKS :- What are frontend frameworks and how to use one",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "BOOTSTRAP COMPONENTS :- Using various other bootstrap elements like Navbar, Jumbotron etc",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ASSIGNMENT :-  Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Starting with Javascript",
-        lectures: [
-          {
-            title: "INTRO TO JS :- What is JS and history of JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "VARIABLES, OPERATORS, LOOPS :- Learning the basics of the language",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "JavaScript: Functions and Arrays",
-        lectures: [
-          {
-            title: "SCOPE :- Understanding scope in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "HOISTING :- What is hoisting and its application?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ARRAYS AND ITS USAGE :- What are arrays and using array functions like splice, slice etc.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Objects and Timing Events",
-        lectures: [
-          {
-            title:
-              "What are objects, how to create them and using different notations to access object’s data",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "OBJECT FUNCTIONS :- Learn to iterate over objects, delete object properties, creating nested objects",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Understanding DOM",
-        lectures: [
-          {
-            title:
-              "Understanding DOM, what it is, how to access elements from the DOM",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "EVENTS :- How to manipulate DOM events in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Calculator Project",
-        lectures: [
-          {
-            title:
-              "Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Mini Projects Using Javascript",
-        lectures: [
-          {
-            title: "LET V/S VAR :- Learning different ways to create variable",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "CATCH ME IF YOU CAN :-  Build a game using vanilla Javascript",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-    ],
-    features: [
-      {
-        title: "Training by Pro Web Developers",
-        imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
-      },
-      {
-        title: "Most Comprehensive Curriculum",
-        imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
-      },
-      {
-        title: "Intensive Classroom Training",
-        imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
-      },
-      {
-        title: "Hands-on 12 Live Projectsg",
-        imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
-      },
-      {
-        title: "Job Assistance",
-        imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
-      },
-      {
-        title: "Web Development Certification",
-        imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
-      },
-    ],
-    whatsappNumber: "919631005476",
-  },
-
-  // google adds course
-
-  {
-    title: "Python Training",
-    heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
-    imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
-    desc: [
-      "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
-      "You will work on both front-end and backend development by learning HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, jQuery, WordPress, PHP, Laravel, MySQL, AJAX, and more. By the end of this website development training, you will be on your way to becoming a proficient web developer.",
-    ],
-    batchDetails: [
-      {
-        duration: "(Mon - Sat) 5 Months",
-        timing: "9:00 AM - 10:00 PM",
-      },
-      {
-        duration: "(Mon - Sat) 5 Months",
-        timing: "10:00 AM - 11:00 PM",
-      },
-      {
-        duration: "(Mon - Sat) 5 Months",
-        timing: "4:00 AM - 5:00 PM",
-      },
-      {
-        duration: "(Mon - Sat) 5 Months",
-        timing: "5:00 AM - 6:00 PM",
-      },
-      {
-        duration: "(Mon - Sat) 5 Months",
-        timing: "6:00 AM - 7:00 PM",
-      },
-    ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
-    overview: [
-      "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
-      "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
-      "Upon completing the course, you will receive the certificate, internship opportunities, as well as job assistance. We ensure that you become highly skilled and explore great career opportunities in the field of website designing and development.",
-      "Once you have the skills, you can choose to go for a full-time job, become a freelance web developer, or start your own website development company.",
-      "Take two days of FREE demo classes to learn risk-free and confidently!",
-    ],
-    certificateImgUrl:
-      "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
-    syllabus: [
-      {
-        title: "Getting started with Basics",
-        lectures: [
-          {
-            title: "HISTORY OF WEB",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "CLIENT SERVER ARCHITECTURE",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Introduction to HTML",
-        lectures: [
-          {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "TABLE :- Learn to create tables in HTML",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "More on HTML",
-        lectures: [
-          {
-            title: "MORE TAGS :- Practice creating HTML with more tags",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "TABLE :- Learn to create tables in HTML",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-      {
-        title: "Forms",
-        lectures: [
-          {
-            title: "FORM :- What is an HTML form?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
+              "Writing catchy headlines",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
