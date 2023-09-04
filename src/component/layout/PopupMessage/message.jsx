@@ -55,6 +55,7 @@ const Message = ({ message, setMessage }) => {
 
   return (
     <div className={`${styles.popupMessage} ${message ? "" : "d-none"}`}>
+      <div className={styles.overlay} onClick={() => setMessage(false)}></div>
       <div className={styles.messageBox}>
         <div className={styles.content}>
           <div className={styles.header}>
