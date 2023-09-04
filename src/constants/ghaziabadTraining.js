@@ -4664,7 +4664,7 @@ const GhaziabadTraining = [
   // java training
 
   {
-    title: "java training",
+    title: "Java Training",
     heading:
       "Java Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
@@ -4930,11 +4930,6 @@ const GhaziabadTraining = [
             title: "Exception Handling With Method Overriding",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-          
-        ],
-      },
-      
         ],
       },
       {
@@ -5094,271 +5089,212 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
-
           {
             title: "Event Handling ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-         
         ],
       },
-
       {
         title: "Java Input/Output",
         lectures: [
           {
-            title:
-              " Input and Output in Java",
+            title: " Input and Output in Java",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "File input and output ",
+            title: "File input and output ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "ByteArrayOutputStream Class ",
+            title: "ByteArrayOutputStream Class ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " SequenceInputStream Class",
+            title: " SequenceInputStream Class",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " BufferedOutputStream Class",
+            title: " BufferedOutputStream Class",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " FileWriter and FileReader",
+            title: " FileWriter and FileReader",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " CharArrayWriter",
+            title: " CharArrayWriter",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Input by BufferedReader ",
+            title: "Input by BufferedReader ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Input by Console",
+            title: " Input by Console",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Input by Scanner",
+            title: " Input by Scanner",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " PrintStream Class",
+            title: " PrintStream Class",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Compress and Uncompress File",
+            title: " Compress and Uncompress File",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " PipedInputStream and PipedOututStream",
+            title: " PipedInputStream and PipedOututStream",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-         
         ],
       },
-
       {
         title: "Java Swing",
         lectures: [
           {
-            title:
-              "Basics of Swing in Java  ",
+            title: "Basics of Swing in Java  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Java JButton Class ",
+            title: " Java JButton Class ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "JRadioButton Class  ",
+            title: "JRadioButton Class  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "JTextArea Class  ",
+            title: "JTextArea Class  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " JComboBox Class ",
+            title: " JComboBox Class ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "   JTable Class ",
+            title: "   JTable Class ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " JColorChooser Class ",
+            title: " JColorChooser Class ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " JProgressBar Class ",
+            title: " JProgressBar Class ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " JSlider Class ",
+            title: " JSlider Class ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Digital Watch Graphics in Java Swing ",
+            title: " Digital Watch Graphics in Java Swing ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Displaying Image ",
+            title: " Displaying Image ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Editing menu for Notepad  ",
+            title: "Editing menu for Notepad  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Opening Dialog Box ",
+            title: " Opening Dialog Box ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Java Layout Manager ",
+            title: " Java Layout Manager ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
-
       {
         title: "JAVA JDBC and Online XML Data Parsing",
         lectures: [
           {
-            title:
-              " Database Management System",
+            title: " Database Management System",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Database Manipulations ",
+            title: "Database Manipulations ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " SQLite Database integration in Java Project",
+            title: " SQLite Database integration in Java Project",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " XML Parsing Online",
+            title: " XML Parsing Online",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
-
       {
         title: "Java Projects",
         lectures: [
           {
-            title:
-              " Notepad",
+            title: " Notepad",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Puzzle game",
+            title: " Puzzle game",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Pic Puzzle game ",
+            title: "Pic Puzzle game ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Tic Tac Toe Game",
+            title: " Tic Tac Toe Game",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Crystal App",
+            title: " Crystal App",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Age Puzzle",
+            title: " Age Puzzle",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BMI Calculator ",
+            title: "BMI Calculator ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  KBC game",
+            title: "  KBC game",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Tourist app ",
+            title: "Tourist app ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Meditation app",
+            title: " Meditation app",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Contact app",
+            title: " Contact app",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Weather app ",
+            title: " Weather app ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " POI App",
+            title: " POI App",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Currency Convertor ",
+            title: "Currency Convertor ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-         
         ],
       },
-
       {
         title: "Android Animations",
         lectures: [
@@ -5378,11 +5314,8 @@ const GhaziabadTraining = [
             title: "Property Animation ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-          
         ],
       },
-
       {
         title: "Persistent data Storage",
         lectures: [
@@ -5398,37 +5331,30 @@ const GhaziabadTraining = [
             title: "SQLite Database",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
-
       {
         title: "Managing Long Running Processes",
         lectures: [
           {
-            title:
-              " UI Thread",
+            title: " UI Thread",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Handlers and loppers",
+            title: " Handlers and loppers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Causes of ANR issue and its solution",
+            title: " Causes of ANR issue and its solution",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
         title: "Services",
         lectures: [
           {
-            title:
-              "Service Lifecycle",
+            title: "Service Lifecycle",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -5441,13 +5367,11 @@ const GhaziabadTraining = [
           },
         ],
       },
-
       {
         title: "Broadcast Receivers",
         lectures: [
           {
-            title:
-              " ",
+            title: " ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -5456,8 +5380,7 @@ const GhaziabadTraining = [
         title: "Content Providers",
         lectures: [
           {
-            title:
-              " ",
+            title: " ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -5466,18 +5389,15 @@ const GhaziabadTraining = [
         title: "Web Services",
         lectures: [
           {
-            title:
-              " HTTP Networking",
+            title: " HTTP Networking",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Jason Parsing",
+            title: " Jason Parsing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "XML Parsing ",
+            title: "XML Parsing ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -5486,18 +5406,15 @@ const GhaziabadTraining = [
         title: "Google Maps",
         lectures: [
           {
-            title:
-              " Shared Preference",
+            title: " Shared Preference",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Preference Screen ",
+            title: "Preference Screen ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "SQLite Database ",
+            title: "SQLite Database ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -5506,8 +5423,7 @@ const GhaziabadTraining = [
         title: "Android Tools",
         lectures: [
           {
-            title:
-              " ",
+            title: " ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -5516,47 +5432,77 @@ const GhaziabadTraining = [
         title: "Publishing your App",
         lectures: [
           {
-            title:
-              " ",
+            title: " ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
-      
 
-
-      
-    
-    
+        features: [
+          {
+            title: "Training by Java Experts",
+            imgUrl:
+              "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
+            desc: "To make you an expert in Java, we offer complete Java training in Jodhpur by highly-experienced mentors.",
+          },
+          {
+            title: "100% Practical-Oriented",
+            imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
+            desc: "Gain practical exposure to Java programming with our completely practical-oriented and skill-based Java course.",
+          },
+          {
+            title: "Intensive Classroom Training",
+            imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
+            desc: "We have fully digitized classrooms in Jodhpur that offer you an intensive learning experience with a distraction-free environment.",
+          },
+          {
+            title: "Work on Real Projects",
+            imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
+            desc: "During the course, you will get to work on plenty of Java-based programming and development projects for the live experience.",
+          },
+          {
+            title: "Job Assistance",
+            imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
+            desc: "On course completion, our team helps you in preparing for the job interview, and conducts your interviews at top companies.",
+          },
+          {
+            title: "Professional Java Certification",
+            imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
+            desc: "Once you complete the Java certification course, you will be rewarded with a professional certificate to help you explore great career opportunities.",
+          },
+        ],
+        whatsappNumber: "919631005476",
+      },
+    ],
     features: [
       {
-        title: "Training by Java Experts",
+        title: "Training by Pro Web Developers",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "To make you an expert in Java, we offer complete Java training in Jodhpur by highly-experienced mentors.",
+        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
       },
       {
-        title: "100% Practical-Oriented",
+        title: "Most Comprehensive Curriculum",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "Gain practical exposure to Java programming with our completely practical-oriented and skill-based Java course.",
+        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
       },
       {
         title: "Intensive Classroom Training",
         imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "We have fully digitized classrooms in Jodhpur that offer you an intensive learning experience with a distraction-free environment.",
+        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
       },
       {
-        title: "Work on Real Projects",
+        title: "Hands-on 12 Live Projectsg",
         imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "During the course, you will get to work on plenty of Java-based programming and development projects for the live experience.",
+        desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
       },
       {
         title: "Job Assistance",
         imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "On course completion, our team helps you in preparing for the job interview, and conducts your interviews at top companies.",
+        desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
       },
       {
-        title: "Professional Java Certification",
+        title: "Web Development Certification",
         imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "Once you complete the Java certification course, you will be rewarded with a professional certificate to help you explore great career opportunities.",
+        desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
       },
     ],
     whatsappNumber: "919631005476",
@@ -5565,7 +5511,7 @@ const GhaziabadTraining = [
   // c programming
 
   {
-    title: "C Programming",
+    title: "C Programming Training",
     heading:
       "C Programming Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
@@ -5628,38 +5574,31 @@ const GhaziabadTraining = [
         title: "Basics of C language",
         lectures: [
           {
-            title:
-              "  Flow Control",
+            title: "  Flow Control",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " if...else ",
+            title: " if...else ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " for Loop ",
+            title: " for Loop ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " while Loop ",
+            title: " while Loop ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " break and continue ",
+            title: " break and continue ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "    switch...case ",
+            title: "    switch...case ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  goto",
+            title: "  goto",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -5691,7 +5630,6 @@ const GhaziabadTraining = [
             title: "Function Examples ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -5705,98 +5643,79 @@ const GhaziabadTraining = [
             title: " Multi-dimensional Arrays ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Arrays & Function ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Pointers ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Memory Allocation ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-
         ],
       },
       {
         title: "Strings",
         lectures: [
           {
-            title:
-              "What is String?",
+            title: "What is String?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "String Functions",
+            title: "String Functions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
         ],
       },
       {
         title: "Structure And Union",
         lectures: [
           {
-            title:
-              "Structure ",
+            title: "Structure ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Struct & Pointers",
+            title: " Struct & Pointers",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-          {
-            title:
-              "Struct & Function ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-         
-          {
-            title:
-              "Unions ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-         
 
+          {
+            title: "Struct & Function ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          {
+            title: "Unions ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
         ],
       },
       {
         title: "C Programming Files",
         lectures: [
           {
-            title:
-              "Input/Output  ",
+            title: "Input/Output  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Enumeration",
+            title: "  Enumeration",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
-            title:
-              " Preprocessors ",
+            title: " Preprocessors ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Standard Library",
+            title: "  Standard Library",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-       
-    
-     
         ],
       },
     ],
@@ -5875,7 +5794,6 @@ const GhaziabadTraining = [
       "This course by Wscube Tech emphasizes 'how' rather than 'what.' For example, in the function lesson, we teach how to create a function in C++ rather than what a function is. Developers and programmers",
       "Learn C++ from our experts from scratch, and practice in an intuitive environment. The challenges are based on real-world projects to ensure you learn best practices one step at a time.",
       "Enhance your skill set and boost your career through innovative and independent learning from our C++ training institute in Jodhpur. Fill out the form or call us now to book your two days of FREE demo classes!",
-     
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -5905,32 +5823,25 @@ const GhaziabadTraining = [
         title: "Input and Output in C++",
         lectures: [
           {
-            title:
-              " Streams in C++ ",
+            title: " Streams in C++ ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "    Program to understand cin and cout streams",
+            title: "    Program to understand cin and cout streams",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Program to understand get() and put() functions",
+            title: "  Program to understand get() and put() functions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Program to understand read() and write() functions  ",
+            title: " Program to understand read() and write() functions  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Program to understand getline() and write() functions ",
+            title: " Program to understand getline() and write() functions ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-         
         ],
       },
       {
@@ -5944,93 +5855,91 @@ const GhaziabadTraining = [
             title: " Tokens in C++ ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Data Types in C++ ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Explicit Type Casting ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Implicit Type Casting ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Operators in C++ ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "Operators in C++  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "Referencing and Dereferencing operators  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Scope Resolution Operator ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "   Scope Resolution Operator",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Memory Management Operators ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " malloc() vs new in c++ ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "Demo of new and delete operators  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "  Allocation and deallocation memory dynamically",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Array of pointers ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Dynamic memory allocation for 2-D array ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Reference Variables in C++ ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Free vs delete in c++ ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Comma Operator ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-
         ],
       },
       {
@@ -6084,67 +5993,54 @@ const GhaziabadTraining = [
             title: "  Continue Statement in C++",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-          
         ],
       },
       {
         title: "Functions in C++",
         lectures: [
           {
-            title:
-              " C++ Functions ",
+            title: " C++ Functions ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Passing by pointer Vs Passing by Reference ",
+            title: " Passing by pointer Vs Passing by Reference ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Call by Address",
+            title: "Call by Address",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Call by reference ",
+            title: " Call by reference ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Return by Reference ",
+            title: " Return by Reference ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Default Arguments ",
+            title: " Default Arguments ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Inline Function ",
+            title: " Inline Function ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Difference Between Inline and Macro ",
+            title: " Difference Between Inline and Macro ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Polymorphism and Function Overloading ",
+            title: " Polymorphism and Function Overloading ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
         title: "Classes and Objects in C++",
         lectures: [
           {
-            title:
-              " Classes and Objects in C++ ",
+            title: " Classes and Objects in C++ ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6152,8 +6048,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Demo of class and object ",
+            title: " Demo of class and object ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6161,8 +6056,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Demo of string using class and object ",
+            title: " Demo of string using class and object ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6170,8 +6064,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Passing objects to function ",
+            title: " Passing objects to function ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6179,8 +6072,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Array of Objects ",
+            title: " Array of Objects ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6188,23 +6080,20 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Static data member and Static member function  ",
+            title: "Static data member and Static member function  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: "  Friend Function in C++",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
         title: "Constructor and Destructor in C++",
         lectures: [
           {
-            title:
-              "  Constructors in C++",
+            title: "  Constructors in C++",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6212,8 +6101,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Constructor Overloading ",
+            title: " Constructor Overloading ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6221,8 +6109,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Anonymous Objects ",
+            title: " Anonymous Objects ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6235,13 +6122,11 @@ const GhaziabadTraining = [
         title: "Constructors in C++",
         lectures: [
           {
-            title:
-              " Operator Overloading ",
+            title: " Operator Overloading ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Overloading with friend function ",
+            title: " Overloading with friend function ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6250,21 +6135,17 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Conversion from class type to basic data type ",
+            title: " Conversion from class type to basic data type ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Conversion from one class type to another class type ",
+            title: " Conversion from one class type to another class type ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Rules for Overloading Operators ",
+            title: " Rules for Overloading Operators ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -6298,8 +6179,6 @@ const GhaziabadTraining = [
             title: " Advantages and Disadvantages of Inheritance ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-         
         ],
       },
 
@@ -6307,13 +6186,11 @@ const GhaziabadTraining = [
         title: "Pointers to Objects and Virtual Functions",
         lectures: [
           {
-            title:
-              " Pointer to objects",
+            title: " Pointer to objects",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " C++ this Pointer",
+            title: " C++ this Pointer",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6322,32 +6199,25 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  C++ virtual function ",
+            title: "  C++ virtual function ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Early binding and Late binding in C++ ",
+            title: " Early binding and Late binding in C++ ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " C++ virtual function ",
+            title: " C++ virtual function ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Pure Virtual Functions and Abstract Classes in C++  ",
+            title: "Pure Virtual Functions and Abstract Classes in C++  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Differences b/w compile time and run time polymorphism",
+            title: "  Differences b/w compile time and run time polymorphism",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-         
         ],
       },
 
@@ -6355,36 +6225,29 @@ const GhaziabadTraining = [
         title: "C++ Files and Streams",
         lectures: [
           {
-            title:
-              " File Handling using File Streams in C++ ",
+            title: " File Handling using File Streams in C++ ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " C++ FileStream example reading from a file ",
+            title: " C++ FileStream example reading from a file ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " C++ FileStream example reading from a file ",
+            title: " C++ FileStream example reading from a file ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " C++ Read and Write Example ",
+            title: " C++ Read and Write Example ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Demo of EOF function and append mode ",
+            title: " Demo of EOF function and append mode ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Reversing the file content ",
+            title: " Reversing the file content ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -6392,26 +6255,21 @@ const GhaziabadTraining = [
         title: "Exception Handling",
         lectures: [
           {
-            title:
-              " Exception Handling in C++ ",
+            title: " Exception Handling in C++ ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Exception in Constructors and Destructors",
+            title: "  Exception in Constructors and Destructors",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Controlling Uncaught Exceptions  ",
+            title: "Controlling Uncaught Exceptions  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Exception and Inheritance ",
+            title: " Exception and Inheritance ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
 
@@ -6419,8 +6277,7 @@ const GhaziabadTraining = [
         title: "C++ Standard Template Library (STL)",
         lectures: [
           {
-            title:
-              "ARRAY Container in STL",
+            title: "ARRAY Container in STL",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6428,19 +6285,14 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "TUPLE in STL in C++",
+            title: "TUPLE in STL in C++",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Vector Class in STL in C++",
+            title: "Vector Class in STL in C++",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
-      
-
-      
       },
     ],
     features: [
@@ -6518,7 +6370,6 @@ const GhaziabadTraining = [
       "Every business wants its website to have massive traffic so that it can generate more sales and grow the business online. This has made SEO an in-demand skill. From startups to small businesses to MNCs & top brands, every organization is hiring skilled SEO professionals ",
       "If you want to build your career in this field, then WsCube Tech’s SEO training in Jodhpur is for you. We have been offering top-notch search engine optimization course for the last 10+ years. Over the years, we have trained and helped numerous learners to learn SEO and find high-paying and flourishing job opportunities. ",
       "During the entire training, you will get guidance from an SEO expert, get to work on top SEO tools, practice on live websites, and master the art of ranking websites on the 1st page of Google. ",
-    
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -6550,97 +6401,77 @@ const GhaziabadTraining = [
             title: "  Crawling, indexing, and ranking",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-       
         ],
       },
       {
         title: "What is SEO and why is it important?",
         lectures: [
-        
           {
-            title:
-              " What is CMS and WordPress? ",
+            title: " What is CMS and WordPress? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Introduction to WordPress website creation ",
+            title: " Introduction to WordPress website creation ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Static vs dynamic website ",
+            title: " Static vs dynamic website ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " What are domain name and web hosting? ",
+            title: " What are domain name and web hosting? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to get a domain name and web hosting? ",
+            title: " How to get a domain name and web hosting? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  How to connect a domain with a hosting server?",
+            title: "  How to connect a domain with a hosting server?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to install WordPress and activate your site? ",
+            title: " How to install WordPress and activate your site? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  How to choose a theme and install it?",
+            title: "  How to choose a theme and install it?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Choosing right plugins ",
+            title: " Choosing right plugins ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Setting up site favicon and logo ",
+            title: " Setting up site favicon and logo ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating web pages and adding them to the menu  ",
+            title: "Creating web pages and adding them to the menu  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to create a submenu?  ",
+            title: "How to create a submenu?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to design a five-page website? ",
+            title: " How to design a five-page website? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to set the front page? ",
+            title: " How to set the front page? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to publish blog posts? ",
+            title: " How to publish blog posts? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to create categories and tags? ",
+            title: " How to create categories and tags? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to add posts to categories and tags? ",
+            title: " How to add posts to categories and tags? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6649,37 +6480,29 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Anchor text: internal and external linking ",
+            title: " Anchor text: internal and external linking ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " URL renaming or rewriting ",
+            title: " URL renaming or rewriting ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Featured image and excerpt  ",
+            title: "Featured image and excerpt  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Widget customization (sidebar and footer) ",
+            title: " Widget customization (sidebar and footer) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Contact form 7  ",
+            title: "Contact form 7  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Practical Assignment ",
+            title: " Practical Assignment ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-        
         ],
       },
       {
@@ -6693,24 +6516,21 @@ const GhaziabadTraining = [
             title: "Types of keywords  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Long-tail and LSI keywords ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "How to do keyword research?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "Keyword research tools  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-
-        
         ],
       },
       {
@@ -6784,209 +6604,167 @@ const GhaziabadTraining = [
             title: "Practical assignment  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-         
         ],
       },
       {
         title: "Technical SEO",
         lectures: [
           {
-            title:
-              " Introduction to technical SEO ",
+            title: " Introduction to technical SEO ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " HTML sitemap vs XML sitemap ",
+            title: " HTML sitemap vs XML sitemap ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Sitemap creation ",
+            title: " Sitemap creation ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Robots.txt file ",
+            title: " Robots.txt file ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Canonical tag optimization",
+            title: "  Canonical tag optimization",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Best practices for 404 error pages ",
+            title: " Best practices for 404 error pages ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "301/302 URL redirection  ",
+            title: "301/302 URL redirection  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Schema markup and structured data",
+            title: "  Schema markup and structured data",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Role of Open Graph tags in SEO",
+            title: "  Role of Open Graph tags in SEO",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " W3C validation ",
+            title: " W3C validation ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " JavaScript and CSS optimizatio ",
+            title: " JavaScript and CSS optimizatio ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to increase page loading time? ",
+            title: " How to increase page loading time? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to perform an SEO audit of a website? ",
+            title: " How to perform an SEO audit of a website? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-        
         ],
       },
       {
         title: "Off-Page SEO",
         lectures: [
           {
-            title:
-              " Introduction to off-page SEO ",
+            title: " Introduction to off-page SEO ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " What are backlinks? ",
+            title: " What are backlinks? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Inbound vs outbound links ",
+            title: " Inbound vs outbound links ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Inbound vs outbound links ",
+            title: " Inbound vs outbound links ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " What is link juice? ",
+            title: " What is link juice? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Do follow vs no-follow backlinks ",
+            title: " Do follow vs no-follow backlinks ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to build quality backlinks? ",
+            title: " How to build quality backlinks? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " What are Domain Authority (DA) and page authority (PA)? ",
+            title: " What are Domain Authority (DA) and page authority (PA)? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Search Engine Submission ",
+            title: " Search Engine Submission ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Free classified submission ",
+            title: " Free classified submission ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Image submission ",
+            title: " Image submission ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "   PDF submission ",
+            title: "   PDF submission ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Social bookmarking  ",
+            title: "Social bookmarking  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Forum posting ",
+            title: " Forum posting ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Guest blogging ",
+            title: " Guest blogging ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Social bookmarking",
+            title: "  Social bookmarking",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Press release submission ",
+            title: " Press release submission ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "   Infographic submission ",
+            title: "   Infographic submission ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Web 2.0 ",
+            title: " Web 2.0 ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Article submission ",
+            title: " Article submission ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Video submission ",
+            title: " Video submission ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Q&A submission ",
+            title: " Q&A submission ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Practical Assignment ",
+            title: " Practical Assignment ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
         title: "Using SEO Tools",
         lectures: [
           {
-            title:
-              "How to use Moz for SEO analysis of a website?",
+            title: "How to use Moz for SEO analysis of a website?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -6999,61 +6777,49 @@ const GhaziabadTraining = [
         title: "How to use Ahrefs for content ideas?",
         lectures: [
           {
-            title:
-              " Introduction to Google Search Console ",
+            title: " Introduction to Google Search Console ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to integrate a website to Search Console? ",
+            title: " How to integrate a website to Search Console? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Performance and URL inspection ",
+            title: " Performance and URL inspection ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Sitemaps and coverage ",
+            title: " Sitemaps and coverage ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Enhancement reports ",
+            title: " Enhancement reports ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Security and manual actions",
+            title: "  Security and manual actions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Breadcrumbs",
+            title: "  Breadcrumbs",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " URL removal and disavow ",
+            title: " URL removal and disavow ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Core web vitals ",
+            title: " Core web vitals ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Page speed ",
+            title: " Page speed ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Sharing user access ",
+            title: " Sharing user access ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -7063,73 +6829,72 @@ const GhaziabadTraining = [
             title: "  Introduction to Google Analytics",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "  Setting up Google Analytics",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " How to link a website to GA? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Dashboard overview ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Real-time reports ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
-            title: " Audience reports- Overview, active users, lifetime value report ",
+            title:
+              " Audience reports- Overview, active users, lifetime value report ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Acquisition report ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Behavior report ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "How to track conversion",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "Creating remarketing audience  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: "  Creating remarketing audience",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Creating trackable links with UTM parameters ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Creating trackable links with UTM parameters ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
+
           {
             title: " Integrating Google Search Console and GA ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-          
         ],
       },
     ],
@@ -7177,8 +6942,8 @@ const GhaziabadTraining = [
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-     " If your aim is to master digital marketing skills practically and build a promising career in this field, WsCube Tech’s job-oriented and 100% practical Digital Marketing Course in Jodhpur is for you.",
-     " Learn from industry experts, get certified, work on real projects, get assistance in placement, and become a pro digital marketer. As the most trusted and best digital marketing institute in Jodhpur, we have trained 34,000+ digital marketers over the last decade. Enroll now to jumpstart a promising career!",
+      " If your aim is to master digital marketing skills practically and build a promising career in this field, WsCube Tech’s job-oriented and 100% practical Digital Marketing Course in Jodhpur is for you.",
+      " Learn from industry experts, get certified, work on real projects, get assistance in placement, and become a pro digital marketer. As the most trusted and best digital marketing institute in Jodhpur, we have trained 34,000+ digital marketers over the last decade. Enroll now to jumpstart a promising career!",
     ],
     batchDetails: [
       {
@@ -7237,28 +7002,25 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Digital Marketing for Small, Medium, and Large Businesses ",
+            title:
+              " Digital Marketing for Small, Medium, and Large Businesses ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: " Job opportunities in Digital Marketing ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-        
         ],
       },
       {
         title: "Successful Digital Marketing Case Studies",
         lectures: [
           {
-            title:
-              "Objectives of Online Marketing",
+            title: "Objectives of Online Marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Elements of Successful Digital Strategy",
+            title: "Elements of Successful Digital Strategy",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7279,8 +7041,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Graphic Design Fundamentals",
+            title: " Graphic Design Fundamentals",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7288,8 +7049,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Logo & Graphic Designing",
+            title: "Logo & Graphic Designing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7306,8 +7066,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of Domains and Extensions ",
+            title: " Types of Domains and Extensions ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7315,8 +7074,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " What is Web Hosting, cPanel & FTP Account? ",
+            title: " What is Web Hosting, cPanel & FTP Account? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7324,113 +7082,90 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  How to Sell a Domain Name?",
+            title: "  How to Sell a Domain Name?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Top Domain Selling Platforms ",
+            title: " Top Domain Selling Platforms ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
         title: "What is Domain Name?",
         lectures: [
           {
-            title:
-              " What is WordPress?  ",
+            title: " What is WordPress?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Why Learn WordPress in Digital Marketing?  ",
+            title: " Why Learn WordPress in Digital Marketing?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "   WordPress.com vs WordPress.org",
+            title: "   WordPress.com vs WordPress.org",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "WordPress installation and Creating 1st Website   ",
+            title: "WordPress installation and Creating 1st Website   ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  WordPress Page Builders ",
+            title: "  WordPress Page Builders ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  WordPress Plugins and Settings ",
+            title: "  WordPress Plugins and Settings ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Using WordPress for Blogging ",
+            title: "  Using WordPress for Blogging ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " WordPress for Business Websites  ",
+            title: " WordPress for Business Websites  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " WordPress for Business Websites  ",
+            title: " WordPress for Business Websites  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  WordPress for eCommerce ",
+            title: "  WordPress for eCommerce ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-       
         ],
       },
       {
         title: "eCommerce Website Development With Shopify",
         lectures: [
           {
-            title:
-              " Shopify Introduction ",
+            title: " Shopify Introduction ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Why Use Shopify for eCommerce? ",
+            title: " Why Use Shopify for eCommerce? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Setting up Free Shopify Account",
+            title: "  Setting up Free Shopify Account",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Important Tools for Shopify ",
+            title: " Important Tools for Shopify ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Building eCommerce Site With Shopify ",
+            title: " Building eCommerce Site With Shopify ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-         
         ],
       },
       {
         title: "SEO Mastery",
         lectures: [
           {
-            title:
-              " What is SEO? ",
+            title: " What is SEO? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7438,8 +7173,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How do Search Engines Work? ",
+            title: " How do Search Engines Work? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7447,8 +7181,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Different SEO Techniques",
+            title: "  Different SEO Techniques",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7456,8 +7189,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Black Hat vs White Hat SEO ",
+            title: " Black Hat vs White Hat SEO ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7465,8 +7197,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Different Google Algorithms ",
+            title: " Different Google Algorithms ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7474,8 +7205,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " On-Page SEO Basics ",
+            title: " On-Page SEO Basics ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7483,8 +7213,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Technical SEO Advanced ",
+            title: " Technical SEO Advanced ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7492,8 +7221,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Working on On-Page SEO ",
+            title: " Working on On-Page SEO ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7501,8 +7229,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Local SEO ",
+            title: " Local SEO ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7510,8 +7237,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Google Search Console in Depth ",
+            title: " Google Search Console in Depth ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7519,8 +7245,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Fixing Errors in Search Console ",
+            title: " Fixing Errors in Search Console ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7528,8 +7253,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Optimizing Website Speed ",
+            title: " Optimizing Website Speed ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7544,64 +7268,51 @@ const GhaziabadTraining = [
             title: " SEO Reporting ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
         title: "Blogging",
         lectures: [
           {
-            title:
-              " What is a Blog? ",
+            title: " What is a Blog? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How does Blogging Work? ",
+            title: " How does Blogging Work? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Benefits of Blogging ",
+            title: " Benefits of Blogging ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  SEO in Blogging",
+            title: "  SEO in Blogging",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Making Money with Blogging ",
+            title: " Making Money with Blogging ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Niche Blogging and Categories ",
+            title: " Niche Blogging and Categories ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Creating 90-Days Blog Strategy ",
+            title: " Creating 90-Days Blog Strategy ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Monetizing the Blog",
+            title: "  Monetizing the Blog",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Applying for Google AdSense ",
+            title: " Applying for Google AdSense ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Applying for Other Ad Platforms ",
+            title: " Applying for Other Ad Platforms ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-
         ],
       },
       {
@@ -7612,23 +7323,19 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Account Approval & Account Setup",
+            title: "Account Approval & Account Setup",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "AdSense Guidelines & Requirements",
+            title: "AdSense Guidelines & Requirements",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Niche Content Research",
+            title: "Niche Content Research",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Traffic Strategy",
+            title: "Traffic Strategy",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -7638,8 +7345,7 @@ const GhaziabadTraining = [
         title: "Third-Party Ads",
         lectures: [
           {
-            title:
-              "What are Third-Party Ads?   ",
+            title: "What are Third-Party Ads?   ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7658,7 +7364,6 @@ const GhaziabadTraining = [
             title: " Publishing Ads on Third Party Platforms ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -7666,33 +7371,26 @@ const GhaziabadTraining = [
         title: "National & International Freelancing",
         lectures: [
           {
-            title:
-              " Earning as a Freelancer ",
+            title: " Earning as a Freelancer ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Top Freelancing Platforms ",
+            title: " Top Freelancing Platforms ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Building Freelancing Profile ",
+            title: " Building Freelancing Profile ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Live Walkthrough: How to Win Projects?",
+            title: "  Live Walkthrough: How to Win Projects?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to Set Pricing for Your Services?  ",
+            title: "How to Set Pricing for Your Services?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
-
       },
     ],
     features: [
@@ -7804,23 +7502,19 @@ const GhaziabadTraining = [
         title: "Fundamentals of Content Writing",
         lectures: [
           {
-            title:
-              "Language and Tone",
+            title: "Language and Tone",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Grammar",
+            title: "Grammar",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Plagiarisme",
+            title: "Plagiarisme",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Research",
+            title: "Research",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7845,8 +7539,7 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types of Plagiarism",
+            title: "Types of Plagiarism",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7871,39 +7564,32 @@ const GhaziabadTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "What makes a great article?",
+            title: "What makes a great article?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types of blog posts",
+            title: "Types of blog posts",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to write a blog post?",
+            title: "How to write a blog post?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Using stock-free images and where to find",
+            title: "Using stock-free images and where to find",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Guest post writing",
+            title: "Guest post writing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "How to do content research?",
+            title: "How to do content research?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Writing catchy headlines",
+            title: "Writing catchy headlines",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],

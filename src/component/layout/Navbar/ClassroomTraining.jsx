@@ -172,7 +172,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="C Programming Course"
-                        href="/ghaziabad/c-training"
+                        href="/ghaziabad/c-programming-training"
                       >
                         C Programming Course
                       </a>
@@ -193,14 +193,14 @@ const ClassroomTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="SEO Course" href="/ghaziabad/python-training">
+                      <a title="SEO Course" href="/ghaziabad/seo-training">
                         SEO Course
                       </a>
                     </li>
                     <li>
                       <a
                         title="Digital Marketing Course"
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/digital-marketing-training"
                       >
                         Digital Marketing Course
                       </a>
@@ -208,7 +208,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="Content Writing Course"
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/content-writing-training"
                       >
                         Content Writing Course
                       </a>
@@ -216,7 +216,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="Google Ads Course"
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/google-ads-training"
                       >
                         Google Ads Course
                       </a>
@@ -233,7 +233,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="Android App Development Course"
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/android-app-development-training"
                       >
                         Android App Development Course
                       </a>
@@ -241,7 +241,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="Flutter App Development Course"
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/flutter-app-development-training"
                       >
                         Flutter App Development Course
                       </a>
@@ -258,7 +258,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="Data Science Course"
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/data-science-training"
                       >
                         Data Science Course
                       </a>
@@ -266,7 +266,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="Graphic Designing Course"
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/graphic-designing-training"
                       >
                         Graphic Designing Course
                       </a>
@@ -274,7 +274,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="Data Analytics Course "
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/data-analytics-training"
                       >
                         Data Analytics Course{" "}
                       </a>
@@ -289,7 +289,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="Ethical Hacking Course"
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/ethical-hacking-training"
                       >
                         Ethical Hacking Course
                       </a>
@@ -297,7 +297,7 @@ const ClassroomTraining = () => {
                     <li>
                       <a
                         title="Penetration Testing Course"
-                        href="/ghaziabad/python-training"
+                        href="/ghaziabad/penetration-testing-training"
                       >
                         Penetration Testing Course
                       </a>
