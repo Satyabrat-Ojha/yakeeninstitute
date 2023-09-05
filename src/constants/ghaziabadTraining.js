@@ -7427,6 +7427,7 @@ const GhaziabadTraining = [
     ],
     whatsappNumber: "919631005476",
   },
+  
 
   // Content Writing Course
 
@@ -7595,286 +7596,233 @@ const GhaziabadTraining = [
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "Planning Your Content",
         lectures: [
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              "Creating content calendars",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              "Research and topic selection",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+              "Generating content ideas",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Intro to CSS",
+        title: "Blog and Article Writing",
         lectures: [
           {
             title:
-              "CSS INTRODUCTION :-  What is CSS and how to use it in HTML?",
+              "Structure of a blog post or article",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "BLOG PAGE :-  Building and styling the blog project",
+            title: "Crafting engaging headlines and introductions",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Body content development",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Styling with CSS",
+        title: "Social Media Writing",
         lectures: [
           {
             title:
-              "CSS UNITS :-  Learning about various CSS units used to style HTML elements",
+              "Adapting content for different social media platforms",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CSS BOX MODE :-  Understanding the CSS box model",
+            title: "Crafting effective social media captions",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Using hashtags and keywords",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Starting with the Resume project",
+        title: " Content Editing and Proofreading ",
         lectures: [
           {
             title:
-              "STARTING THE PROJECT :-  Start building the Resume project by creating the HTML structure",
+              " Self-editing techniques ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Peer editing and feedback ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Common proofreading mistakes to avoid ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Flex",
+        title: "Content Promotion and Distribution ",
         lectures: [
           {
-            title: "INTRO TO FLEX :- Learning what flex is and how it works",
+            title:
+              " Strategies for sharing and promoting content ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "FLEX PROPERTIES :- Discovering various flex properties used to style HTML elements",
+              " Building an online presence ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "USING FLEX IN RESUME :- Utilising flex to style the Resume project",
+              "  Measuring content performance",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Completing Resume",
+        title: " Content Strategy ",
         lectures: [
           {
             title:
-              "PSEUDO ELEMENTS :- What are pseudo elements and where to use them?",
+              " Developing a content strategy ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "FINISHING UP :- Finish building the Resume",
+            title:
+              " Content planning tools and resources ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Creating a content style guide ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Responsive designs",
+        title: " Guest Blogging and Outreach ",
         lectures: [
           {
             title:
-              "MEDIA QUERIES   What is responsive design and how to use media queries to build a responsive web app that works with multiple devices?",
+              " Benefits of guest blogging ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Pitching guest posts to websites",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Building relationships with editors and publishers ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Animations and 3D space",
+        title: " Content Analytics ",
         lectures: [
           {
             title:
-              "HANIMATION PROPERTIES   Basics of CSS animation and how to animate HTML elements using animate.css",
+              " Introduction to analytics tools ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              " Tracking and measuring content success ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title:
+              "  Making data-driven content decisions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Bootstrap",
+        title: " Final Projects and Portfolio Building ",
         lectures: [
           {
             title:
-              "FRONTEND FRAMEWORKS :- What are frontend frameworks and how to use one",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
+              " Students will work on a final content writing project. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "BOOTSTRAP COMPONENTS :- Using various other bootstrap elements like Navbar, Jumbotron etc",
+              " Review and feedback on final projects. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              "ASSIGNMENT :-  Build a music player project with your newly gained skillset",
+              " Building a portfolio for future content writing opportunities. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
-      {
-        title: "Starting with Javascript",
-        lectures: [
-          {
-            title: "INTRO TO JS :- What is JS and history of JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "VARIABLES, OPERATORS, LOOPS :- Learning the basics of the language",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "JavaScript: Functions and Arrays",
-        lectures: [
-          {
-            title: "SCOPE :- Understanding scope in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "HOISTING :- What is hoisting and its application?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ARRAYS AND ITS USAGE :- What are arrays and using array functions like splice, slice etc.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Objects and Timing Events",
-        lectures: [
-          {
-            title:
-              "What are objects, how to create them and using different notations to access object’s data",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "OBJECT FUNCTIONS :- Learn to iterate over objects, delete object properties, creating nested objects",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Understanding DOM",
-        lectures: [
-          {
-            title:
-              "Understanding DOM, what it is, how to access elements from the DOM",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "EVENTS :- How to manipulate DOM events in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Calculator Project",
-        lectures: [
-          {
-            title:
-              "Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Mini Projects Using Javascript",
-        lectures: [
-          {
-            title: "LET V/S VAR :- Learning different ways to create variable",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "CATCH ME IF YOU CAN :-  Build a game using vanilla Javascript",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
+     
+      
     ],
     features: [
       {
-        title: "Training by Pro Web Developers",
+        title: "Training by Expert Content Writer",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
+        desc: "You will learn the art of writing various forms of content from an experienced Content Writer who has worked for top brands and businesses in different industries.",
       },
       {
-        title: "Most Comprehensive Curriculum",
+        title: "Master Freelance Writing",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
+        desc: "In this training, you will also learn how to become a freelance content writer, and get high-paying national and international projects and clients. You can be your own boss.",
       },
       {
-        title: "Intensive Classroom Training",
+        title: "10+ In-Depth Modules",
         imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
+        desc: "This course covers all forms and fields of content writing that you will ever need to become a world-class content writer. Every concept is covered from basic to advanced.",
       },
       {
-        title: "Hands-on 12 Live Projectsg",
+        title: "Practical-Oriented Training",
         imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
+        desc: "The entire training is based on practical exposure. You will work and practice on real content for WsCube Tech, clients, as well as third-party websites",
       },
       {
-        title: "Job Assistance",
+        title: "Placement Assistance",
         imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
+        desc: "On course completion, we will prepare you for the interview and help you create an appealing resume. Your interviews will be arranged with top companies for good jobs.",
       },
       {
-        title: "Web Development Certification",
+        title: "Content Writing Certification",
         imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
+        desc: "This is a Content Writing certification course in Jodhpur, which means you will get a professional certificate. It helps you easily get a good job and jumpstart your career.",
       },
     ],
     whatsappNumber: "919631005476",
   },
 
-  // android app development course
 
+
+  //google ads course
+
+  
   {
-    title: "Python Training",
+    title: "Google Ads Training",
     heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+      "Google Ads Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
-      "You will work on both front-end and backend development by learning HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, jQuery, WordPress, PHP, Laravel, MySQL, AJAX, and more. By the end of this website development training, you will be on your way to becoming a proficient web developer.",
+      " With WsCube Tech’s Google Ads training in Jodhpur, you will discover the secrets of placing your website and business in front of the right customers and getting their attention through customised Google ad campaigns. Our course will take you from basics to advanced concepts strategically so you can understand how to launch different campaigns using various Google Ads tools.",
+      " You will get familiar with best practices for keyword research, bidding strategies, and effective ways to boost your results. By the end of the Google Ads and PPC course in Jodhpur, you will master how to drive quality traffic and increase sales for any website or business.",
     ],
     batchDetails: [
       {
@@ -7898,326 +7846,606 @@ const GhaziabadTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of our Google Ads Training in Ghaziabad",
     overview: [
-      "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
-      "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
-      "Upon completing the course, you will receive the certificate, internship opportunities, as well as job assistance. We ensure that you become highly skilled and explore great career opportunities in the field of website designing and development.",
-      "Once you have the skills, you can choose to go for a full-time job, become a freelance web developer, or start your own website development company.",
-      "Take two days of FREE demo classes to learn risk-free and confidently!",
+      "Google Ads, formerly Google AdWords, is an online advertising platform by Google which allows advertisers to bid to display their ads, such as product listings, brief commercials, videos, or service offerings at the top of search results.",
+      "It has become a crucial digital marketing strategy to grab prospects’ attention and drive quality traffic. Companies are looking for skilled Google Ads experts to implement and execute their marketing campaigns and generate the best results. If you are looking for PPC training in Jodhpur, then WsCube Tech is the perfect destination. ",
+      "We are the leading digital marketing institute in Jodhpur and India, offering various courses to freshers, learners, freelancers, working professionals, and business owners. ",
+      " Google Ads is one of our popular training programs where you get to learn the nuances of launching result-driven campaigns considering all the external and internal factors.",
+      " You will also learn to add advertisements on apps, videos, non-search websites, and other search result pages. You will also gain an understanding of different campaign types and targeting, setting up custom audiences, creating campaigns, and choosing campaign parameters. ",
+      " Our mentors will explain every topic through demonstration and take you through each step of launching an effective Google Ads campaign for local and global customers. ",
+      " You will also work on multiple projects and gain hands-on experience. Upon completing the course, you will receive a professional certificate that will make you stand out and help you find your dream job. ",
+      " So, enrol in our course now to learn about Google Ads in Jodhpur from industry leaders. ",
+
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
       {
-        title: "Getting started with Basics",
+        title: " Introduction to Google Ads ",
         lectures: [
           {
-            title: "HISTORY OF WEB",
+            title: " What is Google Ads? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CLIENT SERVER ARCHITECTURE",
+            title: "   How does Google Ads work?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "  Different Types of Google Ads",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Understanding the Importance of Landing Pages  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: " Google Search Ads ",
         lectures: [
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " In-Depth Search Ads (Basic to Advanced) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: " Google Search Ads Creation ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: "  Optimization",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "   Reporting",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          
         ],
       },
       {
-        title: "More on HTML",
+        title: "  Google Display Ads",
         lectures: [
           {
-            title: "MORE TAGS :- Practice creating HTML with more tags",
+            title: " In-Depth Display Ads (Basic to Advanced) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: " Google Display Ads Creation ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: " Optimization ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Reporting  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          
         ],
       },
       {
-        title: "Forms",
+        title: " Remarketing Ads ",
         lectures: [
           {
-            title: "FORM :- What is an HTML form?",
+            title: " What is remarketing? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
+            title: "Everything about Remarketing Ads  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+        
+         
+          
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "Running YouTube Ads  ",
         lectures: [
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Introduction to advertising on YouTube ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Benefits of YouTube Ads ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " How to run YouTube Ads and Video Ads? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "  Optimization strategies ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          
         ],
       },
       {
-        title: "Intro to CSS",
+        title: "Running App Install Ads  ",
         lectures: [
           {
-            title:
-              "CSS INTRODUCTION :-  What is CSS and how to use it in HTML?",
+            title: " Introduction to running Google Ads for app installs ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "BLOG PAGE :-  Building and styling the blog project",
+            title: "How to Run App Install Ads in Google Ads?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "Benefits  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Optimization strategies  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          
         ],
       },
       {
-        title: "Styling with CSS",
+        title: " Google Ads Settings ",
         lectures: [
           {
-            title:
-              "CSS UNITS :-  Learning about various CSS units used to style HTML elements",
+            title: " Understanding all the settings in Google Ads ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title: "CSS BOX MODE :-  Understanding the CSS box model",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+       
+         
+          
         ],
       },
       {
-        title: "Starting with the Resume project",
+        title: " Running Call Only Ads ",
         lectures: [
           {
-            title:
-              "STARTING THE PROJECT :-  Start building the Resume project by creating the HTML structure",
+            title: " What are call only ads? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Benefits of call only ads? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " How to run Call Only ads? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+           
+         
+          
         ],
       },
       {
-        title: "Flex",
+        title: " Types of Audience in Google Ads ",
         lectures: [
           {
-            title: "INTRO TO FLEX :- Learning what flex is and how it works",
+            title: "  What is audience in Google Ads?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FLEX PROPERTIES :- Discovering various flex properties used to style HTML elements",
+            title: " Why audience targeting is crucial? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "USING FLEX IN RESUME :- Utilising flex to style the Resume project",
+            title: "  Understanding All types of Audiences in Google Ads",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "  Understanding In-depth Optimization of Google Ads ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          
         ],
       },
+      {
+        title: " Conversion-based Ad Campaigns ",
+        lectures: [
+          {
+            title: " What are conversion ads? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Benefits of conversion-based ads ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " How to optimize Google Ad campaigns for conversions? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+         
+          
+        ],
+      },
+      {
+        title: " Core and Important Topics ",
+        lectures: [
+         
+          {
+            title: " Google Ads Checklists ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Tools Related to Google Ads ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Competitor-oriented Campaigns ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Strategies Related to Google Ads Campaigns ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Running Shopping Campaigns for eCommerce Business ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Scripts and Tracking in Google Ads  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          
+        ],
+      },
+     
+     
+    ],
+    features: [
+      {
+        title: "Training by Experts",
+        imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
+        desc: "WsCube Tech has recruited the most experienced and qualified mentors to train its learners. They have worked with leading institutes and top brands for over a decade.",
+      },
+      {
+        title: "Engaging Classes",
+        imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
+        desc: "Rather than sticking to boring lectures and dull notes, our mentors spare no effort to make classes engaging and interesting through activities, group discussions, and a practical approach.",
+      },
+      {
+        title: " Trusted by 2.5M+ Learners",
+        imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
+        desc: "With our hard work and commitment, we have created a loyal and supportive community of more than 2 million learners who rely on us and vouch for our quality and dedication.",
+      },
+      {
+        title: "Comprehensive Syllabus",
+        imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
+        desc: "Our team closely watches the industry trends and updates the syllabus based on the latest requirements. We provide our learners with the most comprehensive and detailed syllabus.",
+      },
+      {
+        title: "Job Assistance",
+        imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
+        desc: "Upon completing the Google AdWords course in Jodhpur, feel free to contact our team to seek job assistance. We’ll help you build a strong resume and find suitable opportunities.",
+      },
+      {
+        title: "Google Ads Certification",
+        imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
+        desc: "As a learner of WsCube Tech, we’ll reward you with an industry-recognised certificate that validates your proficiency and capabilities as a Google Ads expert.",
+      },
+    ],
+    whatsappNumber: "919631005476",
+  },
 
+
+
+
+  // android app development course
+
+  {
+    title: "Android App Development Training",
+    heading:
+      "Android App Development Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+    center: "Ghaziabad",
+    imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
+    desc: [
+      "The number of businesses that build Android apps every year is highly increasing. To offer end users a native mobile experience on smartphones, mobile apps play the most significant part.",
+      "As a result, the demand for skilled Android Developers is on a massive rise. You can make the most out of this demand by learning the right skills with WsCube Tech’s Android Development Course in Jodhpur. You will master core Android skills, work on live projects, learn from experts, get certified, and build a great career.",
+    ],
+    batchDetails: [
       {
-        title: "Completing Resume",
+        duration: "(Mon - Sat) 5 Months",
+        timing: "9:00 AM - 10:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "10:00 AM - 11:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "4:00 AM - 5:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "5:00 AM - 6:00 PM",
+      },
+      {
+        duration: "(Mon - Sat) 5 Months",
+        timing: "6:00 AM - 7:00 PM",
+      },
+    ],
+    overviewHeading: "Overview of our Android App Development Training in Ghaziabad",
+    overview: [
+      "There are over 2.59 million apps on Google Play Store today. Android apps are dominating the market with most of the brands and startups accelerating their business growth with intuitive applications.",
+      "Android is here to stay and opens door to new career opportunities. Whether you are a learner, graduate, job seeker, business owner, or anyone who wants to build a great career, the time to learn Android App Development is now.",
+      "WsCube Tech, India’s fastest-growing and learning-focused IT institute, brings you the most comprehensive, practical-oriented, and digital classroom-based Android Training in Jodhpur. You don’t need to have any prior knowledge of Android or programming to learn this skill as we cover everything from zero level.",
+      "The complete Android Development Course in Jodhpur is led by an expert Android Developer having a decade of experience in the field. This is an advanced course with practice on all the essential concepts. It also includes work on real Android projects for practical exposure and experience.",
+      "By the end of the course, you will be able to build enticing Android applications on your own. We also provide Android certification and placement assistance to help you explore high-paying and promising career opportunities. ",
+      "For any queries, book 2-days of free demo classes of our Android App Development Course in Jodhpur.",
+    ],
+    certificateImgUrl:
+      "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
+    syllabus: [
+      {
+        title: " Introduction to Android Development ",
         lectures: [
           {
-            title:
-              "PSEUDO ELEMENTS :- What are pseudo elements and where to use them?",
+            title: " Overview of the Android platform. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "FINISHING UP :- Finish building the Resume",
+            title: " Setting up the development environment (Android Studio, SDK). ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Creating your first Android project. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+      {
+        title: " Android User Interface (UI) Design ",
+        lectures: [
+          {
+            title: " Layouts, views, and view groups. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Designing responsive user interfaces. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Widgets, styles, and themes.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Handling user input and events. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Responsive designs",
+        title: "Activities and Intents   ",
         lectures: [
           {
-            title:
-              "MEDIA QUERIES   What is responsive design and how to use media queries to build a responsive web app that works with multiple devices?",
+            title: " Understanding Android activities. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Navigating between activities. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Explicit and implicit intents. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Sending data between activities. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Animations and 3D space",
+        title: "Fragments and UI Components  ",
         lectures: [
           {
-            title:
-              "HANIMATION PROPERTIES   Basics of CSS animation and how to animate HTML elements using animate.css",
+            title: " Fragments and fragment transactions. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Common UI components (buttons, text views, image views). ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Customizing app themes and styles.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+      {
+        title: "  Data Storage and Persistence ",
+        lectures: [
+          {
+            title: " SharedPreferences for lightweight data storage. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Internal storage and file management. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " SQLite databases for data persistence. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Room Persistence Library (optional). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Bootstrap",
+        title: " Networking and Web Services ",
         lectures: [
           {
-            title:
-              "FRONTEND FRAMEWORKS :- What are frontend frameworks and how to use one",
+            title: " Making HTTP requests using Retrofit. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
+            title: " Parsing JSON and XML data. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BOOTSTRAP COMPONENTS :- Using various other bootstrap elements like Navbar, Jumbotron etc",
+            title: " Consuming RESTful APIs. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "ASSIGNMENT :-  Build a music player project with your newly gained skillset",
+            title: "  Implementing asynchronous networking",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "Starting with Javascript",
+        title: "Advanced UI and Custom Views  ",
         lectures: [
           {
-            title: "INTRO TO JS :- What is JS and history of JS",
+            title: "Advanced UI components (RecyclerView, CardView).  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "VARIABLES, OPERATORS, LOOPS :- Learning the basics of the language",
+            title: " Custom view creation. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Animations and transitions. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Material Design principles. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
-
       {
-        title: "JavaScript: Functions and Arrays",
+        title: " Background Processing ",
         lectures: [
           {
-            title: "SCOPE :- Understanding scope in JS",
+            title: " AsyncTask for background tasks. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "HOISTING :- What is hoisting and its application?",
+            title: " Using WorkManager for scheduled tasks. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
+            title: " Managing background threads and services. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "ARRAYS AND ITS USAGE :- What are arrays and using array functions like splice, slice etc.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+          
         ],
       },
-
       {
-        title: "Objects and Timing Events",
+        title: "  User Authentication ",
         lectures: [
           {
-            title:
-              "What are objects, how to create them and using different notations to access object’s data",
+            title: " Implementing user registration and login. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "OBJECT FUNCTIONS :- Learn to iterate over objects, delete object properties, creating nested objects",
+            title: " Firebase Authentication (optional). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " OAuth integration (e.g., Google Sign-In). ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+           
         ],
       },
-
       {
-        title: "Understanding DOM",
+        title: "Location and Maps  ",
         lectures: [
           {
-            title:
-              "Understanding DOM, what it is, how to access elements from the DOM",
+            title: " Accessing device location. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "EVENTS :- How to manipulate DOM events in JS",
+            title: " Integrating Google Maps. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Geolocation and location-based services. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
-
       {
-        title: "Calculator Project",
+        title: " App Monetization and Analytics ",
         lectures: [
           {
-            title:
-              "Build a music player project with your newly gained skillset",
+            title: "Monetization strategies (in-app purchases, ads).  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Integrating AdMob for ads. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Analyzing user behavior with Firebase Analytics. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+           
         ],
       },
-
       {
-        title: "Mini Projects Using Javascript",
+        title: " App Deployment and Distribution ",
         lectures: [
           {
-            title: "LET V/S VAR :- Learning different ways to create variable",
+            title: "  Preparing apps for release.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "CATCH ME IF YOU CAN :-  Build a game using vanilla Javascript",
+            title: "Generating APK and AAB files.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Publishing apps to Google Play Store. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+      {
+        title: " Capstone Project ",
+        lectures: [
+          {
+            title: " Final project development. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Implementing a complete, real-world Android app. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Project presentations and demos. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
     ],
     features: [
       {
-        title: "Training by Pro Web Developers",
+        title: "Fully Practical-Oriented",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
+        desc: "We bring you the completely practical-oriented Android App Development Training in Jodhpur, with practice on different types of real mobile applications.",
       },
       {
-        title: "Most Comprehensive Curriculum",
+        title: "Latest & Well-Structured Curriculum",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
+        desc: "The complete Android Development Course syllabus is well-structured and set according to the latest trends. You will learn and practice updated Android app development techniques.",
       },
       {
         title: "Intensive Classroom Training",
@@ -8225,19 +8453,19 @@ const GhaziabadTraining = [
         desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
       },
       {
-        title: "Hands-on 12 Live Projectsg",
+        title: "Training by Pro Android Developer",
         imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
+        desc: "When you opt for WsCube Tech for Android app development course in Jodhpur, you get high-quality and rigorous training from a highly-experienced Android Developer.",
       },
       {
-        title: "Job Assistance",
+        title: "Internship and Job Assistance",
         imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
+        desc: "Once you complete the training with us, you get assistance in both internship and placement. We arrange your interviews with top companies hiring Android Developers.",
       },
       {
-        title: "Web Development Certification",
+        title: "Professional Android Certification",
         imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
+        desc: "With our intensive Android training in Jodhpur, you will become a Certified Android Developer. The certificate you receive is internationally valid and of high credibility.",
       },
     ],
     whatsappNumber: "919631005476",
@@ -8246,14 +8474,14 @@ const GhaziabadTraining = [
   //flutter app developmetn course
 
   {
-    title: "Python Training",
+    title: "Flutter App Development Training",
     heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+      "Flutter Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
-      "You will work on both front-end and backend development by learning HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, jQuery, WordPress, PHP, Laravel, MySQL, AJAX, and more. By the end of this website development training, you will be on your way to becoming a proficient web developer.",
+      "Want to learn Flutter app development and master the skills of developing mobile apps for Android, iOS, and other platforms? WsCube Tech’s practical-oriented Flutter Course in Jodhpur with certification and job assistance is for you.",
+      "In this Flutter training, you will master both Flutter and Dart, become skilled to create full-fledged apps for multiple platforms, and build a promising career as a Flutter App Developer. Take 2-days of FREE demo classes now!",
     ],
     batchDetails: [
       {
@@ -8277,346 +8505,301 @@ const GhaziabadTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of our Flutter Training in Ghaziabad",
     overview: [
-      "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
-      "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
-      "Upon completing the course, you will receive the certificate, internship opportunities, as well as job assistance. We ensure that you become highly skilled and explore great career opportunities in the field of website designing and development.",
-      "Once you have the skills, you can choose to go for a full-time job, become a freelance web developer, or start your own website development company.",
-      "Take two days of FREE demo classes to learn risk-free and confidently!",
+      "Flutter is an app development framework built by the tech giant Google. It is in high demand today because it enables the development of apps that can work for Android, iOS, desktop, and other platforms, without writing different code for every platform.",
+      "If a mobile app is built for Android and iOS without the Flutter framework, there will be the need for two different development teams. One for the Android app and another for the iOS app. But Flutter uses Dart programming and avoids the need for writing different code for Android and iOS.",
+      "The demand for Flutter Developers is massive in India and globally. If you have Flutter development skills, you can become a highly-paid App Developer in India or in other countries. The average salary of a Flutter developer in India is INR 5.39 lakh.",
+      "It is time for you to learn this highly-paid skill by enrolling in the Classroom-based Flutter course in Jodhpur. You will get complete Google Flutter training from industry experts having a decade of experience as a mobile app developer.",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
       {
-        title: "Getting started with Basics",
+        title: " Introduction to Flutter  ",
         lectures: [
           {
-            title: "HISTORY OF WEB",
+            title: " What is Flutter?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CLIENT SERVER ARCHITECTURE",
+            title: "  Advantages and use cases.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "Setting up the development environment. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+           
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: " Dart Programming Fundamentals  ",
         lectures: [
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Dart language basics.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: " Functions, control flow, and error handling. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: "Object-oriented programming in Dart. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          
         ],
       },
       {
-        title: "More on HTML",
+        title: " Building User Interfaces ",
         lectures: [
           {
-            title: "MORE TAGS :- Practice creating HTML with more tags",
+            title: " Introduction to Flutter widgets.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: "Layout widgets and responsive design.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: " Styling and theming.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          
         ],
       },
       {
-        title: "Forms",
+        title: "  Navigation and Routing ",
         lectures: [
           {
-            title: "FORM :- What is an HTML form?",
+            title: "Navigation patterns and routing. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
+            title: " Passing data between screens. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Navigation drawers and tabs.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: " State Management ",
         lectures: [
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: "Managing state with setState. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Provider for state management. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: "BLoC pattern for advanced state management. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+           
         ],
       },
       {
-        title: "Intro to CSS",
+        title: " Advanced UI ",
         lectures: [
           {
-            title:
-              "CSS INTRODUCTION :-  What is CSS and how to use it in HTML?",
+            title: "Custom widgets and theming. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "BLOG PAGE :-  Building and styling the blog project",
+            title: " Animations and transitions. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Gestures and touch interactions.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
       {
-        title: "Styling with CSS",
+        title: " Working with Data ",
         lectures: [
           {
-            title:
-              "CSS UNITS :-  Learning about various CSS units used to style HTML elements",
+            title: " Fetching data from APIs.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CSS BOX MODE :-  Understanding the CSS box model",
+            title: " Local data storage (SharedPreferences, SQLite). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "Best practices for data management. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
         ],
       },
       {
-        title: "Starting with the Resume project",
+        title: " Unit Testing ",
         lectures: [
           {
-            title:
-              "STARTING THE PROJECT :-  Start building the Resume project by creating the HTML structure",
+            title: " Writing unit tests for Flutter apps.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Using the test package. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Test-driven development (TDD) practices.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+           
         ],
       },
       {
-        title: "Flex",
+        title: " Debugging and Performance Optimization   ",
         lectures: [
           {
-            title: "INTRO TO FLEX :- Learning what flex is and how it works",
+            title: "Debugging tools and techniques. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FLEX PROPERTIES :- Discovering various flex properties used to style HTML elements",
+            title: "  Performance optimization strategies.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "USING FLEX IN RESUME :- Utilising flex to style the Resume project",
+            title: "Profiling and memory management. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          
         ],
       },
-
       {
-        title: "Completing Resume",
+        title: " Internationalization and Localization  ",
         lectures: [
           {
-            title:
-              "PSEUDO ELEMENTS :- What are pseudo elements and where to use them?",
+            title: "Adding support for multiple languages. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "FINISHING UP :- Finish building the Resume",
+            title: " Dynamic localization. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Right-to-left (RTL) language support.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
-
       {
-        title: "Responsive designs",
+        title: " Flutter Web and Desktop ",
         lectures: [
           {
-            title:
-              "MEDIA QUERIES   What is responsive design and how to use media queries to build a responsive web app that works with multiple devices?",
+            title: "Building for the web. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Adapting Flutter apps for desktop platforms (Windows, macOS, Linux). ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
-
       {
-        title: "Animations and 3D space",
+        title: " Deployment and Publishing ",
         lectures: [
           {
-            title:
-              "HANIMATION PROPERTIES   Basics of CSS animation and how to animate HTML elements using animate.css",
+            title: "Preparing apps for release. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "  Generating APK and IPA files.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Publishing to Google Play Store and Apple App Store.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
-
       {
-        title: "Bootstrap",
+        title: " Advanced Topics and Capstone Project  ",
         lectures: [
           {
-            title:
-              "FRONTEND FRAMEWORKS :- What are frontend frameworks and how to use one",
+            title: "Advanced state management patterns (Riverpod, MobX). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
+            title: " Authentication and secure data handling. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BOOTSTRAP COMPONENTS :- Using various other bootstrap elements like Navbar, Jumbotron etc",
+            title: " Capstone project development and presentation.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "ASSIGNMENT :-  Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+          
+        
         ],
       },
-
       {
-        title: "Starting with Javascript",
+        title: "Assessment",
         lectures: [
           {
-            title: "INTRO TO JS :- What is JS and history of JS",
+            title: "Weekly quizzes to test knowledge ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "VARIABLES, OPERATORS, LOOPS :- Learning the basics of the language",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "JavaScript: Functions and Arrays",
-        lectures: [
-          {
-            title: "SCOPE :- Understanding scope in JS",
+            title: " Midterm project: Building a complete Flutter app.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "HOISTING :- What is hoisting and its application?",
+            title: " Final capstone project: Developing a complex Flutter application.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
+            title: "Participation in class discussions and peer reviews.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "ARRAYS AND ITS USAGE :- What are arrays and using array functions like splice, slice etc.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Objects and Timing Events",
-        lectures: [
-          {
-            title:
-              "What are objects, how to create them and using different notations to access object’s data",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "OBJECT FUNCTIONS :- Learn to iterate over objects, delete object properties, creating nested objects",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Understanding DOM",
-        lectures: [
-          {
-            title:
-              "Understanding DOM, what it is, how to access elements from the DOM",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "EVENTS :- How to manipulate DOM events in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Calculator Project",
-        lectures: [
-          {
-            title:
-              "Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Mini Projects Using Javascript",
-        lectures: [
-          {
-            title: "LET V/S VAR :- Learning different ways to create variable",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "CATCH ME IF YOU CAN :-  Build a game using vanilla Javascript",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+          
+        
         ],
       },
     ],
     features: [
       {
-        title: "Training by Pro Web Developers",
+        title: "Training by Pro Flutter Developer",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
+        desc: "The full Dart Flutter course in Jodhpur is covered by an experienced Flutter developer who has more than a decade of experience in the field.",
       },
       {
-        title: "Most Comprehensive Curriculum",
+        title: "Latest & Well-Structured Curriculum",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
+        desc: "The entire Flutter Course syllabus is well-structured and set according to the latest Flutter trends. You will master modern app development techniques.",
       },
       {
         title: "Intensive Classroom Training",
         imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
+        desc: "This is a classroom Flutter training course in Jodhpur. For the best learning experience, the classroom is fully-digitized, distraction-free, and offers 1:1 interaction with the mentor.",
       },
       {
-        title: "Hands-on 12 Live Projectsg",
+        title: "100% Practical-Oriented",
         imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
+        desc: "This is a completely practical-based Flutter and Dart course in Jodhpur. You will work on both Android and iOS apps, and master the skills under proper guidance.",
       },
       {
-        title: "Job Assistance",
+        title: "Internship and Job Assistance",
         imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
+        desc: "After completing the Google Flutter certification training, you will be prepared for cracking jobs at top companies and high-paying job opportunities in India and globally.",
       },
       {
-        title: "Web Development Certification",
+        title: "Professional Flutter Certification",
         imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
+        desc: "Upon completion of Flutter Dart training in Jodhpur, you will get a professional Flutter certificate which helps you show your expertise and find promising career opportunities.",
       },
     ],
     whatsappNumber: "919631005476",
@@ -8625,9 +8808,9 @@ const GhaziabadTraining = [
   //data science
 
   {
-    title: "Python Training",
+    title: "Data Science Training",
     heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+      "Data Science Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
@@ -8656,346 +8839,348 @@ const GhaziabadTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of our Data Science Training in Ghaziabad",
     overview: [
-      "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
-      "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
-      "Upon completing the course, you will receive the certificate, internship opportunities, as well as job assistance. We ensure that you become highly skilled and explore great career opportunities in the field of website designing and development.",
-      "Once you have the skills, you can choose to go for a full-time job, become a freelance web developer, or start your own website development company.",
-      "Take two days of FREE demo classes to learn risk-free and confidently!",
+       "yakeen Tech offers the most comprehensive, practical-oriented, and the best data science course in Jodhpur. Whether you are a beginner or have some prior experience, this course is the right fit for you as our expert mentors cover everything from scratch. ",
+       "Starting with Python programming and data analysis, and going deep down to machine learning, deep learning, and artificial intelligence (AI), you will learn all the concepts in detail. It’s 6-month data science training in Jodhpur with certificate and placement assistance. ",
+       "During this classroom course, you will master data science skills, including data collection, extraction, integration, data mining, statistical analysis, predictive analysis, and numerous essential concepts. By the end of the training in data science, you will be on your way to kickstarting a thriving career as a successful Data Scientist. ",
+       "Trusted by 28,000+ candidates all over India for both classroom and online data science course, we believe in helping our learners build a great career. Plenty of our learners are working with top organizations like TCS, Infosys, E&Y, Accenture, IBM, and VMWare ",
+       " It’s time for you to choose the best data science course and start mastering advanced skills with WsCube Tech!",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
       {
-        title: "Getting started with Basics",
+        title: "Introduction to Data Science  ",
         lectures: [
           {
-            title: "HISTORY OF WEB",
+            title: "What is data science?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CLIENT SERVER ARCHITECTURE",
+            title: "Importance and applications of data science.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " The data science workflow. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+      {
+        title: " Data Collection and Preprocessing ",
+        lectures: [
+          {
+            title: "Data acquisition and sources.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Data cleaning and preprocessing. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Data quality assessment. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Data integration and transformation. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: " Exploratory Data Analysis (EDA) ",
         lectures: [
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Descriptive statistics. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: "  Data visualization (scatter plots, histograms, box plots, etc.).",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: " Correlation analysis. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Outlier detection. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "More on HTML",
+        title: " Data Visualization ",
         lectures: [
           {
-            title: "MORE TAGS :- Practice creating HTML with more tags",
+            title: " Principles of data visualization. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: " Tools for data visualization (e.g., Matplotlib, Seaborn, D3.js). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: " Creating effective charts and graphs. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Interactive data visualization.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Forms",
+        title: " Statistics and Probability ",
         lectures: [
           {
-            title: "FORM :- What is an HTML form?",
+            title: " Probability distributions. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
+            title: " Hypothesis testing. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Regression analysis. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  ANOVA (Analysis of Variance).",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: " Machine Learning ",
         lectures: [
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Introduction to machine learning. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: "Supervised learning (e.g., linear regression, decision trees, random forests).  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Unsupervised learning (e.g., clustering, dimensionality reduction). ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Model evaluation and selection.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Intro to CSS",
+        title: " Deep Learning ",
         lectures: [
           {
-            title:
-              "CSS INTRODUCTION :-  What is CSS and how to use it in HTML?",
+            title: " Neural networks and deep learning. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "BLOG PAGE :-  Building and styling the blog project",
+            title: " Convolutional neural networks (CNNs) for image data. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Recurrent neural networks (RNNs) for sequential data.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Transfer learning and pre-trained models. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Styling with CSS",
+        title: " Natural Language Processing (NLP) ",
         lectures: [
           {
-            title:
-              "CSS UNITS :-  Learning about various CSS units used to style HTML elements",
+            title: " Text preprocessing. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CSS BOX MODE :-  Understanding the CSS box model",
+            title: " Sentiment analysis. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Named entity recognition. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Text classification and language models (e.g., BERT). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Starting with the Resume project",
+        title: " Big Data Technologies ",
         lectures: [
           {
-            title:
-              "STARTING THE PROJECT :-  Start building the Resume project by creating the HTML structure",
+            title: "  Introduction to big data.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Apache Hadoop and MapReduce.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Apache Spark for distributed data processing. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " NoSQL databases. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Flex",
+        title: " Data Ethics and Privacy ",
         lectures: [
           {
-            title: "INTRO TO FLEX :- Learning what flex is and how it works",
+            title: " Ethical considerations in data science. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FLEX PROPERTIES :- Discovering various flex properties used to style HTML elements",
+            title: " Privacy regulations (e.g., GDPR, HIPAA). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "USING FLEX IN RESUME :- Utilising flex to style the Resume project",
+            title: " Bias and fairness in machine learning. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          
+        ],
+      },
+      {
+        title: "  Feature Engineering",
+        lectures: [
+          {
+            title: " Feature selection and extraction. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Handling missing data.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Feature scaling and normalization. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+      {
+        title: " Model Deployment and Production ",
+        lectures: [
+          {
+            title: " Deploying machine learning models. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Building APIs for model integration. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Monitoring and maintaining deployed models. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+        ],
+      },
+      {
+        title: " Capstone Project ",
+        lectures: [
+          {
+            title: "A comprehensive data science project.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Solving a real-world problem using data science techniques. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Presentation and report on the capstone project. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+      {
+        title: " Tools and Technologies  ",
+        lectures: [
+          {
+            title: " Proficiency in programming languages like Python and R. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Familiarity with data science libraries and frameworks (e.g., NumPy, pandas, scikit-learn, TensorFlow, PyTorch). ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Data visualization tools (e.g., Matplotlib, Seaborn, Plotly). ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Version control (e.g., Git) and collaboration tools.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        ],
+      },
+      {
+        title: "  Career and Industry Insights",
+        lectures: [
+          {
+            title: " Job roles in data science. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Industry trends and emerging technologies.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Building a career in data science. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
         ],
       },
 
-      {
-        title: "Completing Resume",
-        lectures: [
-          {
-            title:
-              "PSEUDO ELEMENTS :- What are pseudo elements and where to use them?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FINISHING UP :- Finish building the Resume",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Responsive designs",
-        lectures: [
-          {
-            title:
-              "MEDIA QUERIES   What is responsive design and how to use media queries to build a responsive web app that works with multiple devices?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Animations and 3D space",
-        lectures: [
-          {
-            title:
-              "HANIMATION PROPERTIES   Basics of CSS animation and how to animate HTML elements using animate.css",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Bootstrap",
-        lectures: [
-          {
-            title:
-              "FRONTEND FRAMEWORKS :- What are frontend frameworks and how to use one",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "BOOTSTRAP COMPONENTS :- Using various other bootstrap elements like Navbar, Jumbotron etc",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ASSIGNMENT :-  Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Starting with Javascript",
-        lectures: [
-          {
-            title: "INTRO TO JS :- What is JS and history of JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "VARIABLES, OPERATORS, LOOPS :- Learning the basics of the language",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "JavaScript: Functions and Arrays",
-        lectures: [
-          {
-            title: "SCOPE :- Understanding scope in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "HOISTING :- What is hoisting and its application?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ARRAYS AND ITS USAGE :- What are arrays and using array functions like splice, slice etc.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Objects and Timing Events",
-        lectures: [
-          {
-            title:
-              "What are objects, how to create them and using different notations to access object’s data",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "OBJECT FUNCTIONS :- Learn to iterate over objects, delete object properties, creating nested objects",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Understanding DOM",
-        lectures: [
-          {
-            title:
-              "Understanding DOM, what it is, how to access elements from the DOM",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "EVENTS :- How to manipulate DOM events in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Calculator Project",
-        lectures: [
-          {
-            title:
-              "Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Mini Projects Using Javascript",
-        lectures: [
-          {
-            title: "LET V/S VAR :- Learning different ways to create variable",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "CATCH ME IF YOU CAN :-  Build a game using vanilla Javascript",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
+     
+       
     ],
     features: [
       {
-        title: "Training by Pro Web Developers",
+        title: "Training by Data Science Experts",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
+        desc: "To ensure that you get high-quality content & learning experience, we provide the entire Data Science training in Jodhpur by industry experts having more than a decade of experience.",
       },
       {
-        title: "Most Comprehensive Curriculum",
+        title: "Regular Assessments",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
+        desc: "Your level of knowledge, learning, and practicals are regularly assessed by the mentor so that you can work on your weak areas and improve your skills further.",
       },
       {
-        title: "Intensive Classroom Training",
+        title: "Rigorous Classroom Training",
         imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
+        desc: "This is a classroom Data Science course in Jodhpur. For the best learning experience, the classroom is fully-digitized, distraction-free, and offers 1:1 interaction with the mentor.",
       },
       {
-        title: "Hands-on 12 Live Projectsg",
+        title: "100% Practical-Oriented",
         imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
+        desc: "Data Science is something that requires immense practice. On that front, you will get to work on real projects in Python, machine learning, AI, etc. for practical exposure and experience.",
       },
       {
-        title: "Job Assistance",
+        title: "Placement Assistance",
         imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
+        desc: "On course completion, we assist you in Data Science interview preparation and resume building. Your interviews are arranged with top companies hiring data scientists in India.",
       },
       {
-        title: "Web Development Certification",
+        title: "Data Scientist Certification",
         imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
+        desc: "Along with advanced skills, you get a professional data science certificate. You can add it to your resume and explore great job opportunities in India or globally.",
       },
     ],
     whatsappNumber: "919631005476",
@@ -9004,14 +9189,15 @@ const GhaziabadTraining = [
   // graphic design
 
   {
-    title: "Python Training",
+    title: "Graphic Designing Training",
     heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+      "Graphic Designing Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
-      "You will work on both front-end and backend development by learning HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, jQuery, WordPress, PHP, Laravel, MySQL, AJAX, and more. By the end of this website development training, you will be on your way to becoming a proficient web developer.",
+     "Jumpstart your career as a top-class Graphic Designer by mastering the art of creating all sorts of graphics. WsCube Tech brings you the classroom-based Graphic Design Course in Jodhpur, where you will learn the skills from a professional & experienced graphic designer. ",
+     " The course covers all the primary graphic design tools, including Adobe Photoshop training, Illustrator training, CorelDRAW training, as well as Adobe InDesign training. By the end of this graphic design course, you will become a certified graphic designer and also get job assistance.",
+
     ],
     batchDetails: [
       {
@@ -9037,344 +9223,350 @@ const GhaziabadTraining = [
     ],
     overviewHeading: "Overview of our Web Development Training in Ghaziabad",
     overview: [
-      "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
-      "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
-      "Upon completing the course, you will receive the certificate, internship opportunities, as well as job assistance. We ensure that you become highly skilled and explore great career opportunities in the field of website designing and development.",
-      "Once you have the skills, you can choose to go for a full-time job, become a freelance web developer, or start your own website development company.",
-      "Take two days of FREE demo classes to learn risk-free and confidently!",
+     " As the businesses shift online with websites, social media, visual ads, YouTube, and many other platforms, the demand for graphic designers is on the boom. Graphic designers are the artists who create visually appealing graphics for various purposes. It includes social media graphic design (posts, stories, covers, etc.), YouTube thumbnails, business logos, banners, brochures, ad graphics, presentations, pamphlets, business cards, and much more.",
+     "In the Graphic Designing Course in Jodhpur by WsCube Tech, you will learn how to create visually-appealing and business-oriented graphics of all types. You don’t need to have any prior experience in graphic design as we cover everything from zero level. ",
+     " We focus on making you skilled and job-ready to help you build a great career in the field of graphic designing. You can choose to go for a full-time job, become a freelance graphic designer, or start your own business.",
+     "Become a certified graphic designer with our Graphic Designing and Photoshop classes in Jodhpur. Take 2-days of FREE demo classes to start learning confidently! ",
+   
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
       {
-        title: "Getting started with Basics",
+        title: " Introduction to Graphic Design  ",
         lectures: [
           {
-            title: "HISTORY OF WEB",
+            title: " What is graphic design? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CLIENT SERVER ARCHITECTURE",
+            title: " Historical overview of graphic design. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " The role of graphic designers in various industries. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+      {
+        title: "  Design Principles  ",
+        lectures: [
+          {
+            title: " Composition and layout. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Typography and typefaces. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Color theory and color schemes. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Balance, contrast, emphasis, and unity.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "   Design Software ",
         lectures: [
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Introduction to design software (e.g., Adobe Creative Suite - Photoshop, Illustrator, InDesign). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: " Basic tools and features of graphic design software. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+      {
+        title: " Typography  ",
+        lectures: [
+          {
+            title: " Type anatomy and terminology. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: "  Font selection and pairing. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Typography for print and web. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Typography in branding. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
       },
       {
-        title: "More on HTML",
+        title: " Image Editing and Manipulation  ",
         lectures: [
           {
-            title: "MORE TAGS :- Practice creating HTML with more tags",
+            title: "  Photo editing techniques.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: " Image resolution and file formats. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: "Image compositing and retouching.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          
         ],
       },
       {
-        title: "Forms",
+        title: "  Vector Graphics ",
         lectures: [
           {
-            title: "FORM :- What is an HTML form?",
+            title: " Creating vector illustrations. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
+            title: " Working with vector shapes and paths. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Logo design and vector art. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "   Layout Design ",
         lectures: [
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Magazine and brochure layout. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Advertising layout. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Grid systems and page hierarchy. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+         
         ],
       },
       {
-        title: "Intro to CSS",
+        title: "  Branding and Identity Design  ",
         lectures: [
           {
-            title:
-              "CSS INTRODUCTION :-  What is CSS and how to use it in HTML?",
+            title: "  Logo design and brand identity.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "BLOG PAGE :-  Building and styling the blog project",
+            title: "Creating style guides.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Corporate branding case studies. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
         ],
       },
       {
-        title: "Styling with CSS",
+        title: "  Web and Interactive Design  ",
         lectures: [
           {
-            title:
-              "CSS UNITS :-  Learning about various CSS units used to style HTML elements",
+            title: " Introduction to web design principles. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CSS BOX MODE :-  Understanding the CSS box model",
+            title: " User interface (UI) and user experience (UX) design. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "  Designing for mobile and responsive web design. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
         ],
       },
       {
-        title: "Starting with the Resume project",
+        title: " Print Design  ",
         lectures: [
           {
-            title:
-              "STARTING THE PROJECT :-  Start building the Resume project by creating the HTML structure",
+            title: "  Print production processes.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Preparing designs for print. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Print collateral (business cards, flyers, posters). ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
         ],
       },
       {
-        title: "Flex",
+        title: "  Packaging Design ",
         lectures: [
           {
-            title: "INTRO TO FLEX :- Learning what flex is and how it works",
+            title: " Principles of packaging design. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FLEX PROPERTIES :- Discovering various flex properties used to style HTML elements",
+            title: " Creating 3D mockups. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "USING FLEX IN RESUME :- Utilising flex to style the Resume project",
+            title: " Sustainable packaging design. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+           
         ],
       },
-
       {
-        title: "Completing Resume",
+        title: "  Motion Graphics and Animation ",
         lectures: [
           {
-            title:
-              "PSEUDO ELEMENTS :- What are pseudo elements and where to use them?",
+            title: "Basics of motion graphics.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "FINISHING UP :- Finish building the Resume",
+            title: " Animation techniques. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Creating animated graphics. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
         ],
       },
-
       {
-        title: "Responsive designs",
+        title: "  Portfolio Development ",
         lectures: [
           {
-            title:
-              "MEDIA QUERIES   What is responsive design and how to use media queries to build a responsive web app that works with multiple devices?",
+            title: " Building a professional design portfolio. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Showcasing projects and work. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Presentation and self-promotion.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
-
       {
-        title: "Animations and 3D space",
+        title: " Design Ethics and Copyright  ",
         lectures: [
           {
-            title:
-              "HANIMATION PROPERTIES   Basics of CSS animation and how to animate HTML elements using animate.css",
+            title: " Intellectual property and copyright in design. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Ethical considerations in graphic design. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
-
       {
-        title: "Bootstrap",
+        title: "  Industry Trends and Tools ",
         lectures: [
           {
-            title:
-              "FRONTEND FRAMEWORKS :- What are frontend frameworks and how to use one",
+            title: " Staying updated with design trends. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
+            title: " Exploring new design tools and technologies. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "BOOTSTRAP COMPONENTS :- Using various other bootstrap elements like Navbar, Jumbotron etc",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ASSIGNMENT :-  Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+         
         ],
       },
-
       {
-        title: "Starting with Javascript",
+        title: "  Guest Speakers and Workshops  ",
         lectures: [
           {
-            title: "INTRO TO JS :- What is JS and history of JS",
+            title: " Inviting industry professionals for guest lectures. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "VARIABLES, OPERATORS, LOOPS :- Learning the basics of the language",
+            title: " Conducting workshops on specialized topics. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          
         ],
       },
-
       {
-        title: "JavaScript: Functions and Arrays",
+        title: "   Projects and Assignments ",
         lectures: [
           {
-            title: "SCOPE :- Understanding scope in JS",
+            title: " Hands-on design projects and assignments.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "HOISTING :- What is hoisting and its application?",
+            title: " Critiques and feedback sessions. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ARRAYS AND ITS USAGE :- What are arrays and using array functions like splice, slice etc.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+          
         ],
       },
-
       {
-        title: "Objects and Timing Events",
+        title: " Final Project  ",
         lectures: [
           {
-            title:
-              "What are objects, how to create them and using different notations to access object’s data",
+            title: "  A comprehensive design project that demonstrates the skills and knowledge acquired during the course.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          {
-            title:
-              "OBJECT FUNCTIONS :- Learn to iterate over objects, delete object properties, creating nested objects",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+         
+         
         ],
       },
-
-      {
-        title: "Understanding DOM",
-        lectures: [
-          {
-            title:
-              "Understanding DOM, what it is, how to access elements from the DOM",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "EVENTS :- How to manipulate DOM events in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Calculator Project",
-        lectures: [
-          {
-            title:
-              "Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Mini Projects Using Javascript",
-        lectures: [
-          {
-            title: "LET V/S VAR :- Learning different ways to create variable",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "CATCH ME IF YOU CAN :-  Build a game using vanilla Javascript",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
+     
     ],
     features: [
       {
-        title: "Training by Pro Web Developers",
+        title: "Training by Pro Graphic Designer",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
+        desc: "The complete graphic designing training in Jodhpur is led by an expert graphic designer having a decade of experience in the field for your highly efficient learning.",
       },
       {
-        title: "Most Comprehensive Curriculum",
+        title: "Job Assistance",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
+        desc: "Upon completion of the training, you will be prepared for the interview. Moreover, we arrange your interviews with top companies hiring graphic designers.",
       },
       {
         title: "Intensive Classroom Training",
         imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
+        desc: "In this classroom course, you get 1:1 mentorship, digitized learning experience, and highly-engaging classes for Photoshop, Illustrator, InDesign, and Illustrator training.",
       },
       {
-        title: "Hands-on 12 Live Projectsg",
+        title: "Hands-on Projects",
         imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
+        desc: "You will use all the graphic design tools and software, and practice on live client projects to create different types of graphics, logos, banners, social media images, and much more.",
       },
       {
-        title: "Job Assistance",
+        title: "100% Practical & Job-Oriented",
         imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
+        desc: "This is a completely practical-oriented graphic design course in Jodhpur that focuses on rigorous training so that you can easily kickstart your career.",
       },
       {
-        title: "Web Development Certification",
+        title: "Graphic Design Certificate",
         imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
+        desc: "It is a graphic design certification course, which means you will earn a professional certificate that you can add to your resume and explore great career opportunities.",
       },
     ],
     whatsappNumber: "919631005476",
@@ -9383,14 +9575,15 @@ const GhaziabadTraining = [
   // data analytics
 
   {
-    title: "Python Training",
+    title: "Data Analytics Training",
     heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
+      "Data Analytics Training in Ghaziabad (Classroom Course With Certificate & Placement)",
     center: "Ghaziabad",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
-      "You will work on both front-end and backend development by learning HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, jQuery, WordPress, PHP, Laravel, MySQL, AJAX, and more. By the end of this website development training, you will be on your way to becoming a proficient web developer.",
+     " Join the best data analytics training in Jodhpur and get insights into Data Mining, Power BI, Data Visualization, and more. Get trained by industry experts and professionals who have worked in this field for years and have taught in leading institutes. With WsCube Tech, you get to learn through hands-on projects, assessments, group activities, and case studies.",
+     "By the end of the course, you will gain a fair understanding of data analytics tools and techniques, Python programming, working with SQL databases, creating visualisations, predictive analytics, and utilising statistics. ",
+     "So, enrol in our data analyst course in Jodhpur now and earn an industry-recognised certificate to accelerate your career growth. ",
     ],
     batchDetails: [
       {
@@ -9414,346 +9607,310 @@ const GhaziabadTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of our Data Analytics Training in Ghaziabad",
     overview: [
-      "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
-      "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
-      "Upon completing the course, you will receive the certificate, internship opportunities, as well as job assistance. We ensure that you become highly skilled and explore great career opportunities in the field of website designing and development.",
-      "Once you have the skills, you can choose to go for a full-time job, become a freelance web developer, or start your own website development company.",
-      "Take two days of FREE demo classes to learn risk-free and confidently!",
+      " Data Analytics is a process of analysing data, getting insights, and representing them in a meaningful and readable format, such as plots, reports, charts, and dashboards. It aims at helping users make informed business decisions.",
+      " yakeen Tech offers a career-oriented data analytics course in Jodhpur to freshers, college learners, working professionals, and freelancers. During the training, you will gain knowledge of this domain, including data transformation, data optimisation, using algorithms to solve complex business problems, data visualisation, and data science project execution.",
+      "We adopt a practical approach to train learners and equip them with an understanding of various data processing and visualisation tools, such as SQL, PowerBI, Tableau, Excel, and more. ",
+      "SQL is a popular tool used to work with the data stored in database management software. On the other hand, PowerBI and Tableau are used to analyse data and present visual stories to users. Our mentors will explain concepts, such as data mining, data cleansing, data preparation, and exploratory data analysis, in detail. ",
+      " Through real-life projects, assessments, and quizzes, you will be able to enhance your knowledge. Moreover, our job assistance team will help you explore professional opportunities in the field.",
+      "So, don’t wait and book your free class now for the world-class data analyst course in Jodhpur! ",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
       {
-        title: "Getting started with Basics",
+        title: " Introduction to Data Analytics ",
         lectures: [
           {
-            title: "HISTORY OF WEB",
+            title: "  What is data analytics?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CLIENT SERVER ARCHITECTURE",
+            title: " Importance and applications of data analytics. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Types of data (structured, unstructured, semi-structured). ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Data analytics tools and software.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "  Data Collection and Preparation ",
         lectures: [
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: " Data acquisition and sources. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: " Data cleaning and preprocessing. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: " Data quality assessment. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "Data integration and transformation.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
         ],
       },
       {
-        title: "More on HTML",
+        title: " Exploratory Data Analysis (EDA) ",
         lectures: [
           {
-            title: "MORE TAGS :- Practice creating HTML with more tags",
+            title: " Descriptive statistics (mean, median, mode, variance, standard deviation). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "BLOCK V/S INLINE ELEMENTS :- Understand the difference between inline and block HTML elements",
+            title: " Data visualization (scatter plots, histograms, box plots, etc.). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "TABLE :- Learn to create tables in HTML",
+            title: " Correlation analysis. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Outlier detection. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+        
         ],
       },
       {
-        title: "Forms",
+        title: " Data Visualization ",
         lectures: [
           {
-            title: "FORM :- What is an HTML form?",
+            title: " Principles of data visualization. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FORM FIELDS :-  Discussing various form elements like <input>, <textarea> etc",
+            title: " Tools for data visualization (e.g., Tableau, Matplotlib, ggplot2). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Creating effective charts and graphs. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Storytelling with data. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
         ],
       },
       {
-        title: "Introduction to HTML",
+        title: "  Statistical Analysis ",
         lectures: [
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: "  Hypothesis testing.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: "  Probability distributions.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "HTML STRUCTURE :- How to create the structure of a web page",
+            title: "  Regression analysis.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: "ANOVA (Analysis of Variance).  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
         ],
       },
       {
-        title: "Intro to CSS",
+        title: " Machine Learning for Data Analytics ",
         lectures: [
           {
-            title:
-              "CSS INTRODUCTION :-  What is CSS and how to use it in HTML?",
+            title: " Introduction to machine learning. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "BLOG PAGE :-  Building and styling the blog project",
+            title: " Supervised and unsupervised learning. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Classification and regression algorithms. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Model evaluation and validation.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
       {
-        title: "Styling with CSS",
+        title: " Data Mining ",
         lectures: [
           {
-            title:
-              "CSS UNITS :-  Learning about various CSS units used to style HTML elements",
+            title: " Clustering techniques. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "CSS BOX MODE :-  Understanding the CSS box model",
+            title: " Association rule mining. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Text mining and sentiment analysis. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Time series analysis. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
       {
-        title: "Starting with the Resume project",
+        title: "  Big Data Analytics ",
         lectures: [
           {
-            title:
-              "STARTING THE PROJECT :-  Start building the Resume project by creating the HTML structure",
+            title: "  Introduction to big data.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " Hadoop and MapReduce. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Spark and distributed computing. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "NoSQL databases.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
         ],
       },
       {
-        title: "Flex",
+        title: "Data Ethics and Privacy  ",
         lectures: [
           {
-            title: "INTRO TO FLEX :- Learning what flex is and how it works",
+            title: " Ethical considerations in data analytics. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "FLEX PROPERTIES :- Discovering various flex properties used to style HTML elements",
+            title: "Privacy regulations (e.g., GDPR, HIPAA).  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "USING FLEX IN RESUME :- Utilising flex to style the Resume project",
+            title: " Data anonymization and de-identification. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+         
+        ],
+      },
+      {
+        title: " Case Studies and Projects ",
+        lectures: [
+          {
+            title: " Real-world data analytics projects. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Applying learned techniques to solve practical problems. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Group projects and presentations. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+        ],
+      },
+      {
+        title: "  Capstone Project ",
+        lectures: [
+          {
+            title: " A substantial project applying data analytics skills to a complex problem. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Presentation and report on the capstone project ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+        ],
+      },
+      {
+        title: " Data Analytics Tools and Technologies  ",
+        lectures: [
+          {
+            title: "Proficiency in tools such as Python, R, SQL, and relevant libraries.  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Familiarity with data analytics platforms like Jupyter Notebook and RStudio ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          
+         
+        ],
+      },
+      {
+        title: "   Career and Industry Insights",
+        lectures: [
+          {
+            title: "  Job roles in data analytics.",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "  Industry trends and emerging technologies",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Building a career in data analytics. ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
         ],
       },
 
-      {
-        title: "Completing Resume",
-        lectures: [
-          {
-            title:
-              "PSEUDO ELEMENTS :- What are pseudo elements and where to use them?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FINISHING UP :- Finish building the Resume",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Responsive designs",
-        lectures: [
-          {
-            title:
-              "MEDIA QUERIES   What is responsive design and how to use media queries to build a responsive web app that works with multiple devices?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Animations and 3D space",
-        lectures: [
-          {
-            title:
-              "HANIMATION PROPERTIES   Basics of CSS animation and how to animate HTML elements using animate.css",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Bootstrap",
-        lectures: [
-          {
-            title:
-              "FRONTEND FRAMEWORKS :- What are frontend frameworks and how to use one",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "GRID SYSTEM :- Learning about grid system of bootstrap",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "BOOTSTRAP COMPONENTS :- Using various other bootstrap elements like Navbar, Jumbotron etc",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ASSIGNMENT :-  Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Starting with Javascript",
-        lectures: [
-          {
-            title: "INTRO TO JS :- What is JS and history of JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "VARIABLES, OPERATORS, LOOPS :- Learning the basics of the language",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "JavaScript: Functions and Arrays",
-        lectures: [
-          {
-            title: "SCOPE :- Understanding scope in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "HOISTING :- What is hoisting and its application?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "FUNCTIONS EXPRESSIONS V/S FUNCTION DECLARATION",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "ARRAYS AND ITS USAGE :- What are arrays and using array functions like splice, slice etc.",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Objects and Timing Events",
-        lectures: [
-          {
-            title:
-              "What are objects, how to create them and using different notations to access object’s data",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "OBJECT FUNCTIONS :- Learn to iterate over objects, delete object properties, creating nested objects",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Understanding DOM",
-        lectures: [
-          {
-            title:
-              "Understanding DOM, what it is, how to access elements from the DOM",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "EVENTS :- How to manipulate DOM events in JS",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Calculator Project",
-        lectures: [
-          {
-            title:
-              "Build a music player project with your newly gained skillset",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
-
-      {
-        title: "Mini Projects Using Javascript",
-        lectures: [
-          {
-            title: "LET V/S VAR :- Learning different ways to create variable",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              "CATCH ME IF YOU CAN :-  Build a game using vanilla Javascript",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
+   
     ],
     features: [
       {
-        title: "Training by Pro Web Developers",
+        title: "Expert Mentorship",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "In this course, you will get complete training and practice sessions from a professional and expert website developer who has 10+ years of experience in the field.",
+        desc: "We have highly experienced and qualified mentors in our team to guide you. They are committed to helping aspirants achieve their learning and professional targets and mentor you throughout.",
       },
       {
-        title: "Most Comprehensive Curriculum",
+        title: "Dedicated Doubt Sessions",
         imgUrl: "https://www.wscubetech.com/images/support-icon.svg",
-        desc: "We offer the most detailed training, covering all aspects of web development in-depth. You learn both static and dynamic website development.",
+        desc: "Mastering data analytics is no cakewalk as it involves various complicated concepts. Therefore, we conduct regular doubt sessions so that anyone can attend to all queries and discuss different topics",
       },
       {
-        title: "Intensive Classroom Training",
+        title: "Interactive Learning",
         imgUrl: "https://www.wscubetech.com/images/video-courses-icon.svg",
-        desc: "To offer you the best learning experience, our classrooms are fully digitized, distraction-free, and provide 1:1 personal interaction with the mentor.",
+        desc: "We conduct live interactive classes instead of pre-recording sessions. This allows you to communicate with mentors and fellow learners in real time, ensuring an engaging learning experience.",
       },
       {
-        title: "Hands-on 12 Live Projectsg",
+        title: "Hands-on Projects",
         imgUrl: "https://www.wscubetech.com/images/projects-icon.svg",
-        desc: "Web development is a skill that requires immense practice. For that, you will work on a total of 12 projects (both dynamic and static websites).",
+        desc: "After completing every module, you will work on hands-on projects, applying your learning, knowledge, and skills to solve real-life business problems. This will enhance your learning and make you career-ready.",
       },
       {
-        title: "Job Assistance",
+        title: "Placement Assistance",
         imgUrl: "https://www.wscubetech.com/images/job-assistance-icon.svg",
-        desc: "We prepare you for the web development interview, and arrange your interviews with top companies so that you can kickstart your career instantly after the course.",
+        desc: "WsCube Tech also offers job assistance to all its learners. For this, we have collaborated with 100+ hiring partners, and our team will help you connect and schedule interviews with them.",
       },
       {
-        title: "Web Development Certification",
+        title: "Data Analytics Certification",
         imgUrl: "https://www.wscubetech.com/images/certification-icon.svg",
-        desc: "Once your training is over, you get a professional certificate that you can add to your resume and easily explore promising career opportunities.",
+        desc: "Upon completing the course, you will be rewarded with an industry-recognised professional certificate that will add value to your resume and validate your capabilities.",
       },
     ],
     whatsappNumber: "919631005476",
