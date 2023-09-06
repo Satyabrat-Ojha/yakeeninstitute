@@ -4,6 +4,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
 import UpArrow from "./UpArrow.svg";
 
+
+
+
+
 const ClassroomTraining = () => {
   const [hovered, setHovered] = useState(false);
   const [center, setCenter] = useState("Ghaziabad");
@@ -322,39 +326,39 @@ const ClassroomTraining = () => {
                   </div>
                   <ul className="list-unstyled ">
                     <li>
-                      <a title="Web Development Course ">
+                      <a title="Web Development Course " href="/ghaziabad/web-development-training">
                         Web Development Course{" "}
                       </a>
                     </li>
                     <li>
-                      <a title="MERN Stack Course ">MERN Stack Course </a>
+                      <a title="MERN Stack Course "href="/ghaziabad/mern-stack-training">MERN Stack Course </a>
                     </li>
                     <li>
-                      <a title="Web Designing Course ">Web Designing Course</a>
+                      <a title="Web Designing Course "href="/ghaziabad/web-development-training">Web Designing Course</a>
                     </li>
                     <li>
-                      <a title="Laravel Training"> Laravel Training</a>
+                      <a title="Laravel Training" href="/ghaziabad/laravel-training"> Laravel Training</a>
                     </li>
                     <li>
-                      <a title=" ReactJs Training"> ReactJs Training</a>
+                      <a title=" ReactJs Training"href="/ghaziabad/reactjs-training"> ReactJs Training</a>
                     </li>
                     <li>
-                      <a title="PHP  Training"> PHP Training</a>
+                      <a title="PHP  Training" href="/ghaziabad/php-training"> PHP Training</a>
                     </li>
                     <li>
-                      <a title="AngularJs Training"> AngularJs Training</a>
+                      <a title="AngularJs Training" href="/ghaziabad/angularjs-training"> AngularJs Training</a>
                     </li>
                     <li>
-                      <a title="NodeJs Training"> NodeJs Training</a>
+                      <a title="NodeJs Training"   href="/ghaziabad/nodejs-training"> NodeJs Training</a>
                     </li>
                     <li>
-                      <a title="Javascript Training"> Javascript Training</a>
+                      <a title="Javascript Training" href="/ghaziabad/javascript-training"> Javascript Training</a>
                     </li>
                     <li>
                       <a title="HTML Training"> HTML Training</a>
                     </li>
                     <li>
-                      <a title="Wordpress Training"> Wordpress Training</a>
+                      <a title="Wordpress Training"  href="/ghaziabad/wordpress-training"> Wordpress Training</a>
                     </li>
                   </ul>
                 </div>
@@ -368,16 +372,16 @@ const ClassroomTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="Python Course"> Python Course</a>
+                      <a title="Python Course"  href="/ghaziabad/python-training"> Python Course</a>
                     </li>
                     <li>
-                      <a title="Java Course">Java Course</a>
+                      <a title="Java Course" href="/ghaziabad/java-training">Java Course</a>
                     </li>
                     <li>
-                      <a title="C Programming Course">C Programming Course</a>
+                      <a title="C Programming Course"href="/ghaziabad/c-programming-training">C Programming Course</a>
                     </li>
                     <li>
-                      <a title="C++ Programming Course">
+                      <a title="C++ Programming Course" href="/ghaziabad/c++-training">
                         C++ Programming Course
                       </a>
                     </li>
@@ -391,10 +395,10 @@ const ClassroomTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="SEO Course">SEO Course</a>
+                      <a title="SEO Course" href="/ghaziabad/seo-training">SEO Course</a>
                     </li>
                     <li>
-                      <a title="Digital Marketing Course">
+                      <a title="Digital Marketing Course" href="/ghaziabad/digital-marketing-training">
                         Digital Marketing Course
                       </a>
                     </li>
@@ -402,7 +406,7 @@ const ClassroomTraining = () => {
                       <a title="Social Media Course"> Social Media Course</a>
                     </li>
                     <li>
-                      <a title="Google Ads Course"> Google Ads Course </a>
+                      <a title="Google Ads Course" href="/ghaziabad/google-ads-training"> Google Ads Course </a>
                     </li>
                   </ul>
                 </div>
@@ -416,12 +420,12 @@ const ClassroomTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="Data Analytics Course">
+                      <a title="Data Analytics Course" href="/ghaziabad/data-analytics-training">
                         Data Analytics Course{" "}
                       </a>
                     </li>
                     <li>
-                      <a title="Graphic Designing Course">
+                      <a title="Graphic Designing Course" href="/ghaziabad/graphic-designing-training">
                         Graphic Designing Course{" "}
                       </a>
                     </li>
@@ -435,12 +439,12 @@ const ClassroomTraining = () => {
                   </div>
                   <ul className="list-unstyled">
                     <li>
-                      <a title="Penetration Testing Course">
+                      <a title="Penetration Testing Course"   href="/ghaziabad/penetration-testing-training">
                         Penetration Testing Course
                       </a>
                     </li>
                     <li>
-                      <a title="Ethical Hacking Course">
+                      <a title="Ethical Hacking Course" href="/ghaziabad/ethical-hacking-training">
                         {" "}
                         Ethical Hacking Course
                       </a>
