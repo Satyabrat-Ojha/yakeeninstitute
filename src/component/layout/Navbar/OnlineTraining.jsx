@@ -35,10 +35,10 @@ const OnlineTraining = () => {
                   </a>
                 </li>
                 <li>
-                  <a title="WordPress Course">WordPress Course</a>
+                  <a title="WordPress Course" href="/online-training/wordpress-training">WordPress Course</a>
                 </li>
                 <li>
-                  <a title="MERN Stack Course">MERN Stack Course</a>
+                  <a title="MERN Stack Course"href="/online-training/mern-stack-training">MERN Stack Course</a>
                 </li>
               </ul>
             </div>
@@ -48,13 +48,13 @@ const OnlineTraining = () => {
               </div>
               <ul class="list-unstyled">
                 <li>
-                  <a title="Data Science Course">Data Science Course</a>
+                  <a title="Data Science Course" href="/online-training/data-science-training">Data Science Course</a>
                 </li>
                 <li>
-                  <a title="Data Analytics Course">Data Analytics Course</a>
+                  <a title="Data Analytics Course" href="/online-training/data-analytics-training">Data Analytics Course</a>
                 </li>
                 <li>
-                  <a title="Python Course">Python Course</a>
+                  <a title="Python Course" href="/online-training/python-training">Python Course</a>
                 </li>
               </ul>
             </div>
@@ -66,12 +66,12 @@ const OnlineTraining = () => {
               </div>
               <ul className="list-unstyled">
                 <li>
-                  <a title="Web Development Course">
+                  <a title="Web Development Course" href="/online-training/android-app-development-training">
                     Android App Development Course
                   </a>
                 </li>
                 <li>
-                  <a title="WordPress Course">Flutter App Development Course</a>
+                  <a title="WordPress Course" href="/online-training/flutter-app-development-training">Flutter App Development Course</a>
                 </li>
               </ul>
             </div>
@@ -81,10 +81,10 @@ const OnlineTraining = () => {
               </div>
               <ul className="list-unstyled">
                 <li>
-                  <a title="Ethical Hacking Course">Ethical Hacking Course</a>
+                  <a title="Ethical Hacking Course" href="/online-training/ethical-hacking-training">Ethical Hacking Course</a>
                 </li>
                 <li>
-                  <a title="Penetration Testing Course">
+                  <a title="Penetration Testing Course" href="/online-training/penetration-testing-training">
                     Penetration Testing Course
                   </a>
                 </li>
@@ -98,21 +98,21 @@ const OnlineTraining = () => {
               </div>
               <ul className="list-unstyled">
                 <li>
-                  <a title="SEO Course">SEO Course</a>
+                  <a title="SEO Course" href="/online-training/seo-training">SEO Course</a>
                 </li>
                 <li>
-                  <a title="Digital Marketing Course">
+                  <a title="Digital Marketing Course" href="/online-training/digital-marketing-training">
                     Digital Marketing Course
                   </a>
                 </li>
                 <li>
-                  <a title="Content Writing Course">Content Writing Course</a>
+                  <a title="Content Writing Course" href="/online-training/content-writing-training">Content Writing Course</a>
                 </li>
                 <li>
-                  <a title="Full Online Ads Course">Full Online Ads Course</a>
+                  <a title="Full Online Ads Course" href="/online-training/online-advertising-training">Full Online Ads Course</a>
                 </li>
                 <li>
-                  <a title="YouTube Course">YouTube Course</a>
+                  <a title="YouTube Course" href="/online-training/web-development-training">YouTube Course</a>
                 </li>
               </ul>
             </div>
