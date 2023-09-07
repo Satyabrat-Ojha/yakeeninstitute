@@ -2,8 +2,8 @@ const lajpatnagarTraining = [
   {
     title: "Web Development Training",
     heading:
-      "Web Development Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Web Development Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
@@ -31,7 +31,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of our Web Development Training in Lajpat Nagar",
     overview: [
       "Website development is among the most in-demand skills today that offers highly-paid job roles and great career scope. As almost every business is shifting online, and existing websites are expanding to compete in the market, there is a huge demand for web developers in India and globally.",
       "With WsCube Tech’s classroom-based web design and development course in Jodhpur, you will acquire all the essential skills. You will work on real website projects and build different types of sites from scratch. The entire training is led by an experienced Developer.",
@@ -382,7 +382,7 @@ const lajpatnagarTraining = [
     title: "Wordpress Training",
     heading:
       "Best WordPress Training in Jodhpur (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/wordpress-offline.webp",
     desc: [
       "Learn how to build various types of business websites, professional & personal blogs, as well as eCommerce websites with the classroom-based WordPress course in Jodhpur by WsCube Tech.",
@@ -1126,8 +1126,8 @@ const lajpatnagarTraining = [
   {
     title: "php Training",
     heading:
-      "PHP Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "PHP Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "Build your career in the field of web development by learning PHP programming with WsCube Tech. PHP developers are in high demand because of PHP’s implementation in a wide range of projects across varied industries.",
@@ -1155,7 +1155,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of PHP Training in Ghaziabad",
+    overviewHeading: "Overview of PHP Training in Lajpat Nagar",
     overview: [
       "PHP is among the most used web programming languages. Popular content management systems like WordPress have been built using PHP. In the IT and software development industry, there is a growing demand for PHP developers on a national and international level.",
       "If you want to become a PHP developer, you must learn it from the basic to the advanced level. WsCube Tech’s classroom-based PHP training in Jodhpur covers every concept from scratch while ensuring the quality of your learning.",
@@ -1547,8 +1547,8 @@ const lajpatnagarTraining = [
   {
     title: "Javascript Training",
     heading:
-      "Javascript Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Javascript Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "JavaScript is one of the web's most influential and adaptable scripting languages. This JavaScript course in Jodhpur by WsCube Tech will teach you the fundamentals and get you comfortable creating JS projects.",
@@ -1576,7 +1576,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of JavaScript Training in Ghaziabad",
+    overviewHeading: "Overview of JavaScript Training in Lajpat Nagar",
     overview: [
       "JavaScript is the most extensively used and popular client-side scripting language. It is intended to enhance web pages with interactivity and dynamic effects by changing the content delivered on the web pages.",
       "Learn JavaScript in Jodhpur from our experts and practice in an intuitive environment. The challenges are based on real-world projects to ensure you learn best practices one step at a time.",
@@ -1846,8 +1846,8 @@ const lajpatnagarTraining = [
   {
     title: "Bootstrap Training",
     heading:
-      "Bootstrap Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Bootstrap Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "Bootstrap is one of the most popular front-end web development libraries. It offers a customizable HTML, CSS, and JavaScript templates for developing contemporary and responsive websites. Bootstrap is the framework used to create all the stunning websites you see today, complete with large fonts and sleek form fields.",
@@ -1875,7 +1875,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of JavaScript Training in Ghaziabad",
+    overviewHeading: "Overview of JavaScript Training in Lajpat Nagar",
     overview: [
       "Bootstrap is among the most used CSS frameworks. The common elements found on many websites, such as buttons, drop-down menus, grids, rows, and forms, are all styled in Bootstrap. Along with many other JavaScript elements, Bootstrap also includes pop-ups, collapsible features, and accordions.",
       "Learning Bootstrap does not require a lot of time, and with the Wscube Tech team, it's effortless to understand.",
@@ -2153,7 +2153,7 @@ const lajpatnagarTraining = [
       {
         title: "Learn From Experts",
         imgUrl: "https://www.wscubetech.com/images/virtual-classroom-icon.svg",
-        desc: "To make you proficient in this framework, we offer the complete Bootstrap training in Ghaziabad by highly-experienced mentors.",
+        desc: "To make you proficient in this framework, we offer the complete Bootstrap training in Lajpat Nagar by highly-experienced mentors.",
       },
       {
         title: "100% Practical-Oriented",
@@ -2189,11 +2189,11 @@ const lajpatnagarTraining = [
   {
     title: "Laravel Training",
     heading:
-      "Laravel Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Laravel Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Welcome to the most comprehensive and practical-based Laravel Course in Ghaziabad! Laravel is the most popular PHP framework that is essential to learn if you want to develop dynamic websites and web applications with the PHP language.",
+      "Welcome to the most comprehensive and practical-based Laravel Course in Lajpat Nagar! Laravel is the most popular PHP framework that is essential to learn if you want to develop dynamic websites and web applications with the PHP language.",
       "If you want to learn it and are looking for some top-notch Bootstrap course in Jodhpur, then WsCube Tech is the right place for you. With us, you can master all the concepts of Bootstrap from basics to advanced and make a great career in web development.",
     ],
     batchDetails: [
@@ -2218,7 +2218,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of Laravel Training in Ghaziabad",
+    overviewHeading: "Overview of Laravel Training in Lajpat Nagar",
     overview: [
       "If you want to become a successful PHP Developer or Web Developer, you need to have Laravel skills. It is because Laravel is the most preferred framework for PHP projects.",
       "Whether you want to learn Laravel from scratch, have basic knowledge of HTML/CSS/PHP and want to upgrade your skills, or are interested in learning Laravel, this training is meant for you.",
@@ -2601,8 +2601,8 @@ const lajpatnagarTraining = [
   {
     title: "NodeJS Training",
     heading:
-      "NodeJS Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "NodeJS Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "Learn the fundamentals as well as advanced concepts of NodeJS in depth. This course by WsCube Tech will teach you the fundamentals of this popular runtime and get you comfortable creating Node-based projects.",
@@ -2630,7 +2630,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of NodeJs Training in Ghaziabad",
+    overviewHeading: "Overview of NodeJs Training in Lajpat Nagar",
     overview: [
       "NodeJS training in Jodhpur teaches you how to use JavaScript to create network applications fast and efficiently. The NodeJS certification course with Wscube Tech is intended to help you understand and develop top-notch web apps.",
       "Because of its ability to manage asynchronous activities, it is excellent for creating chat and gaming apps, but it can be used for much more. NodeJS course in Jodhpur trains you how to use this powerful app creation tool in various ways.",
@@ -2805,8 +2805,8 @@ const lajpatnagarTraining = [
   {
     title: "AngularJS Training",
     heading:
-      "AngularJS Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "AngularJS Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "AngularJS is the #1 choice of web developers when it comes to choosing a JavaScript framework. If you want to become a proficient web developer or JavaScript developer, you must learn AngularJS skills.",
@@ -2834,7 +2834,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of AngularJs Training in Ghaziabad",
+    overviewHeading: "Overview of AngularJs Training in Lajpat Nagar",
     overview: [
       "AngularJS is a JavaScript framework that is mostly used for creating Single-Page Applications (SPAs) that run in browsers. Gmail and Facebook are examples of SPAs that run in browsers without page reloading.",
       "The demand for Web Developers having AngularJS skills is high. It’s because Angular provides high performance, reduces code writing, simplifies the testing process, and makes it easier to integrate new features.",
@@ -3249,8 +3249,8 @@ const lajpatnagarTraining = [
   {
     title: "ReactJS Training",
     heading:
-      "ReactJS  Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "ReactJS  Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "ReactJS has become the most preferred JavaScript library in web development. It’s time for you to learn ReactJS practically and enhance your skills for exploring high-paying & promising career opportunities.",
@@ -3278,7 +3278,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of ReactJs Training in Ghaziabad",
+    overviewHeading: "Overview of ReactJs Training in Lajpat Nagar",
     overview: [
       "ReactJS is a library for JavaScript front-end development that has gained immense popularity over the years. If you want to excel as a front-end developer and give wings to your career in web development, you must master ReactJS.",
       "Yakeen Tech brings you a completely practical-based and job-oriented ReactJS course in Jodhpur. In this course, you will learn about the working of ReactJS, basics, fundamentals, as well as advanced concepts. It is a comprehensive React training that helps you master all the aspects of the ReactJS library.",
@@ -3692,8 +3692,8 @@ const lajpatnagarTraining = [
   {
     title: "MERN Stack Training",
     heading:
-      "MERN Stack Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "MERN Stack Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "MERN Stack combines four JavaScript-based technologies- MongoDB, ExpressJS, ReactJS, and NodeJS. It is a full-stack development structure, bringing both front-end and backend. Join the best MERN Stack training in Jodhpur and master how to develop responsive, dynamic, and appealing websites and web apps.",
@@ -3721,7 +3721,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of MERN Stack Training in Ghaziabad",
+    overviewHeading: "Overview of MERN Stack Training in Lajpat Nagar",
     overview: [
       "MERN is a full-stack web development structure that combines MongoDB, ExpressJS, ReactJS, and NodeJS, four primary JavaScript-based technologies. It is an open-source technology stack that accelerates the development process and ensures responsive and dynamic websites and web apps.",
       "In the stack, MongoDB is a database management program, ExpressJS is a lightweight framework, ReactJS is a JavaScript library, and NodeJS is a JavaScript runtime environment.",
@@ -3972,8 +3972,8 @@ const lajpatnagarTraining = [
   {
     title: "Python Training",
     heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Python Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "Python is the #1 most in-demand programming language of 2022, according to CodingNomads. If you have the right Python skills, there are a massive number of high-paying job opportunities in startups, SMBs, as well as top brands, and MNCs.",
@@ -4002,7 +4002,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of our Web Development Training in Lajpat Nagar",
     overview: [
       "Python is the modern programming language with applications in the latest technologies like machine learning and data science. It is the language that offers the best career opportunities today.",
       " Tech giants call Python ‘the next big thing’ because of its vast applications and unique development approach. It is a highly-paid skill in India and globally. If you want to give pace to your career in the IT or development field, then you must learn Python programming with WsCube Tech.",
@@ -4666,8 +4666,8 @@ const lajpatnagarTraining = [
   {
     title: "Java Training",
     heading:
-      "Java Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Java Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "Want to become a developer, learn how to build apps, or learn how to code, then Java is among the best programming languages to go with. Java can be used for many tasks, including creating extensive systems, mobile applications, and software.",
@@ -4695,7 +4695,8 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Java Development Training in Ghaziabad",
+    overviewHeading:
+      "Overview of our Java Development Training in Lajpat Nagar",
     overview: [
       " Many excellent books are online, but reading them won't make you a coder. The most ideal way to learn Java and become a programmer is to write a lot of code.",
       " WsCube Tech’s Java programming course consists of 80% practice and 20% fundamental Java theory. You require this to become an actual Java developer or programmer.",
@@ -5513,8 +5514,8 @@ const lajpatnagarTraining = [
   {
     title: "C Programming Training",
     heading:
-      "C Programming Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "C Programming Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "Learn the fundamentals as well as advanced concepts of C programming in depth. This C language course in Jodhpur by WsCube Tech will teach you the fundamentals of this popular programming and get you comfortable creating projects.",
@@ -5542,7 +5543,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our C programming  Training in Ghaziabad",
+    overviewHeading: "Overview of our C programming  Training in Lajpat Nagar",
     overview: [
       "C is a general-purpose, compiled programming language. It is a procedural language and does not support object-oriented programming styles.",
       "Learn C Programming from our experts from scratch, and practice in an intuitive environment. The challenges are based on real-world projects to ensure you learn best practices one step at a time.",
@@ -5759,8 +5760,8 @@ const lajpatnagarTraining = [
   {
     title: "C++ Training",
     heading:
-      "C++ Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "C++ Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "C++ is a popular object-oriented programming language because it can be used to create different types of web solutions, and improve cybersecurity. WsCube Tech offers the best C++ programming course in Jodhpur. Explore our best-rated and hands-on training to learn from the ground up or expand your knowledge.",
@@ -5788,7 +5789,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our C++ Training in Ghaziabad",
+    overviewHeading: "Overview of our C++ Training in Lajpat Nagar",
     overview: [
       "C++ or CPP programming is a well-known language and is popular as an extension of C programming. It is commonly used for cross-platform development. One can learn it to build solid websites and apps.",
       "This course by Wscube Tech emphasizes 'how' rather than 'what.' For example, in the function lesson, we teach how to create a function in C++ rather than what a function is. Developers and programmers",
@@ -6335,8 +6336,8 @@ const lajpatnagarTraining = [
   {
     title: "SEO Training",
     heading:
-      "SEO Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "SEO Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "Become a highly skilled and certified SEO expert by learning search engine optimization from experienced digital marketers. It is one of the most demanded skills today with opportunities to build a great career.",
@@ -6364,7 +6365,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our SEO Course  Training in Ghaziabad",
+    overviewHeading: "Overview of our SEO Course  Training in Lajpat Nagar",
     overview: [
       "SEO or Search Engine Optimization is the skill that helps businesses & website owners to rank on the first page of Google and other search engines for the queries people search for related to their services or products. ",
       "Every business wants its website to have massive traffic so that it can generate more sales and grow the business online. This has made SEO an in-demand skill. From startups to small businesses to MNCs & top brands, every organization is hiring skilled SEO professionals ",
@@ -6938,8 +6939,8 @@ const lajpatnagarTraining = [
   {
     title: "Digital Marketing Training",
     heading:
-      "Digital Marketing Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Digital Marketing Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       " If your aim is to master digital marketing skills practically and build a promising career in this field, WsCube Tech’s job-oriented and 100% practical Digital Marketing Course in Jodhpur is for you.",
@@ -6967,7 +6968,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of our Web Development Training in Lajpat Nagar",
     overview: [
       "As every business shifts online to boost business growth, digital marketing plays the role of a primary catalyst. It is the era of digital marketing and opens doors to new career opportunities for anyone who is interested in making it big in the future. ",
       "If you have the right skills, you will be on your way to not only building a great career, but also starting your own agency. At WsCube Tech, we aim to help you acquire all types of digital marketing skills, including SEO (Search Engine Optimization), Social Media Marketing (SMM), Google Ads, YouTube Marketing, Content Marketing, App Store Optimization (ASO), Email Marketing, and much more. ",
@@ -7427,15 +7428,14 @@ const lajpatnagarTraining = [
     ],
     whatsappNumber: "919631005476",
   },
-  
 
   // Content Writing Course
 
   {
     title: "Content Writing  Training",
     heading:
-      "Content Writing  Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Content Writing  Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "Want to kickstart your career as a skilled content writer and make it big? Master the art of writing different types of content with the classroom-based content writing course in Jodhpur.",
@@ -7463,7 +7463,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of our Web Development Training in Lajpat Nagar",
     overview: [
       "The demand for Content Writers has dramatically increased over the last few years. The reasons behind this fast-growing demand are businesses shifting online. Every business and website requires content in the form of articles, web content, landing pages, press releases, professional emails, guest posts, case studies, and more. ",
       "Moreover, to improve the ranking of the website on Google, quality content plays the biggest role. This is why Content is called the King in SEO and Digital Marketing. ",
@@ -7599,18 +7599,15 @@ const lajpatnagarTraining = [
         title: "Planning Your Content",
         lectures: [
           {
-            title:
-              "Creating content calendars",
+            title: "Creating content calendars",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Research and topic selection",
+            title: "Research and topic selection",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Generating content ideas",
+            title: "Generating content ideas",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -7619,8 +7616,7 @@ const lajpatnagarTraining = [
         title: "Blog and Article Writing",
         lectures: [
           {
-            title:
-              "Structure of a blog post or article",
+            title: "Structure of a blog post or article",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7637,8 +7633,7 @@ const lajpatnagarTraining = [
         title: "Social Media Writing",
         lectures: [
           {
-            title:
-              "Adapting content for different social media platforms",
+            title: "Adapting content for different social media platforms",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7655,18 +7650,15 @@ const lajpatnagarTraining = [
         title: " Content Editing and Proofreading ",
         lectures: [
           {
-            title:
-              " Self-editing techniques ",
+            title: " Self-editing techniques ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Peer editing and feedback ",
+            title: " Peer editing and feedback ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Common proofreading mistakes to avoid ",
+            title: " Common proofreading mistakes to avoid ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -7675,18 +7667,15 @@ const lajpatnagarTraining = [
         title: "Content Promotion and Distribution ",
         lectures: [
           {
-            title:
-              " Strategies for sharing and promoting content ",
+            title: " Strategies for sharing and promoting content ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Building an online presence ",
+            title: " Building an online presence ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Measuring content performance",
+            title: "  Measuring content performance",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -7695,18 +7684,15 @@ const lajpatnagarTraining = [
         title: " Content Strategy ",
         lectures: [
           {
-            title:
-              " Developing a content strategy ",
+            title: " Developing a content strategy ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Content planning tools and resources ",
+            title: " Content planning tools and resources ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Creating a content style guide ",
+            title: " Creating a content style guide ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -7715,18 +7701,15 @@ const lajpatnagarTraining = [
         title: " Guest Blogging and Outreach ",
         lectures: [
           {
-            title:
-              " Benefits of guest blogging ",
+            title: " Benefits of guest blogging ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Pitching guest posts to websites",
+            title: "  Pitching guest posts to websites",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Building relationships with editors and publishers ",
+            title: " Building relationships with editors and publishers ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -7735,18 +7718,15 @@ const lajpatnagarTraining = [
         title: " Content Analytics ",
         lectures: [
           {
-            title:
-              " Introduction to analytics tools ",
+            title: " Introduction to analytics tools ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Tracking and measuring content success ",
+            title: " Tracking and measuring content success ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Making data-driven content decisions",
+            title: "  Making data-driven content decisions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -7755,13 +7735,11 @@ const lajpatnagarTraining = [
         title: " Final Projects and Portfolio Building ",
         lectures: [
           {
-            title:
-              " Students will work on a final content writing project. ",
+            title: " Students will work on a final content writing project. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Review and feedback on final projects. ",
+            title: " Review and feedback on final projects. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -7771,8 +7749,6 @@ const lajpatnagarTraining = [
           },
         ],
       },
-     
-      
     ],
     features: [
       {
@@ -7809,16 +7785,13 @@ const lajpatnagarTraining = [
     whatsappNumber: "919631005476",
   },
 
-
-
   //google ads course
 
-  
   {
     title: "Google Ads Training",
     heading:
-      "Google Ads Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Google Ads Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       " With WsCube Tech’s Google Ads training in Jodhpur, you will discover the secrets of placing your website and business in front of the right customers and getting their attention through customised Google ad campaigns. Our course will take you from basics to advanced concepts strategically so you can understand how to launch different campaigns using various Google Ads tools.",
@@ -7846,7 +7819,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Google Ads Training in Ghaziabad",
+    overviewHeading: "Overview of our Google Ads Training in Lajpat Nagar",
     overview: [
       "Google Ads, formerly Google AdWords, is an online advertising platform by Google which allows advertisers to bid to display their ads, such as product listings, brief commercials, videos, or service offerings at the top of search results.",
       "It has become a crucial digital marketing strategy to grab prospects’ attention and drive quality traffic. Companies are looking for skilled Google Ads experts to implement and execute their marketing campaigns and generate the best results. If you are looking for PPC training in Jodhpur, then WsCube Tech is the perfect destination. ",
@@ -7856,7 +7829,6 @@ const lajpatnagarTraining = [
       " Our mentors will explain every topic through demonstration and take you through each step of launching an effective Google Ads campaign for local and global customers. ",
       " You will also work on multiple projects and gain hands-on experience. Upon completing the course, you will receive a professional certificate that will make you stand out and help you find your dream job. ",
       " So, enrol in our course now to learn about Google Ads in Jodhpur from industry leaders. ",
-
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -7880,8 +7852,6 @@ const lajpatnagarTraining = [
             title: " Understanding the Importance of Landing Pages  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-          
         ],
       },
       {
@@ -7903,8 +7873,6 @@ const lajpatnagarTraining = [
             title: "   Reporting",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-          
         ],
       },
       {
@@ -7926,8 +7894,6 @@ const lajpatnagarTraining = [
             title: " Reporting  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-          
         ],
       },
       {
@@ -7941,9 +7907,6 @@ const lajpatnagarTraining = [
             title: "Everything about Remarketing Ads  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
-         
-          
         ],
       },
       {
@@ -7965,8 +7928,6 @@ const lajpatnagarTraining = [
             title: "  Optimization strategies ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-          
         ],
       },
       {
@@ -7988,8 +7949,6 @@ const lajpatnagarTraining = [
             title: " Optimization strategies  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-          
         ],
       },
       {
@@ -7999,9 +7958,6 @@ const lajpatnagarTraining = [
             title: " Understanding all the settings in Google Ads ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-       
-         
-          
         ],
       },
       {
@@ -8019,9 +7975,6 @@ const lajpatnagarTraining = [
             title: " How to run Call Only ads? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-           
-         
-          
         ],
       },
       {
@@ -8043,8 +7996,6 @@ const lajpatnagarTraining = [
             title: "  Understanding In-depth Optimization of Google Ads ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-          
         ],
       },
       {
@@ -8062,15 +8013,11 @@ const lajpatnagarTraining = [
             title: " How to optimize Google Ad campaigns for conversions? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-         
-          
         ],
       },
       {
         title: " Core and Important Topics ",
         lectures: [
-         
           {
             title: " Google Ads Checklists ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
@@ -8095,12 +8042,8 @@ const lajpatnagarTraining = [
             title: " Scripts and Tracking in Google Ads  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-          
         ],
       },
-     
-     
     ],
     features: [
       {
@@ -8137,16 +8080,13 @@ const lajpatnagarTraining = [
     whatsappNumber: "919631005476",
   },
 
-
-
-
   // android app development course
 
   {
     title: "Android App Development Training",
     heading:
-      "Android App Development Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Android App Development Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "The number of businesses that build Android apps every year is highly increasing. To offer end users a native mobile experience on smartphones, mobile apps play the most significant part.",
@@ -8174,7 +8114,8 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Android App Development Training in Ghaziabad",
+    overviewHeading:
+      "Overview of our Android App Development Training in Lajpat Nagar",
     overview: [
       "There are over 2.59 million apps on Google Play Store today. Android apps are dominating the market with most of the brands and startups accelerating their business growth with intuitive applications.",
       "Android is here to stay and opens door to new career opportunities. Whether you are a learner, graduate, job seeker, business owner, or anyone who wants to build a great career, the time to learn Android App Development is now.",
@@ -8194,14 +8135,14 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Setting up the development environment (Android Studio, SDK). ",
+            title:
+              " Setting up the development environment (Android Studio, SDK). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: " Creating your first Android project. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -8261,7 +8202,6 @@ const lajpatnagarTraining = [
             title: "  Customizing app themes and styles.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -8342,7 +8282,6 @@ const lajpatnagarTraining = [
             title: " Managing background threads and services. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -8360,7 +8299,6 @@ const lajpatnagarTraining = [
             title: " OAuth integration (e.g., Google Sign-In). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-           
         ],
       },
       {
@@ -8378,7 +8316,6 @@ const lajpatnagarTraining = [
             title: " Geolocation and location-based services. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -8396,7 +8333,6 @@ const lajpatnagarTraining = [
             title: " Analyzing user behavior with Firebase Analytics. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-           
         ],
       },
       {
@@ -8414,7 +8350,6 @@ const lajpatnagarTraining = [
             title: " Publishing apps to Google Play Store. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -8432,7 +8367,6 @@ const lajpatnagarTraining = [
             title: " Project presentations and demos. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
     ],
@@ -8476,8 +8410,8 @@ const lajpatnagarTraining = [
   {
     title: "Flutter App Development Training",
     heading:
-      "Flutter Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Flutter Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "Want to learn Flutter app development and master the skills of developing mobile apps for Android, iOS, and other platforms? WsCube Tech’s practical-oriented Flutter Course in Jodhpur with certification and job assistance is for you.",
@@ -8505,7 +8439,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Flutter Training in Ghaziabad",
+    overviewHeading: "Overview of our Flutter Training in Lajpat Nagar",
     overview: [
       "Flutter is an app development framework built by the tech giant Google. It is in high demand today because it enables the development of apps that can work for Android, iOS, desktop, and other platforms, without writing different code for every platform.",
       "If a mobile app is built for Android and iOS without the Flutter framework, there will be the need for two different development teams. One for the Android app and another for the iOS app. But Flutter uses Dart programming and avoids the need for writing different code for Android and iOS.",
@@ -8530,7 +8464,6 @@ const lajpatnagarTraining = [
             title: "Setting up the development environment. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-           
         ],
       },
       {
@@ -8548,7 +8481,6 @@ const lajpatnagarTraining = [
             title: "Object-oriented programming in Dart. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -8566,7 +8498,6 @@ const lajpatnagarTraining = [
             title: " Styling and theming.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -8584,7 +8515,6 @@ const lajpatnagarTraining = [
             title: " Navigation drawers and tabs.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -8602,7 +8532,6 @@ const lajpatnagarTraining = [
             title: "BLoC pattern for advanced state management. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-           
         ],
       },
       {
@@ -8620,7 +8549,6 @@ const lajpatnagarTraining = [
             title: " Gestures and touch interactions.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -8638,7 +8566,6 @@ const lajpatnagarTraining = [
             title: "Best practices for data management. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -8656,7 +8583,6 @@ const lajpatnagarTraining = [
             title: " Test-driven development (TDD) practices.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-           
         ],
       },
       {
@@ -8674,7 +8600,6 @@ const lajpatnagarTraining = [
             title: "Profiling and memory management. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -8692,7 +8617,6 @@ const lajpatnagarTraining = [
             title: " Right-to-left (RTL) language support.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -8703,10 +8627,10 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Adapting Flutter apps for desktop platforms (Windows, macOS, Linux). ",
+            title:
+              " Adapting Flutter apps for desktop platforms (Windows, macOS, Linux). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -8724,7 +8648,6 @@ const lajpatnagarTraining = [
             title: " Publishing to Google Play Store and Apple App Store.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -8742,8 +8665,6 @@ const lajpatnagarTraining = [
             title: " Capstone project development and presentation.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-        
         ],
       },
       {
@@ -8758,15 +8679,14 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Final capstone project: Developing a complex Flutter application.",
+            title:
+              " Final capstone project: Developing a complex Flutter application.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: "Participation in class discussions and peer reviews.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-        
         ],
       },
     ],
@@ -8810,8 +8730,8 @@ const lajpatnagarTraining = [
   {
     title: "Data Science Training",
     heading:
-      "Data Science Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Data Science Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
@@ -8839,13 +8759,13 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Data Science Training in Ghaziabad",
+    overviewHeading: "Overview of our Data Science Training in Lajpat Nagar",
     overview: [
-       "yakeen Tech offers the most comprehensive, practical-oriented, and the best data science course in Jodhpur. Whether you are a beginner or have some prior experience, this course is the right fit for you as our expert mentors cover everything from scratch. ",
-       "Starting with Python programming and data analysis, and going deep down to machine learning, deep learning, and artificial intelligence (AI), you will learn all the concepts in detail. It’s 6-month data science training in Jodhpur with certificate and placement assistance. ",
-       "During this classroom course, you will master data science skills, including data collection, extraction, integration, data mining, statistical analysis, predictive analysis, and numerous essential concepts. By the end of the training in data science, you will be on your way to kickstarting a thriving career as a successful Data Scientist. ",
-       "Trusted by 28,000+ candidates all over India for both classroom and online data science course, we believe in helping our learners build a great career. Plenty of our learners are working with top organizations like TCS, Infosys, E&Y, Accenture, IBM, and VMWare ",
-       " It’s time for you to choose the best data science course and start mastering advanced skills with WsCube Tech!",
+      "yakeen Tech offers the most comprehensive, practical-oriented, and the best data science course in Jodhpur. Whether you are a beginner or have some prior experience, this course is the right fit for you as our expert mentors cover everything from scratch. ",
+      "Starting with Python programming and data analysis, and going deep down to machine learning, deep learning, and artificial intelligence (AI), you will learn all the concepts in detail. It’s 6-month data science training in Jodhpur with certificate and placement assistance. ",
+      "During this classroom course, you will master data science skills, including data collection, extraction, integration, data mining, statistical analysis, predictive analysis, and numerous essential concepts. By the end of the training in data science, you will be on your way to kickstarting a thriving career as a successful Data Scientist. ",
+      "Trusted by 28,000+ candidates all over India for both classroom and online data science course, we believe in helping our learners build a great career. Plenty of our learners are working with top organizations like TCS, Infosys, E&Y, Accenture, IBM, and VMWare ",
+      " It’s time for you to choose the best data science course and start mastering advanced skills with WsCube Tech!",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -8865,7 +8785,6 @@ const lajpatnagarTraining = [
             title: " The data science workflow. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -8897,7 +8816,8 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "  Data visualization (scatter plots, histograms, box plots, etc.).",
+            title:
+              "  Data visualization (scatter plots, histograms, box plots, etc.).",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -8918,7 +8838,8 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Tools for data visualization (e.g., Matplotlib, Seaborn, D3.js). ",
+            title:
+              " Tools for data visualization (e.g., Matplotlib, Seaborn, D3.js). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -8960,11 +8881,13 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "Supervised learning (e.g., linear regression, decision trees, random forests).  ",
+            title:
+              "Supervised learning (e.g., linear regression, decision trees, random forests).  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Unsupervised learning (e.g., clustering, dimensionality reduction). ",
+            title:
+              " Unsupervised learning (e.g., clustering, dimensionality reduction). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -9051,7 +8974,6 @@ const lajpatnagarTraining = [
             title: " Bias and fairness in machine learning. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -9069,7 +8991,6 @@ const lajpatnagarTraining = [
             title: " Feature scaling and normalization. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9087,7 +9008,6 @@ const lajpatnagarTraining = [
             title: " Monitoring and maintaining deployed models. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -9098,14 +9018,14 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Solving a real-world problem using data science techniques. ",
+            title:
+              " Solving a real-world problem using data science techniques. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: " Presentation and report on the capstone project. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9116,11 +9036,13 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Familiarity with data science libraries and frameworks (e.g., NumPy, pandas, scikit-learn, TensorFlow, PyTorch). ",
+            title:
+              " Familiarity with data science libraries and frameworks (e.g., NumPy, pandas, scikit-learn, TensorFlow, PyTorch). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Data visualization tools (e.g., Matplotlib, Seaborn, Plotly). ",
+            title:
+              " Data visualization tools (e.g., Matplotlib, Seaborn, Plotly). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -9144,12 +9066,8 @@ const lajpatnagarTraining = [
             title: " Building a career in data science. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
-
-     
-       
     ],
     features: [
       {
@@ -9191,13 +9109,12 @@ const lajpatnagarTraining = [
   {
     title: "Graphic Designing Training",
     heading:
-      "Graphic Designing Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Graphic Designing Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-     "Jumpstart your career as a top-class Graphic Designer by mastering the art of creating all sorts of graphics. WsCube Tech brings you the classroom-based Graphic Design Course in Jodhpur, where you will learn the skills from a professional & experienced graphic designer. ",
-     " The course covers all the primary graphic design tools, including Adobe Photoshop training, Illustrator training, CorelDRAW training, as well as Adobe InDesign training. By the end of this graphic design course, you will become a certified graphic designer and also get job assistance.",
-
+      "Jumpstart your career as a top-class Graphic Designer by mastering the art of creating all sorts of graphics. WsCube Tech brings you the classroom-based Graphic Design Course in Jodhpur, where you will learn the skills from a professional & experienced graphic designer. ",
+      " The course covers all the primary graphic design tools, including Adobe Photoshop training, Illustrator training, CorelDRAW training, as well as Adobe InDesign training. By the end of this graphic design course, you will become a certified graphic designer and also get job assistance.",
     ],
     batchDetails: [
       {
@@ -9221,13 +9138,12 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of our Web Development Training in Lajpat Nagar",
     overview: [
-     " As the businesses shift online with websites, social media, visual ads, YouTube, and many other platforms, the demand for graphic designers is on the boom. Graphic designers are the artists who create visually appealing graphics for various purposes. It includes social media graphic design (posts, stories, covers, etc.), YouTube thumbnails, business logos, banners, brochures, ad graphics, presentations, pamphlets, business cards, and much more.",
-     "In the Graphic Designing Course in Jodhpur by WsCube Tech, you will learn how to create visually-appealing and business-oriented graphics of all types. You don’t need to have any prior experience in graphic design as we cover everything from zero level. ",
-     " We focus on making you skilled and job-ready to help you build a great career in the field of graphic designing. You can choose to go for a full-time job, become a freelance graphic designer, or start your own business.",
-     "Become a certified graphic designer with our Graphic Designing and Photoshop classes in Jodhpur. Take 2-days of FREE demo classes to start learning confidently! ",
-   
+      " As the businesses shift online with websites, social media, visual ads, YouTube, and many other platforms, the demand for graphic designers is on the boom. Graphic designers are the artists who create visually appealing graphics for various purposes. It includes social media graphic design (posts, stories, covers, etc.), YouTube thumbnails, business logos, banners, brochures, ad graphics, presentations, pamphlets, business cards, and much more.",
+      "In the Graphic Designing Course in Jodhpur by WsCube Tech, you will learn how to create visually-appealing and business-oriented graphics of all types. You don’t need to have any prior experience in graphic design as we cover everything from zero level. ",
+      " We focus on making you skilled and job-ready to help you build a great career in the field of graphic designing. You can choose to go for a full-time job, become a freelance graphic designer, or start your own business.",
+      "Become a certified graphic designer with our Graphic Designing and Photoshop classes in Jodhpur. Take 2-days of FREE demo classes to start learning confidently! ",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -9247,7 +9163,6 @@ const lajpatnagarTraining = [
             title: " The role of graphic designers in various industries. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9275,14 +9190,14 @@ const lajpatnagarTraining = [
         title: "   Design Software ",
         lectures: [
           {
-            title: " Introduction to design software (e.g., Adobe Creative Suite - Photoshop, Illustrator, InDesign). ",
+            title:
+              " Introduction to design software (e.g., Adobe Creative Suite - Photoshop, Illustrator, InDesign). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: " Basic tools and features of graphic design software. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9321,7 +9236,6 @@ const lajpatnagarTraining = [
             title: "Image compositing and retouching.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -9339,7 +9253,6 @@ const lajpatnagarTraining = [
             title: " Logo design and vector art. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -9357,7 +9270,6 @@ const lajpatnagarTraining = [
             title: " Grid systems and page hierarchy. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9375,7 +9287,6 @@ const lajpatnagarTraining = [
             title: " Corporate branding case studies. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9393,7 +9304,6 @@ const lajpatnagarTraining = [
             title: "  Designing for mobile and responsive web design. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9411,7 +9321,6 @@ const lajpatnagarTraining = [
             title: " Print collateral (business cards, flyers, posters). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9429,7 +9338,6 @@ const lajpatnagarTraining = [
             title: " Sustainable packaging design. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-           
         ],
       },
       {
@@ -9447,7 +9355,6 @@ const lajpatnagarTraining = [
             title: " Creating animated graphics. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9465,7 +9372,6 @@ const lajpatnagarTraining = [
             title: "Presentation and self-promotion.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -9479,7 +9385,6 @@ const lajpatnagarTraining = [
             title: " Ethical considerations in graphic design. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -9493,7 +9398,6 @@ const lajpatnagarTraining = [
             title: " Exploring new design tools and technologies. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9507,7 +9411,6 @@ const lajpatnagarTraining = [
             title: " Conducting workshops on specialized topics. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -9521,21 +9424,18 @@ const lajpatnagarTraining = [
             title: " Critiques and feedback sessions. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
         title: " Final Project  ",
         lectures: [
           {
-            title: "  A comprehensive design project that demonstrates the skills and knowledge acquired during the course.",
+            title:
+              "  A comprehensive design project that demonstrates the skills and knowledge acquired during the course.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-         
         ],
       },
-     
     ],
     features: [
       {
@@ -9577,13 +9477,13 @@ const lajpatnagarTraining = [
   {
     title: "Data Analytics Training",
     heading:
-      "Data Analytics Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Data Analytics Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-     " Join the best data analytics training in Jodhpur and get insights into Data Mining, Power BI, Data Visualization, and more. Get trained by industry experts and professionals who have worked in this field for years and have taught in leading institutes. With WsCube Tech, you get to learn through hands-on projects, assessments, group activities, and case studies.",
-     "By the end of the course, you will gain a fair understanding of data analytics tools and techniques, Python programming, working with SQL databases, creating visualisations, predictive analytics, and utilising statistics. ",
-     "So, enrol in our data analyst course in Jodhpur now and earn an industry-recognised certificate to accelerate your career growth. ",
+      " Join the best data analytics training in Jodhpur and get insights into Data Mining, Power BI, Data Visualization, and more. Get trained by industry experts and professionals who have worked in this field for years and have taught in leading institutes. With WsCube Tech, you get to learn through hands-on projects, assessments, group activities, and case studies.",
+      "By the end of the course, you will gain a fair understanding of data analytics tools and techniques, Python programming, working with SQL databases, creating visualisations, predictive analytics, and utilising statistics. ",
+      "So, enrol in our data analyst course in Jodhpur now and earn an industry-recognised certificate to accelerate your career growth. ",
     ],
     batchDetails: [
       {
@@ -9607,7 +9507,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Data Analytics Training in Ghaziabad",
+    overviewHeading: "Overview of our Data Analytics Training in Lajpat Nagar",
     overview: [
       " Data Analytics is a process of analysing data, getting insights, and representing them in a meaningful and readable format, such as plots, reports, charts, and dashboards. It aims at helping users make informed business decisions.",
       " yakeen Tech offers a career-oriented data analytics course in Jodhpur to freshers, college learners, working professionals, and freelancers. During the training, you will gain knowledge of this domain, including data transformation, data optimisation, using algorithms to solve complex business problems, data visualisation, and data science project execution.",
@@ -9631,14 +9531,14 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Types of data (structured, unstructured, semi-structured). ",
+            title:
+              " Types of data (structured, unstructured, semi-structured). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: "  Data analytics tools and software.",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9660,18 +9560,19 @@ const lajpatnagarTraining = [
             title: "Data integration and transformation.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
         ],
       },
       {
         title: " Exploratory Data Analysis (EDA) ",
         lectures: [
           {
-            title: " Descriptive statistics (mean, median, mode, variance, standard deviation). ",
+            title:
+              " Descriptive statistics (mean, median, mode, variance, standard deviation). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Data visualization (scatter plots, histograms, box plots, etc.). ",
+            title:
+              " Data visualization (scatter plots, histograms, box plots, etc.). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -9682,7 +9583,6 @@ const lajpatnagarTraining = [
             title: " Outlier detection. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
         ],
       },
       {
@@ -9693,7 +9593,8 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Tools for data visualization (e.g., Tableau, Matplotlib, ggplot2). ",
+            title:
+              " Tools for data visualization (e.g., Tableau, Matplotlib, ggplot2). ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -9704,7 +9605,6 @@ const lajpatnagarTraining = [
             title: " Storytelling with data. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9726,7 +9626,6 @@ const lajpatnagarTraining = [
             title: "ANOVA (Analysis of Variance).  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9748,7 +9647,6 @@ const lajpatnagarTraining = [
             title: "Model evaluation and validation.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -9770,7 +9668,6 @@ const lajpatnagarTraining = [
             title: " Time series analysis. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -9792,7 +9689,6 @@ const lajpatnagarTraining = [
             title: "NoSQL databases.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -9810,7 +9706,6 @@ const lajpatnagarTraining = [
             title: " Data anonymization and de-identification. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
@@ -9828,36 +9723,35 @@ const lajpatnagarTraining = [
             title: " Group projects and presentations. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
       {
         title: "  Capstone Project ",
         lectures: [
           {
-            title: " A substantial project applying data analytics skills to a complex problem. ",
+            title:
+              " A substantial project applying data analytics skills to a complex problem. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: " Presentation and report on the capstone project ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
         title: " Data Analytics Tools and Technologies  ",
         lectures: [
           {
-            title: "Proficiency in tools such as Python, R, SQL, and relevant libraries.  ",
+            title:
+              "Proficiency in tools such as Python, R, SQL, and relevant libraries.  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Familiarity with data analytics platforms like Jupyter Notebook and RStudio ",
+            title:
+              " Familiarity with data analytics platforms like Jupyter Notebook and RStudio ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
-         
         ],
       },
       {
@@ -9875,11 +9769,8 @@ const lajpatnagarTraining = [
             title: " Building a career in data analytics. ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
-
-   
     ],
     features: [
       {
@@ -9921,8 +9812,8 @@ const lajpatnagarTraining = [
   {
     title: "Ethical Hacking Training",
     heading:
-      "Ethical Hacking Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Ethical Hacking Training in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       " Want to become a Certified Ethical Hacker (CEH)? Join the complete ethical hacking course (beginner to advanced) today and learn how to work as a proficient security expert. The course covers all the essential modules, latest hacking tools, techniques, advanced methodologies to find vulnerabilities in systems, networks, and devices.",
@@ -9950,12 +9841,11 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Ethical Hacking Training in Ghaziabad",
+    overviewHeading: "Overview of our Ethical Hacking Training in Lajpat Nagar",
     overview: [
-     " Ethical hacking has become one of the most lucrative career options in India and globally. A challenging and skill-based job, ethical hackers get paid well while doing what they love. Ethical hacking certification training by WsCube Tech will help you learn every aspect of the field from scratch",
-     " Throughout this complete ethical hacking course, you will learn concepts like computer networking, attack vectors, enumeration, malware, ransomware, phishing, DoS/DDoS, footprinting, social engineering, and work on relevant tools essential to become a certified ethical hacker.",
-     "Our offline ethical hacking classes in Jodhpur with certification train you for several roles in this field, like System Administrator, Security Analyst, Penetration Tester, Cybersecurity Expert, Network Security Administrator, and more. ",
-     
+      " Ethical hacking has become one of the most lucrative career options in India and globally. A challenging and skill-based job, ethical hackers get paid well while doing what they love. Ethical hacking certification training by WsCube Tech will help you learn every aspect of the field from scratch",
+      " Throughout this complete ethical hacking course, you will learn concepts like computer networking, attack vectors, enumeration, malware, ransomware, phishing, DoS/DDoS, footprinting, social engineering, and work on relevant tools essential to become a certified ethical hacker.",
+      "Our offline ethical hacking classes in Jodhpur with certification train you for several roles in this field, like System Administrator, Security Analyst, Penetration Tester, Cybersecurity Expert, Network Security Administrator, and more. ",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -10059,20 +9949,17 @@ const lajpatnagarTraining = [
             title: "Capturing and Analyzing Network Packets (Wireshark) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
         title: "INTRODUCTION TO ETHICAL HACKING",
         lectures: [
           {
-            title:
-              " What is Ethical Hacking? ",
+            title: " What is Ethical Hacking? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of Hackers ",
+            title: " Types of Hackers ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10080,13 +9967,11 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Cybersecurity Laws",
+            title: "  Cybersecurity Laws",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " What is Linux? ",
+            title: " What is Linux? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10094,20 +9979,17 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Basic File System of Linux ",
+            title: " Basic File System of Linux ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Basic Linux Commands (Practical) ",
+            title: " Basic Linux Commands (Practical) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: " Advance Linux Commands (Practical) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
       {
@@ -10118,8 +10000,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Configuring Kali Linux ",
+            title: " Configuring Kali Linux ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10131,8 +10012,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Installing Acunetix Pro  ",
+            title: "Installing Acunetix Pro  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10153,33 +10033,27 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Use of Footprinting & Reconnaissance ",
+            title: " Use of Footprinting & Reconnaissance ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Footprinting Through Search Engines",
+            title: "  Footprinting Through Search Engines",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Footprinting using Advanced Google Hacking Techniques ",
+            title: " Footprinting using Advanced Google Hacking Techniques ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Footprinting Through Social Networking Sites ",
+            title: " Footprinting Through Social Networking Sites ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Website Footprinting (Netcraft, Wappalyzer) ",
+            title: " Website Footprinting (Netcraft, Wappalyzer) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Email Footprinting (Email tracker pro)  ",
+            title: "Email Footprinting (Email tracker pro)  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10188,80 +10062,66 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " WHOIS Footprinting ",
+            title: " WHOIS Footprinting ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Footprinting Through OSINT Framework",
+            title: "  Footprinting Through OSINT Framework",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
-        title: "SCANNING NETWORKS (Ping, Nmap, Zenmap, Messcan, armitage,hping3)",
+        title:
+          "SCANNING NETWORKS (Ping, Nmap, Zenmap, Messcan, armitage,hping3)",
         lectures: [
           {
-            title:
-              " What is Network Scanning?",
+            title: " What is Network Scanning?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Network Scanning Methodology",
+            title: " Network Scanning Methodology",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of Network Scans",
+            title: " Types of Network Scans",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Checking for Live Systems and Buffer Size ",
+            title: "Checking for Live Systems and Buffer Size ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Checking for Open Ports",
+            title: " Checking for Open Ports",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Checking for Services On Ports ",
+            title: "Checking for Services On Ports ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Checking for Software with versions",
+            title: " Checking for Software with versions",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "OS Fingerprinting & Banner Grabbing ",
+            title: "OS Fingerprinting & Banner Grabbing ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Countermeasures",
+            title: " Countermeasures",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Saving xml report for Metasploit & Conversion",
+            title: " Saving xml report for Metasploit & Conversion",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
         title: "ENUMERATION",
         lectures: [
           {
-            title:
-              "  What is Enumeration?",
+            title: "  What is Enumeration?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10269,8 +10129,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Default Ports ",
+            title: " Default Ports ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10278,8 +10137,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to Enumerate SNMP?  ",
+            title: "How to Enumerate SNMP?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10287,8 +10145,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  How to Enumerate NFS?",
+            title: "  How to Enumerate NFS?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10296,28 +10153,24 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to Enumerate all Services? ",
+            title: " How to Enumerate all Services? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: " Countermeasures ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
         title: "VULNERABILITY ASSESSMENT",
         lectures: [
-          
           {
             title: " Classification of Vulnerability ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Classification of Vulnerability ",
+            title: "Classification of Vulnerability ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10325,8 +10178,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Vulnerability Assessment Solutions ",
+            title: "Vulnerability Assessment Solutions ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10342,7 +10194,6 @@ const lajpatnagarTraining = [
             title: " Vulnerability Scanning - ZAP (OWASP) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -10354,54 +10205,44 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Changing User Agent (Random User Agent Switcher) ",
+            title: " Changing User Agent (Random User Agent Switcher) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Changing MAC Address (Macchanger)",
+            title: "Changing MAC Address (Macchanger)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              " Auto Run Shell Script (MAC Changer) ",
+            title: " Auto Run Shell Script (MAC Changer) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Changing Wi-Fi MAC Address  ",
+            title: "Changing Wi-Fi MAC Address  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Configuring Proxy (Mannual and tor proxy)",
+            title: "  Configuring Proxy (Mannual and tor proxy)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Configuring VPN (Free VPN) ",
+            title: " Configuring VPN (Free VPN) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Who is best for IP Anonymous?  ",
+            title: "Who is best for IP Anonymous?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Anonymous Configuration in Linux",
+            title: "  Anonymous Configuration in Linux",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Accessing Dark Web (Tor Browser) ",
+            title: " Accessing Dark Web (Tor Browser) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Creating Dark Web Website (tor Server) ",
+            title: " Creating Dark Web Website (tor Server) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -10414,13 +10255,11 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " System Hacking Methodology ",
+            title: " System Hacking Methodology ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Cracking Windows Password (Pwdump, ophcrack, lophcrack)",
+            title: " Cracking Windows Password (Pwdump, ophcrack, lophcrack)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10428,22 +10267,20 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Escalate Privileges in Windows OS ",
+            title: " Escalate Privileges in Windows OS ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Escalate Privileges in Windows OS",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title:
-              " Escalate Privileges in Windows OS",
+              " System Hacking using URL(Camera, Location, Passwords and more) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " System Hacking using URL(Camera, Location, Passwords and more) ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title:
-              " URL Masking ",
+            title: " URL Masking ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10456,16 +10293,13 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of Steganography ",
+            title: " Types of Steganography ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Steganography Practical ",
+            title: "Steganography Practical ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -10473,18 +10307,15 @@ const lajpatnagarTraining = [
         title: "MALWARE THREATS",
         lectures: [
           {
-            title:
-              " What is Malware?",
+            title: " What is Malware?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Example of Malware ",
+            title: " Example of Malware ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " What is Trojan? ",
+            title: " What is Trojan? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10492,8 +10323,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " What is Trojan? ",
+            title: " What is Trojan? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10501,8 +10331,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types of Malware Analysis  ",
+            title: "Types of Malware Analysis  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10518,15 +10347,13 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Creating Payloads (MSF)",
+            title: "  Creating Payloads (MSF)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: " Creating Undetectable Payloads ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-          
         ],
       },
 
@@ -10534,72 +10361,59 @@ const lajpatnagarTraining = [
         title: "SNIFFING",
         lectures: [
           {
-            title:
-              "What is Sniffing?",
+            title: "What is Sniffing?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How an Attacker Hacks the Network Using Sniffers?",
+            title: "How an Attacker Hacks the Network Using Sniffers?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              " Active Scanning Techniques",
+            title: " Active Scanning Techniques",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of Sniffing",
+            title: " Types of Sniffing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Protocols Vulnerable to Sniffing",
+            title: " Protocols Vulnerable to Sniffing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " MAC Spoofing",
+            title: " MAC Spoofing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " MAC Flooding",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },{
-            title:
-              "DHCP Flooding ",
+            title: " MAC Flooding",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Setup DHCP Rouge (MITM Attack)",
+            title: "DHCP Flooding ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " MITM Attack",
+            title: " Setup DHCP Rouge (MITM Attack)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Sniffing with Wireshark ",
+            title: " MITM Attack",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Sniffing with Wireshark ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              " ",
+            title: " ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " ",
+            title: " ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -10607,36 +10421,29 @@ const lajpatnagarTraining = [
         title: "SOCIAL ENGINEERING",
         lectures: [
           {
-            title:
-              " What is Social Engineering?",
+            title: " What is Social Engineering?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of Social Engineering",
+            title: " Types of Social Engineering",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Human-based Social Engineering ",
+            title: "Human-based Social Engineering ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Computer-based Social Engineering ",
+            title: "Computer-based Social Engineering ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Mobile-based Social Engineering",
+            title: " Mobile-based Social Engineering",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Social Engineering Using SET",
+            title: " Social Engineering Using SET",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -10644,8 +10451,7 @@ const lajpatnagarTraining = [
         title: "DOS & DDOS ATTACKS",
         lectures: [
           {
-            title:
-              "What is DoS Attack?",
+            title: "What is DoS Attack?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10653,18 +10459,15 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Basic Categories of DoS/DDoS Attack Vectors",
+            title: "Basic Categories of DoS/DDoS Attack Vectors",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "DoS in Networking (hping3, MSF, yersiniya)",
+            title: "DoS in Networking (hping3, MSF, yersiniya)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "DoS in Websites",
+            title: "DoS in Websites",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10683,18 +10486,15 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Why is Session Hijacking Successful? ",
+            title: " Why is Session Hijacking Successful? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Session Hijacking Process ",
+            title: " Session Hijacking Process ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types of session Hijacking  ",
+            title: "Types of session Hijacking  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10702,7 +10502,6 @@ const lajpatnagarTraining = [
               " Performing Session Hijacking(Burp Suite Professional, Ettercap) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -10722,13 +10521,11 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Web Application Hacking Methodology",
+            title: "Web Application Hacking Methodology",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Vulnerability Scanning (Acunetix Pro, Nessus)",
+            title: "Vulnerability Scanning (Acunetix Pro, Nessus)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -10738,41 +10535,33 @@ const lajpatnagarTraining = [
         title: "HACKING WIRELESS NETWORKS",
         lectures: [
           {
-            title:
-              " What is Wireless Networking? ",
+            title: " What is Wireless Networking? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of Wireless Encryption ",
+            title: " Types of Wireless Encryption ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of Wireless Threats ",
+            title: " Types of Wireless Threats ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Wireless Hacking Methodology  ",
+            title: "Wireless Hacking Methodology  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Complete Hacking WEP (WI-FI) ",
+            title: " Complete Hacking WEP (WI-FI) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Basic to Advanced Hacking WPA/WPA2 ",
+            title: " Basic to Advanced Hacking WPA/WPA2 ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to Jam Wi-Fi? ",
+            title: " How to Jam Wi-Fi? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -10780,24 +10569,20 @@ const lajpatnagarTraining = [
         title: "HACKING MOBILE PLATFORM",
         lectures: [
           {
-            title:
-              "Mobile Platform Attack Vectors (Vulnerable Areas)",
+            title: "Mobile Platform Attack Vectors (Vulnerable Areas)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "OWASP Top-10 Mobile Risks- 2016",
+            title: "OWASP Top-10 Mobile Risks- 2016",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Mobile Platform Vulnerability and Risks",
+            title: "Mobile Platform Vulnerability and Risks",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              "Mobile Security Guidelines",
+            title: "Mobile Security Guidelines",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10805,8 +10590,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Generating Payloads (Basic to Advanced)",
+            title: "Generating Payloads (Basic to Advanced)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10814,8 +10598,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Info Gathering from G-Accounts",
+            title: "Info Gathering from G-Accounts",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10823,15 +10606,13 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Installing Termux in Android",
+            title: "Installing Termux in Android",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
             title: "Installing Net Hunter Kali in Android",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -10839,41 +10620,33 @@ const lajpatnagarTraining = [
         title: "CRYPTOGRAPHY",
         lectures: [
           {
-            title:
-              " What is Cryptography? ",
+            title: " What is Cryptography? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Difference Between Encoding, Hashing & Cryptography ",
+            title: " Difference Between Encoding, Hashing & Cryptography ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of Cryptography ",
+            title: " Types of Cryptography ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How it works? ",
+            title: " How it works? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Cryptography tools",
+            title: "  Cryptography tools",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Hashing Tools",
+            title: "  Hashing Tools",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Encoding Tools",
+            title: "  Encoding Tools",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
 
@@ -10885,8 +10658,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "GUI Windows Firewall configuration",
+            title: "GUI Windows Firewall configuration",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10894,8 +10666,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "WAF in Linux Config – MOD",
+            title: "WAF in Linux Config – MOD",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -10908,8 +10679,7 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to create a good resume",
+            title: "How to create a good resume",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -10917,13 +10687,11 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "How to select a domain in Cyber Security",
+            title: "How to select a domain in Cyber Security",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Sources to get good Knowledge",
+            title: "Sources to get good Knowledge",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -10969,15 +10737,13 @@ const lajpatnagarTraining = [
   {
     title: "Penetration Testing Training",
     heading:
-      "Penetration Testing in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Penetration Testing in Lajpat Nagar (Classroom Course With Certificate & Placement)",
+    center: "Lajpat Nagar",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      
-     " Top businesses and large enterprises across several industries are hiring skilled penetration testers or pentesters to detect and resolve critical vulnerabilities in their systems and networks. It is among the top in-demand skills today, with career opportunities in leading companies.",
-     "Penetration testing training by WsCube Tech will equip you with the essential skills required to become a certified pentester in India. The full course covers various modules where you will learn what is pentesting, network scanning, vulnerability assessment, hacking systems, Android penetration testing, and much more. ",
-     " With our advanced penetration testing course in Jodhpur, you will be skilled enough to become a professional Penetration Tester, Security Analyst, Penetration Test Engineer, Ethical Hacker, Cybersecurity Expert, and explore several more opportunities in the IT & cybersecurity field.",
-
+      " Top businesses and large enterprises across several industries are hiring skilled penetration testers or pentesters to detect and resolve critical vulnerabilities in their systems and networks. It is among the top in-demand skills today, with career opportunities in leading companies.",
+      "Penetration testing training by WsCube Tech will equip you with the essential skills required to become a certified pentester in India. The full course covers various modules where you will learn what is pentesting, network scanning, vulnerability assessment, hacking systems, Android penetration testing, and much more. ",
+      " With our advanced penetration testing course in Jodhpur, you will be skilled enough to become a professional Penetration Tester, Security Analyst, Penetration Test Engineer, Ethical Hacker, Cybersecurity Expert, and explore several more opportunities in the IT & cybersecurity field.",
     ],
     batchDetails: [
       {
@@ -11001,7 +10767,7 @@ const lajpatnagarTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Penetration Testing in Ghaziabad",
+    overviewHeading: "Overview of our Penetration Testing in Lajpat Nagar",
     overview: [],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -11025,37 +10791,29 @@ const lajpatnagarTraining = [
             title: " Penetration testing execution standard ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-          
         ],
       },
       {
         title: "Information Gathering",
         lectures: [
           {
-            title:
-              " Introduction to information gathering ",
+            title: " Introduction to information gathering ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of information gathering ",
+            title: " Types of information gathering ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-       
+
           {
-            title:
-              "  What are we looking for?",
+            title: "  What are we looking for?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-       
+
           {
-            title:
-              " Footprinting using Burp Suite ",
+            title: " Footprinting using Burp Suite ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-       
-       
         ],
       },
       {
@@ -11085,8 +10843,6 @@ const lajpatnagarTraining = [
             title: " Advanced scanning commands and scripts ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-          
         ],
       },
       {
@@ -11104,101 +10860,80 @@ const lajpatnagarTraining = [
             title: "How to find vulnerable parameters?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-        
         ],
       },
       {
         title: "Parameter Temptation",
         lectures: [
           {
-            title:
-              "Introduction to parameter temptation",
+            title: "Introduction to parameter temptation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Testing advanced parameter temptation",
+            title: "Testing advanced parameter temptation",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-        
         ],
       },
       {
         title: "The Power of SQL injection",
         lectures: [
           {
-            title:
-              "Introduction to SQL injection  ",
+            title: "Introduction to SQL injection  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Types of SQL injections ",
+            title: " Types of SQL injections ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "SQLi methodology  ",
+            title: "SQLi methodology  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Testing for SQLi vulnerability ",
+            title: " Testing for SQLi vulnerability ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Advanced SQLi Testing (SQLMAP) ",
+            title: " Advanced SQLi Testing (SQLMAP) ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-          
         ],
       },
       {
         title: "Cross-Site Scripting (XSS)",
         lectures: [
           {
-            title:
-              " What is XSS? ",
+            title: " What is XSS? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Types of XSS  ",
+            title: "Types of XSS  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " XSS methodology ",
+            title: " XSS methodology ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Hands-on XSS ",
+            title: " Hands-on XSS ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Innovative countermeasures  ",
+            title: "Innovative countermeasures  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-          
         ],
       },
       {
         title: "File Inclusion Vulnerabilities (LFI/RFI)",
         lectures: [
           {
-            title:
-              " Introduction of LFI/RFI ",
+            title: " Introduction of LFI/RFI ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Advanced testing for LFI/RFI ",
+            title: " Advanced testing for LFI/RFI ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -11211,11 +10946,9 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Advanced testing of CSRF attack",
+            title: "Advanced testing of CSRF attack",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
         ],
       },
 
@@ -11223,8 +10956,7 @@ const lajpatnagarTraining = [
         title: "Host Header Injection",
         lectures: [
           {
-            title:
-              "Introduction to Host-Header-Injection",
+            title: "Introduction to Host-Header-Injection",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -11238,14 +10970,12 @@ const lajpatnagarTraining = [
         title: "Cross-Origin Resource Sharing (CORS)",
         lectures: [
           {
-            title:
-              " Introduction to CORS ",
+            title: " Introduction to CORS ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
 
           {
-            title:
-              " Testing for CORS ",
+            title: " Testing for CORS ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -11255,13 +10985,11 @@ const lajpatnagarTraining = [
         title: "Session Hijacking",
         lectures: [
           {
-            title:
-              " Introduction to session hijacking ",
+            title: " Introduction to session hijacking ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Testing for session hijacking vulnerability ",
+            title: " Testing for session hijacking vulnerability ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -11271,8 +10999,7 @@ const lajpatnagarTraining = [
         title: "Denial of Service (DoS) Attack",
         lectures: [
           {
-            title:
-              "Introduction to DoS",
+            title: "Introduction to DoS",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
@@ -11280,13 +11007,11 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Testing for DoS/DDoS vulnerabilities",
+            title: "Testing for DoS/DDoS vulnerabilities",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Testing for more cool attacks",
+            title: "Testing for more cool attacks",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -11300,13 +11025,11 @@ const lajpatnagarTraining = [
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Setting up lab",
+            title: "  Setting up lab",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " How to decompile byte codes ",
+            title: " How to decompile byte codes ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -11327,7 +11050,6 @@ const lajpatnagarTraining = [
             title: "How to exploit using Metasploit?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-       
         ],
       },
 
@@ -11335,74 +11057,58 @@ const lajpatnagarTraining = [
         title: "Bug Reporting",
         lectures: [
           {
-            title:
-              " What do you mean by bug reporting? ",
+            title: " What do you mean by bug reporting? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Need for reporting a bug ",
+            title: " Need for reporting a bug ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-       
-          {
-            title:
-              "Advantages of reporting a bug  ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-       
-          {
-            title:
-              "Bug scoring  ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-       
-          {
-            title:
-              " How to create a good report? ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-       
 
+          {
+            title: "Advantages of reporting a bug  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          {
+            title: "Bug scoring  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
+          {
+            title: " How to create a good report? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
         ],
       },
 
       {
         title: "Penetration Testing with Python",
         lectures: [
-         
           {
-            title:
-              " Introduction to Python programming ",
+            title: " Introduction to Python programming ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "   Use of Python ",
+            title: "   Use of Python ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Setting up lab ",
+            title: " Setting up lab ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "  Learning basic Python programming ",
+            title: "  Learning basic Python programming ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              "Creating Keylogger using Python ",
+            title: "Creating Keylogger using Python ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Creating reverse Wi-Fi password-hacking Python program ",
+            title: " Creating reverse Wi-Fi password-hacking Python program ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-          
         ],
       },
 
@@ -11410,28 +11116,23 @@ const lajpatnagarTraining = [
         title: "Penetration Testing with Shell Scripting",
         lectures: [
           {
-            title:
-              " Introduction to shell scripting ",
+            title: " Introduction to shell scripting ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Use of shell scripting ",
+            title: " Use of shell scripting ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Setting up lab ",
+            title: " Setting up lab ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Learning basic shell scripting ",
+            title: " Learning basic shell scripting ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title:
-              " Writing cool scripts ",
+            title: " Writing cool scripts ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         ],
@@ -11468,7 +11169,6 @@ const lajpatnagarTraining = [
             title: "  Dalvik VM vs ART (Android Runtime)",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
         ],
       },
       {
@@ -11486,8 +11186,6 @@ const lajpatnagarTraining = [
             title: " APK server and adb setup ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-         
-
         ],
       },
       {
@@ -11533,14 +11231,10 @@ const lajpatnagarTraining = [
             title: "Insecure login advanced",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
-
-
         ],
       },
-
     ],
-    
-    
+
     features: [
       {
         title: "Expert Mentors",
@@ -11575,6 +11269,6 @@ const lajpatnagarTraining = [
     ],
     whatsappNumber: "919631005476",
   },
-  ];
-  
-  export default lajpatnagarTraining;
+];
+
+export default lajpatnagarTraining;

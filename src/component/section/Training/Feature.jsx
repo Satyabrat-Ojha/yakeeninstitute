@@ -10,8 +10,8 @@ const Feature = ({ course }) => {
         <div className="row">
           <div className="col-lg-12 text-center">
             <h2 className={`${styles.heading} mb-lg-3 mb-2`}>
-              Why Yakeen Institute is The Best {course.title} Institute in{" "}
-              {course.center}?
+              Why Yakeen Institute is The Best {course.title}
+              {course.center !== "Online" && ` Institute in ${course.center}`}?
             </h2>
           </div>
           <div className="col-12 pt-lg-5 pt-4">
