@@ -21,7 +21,7 @@ const Home = () => {
 
   return (
     <Fragment>
-      <Message message={message} setMessage={setMessage} />
+      {/* <Message message={message} setMessage={setMessage} /> */}
       <Header />
       <Banner />
       <Sponsor />
