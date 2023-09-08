@@ -44,46 +44,46 @@ const socialList = [
 const programmingList = [
   {
     text: "Web Development Training",
-    link: "#",
+    link:  "/ghaziabad/web-development-training",
   },
   {
     text: "Ethical Hacking Training",
-    link: "#",
+    link: "/ghaziabad/ethical-hacking-training",
   },
   {
-    text: "Software Testing Training",
-    link: "#",
+    text: "React JS Training",
+    link: "/ghaziabad/reactjs-training",
   },
   {
     text: "Node JS Training",
-    link: "#",
+    link: "/ghaziabad/nodejs-training",
   },
   {
     text: "Python Training",
-    link: "#",
+    link: "/ghaziabad/python-training",
   },
   {
     text: "Java Training",
-    link: "#",
+    link: "/ghaziabad/java-training",
   },
   {
     text: "C++ Training",
-    link: "#",
+    link: "/ghaziabad/c++-training",
   },
   {
-    text: "Android Development Training",
-    link: "#",
+    text: "Android App Development Training",
+    link: "/ghaziabad/android-app-development-training",
   },
   {
     text: "Angular Courses",
-    link: "#",
+    link: "/ghaziabad/angularjs-training",
   },
 ];
 
 const designList = [
   {
     text: "Graphic Design Training",
-    link: "#",
+    link: "/ghaziabad/graphic-designing-training",
   },
   {
     text: "Video Editing Training",
@@ -99,38 +99,38 @@ const designList = [
   },
   {
     text: "Motion Graphic Training",
-    link: "#",
+    link: "/ghaziabad/graphic-designing-training",
   },
   {
     text: "Photoshop Training",
-    link: "#",
+    link: "/ghaziabad/graphic-designing-training",
   },
   {
     text: "Illustrator Training",
-    link: "#",
+    link: "/ghaziabad/graphic-designing-training",
   },
   {
     text: "Wordpress Course",
-    link: "#",
+    link: "/ghaziabad/wordpress-training",
   },
 ];
 
 const specialList = [
   {
     text: "HTML",
-    link: "#",
+    link: "/ghaziabad/web-development-training",
   },
   {
     text: "Graphic Design",
-    link: "#",
+    link: "/ghaziabad/graphic-designing-training",
   },
   {
     text: "CSS",
-    link: "#",
+    link: "/ghaziabad/web-development-training",
   },
   {
     text: "Digital Marketing",
-    link: "#",
+    link: "/ghaziabad/digital-marketing-training",
   },
   {
     text: "Photoshop Shortkeys",
@@ -138,30 +138,30 @@ const specialList = [
   },
   {
     text: "Wordpress Pulgin",
-    link: "#",
+    link: "/ghaziabad/wordpress-training",
   },
   {
     text: "Design Resources",
-    link: "#",
+    link: "/ghaziabad/graphic-designing-training",
   },
 ];
 
 const companyList = [
   {
     text: "About Us",
-    link: "#",
+    link: "/about",
   },
   {
     text: "Press",
-    link: "#",
+    link: "/blog",
   },
   {
     text: "Events",
-    link: "#",
+    link: "/blog",
   },
   {
     text: "Newsroom",
-    link: "#",
+    link: "/blog",
   },
   {
     text: "Branding Assets",
@@ -173,7 +173,7 @@ const companyList = [
   },
   {
     text: "Blog",
-    link: "#",
+    link: "/blog",
   },
   {
     text: "Careers",
