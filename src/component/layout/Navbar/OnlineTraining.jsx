@@ -66,12 +66,12 @@ const OnlineTraining = () => {
               </div>
               <ul className="list-unstyled">
                 <li>
-                  <a title="Web Development Course" href="/online-training/android-app-development-training">
+                  <a title="Android App Development" href="/online-training/android-app-development-training">
                     Android App Development Course
                   </a>
                 </li>
                 <li>
-                  <a title="WordPress Course" href="/online-training/flutter-app-development-training">Flutter App Development Course</a>
+                  <a title="Flutter App Development" href="/online-training/flutter-app-development-training">Flutter App Development Course</a>
                 </li>
               </ul>
             </div>
