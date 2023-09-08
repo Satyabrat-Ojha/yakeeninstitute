@@ -382,12 +382,13 @@ const OnlineTraining = [
   {
     title: "Wordpress Training",
     heading:
-      "Best WordPress Training in Jodhpur (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Online WordPress Course (Live Training)",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/wordpress-offline.webp",
     desc: [
-      "Learn how to build various types of business websites, professional & personal blogs, as well as eCommerce websites with the classroom-based WordPress course in Jodhpur by WsCube Tech.",
-      "The best thing about learning WordPress is that you can build a great career, start your own business, or become a freelancer without having any knowledge of programming. This course covers everything from basics and takes you to the advanced level of creating WordPress websites.",
+      "Learn the art of creating appealing WordPress websites, blogs, eCommerce sites, and more with yakeen Tech’s WordPress online course for beginners.",
+      "This is the most comprehensive and completely practical-oriented WordPress course that covers everything from scratch. The course includes WordPress certification, job assistance, training by experienced WP developers, regular LIVE classes (not a pre-recorded course), and practice on different types of websites.",
+      "Enroll now in the best WordPress online course with certificate, and master the skill of WordPress website designing!",
     ],
     batchDetails: [
       {
@@ -412,13 +413,15 @@ const OnlineTraining = [
       },
     ],
     overviewHeading:
-      "Master The Art of Building Websites Without Coding With WordPress Course in Jodhpur",
+      "India’s Best Online WordPress Course With Certificate & Placement",
     overview: [
-      "WordPress is a platform that allows you to create almost every type of website and blog without writing code or programming scripts. You can easily manage the content on the websites. It is a CMS (content management system) used by more than 43% of the total websites on the internet.",
-      "Top brands like Facebook, Microsoft, Tech Crunch, Sony Music, Mozilla, Disney, Spotify, and Toyota, rely on WordPress. You can build a good career by mastering WordPress skills with WsCube Tech.",
-      "This is the best WordPress training course in Jodhpur that provides you with practical-oriented training. You will work on more than five real websites in travel, education, eCommerce, and other niches during the training.",
-      "Upon completing the course, you will get professional certification and placement assistance. You can not only build your own blog or website, but also become a freelancer website designer, start your own website designing company, and make your future bright.",
-      "Fill out the form or call us now to book your two days of FREE demo classes!",
+      "WordPress is the most popular Content Management System (CMS) in the world, being used by more than 43% of the total websites. Companies like Sony Music, Facebook Newsroom, Microsoft blog, Tech Crunch, Disney, Spotify, cPanel, New York Times, Mozilla, Toyota, and many more rely on WordPress.",
+      "There is a huge demand for WordPress developers who can build appealing websites and blogs. By learning WP development online with WsCube Tech’s advanced online course for WordPress, you can become a highly-paid professional.",
+      "Along with designing websites for your clients as a freelance WordPress developer, you can also work for companies (full-time), start your own web development company, and make your future bright.",
+      "In this online WordPress certification course, you get live training from experts who have worked on hundreds of WP sites and blogs. Everything you learn is covered from basics, including how to choose a domain name and web hosting, installing WordPress from cPanel, choosing the right themes and plugins, and keeping the website secure.",
+      "You will also learn to design WordPress pages, publish posts, create categories, customize a WP site, change the look and feel, optimize the loading speed, make the website responsive & SEO-friendly, and more.",
+      "You will also work on a new website and create everything from scratch on your own with the guidance of our mentor. Both Elementor and Elementor Pro will be used during the online WordPress training course.",
+      "For any doubts, queries, or free demo classes for two days, fill out the inquiry form or call us!",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -1123,17 +1126,21 @@ const OnlineTraining = [
   },
 
 
-  // mearn stack 
-
+  // mern stack 
+  
+  
+  
+  
   {
     title: "MERN Stack Training",
     heading:
-      "MERN Stack Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Best MERN Stack Course (Online Training With Certificate)",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "MERN Stack combines four JavaScript-based technologies- MongoDB, ExpressJS, ReactJS, and NodeJS. It is a full-stack development structure, bringing both front-end and backend. Join the best MERN Stack training in Jodhpur and master how to develop responsive, dynamic, and appealing websites and web apps.",
-      "Our course includes several hands-on projects, job assistance, assessments, practical training, and professional certification. Our mentors strive to transform learners into accomplished and confident MERN Stack developers who can handle complex projects seamlessly.",
+      "MERN Stack is a combination of MongoDB, ExpressJS, ReactJS, and NodeJS, all of which are based on JavaScript. Since these technologies facilitate the development of dynamic, responsive, and appealing websites and web apps, companies all over India and globally need MERN Stack developers.",
+      "Enroll in the best MERN stack course online by WsCube Tech to become a master at it and explore high-paying job opportunities. It includes hands-on 15+ projects, pro certification, job assistance, regular training, and much more.",
+      "Book your free class now to get started!",
     ],
     batchDetails: [
       {
@@ -1157,31 +1164,21 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of MERN Stack Training in Ghaziabad",
+    overviewHeading: "Skill-Oriented Online MERN Stack Developer Course",
     overview: [
-      "MERN is a full-stack web development structure that combines MongoDB, ExpressJS, ReactJS, and NodeJS, four primary JavaScript-based technologies. It is an open-source technology stack that accelerates the development process and ensures responsive and dynamic websites and web apps.",
-      "In the stack, MongoDB is a database management program, ExpressJS is a lightweight framework, ReactJS is a JavaScript library, and NodeJS is a JavaScript runtime environment.",
-      "Yakeen Tech offers the best MERN Stack development course in Jodhpur that focuses on producing the most efficient and skilled developers. Our team has the most experienced and qualified mentors who train you to build rich websites and guide you through every step.",
-      "They ensure group discussions, regular doubt sessions, practical learning, and constant interaction to make learning engaging and seamless.",
-      "During the course, you will learn to work with forms, tables, session storage, geolocator APIs, lists, and videos. We will also teach you to style HTML documents using CSS classes, box models, animation, Id, flexbox, etc. There is a brief introduction to Bootstrap as well to help you make responsive pages.",
-      "Hands-on projects, included in each module, will enhance your knowledge and give you practical exposure. We have covered each topic comprehensively, so you don’t miss anything and walk out as a well-versed developer. So, join our best MERN Stack training in Jodhpur now and get career-ready.",
+      "If you want to become a web developer and build a great career in this field, then one of the best options for you is to learn MERN stack web development. An increasing number of businesses are opting for it because of the several benefits it offers.",
+      "Based on JavaScript, MERN is an open-source technology that helps developers to create solid websites and web applications. Moreover, it enables faster web development as not everything needs to be built from scratch.",
+      "The online MERN stack training by WsCube Tech is meant to train you in the most efficient manner so that you get highly skilled at it. You will learn web development from industry experts, work on multiple MERN stack projects, get certified by India’s leading vernacular EdTech platform, and get assistance in placement.",
+      "MERN (MongoDB + ExpressJS + ReactJS + NodeJS) is an essential combo that covers the full web development process. MongoDB is a database management program, ExpressJS is a lightweight framework, ReactJS is a JavaScript library, whereas, NodeJS is a JavaScript runtime environment.",
+      "In this MERN stack course online, we cover all these technologies in a comprehensive and practical way. You will find it easy to learn, even if you are an absolute beginner.",
+      "Master the skills of working on both front-end and back-end, learn how to develop dynamic and responsive sites, and become a successful developer by enrolling in the best MERN stack course in India.",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
-      {
-        title: "JavaScript Introduction",
-        lectures: [
-          {
-            title: "What is JavaScript?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "What are its uses?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
+    
+        
+      
       {
         title: "Introduction to MERN Stack ",
         lectures: [
@@ -1411,12 +1408,12 @@ const OnlineTraining = [
   {
     title: "Data Science Training",
     heading:
-      "Data Science Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Best Online Data Science Course in India",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Master the skills of building appealing websites from scratch with the best web development course in Jodhpur. This is the most comprehensive and completely practical-oriented classroom training led by industry experts.",
-      "You will work on both front-end and backend development by learning HTML, CSS, Bootstrap, Responsive Web Design, JavaScript, jQuery, WordPress, PHP, Laravel, MySQL, AJAX, and more. By the end of this website development training, you will be on your way to becoming a proficient web developer.",
+      "Want to kickstart and build a career in one of the most demanded fields today? Enroll in India’s most comprehensive and best online course on data science.",
+      "Throughout the course, you will learn data science online from the industry’s top mentors, from basic to advanced modules. The full course covers six months of comprehensive data science training with Python, Machine Learning, Deep Learning, as well as Data Analytics. We also assist you in job placement and career growth.",
     ],
     batchDetails: [
       {
@@ -1440,13 +1437,13 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Data Science Training in Ghaziabad",
+    overviewHeading: "About Our Online Data Science Certification Course",
     overview: [
-       "yakeen Tech offers the most comprehensive, practical-oriented, and the best data science course in Jodhpur. Whether you are a beginner or have some prior experience, this course is the right fit for you as our expert mentors cover everything from scratch. ",
-       "Starting with Python programming and data analysis, and going deep down to machine learning, deep learning, and artificial intelligence (AI), you will learn all the concepts in detail. It’s 6-month data science training in Jodhpur with certificate and placement assistance. ",
+       "This is the era of digital transformation where every organization is digitizing itself for accelerated growth. Data offers meaningful information and insights that aid in business growth. The demand for skilled data scientists has been increasing over the years in India and globally.",
+       "Today, there are modern tools and technologies but there is a lack of data scientists. The demand for data scientists is huge. It is your time to make the most out of this demand by becoming a skilled data scientist and analyst.",
        "During this classroom course, you will master data science skills, including data collection, extraction, integration, data mining, statistical analysis, predictive analysis, and numerous essential concepts. By the end of the training in data science, you will be on your way to kickstarting a thriving career as a successful Data Scientist. ",
        "Trusted by 28,000+ candidates all over India for both classroom and online data science course, we believe in helping our learners build a great career. Plenty of our learners are working with top organizations like TCS, Infosys, E&Y, Accenture, IBM, and VMWare ",
-       " It’s time for you to choose the best data science course and start mastering advanced skills with WsCube Tech!",
+       " For this, yakeen Tech is offering India's best online data science course that makes you skilled in analyzing the data treasure. You will learn from an industry expert and work on large sets of data. During this 6-month training, you will be on your way to becoming a top-class data scientist and exploring high-paying job opportunities.",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -1794,13 +1791,13 @@ const OnlineTraining = [
   {
     title: "Data Analytics Training",
     heading:
-      "Data Analytics Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Online Data Analytics Course (Learn Data Analysis)",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-     " Join the best data analytics training in Jodhpur and get insights into Data Mining, Power BI, Data Visualization, and more. Get trained by industry experts and professionals who have worked in this field for years and have taught in leading institutes. With WsCube Tech, you get to learn through hands-on projects, assessments, group activities, and case studies.",
-     "By the end of the course, you will gain a fair understanding of data analytics tools and techniques, Python programming, working with SQL databases, creating visualisations, predictive analytics, and utilising statistics. ",
-     "So, enrol in our data analyst course in Jodhpur now and earn an industry-recognised certificate to accelerate your career growth. ",
+     "Want to pursue an enthralling career in data analysis? WsCube Tech’s online Data Analytics Course in India helps you acquire the essential skills to excel in this field. With the growth of the digital economy, the demand for data analysts is on the rise, making it an excellent career choice.",
+     "Our online data analyst course equips you with the right tools and techniques to succeed in the data analysis industry. You'll learn how to collect, clean, and analyse data, as well as use data visualisation tools to communicate your findings.",
+     "Book your free class now to join the best course on data analysis and start your journey towards a fulfilling career! ",
     ],
     batchDetails: [
       {
@@ -1826,12 +1823,13 @@ const OnlineTraining = [
     ],
     overviewHeading: "Overview of our Data Analytics Training in Ghaziabad",
     overview: [
-      " Data Analytics is a process of analysing data, getting insights, and representing them in a meaningful and readable format, such as plots, reports, charts, and dashboards. It aims at helping users make informed business decisions.",
-      " yakeen Tech offers a career-oriented data analytics course in Jodhpur to freshers, college learners, working professionals, and freelancers. During the training, you will gain knowledge of this domain, including data transformation, data optimisation, using algorithms to solve complex business problems, data visualisation, and data science project execution.",
-      "We adopt a practical approach to train learners and equip them with an understanding of various data processing and visualisation tools, such as SQL, PowerBI, Tableau, Excel, and more. ",
-      "SQL is a popular tool used to work with the data stored in database management software. On the other hand, PowerBI and Tableau are used to analyse data and present visual stories to users. Our mentors will explain concepts, such as data mining, data cleansing, data preparation, and exploratory data analysis, in detail. ",
-      " Through real-life projects, assessments, and quizzes, you will be able to enhance your knowledge. Moreover, our job assistance team will help you explore professional opportunities in the field.",
-      "So, don’t wait and book your free class now for the world-class data analyst course in Jodhpur! ",
+      "Are you interested in pursuing a career in data analytics but don't know where to start? Our online data analytics course in India is designed specifically for individuals who want to build their expertise in this exciting field and advance their careers.",
+      "We offer a comprehensive curriculum that covers the latest industry standards and technologies, taught by experienced industry experts. The highlights of our syllabus include working on Python programming, Data Science libraries, Data Visualization, Microsoft Power BI, SQL, AI visuals, and much more. ",
+      "Our classes are live and interactive, providing learners with a hands-on learning experience and the opportunity to ask questions and receive real-time feedback.",
+      " In addition to regular classes during the course on data analysis, we also offer real-world projects that allow learners to apply their newfound knowledge and skills. Our data analytics training is designed to help learners gain practical experience and prepare for their future careers.",
+      "You must know that data analysts are in huge demand because organisations of all types and sizes generate vast amounts of data. They need professionals to collect, analyse, and interpret it to gain insights that drive informed decision-making. ",
+      "As the importance of data-driven decision-making grows, so does the need for skilled data analysts who can turn raw data into actionable insights. Additionally, the increasing prevalence of artificial intelligence (AI) and machine learning (ML) technologies requires data analysts to help train and fine-tune these systems, further driving demand for their skills. ",
+      "Hence, the right time to upskill and succeed in the digital economy is now. Register yourself for the free classes of the best data analytics course online. ",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -2142,13 +2140,12 @@ const OnlineTraining = [
   {
     title: "Python Training",
     heading:
-      "Python Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Online Python Course in India With Certificate & Job Assistance",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Python is the #1 most in-demand programming language of 2022, according to CodingNomads. If you have the right Python skills, there are a massive number of high-paying job opportunities in startups, SMBs, as well as top brands, and MNCs.",
-      "It’s time for you to learn Python programming with WsCube Tech’s Python course in Jodhpur. In this classroom training, you will master all the concepts and take your skill levels from beginner to advanced.",
-      "By the end of the course, you will be on your way to becoming a pro Python developer or exploring career opportunities in data science, machine learning, etc.",
+      "Python is the #1 most popular programming language today. Being a general-purpose language, Python can be used for various purposes, including web development, machine learning, data science, and more.",
+      "Want to build a great career in Python and explore high-paying job opportunities at top companies in India and globally? Enroll in India’s best online Python course with certificate and job assistance. In this course, you will learn Python online with regular live classes by industry experts. It is the most comprehensive training, starting from the basics and covering all the advanced concepts.",
     ],
     batchDetails: [
       {
@@ -2172,13 +2169,12 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "Overview of Our Online Python Course With Certificate",
     overview: [
-      "Python is the modern programming language with applications in the latest technologies like machine learning and data science. It is the language that offers the best career opportunities today.",
-      " Tech giants call Python ‘the next big thing’ because of its vast applications and unique development approach. It is a highly-paid skill in India and globally. If you want to give pace to your career in the IT or development field, then you must learn Python programming with WsCube Tech.",
-      "In this course, you will learn basic to advanced concepts from experienced Python developers. It is a completely practical-oriented Python training in Jodhpur that gives you a competitive advantage to help you stay competitive in the market.",
-      " Along with training, you get to work on live projects from scratch, write coding scripts, sequences, file operations, and perform every concept in real. After the course, we assist you in interview preparation and arrange your interviews with top companies hiring Python developers, so that you can land your first job easily.",
-      " For any questions related to the Python training in Jodhpur, feel free to call us or enroll in 2-days of free demo classes.",
+      "If you are looking to jumpstart your career in web development or modern technological fields like machine learning and data science, then learning Python is crucial. To help you become a skilled pro, WsCube Tech’s online Python certification course in India comes with hands-on projects, live training by experts, and in-depth guidance.",
+      "You can take 2-days of demo classes as part of our Python online course free to see the quality of our training in action. It starts with the fundamentals of Python programming, including the introduction, benefits of learning Python, and then goes beyond the basics.",
+      "To provide you with the best Python course online with placement and prepare you for the future, we have included both basic and advanced modules. It also includes regular assignments, projects, and doubt-clearing sessions.",
+      "You can enroll in the live training from anywhere in India, in case you are searching for the best Python course in Hyderabad, Bangalore, Chennai, Mumbai, Jaipur, or any other city in the country.",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -2840,12 +2836,12 @@ const OnlineTraining = [
   {
     title: "Android App Development Training",
     heading:
-      "Android App Development Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Online Android App Development Course",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "The number of businesses that build Android apps every year is highly increasing. To offer end users a native mobile experience on smartphones, mobile apps play the most significant part.",
-      "As a result, the demand for skilled Android Developers is on a massive rise. You can make the most out of this demand by learning the right skills with WsCube Tech’s Android Development Course in Jodhpur. You will master core Android skills, work on live projects, learn from experts, get certified, and build a great career.",
+      "If you have the zeal to build awesome mobile applications and make a great career as an Android App Developer, you must go for this online Android app development course in India.",
+      "At WsCube Tech, we are driven by the passion to upskill learners with modern skills like mobile application development. Along with rigorous Android training, we also provide professional certification, placement assistance, hands-on real projects, and regular LIVE classes by industry experts. Book your FREE demo sessions now!",
     ],
     batchDetails: [
       {
@@ -2869,14 +2865,14 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Android App Development Training in Ghaziabad",
+    overviewHeading: "Enroll in India’s Best Online Android App Development Course With Certificate & Placement",
     overview: [
-      "There are over 2.59 million apps on Google Play Store today. Android apps are dominating the market with most of the brands and startups accelerating their business growth with intuitive applications.",
-      "Android is here to stay and opens door to new career opportunities. Whether you are a learner, graduate, job seeker, business owner, or anyone who wants to build a great career, the time to learn Android App Development is now.",
-      "WsCube Tech, India’s fastest-growing and learning-focused IT institute, brings you the most comprehensive, practical-oriented, and digital classroom-based Android Training in Jodhpur. You don’t need to have any prior knowledge of Android or programming to learn this skill as we cover everything from zero level.",
-      "The complete Android Development Course in Jodhpur is led by an expert Android Developer having a decade of experience in the field. This is an advanced course with practice on all the essential concepts. It also includes work on real Android projects for practical exposure and experience.",
-      "By the end of the course, you will be able to build enticing Android applications on your own. We also provide Android certification and placement assistance to help you explore high-paying and promising career opportunities. ",
-      "For any queries, book 2-days of free demo classes of our Android App Development Course in Jodhpur.",
+      "Smartphones have completely transformed the world around us. Almost everyone today has a mobile phone and all of us make use of various applications every single day. With the rise in the number of smartphones, the number of mobile apps is also increasing. Today, there are nearly 3 million apps available on Google Play Store.",
+      "As a result, the demand for Android Developers is significantly increasing. If you want to make the most out of this growing demand, then it is time for you to learn Android application development skills.",
+      "For this, WsCube Tech brings you the most comprehensive, skill-oriented, and industry’s best Android development online course in Hindi, with regular LIVE classes. This is not a pre-recorded course, but a mentor-led live course.",
+      "Regardless of your level of skills, whether you are an absolute beginner or have some prior experience, this course helps you upskill yourself. In this Android app development course online, you will get complete training from an expert mobile app developer having a decade of experience in the field.",
+      "You will master how to develop mobile apps for the Android operating system, which are compatible with smartphones, Android Wear, e-Readers, as well as Android TV. Every big brand today needs to hire Android Developers to build an app and manage it.",
+      "Be it food delivery apps, cab booking apps, eLearning apps, grocery delivery apps, eCommerce apps, or any other, a team of skilled app developers is required. By learning Android development skills with WsCube Tech, you will be on your way to making a bright career in this field.",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -3176,12 +3172,12 @@ const OnlineTraining = [
   {
     title: "Flutter App Development Training",
     heading:
-      "Flutter Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "India’s Best Flutter Online Course With Certificate & Job Assistance",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Want to learn Flutter app development and master the skills of developing mobile apps for Android, iOS, and other platforms? WsCube Tech’s practical-oriented Flutter Course in Jodhpur with certification and job assistance is for you.",
-      "In this Flutter training, you will master both Flutter and Dart, become skilled to create full-fledged apps for multiple platforms, and build a promising career as a Flutter App Developer. Take 2-days of FREE demo classes now!",
+      "Flutter is the revolutionary framework for app development that enables the building, testing, and deployment of apps on Android, iOS, web, desktop, and more, from a single codebase. It is the choice of top brands and organizations like Google, eBay, Amazon, BMW, and many more.",
+      "If you want to learn Flutter from scratch and build a promising career, then WsCube Tech’s Flutter app development course is for you. You get the advanced training from an experienced Flutter developer, regular LIVE classes, hands-on real projects, certification, as well as placement assistance.",
     ],
     batchDetails: [
       {
@@ -3205,12 +3201,14 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Flutter Training in Ghaziabad",
+    overviewHeading: "Flutter & Dart: The Complete Flutter App Development Course Online",
     overview: [
-      "Flutter is an app development framework built by the tech giant Google. It is in high demand today because it enables the development of apps that can work for Android, iOS, desktop, and other platforms, without writing different code for every platform.",
-      "If a mobile app is built for Android and iOS without the Flutter framework, there will be the need for two different development teams. One for the Android app and another for the iOS app. But Flutter uses Dart programming and avoids the need for writing different code for Android and iOS.",
-      "The demand for Flutter Developers is massive in India and globally. If you have Flutter development skills, you can become a highly-paid App Developer in India or in other countries. The average salary of a Flutter developer in India is INR 5.39 lakh.",
-      "It is time for you to learn this highly-paid skill by enrolling in the Classroom-based Flutter course in Jodhpur. You will get complete Google Flutter training from industry experts having a decade of experience as a mobile app developer.",
+      "Flutter is among the most demanded skills today. It is transforming the way cross-platform mobile apps are built. It brings great career opportunities as the majority of the companies are adopting the Flutter framework. ",
+      "The reason behind the fast-growing popularity of Flutter is that it helps in creating mobile apps for multiple platforms with a single codebase. It means you only need to write the code once, and it can be used for developing apps for Android, iOS, web, desktop, etc. ",
+      " Traditionally, without Flutter, the developers need to create different codebases for creating the same app for different operating systems.",
+      " Whether you are a beginner, have some prior experience in mobile app development, or want to switch from a web developer to a Flutter app developer profile, this Flutter online course is meant for you.",
+      "This is an advanced Flutter app development course that starts with the Flutter basics and then goes deep down to the advanced concepts. Throughout the course, you will learn everything in a highly-interactive manner, get to work on real mobile apps, and explore internship and job opportunities. ",
+
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -3515,12 +3513,13 @@ const OnlineTraining = [
   {
     title: "Ethical Hacking Training",
     heading:
-      "Ethical Hacking Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Online Ethical Hacking Course in India",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      " Want to become a Certified Ethical Hacker (CEH)? Join the complete ethical hacking course (beginner to advanced) today and learn how to work as a proficient security expert. The course covers all the essential modules, latest hacking tools, techniques, advanced methodologies to find vulnerabilities in systems, networks, and devices.",
-      "Taught by an expert ethical hacker & security analyst, this is a classroom-based ethical hacking certification course in Hindi that is ideal for those who want to build a career in the field of cybersecurity. ",
+     " Ethical Hacking Certification Course will equip you with the latest hacking methodologies, tools, advanced techniques, and skills required to become a professional ethical hacker",
+     " This is an online ethical hacking training with regular LIVE CLASSES by industry experts. During the entire course, you will learn how to prevent black hat hackers from compromising systems, networks, and devices, leading to major cyberattacks and data breaches.",
+
     ],
     batchDetails: [
       {
@@ -3544,11 +3543,11 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Ethical Hacking Training in Ghaziabad",
+    overviewHeading: "About WS-CEH Online Ethical Hacking Course With Certificate",
     overview: [
-     " Ethical hacking has become one of the most lucrative career options in India and globally. A challenging and skill-based job, ethical hackers get paid well while doing what they love. Ethical hacking certification training by WsCube Tech will help you learn every aspect of the field from scratch",
-     " Throughout this complete ethical hacking course, you will learn concepts like computer networking, attack vectors, enumeration, malware, ransomware, phishing, DoS/DDoS, footprinting, social engineering, and work on relevant tools essential to become a certified ethical hacker.",
-     "Our offline ethical hacking classes in Jodhpur with certification train you for several roles in this field, like System Administrator, Security Analyst, Penetration Tester, Cybersecurity Expert, Network Security Administrator, and more. ",
+    "The online ethical hacking certification course by WsCube Tech helps you learn all aspects of ethical hacking from scratch. You don’t need to have any prior experience in cybersecurity to acquire these skills. ",
+    "This course covers all the concepts (from beginner to advanced), including computing networking attacks, enumeration, malware, ransomware, phishing, attack vectors, vulnerabilities, DoS/DDoS attacks, social engineering, footprinting, sniffing, and much more. You will get to work on tools and set up an ethical hacking lab for practice. ",
+    "Our ethical hacking online course also contains professional certification and job assistance, helping you to find high-paying career opportunities. You can become a Security Analyst, Cybersecurity Expert, Network Security Administrator, Cybersecurity Consultant, IT Security Manager, and work on several other roles. ",
      
     ],
     certificateImgUrl:
@@ -4565,14 +4564,14 @@ const OnlineTraining = [
   {
     title: "Penetration Testing Training",
     heading:
-      "Penetration Testing in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Online Penetration Testing Course in India",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
       
-     " Top businesses and large enterprises across several industries are hiring skilled penetration testers or pentesters to detect and resolve critical vulnerabilities in their systems and networks. It is among the top in-demand skills today, with career opportunities in leading companies.",
-     "Penetration testing training by WsCube Tech will equip you with the essential skills required to become a certified pentester in India. The full course covers various modules where you will learn what is pentesting, network scanning, vulnerability assessment, hacking systems, Android penetration testing, and much more. ",
-     " With our advanced penetration testing course in Jodhpur, you will be skilled enough to become a professional Penetration Tester, Security Analyst, Penetration Test Engineer, Ethical Hacker, Cybersecurity Expert, and explore several more opportunities in the IT & cybersecurity field.",
+     "Learn penetration testing from scratch and upskill yourself with pentesting skills essential to find career opportunities in cybersecurity. ",
+     " This is an online penetration testing course with regular LIVE CLASSES by industry experts. The full course covers penetration testing of Android, web applications, pentesting with Python and Shell Scripting, vulnerability assessment, and much more. On course completion, you get the professional penetration testing certification and access to premium resources.",
+     "Note: You need to have knowledge of ethical hacking to learn penetration testing because it is advanced training. If you are an absolute beginner, you must first go for our Ethical Hacking Course. ",
 
     ],
     batchDetails: [
@@ -4597,8 +4596,14 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Penetration Testing in Ghaziabad",
-    overview: [],
+    overviewHeading: "Online Penetration Testing Course in India",
+    overview: [
+      " Penetration testing certification course by WsCube Tech equips you with the right skills that are needed to identify, detect, and audit the systems, web applications, Android, networks, etc. You will learn to use the best tools to perform pentesting the right way and find vulnerabilities in the targeted system",
+      "If you are passionate about cybersecurity and ethical hacking, or want to make a career in these fields, then this online pentesting course in Hindi is the right choice for you. Featured among the best online pentesting courses in India, WS-PEN prepares you for various in-demand job roles, like Security Analyst, Penetration Test Engineer, Cybersecurity Expert, Ethical Hacker, and many more. ",
+      " Throughout the course, you will find several practical components of penetration testing which will help you easily understand real-life scenarios. Enroll now or feel free to call us for more information.",
+       
+      ],
+     
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
@@ -5181,12 +5186,12 @@ const OnlineTraining = [
   {
     title: "SEO Training",
     heading:
-      "SEO Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Online SEO Course",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Become a highly skilled and certified SEO expert by learning search engine optimization from experienced digital marketers. It is one of the most demanded skills today with opportunities to build a great career.",
-      "WsCube Tech is offering the best SEO course in Jodhpur with certificate and placement assistance. In this advanced course, you will learn all aspects of search engine optimization in a practical manner. Whether you are a learner, graduate, job seeker, business owner, or digital marketer, you must learn SEO skills with us to give wings to your career in this field. ",
+      " Looking for the best SEO course in India? Your search ends here. Now, join the industry’s top-class and 100% practical-oriented online SEO course and learn in a vernacular manner.",
+      "Trusted by thousands of learners in the country, our online SEO training prepares you for the latest search engine optimization skills and trends. Throughout the course, you will learn how to bring a website on the first page of Google with daily assignments and practice. ",
     ],
     batchDetails: [
       {
@@ -5210,12 +5215,13 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our SEO Course  Training in Ghaziabad",
+    overviewHeading: "Skill-Based Online SEO Training With Certificate",
     overview: [
-      "SEO or Search Engine Optimization is the skill that helps businesses & website owners to rank on the first page of Google and other search engines for the queries people search for related to their services or products. ",
-      "Every business wants its website to have massive traffic so that it can generate more sales and grow the business online. This has made SEO an in-demand skill. From startups to small businesses to MNCs & top brands, every organization is hiring skilled SEO professionals ",
-      "If you want to build your career in this field, then WsCube Tech’s SEO training in Jodhpur is for you. We have been offering top-notch search engine optimization course for the last 10+ years. Over the years, we have trained and helped numerous learners to learn SEO and find high-paying and flourishing job opportunities. ",
-      "During the entire training, you will get guidance from an SEO expert, get to work on top SEO tools, practice on live websites, and master the art of ranking websites on the 1st page of Google. ",
+    " Search Engine Optimization (SEO) is a vital part of digital marketing. It is the technique that helps businesses to improve the ranking of their website on Google. This assists in reaching the targeted audience and converting them into visitors. With almost every business, regardless of the size, having a website today, SEO skills are in high demand today.",
+    " Our online SEO course covers all types and aspects of search engine optimization, including on-page SEO, off-page SEO, technical SEO, and local SEO. You will learn all these techniques from an SEO expert who has managed 100+ projects and generated millions of traffic.",
+    "In this SEO training online, you will understand and work on all the latest SEO ranking factors, which will help you to build a great career in the field of digital marketing. You can then become an SEO Expert, SEO Analyst, Digital Marketer, Content Marketing Specialist, SEO Manager, etc. ",
+    
+
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -5789,12 +5795,12 @@ const OnlineTraining = [
   {
     title: "Digital Marketing Training",
     heading:
-      "Digital Marketing Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Best Online Digital Marketing Course in India",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      " If your aim is to master digital marketing skills practically and build a promising career in this field, WsCube Tech’s job-oriented and 100% practical Digital Marketing Course in Jodhpur is for you.",
-      " Learn from industry experts, get certified, work on real projects, get assistance in placement, and become a pro digital marketer. As the most trusted and best digital marketing institute in Jodhpur, we have trained 34,000+ digital marketers over the last decade. Enroll now to jumpstart a promising career!",
+      "Want to build a thriving career in digital marketing and become a top-class digital marketer? Join the best online digital marketing course in India by WsCube Tech to learn basic to advanced concepts from scratch.",
+      "It is a regular digital marketing training with live classes on Zoom by an experienced mentor. Throughout the course, you will learn and practice SEO, social media marketing, Google Ads and PPC advertising, blogging, affiliate marketing, YouTube marketing, content marketing, email marketing, and 17+ more modules.",
     ],
     batchDetails: [
       {
@@ -5818,13 +5824,12 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "About Our Online Digital Marketing Course With Certificate",
     overview: [
-      "As every business shifts online to boost business growth, digital marketing plays the role of a primary catalyst. It is the era of digital marketing and opens doors to new career opportunities for anyone who is interested in making it big in the future. ",
-      "If you have the right skills, you will be on your way to not only building a great career, but also starting your own agency. At WsCube Tech, we aim to help you acquire all types of digital marketing skills, including SEO (Search Engine Optimization), Social Media Marketing (SMM), Google Ads, YouTube Marketing, Content Marketing, App Store Optimization (ASO), Email Marketing, and much more. ",
-      "This is the most comprehensive digital marketing course in Jodhpur and in India, which includes advanced modules which are not covered by others. ",
-      " Since digital marketing doesn’t require any technical skills, literally anyone can learn these skills. So whether you are a college learner, job seeker, freelancer, business owner, or even an existing marketer who wants to make it big, this digital marketing training in Jodhpur is for you.",
-      " If you have any questions or queries related to our course on digital marketing in Jodhpur, we are just a call away. Moreover, you can take two days of FREE demo classes before enrolling.",
+    " The digital marketing industry is growing at a fast pace. This field has become a booming career today and the demand for skilled online marketers will increase all the more in the coming years.",
+    "If you develop the essential skills, you can make the most out of this growing field and make a great career. At WsCube Tech, we have been offering offline and online digital marketing courses in India with certificates and Throughout the years, we have understood the expectations of the learners and created the curriculum accordingly. This makes us the best platform in India for digital marketing course. ",
+    "Whether you are a college learner, recent graduate, job seeker, existing digital marketer, freelancer, business owner, or someone looking to grow in this field, then our strategic online course on digital marketing is for you. ",
+    " With this course, you can become a Digital Marketing Manager, SEO Expert, PPC Specialist, Content Marketer, YouTube Manager, Social Media Manager, or even start your own agency. ",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -6293,12 +6298,12 @@ const OnlineTraining = [
   {
     title: "Content Writing  Training",
     heading:
-      "Content Writing  Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Online Content Writing Course in India",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      "Want to kickstart your career as a skilled content writer and make it big? Master the art of writing different types of content with the classroom-based content writing course in Jodhpur.",
-      "In this course, you will learn how to write impactful content for different types of businesses and websites, with regular practice on real assignments. It is a content writing certification course that helps you get a full-time job as a content writer, start freelance writing, or become an influential blogger.",
+      "Your search for the best content writing course with certificate and skills ends here! This course by WsCube Tech helps you to learn content writing from scratch, become a skilled content writer, monetize your skills, and build a thriving career.",
+      "Now you can learn content writing online from anywhere in India with regular LIVE CLASSES by an experienced mentor. During the course, you will learn to write various types of content, including web pages, articles, SEO-friendly content, technical writing, product descriptions & reviews, case studies, eBooks, and many more.",
     ],
     batchDetails: [
       {
@@ -6322,13 +6327,11 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Web Development Training in Ghaziabad",
+    overviewHeading: "About Our Online Content Writing Course With Certificate",
     overview: [
-      "The demand for Content Writers has dramatically increased over the last few years. The reasons behind this fast-growing demand are businesses shifting online. Every business and website requires content in the form of articles, web content, landing pages, press releases, professional emails, guest posts, case studies, and more. ",
-      "Moreover, to improve the ranking of the website on Google, quality content plays the biggest role. This is why Content is called the King in SEO and Digital Marketing. ",
-      "If you have the zeal to become a content writer in India or abroad, then WsCube Tech’s Content Writing Training in Jodhpur is the perfect solution for you. ",
-      "This is the most comprehensive course in the country with the latest and well-structured curriculum, training by an experienced Content Writer, professional certification, dedicated doubt-clearing sessions, as well as job assistance. You can also choose to do an internship for more practical exposure and a chance to work on real projects. ",
-      " Learn today’s most-demanded skill, understand how to monetize your skills, and build a growing career in Content Writing.",
+      "Content Writing is among the most demanded skills today, especially because of the boom in digital marketing. Every business has its online presence with a website, blog, social media, etc. On all these platforms, content is essential to convey a brand message, boost SEO, tell visitors about services/products, and convert them into customers. ",
+      "In this online content writing course by WsCube Tech, you will acquire all the essential skills required to become a seasoned content writer. Whether you are a learner, job seeker, working professional, digital marketer, blogger, or want to start freelance content writing, this course is for you. ",
+      " You will acquire skills to write content that ranks on the 1st page of Google, write press releases, blog posts, and more than 10 types of content. You can choose to work for businesses in various industries. Furthermore, you will also learn how to start a blog and make money from it, and how to become a freelance writer & get international high-paying projects.",
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
@@ -6677,12 +6680,12 @@ const OnlineTraining = [
   {
     title: "Online Advertising Training",
     heading:
-      "Google Ads Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "All-in-One Online Advertising Course: Google Ads, Social Media Ads, Quora Ads, Third-Party Ads",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      " With WsCube Tech’s Google Ads training in Jodhpur, you will discover the secrets of placing your website and business in front of the right customers and getting their attention through customised Google ad campaigns. Our course will take you from basics to advanced concepts strategically so you can understand how to launch different campaigns using various Google Ads tools.",
-      " You will get familiar with best practices for keyword research, bidding strategies, and effective ways to boost your results. By the end of the Google Ads and PPC course in Jodhpur, you will master how to drive quality traffic and increase sales for any website or business.",
+      "Become an online ads specialist or expert in 60 days of live and rigorous training. This all-rounder online advertising course combines the Social Media Marketing Course, online Google Ads Course, Quora Marketing Course, and Third-Party Ads Training.",
+      "You will learn how to run ads on all social media platforms (Facebook, Twitter, LinkedIn, Instagram), Google, Quora, Hotstar, MX Player, and several other platforms. By the end of this online course on advertising, you will be on your way to building a highly-paid and promising career as an expert in online ads.",
     ],
     batchDetails: [
       {
@@ -6706,16 +6709,14 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Google Ads Training in Ghaziabad",
+    overviewHeading: "Learn How to Run Ads on Google, Social Media, Quora, MX Player, Hotstar, and More Platforms",
     overview: [
-      "Google Ads, formerly Google AdWords, is an online advertising platform by Google which allows advertisers to bid to display their ads, such as product listings, brief commercials, videos, or service offerings at the top of search results.",
-      "It has become a crucial digital marketing strategy to grab prospects’ attention and drive quality traffic. Companies are looking for skilled Google Ads experts to implement and execute their marketing campaigns and generate the best results. If you are looking for PPC training in Jodhpur, then WsCube Tech is the perfect destination. ",
-      "We are the leading digital marketing institute in Jodhpur and India, offering various courses to freshers, learners, freelancers, working professionals, and business owners. ",
-      " Google Ads is one of our popular training programs where you get to learn the nuances of launching result-driven campaigns considering all the external and internal factors.",
-      " You will also learn to add advertisements on apps, videos, non-search websites, and other search result pages. You will also gain an understanding of different campaign types and targeting, setting up custom audiences, creating campaigns, and choosing campaign parameters. ",
-      " Our mentors will explain every topic through demonstration and take you through each step of launching an effective Google Ads campaign for local and global customers. ",
-      " You will also work on multiple projects and gain hands-on experience. Upon completing the course, you will receive a professional certificate that will make you stand out and help you find your dream job. ",
-      " So, enrol in our course now to learn about Google Ads in Jodhpur from industry leaders. ",
+      "Whether you are searching for the best Google Ads Course, Facebook Ads Course, Instagram Marketing Course, Quora Ads Course, MX Player Ads Course, or any other, WsCube Tech has got you covered. ",
+      "In this online advertising course, you will become a master at running effective ad campaigns across all types of digital platforms. ",
+      "Google Ads and social media ads on Facebook and Instagram are the most popular nowadays. Startups, small and medium businesses (SMBs), large enterprises, as well as brands across all industries need skilled ads specialists. ",
+      "Moreover, there are specialists for specific platforms, but an impactful ads strategy covers multiple platforms like MX Player and Hotstar. By learning these skills with us, you will be on your way to becoming an all-rounder in online advertising. ",
+      " This online advertising course will help you not only find high-paying full-time jobs, but also land freelancing opportunities from national and international clients.",
+
 
     ],
     certificateImgUrl:
@@ -7004,14 +7005,14 @@ const OnlineTraining = [
 
    
   {
-    title: "Google Ads Training",
+    title: "Youtube Seo Marketing Training",
     heading:
-      "Google Ads Training in Ghaziabad (Classroom Course With Certificate & Placement)",
-    center: "Ghaziabad",
+      "Online YouTube Course for Beginners (Learn YouTube SEO & Marketing)",
+    center: "Online",
     imgUrl: "https://www.wscubetech.com/images/web-development-offline.webp",
     desc: [
-      " With WsCube Tech’s Google Ads training in Jodhpur, you will discover the secrets of placing your website and business in front of the right customers and getting their attention through customised Google ad campaigns. Our course will take you from basics to advanced concepts strategically so you can understand how to launch different campaigns using various Google Ads tools.",
-      " You will get familiar with best practices for keyword research, bidding strategies, and effective ways to boost your results. By the end of the Google Ads and PPC course in Jodhpur, you will master how to drive quality traffic and increase sales for any website or business.",
+    "Start building your dream YouTube channel, master strategies to skyrocket the growth of your existing channel, or build your career in this field with the online YouTube SEO Course by WsCube Tech. ",
+    " Learn everything in this YouTube crash course, from finding your niche and setting up a channel to finding video topics, analysing competitors, monetizing the channel, and making it huge.",
     ],
     batchDetails: [
       {
@@ -7035,40 +7036,46 @@ const OnlineTraining = [
         timing: "6:00 AM - 7:00 PM",
       },
     ],
-    overviewHeading: "Overview of our Google Ads Training in Ghaziabad",
+    overviewHeading: "Quick Overview of YouTube SEO Course",
     overview: [
-      "Google Ads, formerly Google AdWords, is an online advertising platform by Google which allows advertisers to bid to display their ads, such as product listings, brief commercials, videos, or service offerings at the top of search results.",
-      "It has become a crucial digital marketing strategy to grab prospects’ attention and drive quality traffic. Companies are looking for skilled Google Ads experts to implement and execute their marketing campaigns and generate the best results. If you are looking for PPC training in Jodhpur, then WsCube Tech is the perfect destination. ",
-      "We are the leading digital marketing institute in Jodhpur and India, offering various courses to freshers, learners, freelancers, working professionals, and business owners. ",
-      " Google Ads is one of our popular training programs where you get to learn the nuances of launching result-driven campaigns considering all the external and internal factors.",
-      " You will also learn to add advertisements on apps, videos, non-search websites, and other search result pages. You will also gain an understanding of different campaign types and targeting, setting up custom audiences, creating campaigns, and choosing campaign parameters. ",
-      " Our mentors will explain every topic through demonstration and take you through each step of launching an effective Google Ads campaign for local and global customers. ",
-      " You will also work on multiple projects and gain hands-on experience. Upon completing the course, you will receive a professional certificate that will make you stand out and help you find your dream job. ",
-      " So, enrol in our course now to learn about Google Ads in Jodhpur from industry leaders. ",
+     " YouTube is the second-largest search engine in the world, followed by Google. It has an active audience base of 200 crore users globally. Regardless of the type of content you want to create or the type of niche you choose, this platform has a massive number of relevant users.",
+     " If you want to become a YouTuber and make it big, or looking for YouTube marketing strategies to accelerate the growth of your existing channels, this is the best YouTube SEO Course for you.",
+     "In addition, if you want to build a career as a YouTube Manager, YouTube Strategist, or YouTube Expert, there are numerous top companies and individual YouTubers hiring for these positions. This training will prepare you strategically for jobs as well ",
+     "WsCube Tech’s YouTube Marketing Course covers every concept in a practical manner and is based on strategies that have worked for us to cross 1 Million subscribers. You will understand exactly what to do to increase video views, the number of subscribers, and monetize your channel. ",
+     "Book your seat for India’s best YouTube Course now! ",
 
     ],
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
       {
-        title: " Introduction to Google Ads ",
+        title: "Crucial YouTube Fundamentals That Matter ",
         lectures: [
           {
-            title: " What is Google Ads? ",
+            title: "Introduction to YouTube Marketing",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "   How does Google Ads work?",
+            title: "  How to find your niche?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "  Different Types of Google Ads",
+            title: " How to create a YouTube channel from scratch?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Understanding the Importance of Landing Pages  ",
+            title: " How to set up the channel?  ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
+          {
+            title: " All YouTube Settings ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " What to do for channel branding? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+
          
           
         ],
@@ -7077,42 +7084,19 @@ const OnlineTraining = [
         title: " Google Search Ads ",
         lectures: [
           {
-            title: " In-Depth Search Ads (Basic to Advanced) ",
+            title: " How does the YouTube algorithm work? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Google Search Ads Creation ",
+            title: " How to find new topics for videos? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "  Optimization",
+            title: "  How to create a YouTube content plan?",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "   Reporting",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-         
-          
-        ],
-      },
-      {
-        title: "  Google Display Ads",
-        lectures: [
-          {
-            title: " In-Depth Display Ads (Basic to Advanced) ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Google Display Ads Creation ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Optimization ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Reporting  ",
+            title: "   Competitor analysis",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
          
@@ -7120,14 +7104,49 @@ const OnlineTraining = [
         ],
       },
       {
-        title: " Remarketing Ads ",
+        title: "Strategic YouTube SEO for Massive Growth",
         lectures: [
           {
-            title: " What is remarketing? ",
+            title: " What are keywords? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "Everything about Remarketing Ads  ",
+            title: " How to find keywords for YouTube videos? ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Best YouTube keyword research tools ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " How to optimise the rankings of your videos on YouTube?  ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+         
+          
+        ],
+      },
+      {
+        title: " YouTube Content Promotion Strategies ",
+        lectures: [
+          {
+            title: "YouTube Live ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Making best use of YouTube Community posts ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Right way to use YouTube Stories ",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: " Strategies for YouTube Shorts",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "Tips to promote videos on social media ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
         
@@ -7136,154 +7155,31 @@ const OnlineTraining = [
         ],
       },
       {
-        title: "Running YouTube Ads  ",
+        title: "YouTube Monetization and Growth Factors",
         lectures: [
           {
-            title: " Introduction to advertising on YouTube ",
+            title: "How to monetize a YouTube channel? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " Benefits of YouTube Ads ",
+            title: " YouTube monetization guidelines and policies ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: " How to run YouTube Ads and Video Ads? ",
+            title: " How to avoid copyright issues? ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
           {
-            title: "  Optimization strategies ",
+            title: "How to deal with copyright issues if they arise?",
+            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
+          },
+          {
+            title: "YouTube growth strategies and primary factors ",
             link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
           },
          
           
-        ],
-      },
-      {
-        title: "Running App Install Ads  ",
-        lectures: [
-          {
-            title: " Introduction to running Google Ads for app installs ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "How to Run App Install Ads in Google Ads?  ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "Benefits  ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Optimization strategies  ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-         
-          
-        ],
-      },
-      {
-        title: " Google Ads Settings ",
-        lectures: [
-          {
-            title: " Understanding all the settings in Google Ads ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-       
-         
-          
-        ],
-      },
-      {
-        title: " Running Call Only Ads ",
-        lectures: [
-          {
-            title: " What are call only ads? ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Benefits of call only ads? ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " How to run Call Only ads? ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-           
-         
-          
-        ],
-      },
-      {
-        title: " Types of Audience in Google Ads ",
-        lectures: [
-          {
-            title: "  What is audience in Google Ads?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Why audience targeting is crucial? ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "  Understanding All types of Audiences in Google Ads",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "  Understanding In-depth Optimization of Google Ads ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-         
-          
-        ],
-      },
-      {
-        title: " Conversion-based Ad Campaigns ",
-        lectures: [
-          {
-            title: " What are conversion ads? ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Benefits of conversion-based ads ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " How to optimize Google Ad campaigns for conversions? ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          
-         
-          
-        ],
-      },
-      {
-        title: " Core and Important Topics ",
-        lectures: [
-         
-          {
-            title: " Google Ads Checklists ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Tools Related to Google Ads ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "  Competitor-oriented Campaigns ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Strategies Related to Google Ads Campaigns ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Running Shopping Campaigns for eCommerce Business ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: " Scripts and Tracking in Google Ads  ",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
+  
          
           
         ],

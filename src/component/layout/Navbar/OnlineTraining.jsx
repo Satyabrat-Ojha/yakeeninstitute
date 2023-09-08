@@ -112,7 +112,7 @@ const OnlineTraining = () => {
                   <a title="Full Online Ads Course" href="/online-training/online-advertising-training">Full Online Ads Course</a>
                 </li>
                 <li>
-                  <a title="YouTube Course" href="/online-training/web-development-training">YouTube Course</a>
+                  <a title="YouTube Course" href="/online-training/youtube-seo-marketing-training">YouTube Course</a>
                 </li>
               </ul>
             </div>

@@ -3733,19 +3733,7 @@ const GhaziabadTraining = [
     certificateImgUrl:
       "https://www.wscubetech.com/images/jodhpur-center-certificate.webp",
     syllabus: [
-      {
-        title: "JavaScript Introduction",
-        lectures: [
-          {
-            title: "What is JavaScript?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-          {
-            title: "What are its uses?",
-            link: "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg",
-          },
-        ],
-      },
+    
       {
         title: "Introduction to MERN Stack ",
         lectures: [
