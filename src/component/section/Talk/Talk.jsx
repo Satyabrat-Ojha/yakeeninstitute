@@ -1,7 +1,11 @@
 import { Link } from "react-router-dom";
 import styles from "./Talk.module.css";
+import { useState } from "react";
+import Message from "../../layout/PopupMessage/message";
 
 const Talk = () => {
+  const [message, setMessage] = useState(false);
+
   return (
     <div className={styles.talk}>
       <div className={styles.contactUs}>
@@ -13,11 +17,12 @@ const Talk = () => {
           </p>
         </div>
         <div className={styles.contactUsBtn}>
-          <Link to="/contact">
-            <button className={styles.btn}>Contact Us</button>
-          </Link>
+          <button className={styles.btn} onClick={() => setMessage(true)}>
+            Contact Us
+          </button>
         </div>
       </div>
+      <Message message={message} setMessage={setMessage} />
     </div>
   );
 };

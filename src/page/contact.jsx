@@ -6,6 +6,7 @@ import PageHeader from "../component/layout/pageheader";
 import GoogleMap from "../component/sidebar/googlemap";
 import { setDoc, doc } from "firebase/firestore";
 import { db } from "../firebaseConfig";
+import emailjs from "@emailjs/browser";
 
 const subTitle = "Get in touch with us";
 const title = "We're Always, Hear From You!";
@@ -64,14 +65,32 @@ const ContactPage = () => {
       phone: phone,
       subject: subject,
       message: message,
+      date: date,
     };
     setDoc(docRef, data)
       .then(() => {
-        alert("Your message has been sent successfully");
+        sendEmail(data);
       })
       .catch((error) => {
         console.log(error);
       });
+  };
+
+  const sendEmail = (data) => {
+    const publicKey = "8yiUoaTwGwdkLtUjx";
+    const serviceID = "service_6nxdelm";
+    const templateID = "template_dilno9k";
+    data.to = "yakeeninstituteofficial@gmail.com";
+
+    emailjs.init(publicKey);
+    emailjs.send(serviceID, templateID, data).then(
+      () => {
+        alert("Your message has been sent successfully");
+      },
+      (error) => {
+        console.log(error);
+      }
+    );
   };
 
   return (

@@ -4,8 +4,12 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 import { faStarHalf } from "@fortawesome/free-solid-svg-icons";
 import { faCirclePlay } from "@fortawesome/free-solid-svg-icons";
 import zoomIcon from "./zoom-icon.png";
+import { useState } from "react";
+import Popup from "../../layout/PopupMessage/demoCourse";
 
 const Banner = ({ course }) => {
+  const [message, setMessage] = useState(false);
+
   return (
     <section className={styles.trainingBanner}>
       <div className="container">
@@ -49,7 +53,10 @@ const Banner = ({ course }) => {
               </div>
             </div>
             <div className={`${styles.bannerButtons} d-flex mb-3 mb-lg-0`}>
-              <button className={`${styles.bookClass} me-2 me-lg-3`}>
+              <button
+                className={`${styles.bookClass} me-2 me-lg-3`}
+                onClick={() => setMessage(true)}
+              >
                 <FontAwesomeIcon
                   icon={faCirclePlay}
                   className={styles.circlePlay}
@@ -70,6 +77,7 @@ const Banner = ({ course }) => {
           </div>
         </div>
       </div>
+      <Popup message={message} setMessage={setMessage} Course={course} />
     </section>
   );
 };

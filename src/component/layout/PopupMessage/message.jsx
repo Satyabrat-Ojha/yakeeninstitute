@@ -2,23 +2,14 @@ import styles from "./message.module.css";
 import { useState, useEffect } from "react";
 import { doc, setDoc } from "firebase/firestore";
 import { db } from "../../../firebaseConfig";
+import emailjs from "@emailjs/browser";
 
 const Message = ({ message, setMessage }) => {
-  useEffect(() => {
-    const myFunction = () => {
-      setMessage(true);
-    };
-    const timeoutId = setTimeout(myFunction, 3000);
-    return () => clearTimeout(timeoutId);
-  }, []);
-
   const [name, setName] = useState("");
-  const [fathersName, setFathersName] = useState("");
-  const [schoolName, setSchoolName] = useState("");
-  const [batch, setBatch] = useState("");
-  const [subject, setSubject] = useState("");
+  const [email, setEmail] = useState("");
   const [phone, setPhone] = useState("");
-  const [enquiry, setEnquiry] = useState("");
+  const [subject, setSubject] = useState("");
+  const [text, setText] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -32,25 +23,40 @@ const Message = ({ message, setMessage }) => {
 
     const data = {
       name,
-      fathersName,
-      schoolName,
-      class: batch,
-      subject,
+      email,
       phone,
-      purpose_of_enquiry: enquiry,
+      subject,
+      message: text,
       date: date,
     };
 
-    const docRef = doc(db, "EnquiryRequests", name + random);
+    const docRef = doc(db, "messages", name + random);
 
     setDoc(docRef, data)
       .then(() => {
+        sendEmail(data);
         setMessage(false);
-        alert("Your request has been submitted successfully.");
       })
       .catch((error) => {
         console.log(error);
       });
+  };
+
+  const sendEmail = (data) => {
+    const publicKey = "8yiUoaTwGwdkLtUjx";
+    const serviceID = "service_6nxdelm";
+    const templateID = "template_dilno9k";
+    data.to = "yakeeninstituteofficial@gmail.com";
+
+    emailjs.init(publicKey);
+    emailjs.send(serviceID, templateID, data).then(
+      () => {
+        alert("Your message has been sent successfully");
+      },
+      (error) => {
+        console.log(error);
+      }
+    );
   };
 
   return (
@@ -86,61 +92,16 @@ const Message = ({ message, setMessage }) => {
                 />
               </div>
               <div className="col-md-6 mb-3">
-                <label className={styles.label} for="fname">
-                  Father's Name
+                <label className={styles.label} for="email">
+                  Email
                 </label>
                 <input
                   type="text"
                   className={styles.input}
-                  name="fname"
-                  id="fname"
-                  placeholder="Enter your father's name"
-                  onChange={(e) => setFathersName(e.target.value)}
-                  autoFocus
-                  required
-                />
-              </div>
-              <div className="col-md-6 mb-3">
-                <label className={styles.label} for="sname">
-                  School Name
-                </label>
-                <input
-                  type="text"
-                  className={styles.input}
-                  name="sname"
-                  id="sname"
-                  placeholder="Enter name of your school"
-                  onChange={(e) => setSchoolName(e.target.value)}
-                  autoFocus
-                  required
-                />
-              </div>
-              <div className="col-md-6 mb-3">
-                <label className={styles.label} for="class">
-                  Class
-                </label>
-                <input
-                  type="text"
-                  className={styles.input}
-                  name="class"
-                  id="class"
-                  placeholder="Enter your class"
-                  onChange={(e) => setBatch(e.target.value)}
-                  autoFocus
-                  required
-                />
-              </div>
-              <div className="col-md-6 mb-3">
-                <label className={styles.label} for="subject">
-                  Subject
-                </label>
-                <input
-                  type="text"
-                  className={styles.input}
-                  name="subject"
-                  id="subject"
-                  placeholder="Enter subject"
-                  onChange={(e) => setSubject(e.target.value)}
+                  name="email"
+                  id="email"
+                  placeholder="Enter your email"
+                  onChange={(e) => setEmail(e.target.value)}
                   autoFocus
                   required
                 />
@@ -160,27 +121,32 @@ const Message = ({ message, setMessage }) => {
                 />
               </div>
               <div className="col-md-6 mb-3">
-                <label className={styles.label} for="enquiry">
-                  Purpose of Enquiry
+                <label className={styles.label} for="subject">
+                  Subject
                 </label>
-                <select
-                  name="enquiry"
-                  id="enquiry"
-                  className={styles.formSelect}
-                  onChange={(e) => setEnquiry(e.target.value)}
+                <input
+                  type="text"
+                  className={styles.input}
+                  name="subject"
+                  id="subject"
+                  placeholder="Enter your subject"
+                  onChange={(e) => setSubject(e.target.value)}
+                  autoFocus
                   required
-                >
-                  <option value="">Select one</option>
-                  <option value="Tution">Tution</option>
-                  <option value="Government Job Classes">
-                    Government Job Classes
-                  </option>
-                  <option value="Spoken English Classes">
-                    Spoken English Classes
-                  </option>
-                  <option value="NIOS">NIOS</option>
-                  <option value="Other">Other</option>
-                </select>
+                />
+              </div>
+              <div className="col-12 mb-3">
+                <label className={styles.label} for="message">
+                  Message
+                </label>
+                <textarea
+                  className={styles.input}
+                  name="message"
+                  id="message"
+                  placeholder="Enter your message"
+                  onChange={(e) => setText(e.target.value)}
+                  required
+                ></textarea>
               </div>
               <div className="col-12 mb-2 mt-1 text-center">
                 <input type="submit" value="SUBMIT" className={styles.btn} />

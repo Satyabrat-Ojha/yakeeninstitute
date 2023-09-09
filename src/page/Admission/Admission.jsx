@@ -2,6 +2,7 @@ import styles from "./Admission.module.css";
 import { useState } from "react";
 import { db } from "../../firebaseConfig";
 import { setDoc, doc } from "firebase/firestore";
+import emailjs from "@emailjs/browser";
 
 const Admission = () => {
   const [name, setName] = useState("");
@@ -50,12 +51,38 @@ const Admission = () => {
     const docRef = doc(db, "admissionUsers", email + random);
     setDoc(docRef, data)
       .then(() => {
+        sendEmail(data);
         window.print();
         window.location.replace("https://pmny.in/pIrjJakiOaM0");
       })
       .catch((error) => {
         console.log(error);
       });
+  };
+
+  const sendEmail = (data) => {
+    const publicKey = "8yiUoaTwGwdkLtUjx";
+    const serviceID = "service_6nxdelm";
+    const templateID = "template_dilno9k";
+
+    const params = {
+      to: "yakeeninstituteofficial@gmail.com",
+      name: data.name,
+      email: data.email,
+      phone: data.phone,
+      subject: "New Admission",
+      message: `New Admission request for ${data.name} in ${data.course} course.`,
+    };
+
+    emailjs.init(publicKey);
+    emailjs.send(serviceID, templateID, params).then(
+      (res) => {
+        console.log(res.status, res.text);
+      },
+      (error) => {
+        console.log(error);
+      }
+    );
   };
 
   return (
