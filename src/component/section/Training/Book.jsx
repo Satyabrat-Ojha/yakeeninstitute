@@ -2,12 +2,17 @@ import styles from "./Book.module.css";
 import { useState } from "react";
 import { db } from "../../../firebaseConfig";
 import { setDoc, doc } from "firebase/firestore";
+import { send } from "@emailjs/browser";
+import emailjs from "@emailjs/browser";
 
 const Book = ({ course }) => {
   const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
   const [phone, setPhone] = useState("");
-  const [skill_center, setSkill_center] = useState(course.center);
+  const [email, setEmail] = useState("");
+
+  const course_type = course.center === "Online" ? "Online" : "Offline";
+  const skill_center = course.center === "Online" ? "" : course.center;
+  const courseName = course.title;
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -23,8 +28,8 @@ const Book = ({ course }) => {
       name,
       email,
       phone,
-      course: "Website Development",
-      course_type: "Offline",
+      course: courseName,
+      course_type,
       skill_center,
       message: "",
       date: date,
@@ -34,11 +39,36 @@ const Book = ({ course }) => {
 
     setDoc(docRef, data)
       .then(() => {
-        alert("Your request has been submitted successfully.");
+        sendEmail(data);
       })
       .catch((error) => {
         console.log(error);
       });
+  };
+
+  const sendEmail = (data) => {
+    const publicKey = "8yiUoaTwGwdkLtUjx";
+    const serviceID = "service_6nxdelm";
+    const templateID = "template_dilno9k";
+
+    const params = {
+      name: data.name,
+      phone: data.phone,
+      email: data.email,
+      subject: "Demo Class Request",
+      message: `Demo Class Request for ${data.course} course. ${data.message}`,
+      to: "yakeeninstituteofficial@gmail.com",
+    };
+
+    emailjs.init(publicKey);
+    emailjs.send(serviceID, templateID, params).then(
+      () => {
+        alert("Your request has been sent successfully");
+      },
+      (error) => {
+        console.log(error);
+      }
+    );
   };
 
   return (
@@ -101,23 +131,25 @@ const Book = ({ course }) => {
                     required
                   />
                 </div>
-                <div className="col-md-6 mb-3">
-                  <label className={styles.label} for="course_type">
-                    Branch
-                  </label>
-                  <select
-                    name="skill_center"
-                    id="skill_center"
-                    className={styles.formSelect}
-                    onChange={(e) => setSkill_center(e.target.value)}
-                    value={skill_center}
-                    required
-                  >
-                    <option value="">Select Branch</option>
-                    <option value="Ghaziabad">Ghaziabad</option>
-                    <option value="Lajpat Nagar">Lajpat Nagar</option>
-                  </select>
-                </div>
+                {course.center !== "Online" && (
+                  <div className="col-md-6 mb-3">
+                    <label className={styles.label} for="course_type">
+                      Branch
+                    </label>
+                    <select
+                      name="skill_center"
+                      id="skill_center"
+                      className={styles.formSelect}
+                      onChange={(e) => setSkill_center(e.target.value)}
+                      value={skill_center}
+                      required
+                    >
+                      <option value="">Select Branch</option>
+                      <option value="Ghaziabad">Ghaziabad</option>
+                      <option value="Lajpat Nagar">Lajpat Nagar</option>
+                    </select>
+                  </div>
+                )}
                 <div className="col-12 text-center mt-3">
                   <button type="submit" className={styles.formBtn}>
                     SUBMIT NOW

@@ -9,9 +9,11 @@ const Message = ({ message, setMessage, Course }) => {
   const [phone, setPhone] = useState("");
   const [email, setEmail] = useState("");
   const [course_type, setCourse_type] = useState(
-    Course.center == "Online" ? "Online" : "Offline"
+    Course.center === "Online" ? "Online" : "Offline"
   );
-  const [skill_center, setSkill_center] = useState(Course.center);
+  const [skill_center, setSkill_center] = useState(
+    Course.center === "Online" ? "" : Course.center
+  );
   const [course, setCourse] = useState(Course.title);
   const [text, setText] = useState("");
 
