@@ -11,7 +11,9 @@ const Book = ({ course }) => {
   const [email, setEmail] = useState("");
 
   const course_type = course.center === "Online" ? "Online" : "Offline";
-  const skill_center = course.center === "Online" ? "" : course.center;
+  const [skill_center, setSkill_center] = useState(
+    course.center === "Online" ? "" : course.center
+  );
   const courseName = course.title;
 
   const handleSubmit = (e) => {
