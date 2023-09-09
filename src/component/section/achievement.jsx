@@ -5,7 +5,7 @@ const title = "Achieve Your Goals With Yakeen The Learning Institute";
 
 const achievementList = [
   {
-    count: "30",
+    count: "5",
     desc: "Years of Language Education Experience",
   },
   {
