@@ -27,6 +27,7 @@ import Admission from "./page/Admission/Admission";
 import Training from "./page/Training";
 import Ghaziabad from "./page/Ghaziabad";
 import LajpatNagar from "./page/LajpatNagar";
+import PrivacyPolicy from "./page/LegalNotices/PrivacyPolicy";
 
 function App() {
   return (
@@ -46,18 +47,19 @@ function App() {
         <Route path="blog-3" element={<BlogPageThree />} />
         <Route path="blog-single" element={<BlogSingle />} />
         <Route path="about" element={<AboutPage />} />
+        <Route path="contact" element={<ContactPage />} />
+        <Route path="admission" element={<Admission />} />
+        <Route path="privacy-policy" element={<PrivacyPolicy />} />
         {/* <Route path="instructor" element={<TeamPage />} /> */}
         {/* <Route path="instructor-single" element={<TeamSingle />} /> */}
-        <Route path="shop" element={<ShopPage />} />
+        {/* <Route path="shop" element={<ShopPage />} />
         <Route path="shop-single" element={<ShopDetails />} />
         <Route path="cart-page" element={<CartPage />} />
         <Route path="search-page" element={<SearchPage />} />
-        <Route path="search-none" element={<SearchNone />} />
-        <Route path="contact" element={<ContactPage />} />
-        <Route path="admission" element={<Admission />} />
-        <Route path="login" element={<LoginPage />} />
-        <Route path="signup" element={<SignupPage />} />
-        <Route path="forgetpass" element={<ForgetPass />} />
+        <Route path="search-none" element={<SearchNone />} /> */}
+        {/* <Route path="login" element={<LoginPage />} />
+        <Route path="signup" element={<SignupPage />} /> */}
+        {/* <Route path="forgetpass" element={<ForgetPass />} /> */}
         <Route path="*" element={<ErrorPage />} />
       </Routes>
     </BrowserRouter>
