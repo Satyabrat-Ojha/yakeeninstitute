@@ -1,4 +1,6 @@
 import styles from "./Feature.module.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 
 const Feature = ({ course }) => {
   const WhatsAppNumber = course.whatsappNumber;
@@ -33,6 +35,22 @@ const Feature = ({ course }) => {
                   </div>
                 </div>
               ))}
+              <div className="col-lg-12 text-center pt-3">
+                <a
+                  className={`${styles.whatsappBtn} btn me-2 me-lg-3 shadow-none`}
+                  href={`https://api.whatsapp.com/send?phone=${WhatsAppNumber}&text=${WhatsAppMessage}`}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <FontAwesomeIcon
+                    icon={faWhatsapp}
+                    fontSize={20}
+                    style={{ marginRight: "7px" }}
+                  />
+                  Enquire on Whatsapp
+                </a>
+                <a className={`${styles.callBtn} btn shadow-none`}>Call Us</a>
+              </div>
             </div>
           </div>
         </div>
