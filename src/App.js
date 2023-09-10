@@ -28,6 +28,7 @@ import Training from "./page/Training";
 import Ghaziabad from "./page/Ghaziabad";
 import LajpatNagar from "./page/LajpatNagar";
 import PrivacyPolicy from "./page/LegalNotices/PrivacyPolicy";
+import Terms from "./page/LegalNotices/Terms";
 
 function App() {
   return (
@@ -50,6 +51,7 @@ function App() {
         <Route path="contact" element={<ContactPage />} />
         <Route path="admission" element={<Admission />} />
         <Route path="privacy-policy" element={<PrivacyPolicy />} />
+        <Route path="terms-and-condition" element={<Terms />} />
         {/* <Route path="instructor" element={<TeamPage />} /> */}
         {/* <Route path="instructor-single" element={<TeamSingle />} /> */}
         {/* <Route path="shop" element={<ShopPage />} />

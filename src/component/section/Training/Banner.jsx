@@ -63,7 +63,9 @@ const Banner = ({ course }) => {
                 />
                 Book Demo Class
               </button>
-              <button className={styles.download}>Download Curriculum</button>
+              <a href="#">
+                <button className={styles.download}>Download Curriculum</button>
+              </a>
             </div>
           </div>
           <div
