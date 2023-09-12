@@ -1115,37 +1115,37 @@ const PrivacyPolicy = () => {
                         forums such as WhatsApp, Facebook etc.
                       </p>
                       <p>
-                        <b>• For Security and Legal Compliance: </b>We may
+                        <b><b>• </b>For Security and Legal Compliance: </b>We may
                         disclose your data to third parties if we (in our sole
                         discretion) have a good faith belief that the disclosure
                         is:
                       </p>
-                      <p>o Permitted or required by law;</p>
+                      <p> <b>o</b> Permitted or required by law;</p>
                       <p>
-                        o Requested as part of a judicial, governmental, or
+                      <b>o</b> Requested as part of a judicial, governmental, or
                         legal inquiry, order, or proceeding;
                       </p>
                       <p>
-                        o Reasonably necessary as part of a valid subpoena,
+                      <b>o</b> Reasonably necessary as part of a valid subpoena,
                         warrant, or other legally-valid request;
                       </p>
                       <p>
-                        o Reasonably necessary to enforce our Terms of Use,
+                      <b>o</b> Reasonably necessary to enforce our Terms of Use,
                         Privacy Policy, and other legal agreements;
                       </p>
                       <p>
-                        o Required to detect, prevent, or address fraud, abuse,
+                      <b>o</b> Required to detect, prevent, or address fraud, abuse,
                         misuse, potential violations of law (or rule or
                         regulation), or security or technical issues; or
                       </p>
                       <p>
-                        o Reasonably necessary in our discretion to protect
+                      <b>o</b> Reasonably necessary in our discretion to protect
                         against imminent harm to the rights, prope¬¬rty, or
                         safety of Yakeen The Learning Institute, our users,
                         employees, members of the public, or our Services.
                       </p>
                       <p>
-                        o We may also disclose data about you to our auditors
+                       <b>o</b>  We may also disclose data about you to our auditors
                         and legal advisors in order to assess our disclosure
                         obligations and rights under this Privacy Policy.
                       </p>
@@ -1230,13 +1230,13 @@ const PrivacyPolicy = () => {
                       </p>
                       <br />
                       <p>
-                        7.1 Your Choices About the Use of Your Data <br />
+                       <b> 7.1 Your Choices About the Use of Your Data</b> <br />
                         You can choose not to provide certain data to us, but
                         you may not be able to use certain features of the
                         Services
                       </p>
                       <p>
-                        • To stop receiving promotional communications from us,
+                       <b>• </b> To stop receiving promotional communications from us,
                         you can opt out by using the unsubscribe mechanism in
                         the promotional communication you receive or by changing
                         the email preferences in your account. Note that
@@ -1247,13 +1247,13 @@ const PrivacyPolicy = () => {
                         about the Services, and notices about our policies.
                       </p>
                       <p>
-                        • The browser or device you use may allow you to control
+                      <b>  • </b> The browser or device you use may allow you to control
                         cookies and other types of local data storage. Your
                         wireless device may also allow you to control whether
                         location or other data is collected and shared.
                       </p>
                       <p>
-                        • To get information and control cookies used for
+                      <b> • </b> To get information and control cookies used for
                         tailored advertising from participating companies, see
                         the consumer opt-out pages for the Network Advertising
                         Initiative and Digital Advertising Alliance, or if
@@ -1263,7 +1263,7 @@ const PrivacyPolicy = () => {
                         visit the Google Ads Settings page.
                       </p>
                       <p>
-                        • To opt out of allowing Google Analytics, Hotjar,
+                       <b>• </b> To opt out of allowing Google Analytics, Hotjar,
                         Mixpanel, ZoomInfo, or Clearbit to use your data for
                         analytics or enrichment, see the Google Analytics
                         Opt-out Browser Add-on, Hotjar Opt-Out Cookie,Mixpanel
@@ -1276,24 +1276,24 @@ const PrivacyPolicy = () => {
                         legal@yakeeninstitute.com .
                       </p>
                       <p>
-                        7.2 Accessing, Updating and Correcting, Porting and
+                        <b>7.2 Accessing, Updating and Correcting, Porting and
                         Deleting Your Personal Data <br />
                         You can access and update your personal data that Yakeen
                         The Learning Institute collects and maintains as
-                        follows:
+                        follows:</b>
                       </p>
                       <p>
-                        • To update data you provide directly, log into your
+                       <b> • </b> To update data you provide directly, log into your
                         account and update your account at any time.
                       </p>
-                      <p>• To terminate your account:</p>
+                      <p> <b>• </b>To terminate your account:</p>
                       <p>
-                        o If you are a student, instructor or a mentor, write to
+                       <b> o  </b>If you are a student, instructor or a mentor, write to
                         legal@yakeeninstitute.com to delete your account
                         permanently.
                       </p>
                       <p>
-                        o Please note: even after your account is terminated,
+                       <b> o </b> Please note: even after your account is terminated,
                         some or all of your data may still be visible to others,
                         including without limitation any data that has been (a)
                         copied, stored, or disseminated by other users
@@ -1309,7 +1309,7 @@ const PrivacyPolicy = () => {
                         has been terminated.
                       </p>
                       <p>
-                        • To request to access, correct, port, or delete your
+                       <b> • </b> To request to access, correct, port, or delete your
                         personal data, or to restrict processing of your
                         personal data, please email legal@yakeeninstitute.com.
                         Please allow up to 30 days for a response. For your
@@ -1321,7 +1321,7 @@ const PrivacyPolicy = () => {
                         lawful basis to do so, including for mandatory
                         record-keeping and to complete transactions.
                       </p>
-                      <p>7.3 Revocation of Consent</p>
+                      <p> <b>7.3 Revocation of Consent </b></p>
                       <p>
                         We recognise that the processing of your data may be
                         based on your consent. In case you wish to withdraw such
@@ -1340,8 +1340,8 @@ const PrivacyPolicy = () => {
                         given prior to revocation.
                       </p>
                       <p>
-                        7.4 Complaints about our privacy policy or use of your
-                        data
+                       <b> 7.4 Complaints about our privacy policy or use of your
+                        data</b>
                       </p>
                       <p>
                         While we take all measures to protect and secure your
@@ -1363,7 +1363,7 @@ const PrivacyPolicy = () => {
                         does not preclude you from directly approaching the
                         national data protection authorities mentioned above.
                       </p>
-                      <p>7.5 Our Policy Concerning Children</p>
+                      <p> <b>7.5 Our Policy Concerning Children</b></p>
                       <p>
                         We recognize the privacy interests of children and
                         encourage parents and guardians to take an active role
@@ -1396,7 +1396,7 @@ const PrivacyPolicy = () => {
                         should note that we transfer data to India and other
                         areas outside of the European Economic Area.
                       </p>
-                      <p>8.1 Users in California</p>
+                      <p> <b>8.1 Users in California</b></p>
                       <p>
                         If you are a California resident, you have the right to
                         request certain details about what personal information
@@ -1410,7 +1410,7 @@ const PrivacyPolicy = () => {
                         not currently recognize or respond to browser-initiated
                         Do Not Track signals.
                       </p>
-                      <p>8.2 Users Outside of the U.S.</p>
+                      <p> <b>8.2 Users Outside of the U.S.</b></p>
                       <p>
                         Yakeen The Learning Institute in order to provide the
                         Services to you, will transfer your data to India and
@@ -1444,7 +1444,7 @@ const PrivacyPolicy = () => {
                         day they’re posted. Please contact us via email with any
                         questions, concerns, or disputes.
                       </p>
-                      <p>9.1 Modifications to This Privacy Policy</p>
+                      <p> <b>9.1 Modifications to This Privacy Policy</b></p>
                       <p>
                         From time to time, we may update this Privacy Policy. If
                         we make any material change to it, we will notify you
@@ -1462,13 +1462,13 @@ const PrivacyPolicy = () => {
                         Privacy Policy. The revised Privacy Policy supersedes
                         all previous Privacy Policies.
                       </p>
-                      <p>9.2 Interpretation</p>
+                      <p><b>9.2 Interpretation</b></p>
                       <p>
                         Any capitalized terms not defined in this policy are
                         defined as specified in Yakeen The Learning Institute's
                         Terms of Use.
                       </p>
-                      <p>9.3 Questions</p>
+                      <p> <b>9.3 Questions</b></p>
                       <p>
                         If you have any questions, concerns, or disputes
                         regarding our Privacy Policy, please feel free to
@@ -1528,9 +1528,9 @@ const PrivacyPolicy = () => {
                             </td>
                             <td>
                               <p>
-                                • To log you into Yakeen The Learning Institute{" "}
+                              <b>  •  </b>To log you into Yakeen The Learning Institute{" "}
                                 <br />
-                                • To protect your security <br />• To help
+                               <b> • </b> To protect your security <br />• To help
                                 detect and fight spam, abuse, and other
                                 activities
                               </p>
@@ -1553,7 +1553,7 @@ const PrivacyPolicy = () => {
                             </td>
                             <td>
                               <p>
-                                • To help us improve and understand how people
+                               <b>• </b> To help us improve and understand how people
                                 use Yakeen
                               </p>
                             </td>
@@ -1587,8 +1587,8 @@ const PrivacyPolicy = () => {
                             </td>
                             <td>
                               <p>
-                                • To customize Yakeen The Learning Institute
-                                with more relevant
+                               <b> • To customize Yakeen The Learning Institute
+                                with more relevant</b>
                               </p>
                             </td>
                           </tr>
@@ -1608,7 +1608,7 @@ const PrivacyPolicy = () => {
                             </td>
                             <td>
                               <p>
-                                • To provide you with more relevant advertising
+                               <b> • </b> To provide you with more relevant advertising
                               </p>
                             </td>
                           </tr>
@@ -1634,7 +1634,7 @@ const PrivacyPolicy = () => {
                         and our partners use cookies:
                       </p>
                       <p>
-                        • Most browsers automatically accept cookies, but you
+                       <b>•  </b> Most browsers automatically accept cookies, but you
                         can change your browser settings to decline cookies by
                         consulting your browser’s support articles. If you
                         decide to decline cookies, please note that you may not
@@ -1642,14 +1642,14 @@ const PrivacyPolicy = () => {
                         features in the Services.
                       </p>
                       <p>
-                        • Flash cookies operate differently than browser
+                       <b>• </b>  Flash cookies operate differently than browser
                         cookies, so your browser’s cookie-management tools may
                         not remove them. To learn more about how to manage Flash
                         cookies, see Adobe’s article on managing flash cookies
                         and Website Storage Settings panel.
                       </p>
                       <p>
-                        • To get information and control cookies used for
+                       <b> • </b> To get information and control cookies used for
                         tailored advertising from participating companies, see
                         the consumer opt-out pages for the Network Advertising
                         Initiative and Digital Advertising Alliance, or if
@@ -1659,7 +1659,7 @@ const PrivacyPolicy = () => {
                         ads, visit the Google Ads Settings page.
                       </p>
                       <p>
-                        • For general information about targeting cookies and
+                       <b> • </b> For general information about targeting cookies and
                         how to disable them, visit www.allaboutcookies.org.
                       </p>
                       <h3>11. Updates & Contact Info</h3>
@@ -1675,7 +1675,7 @@ const PrivacyPolicy = () => {
                         please email us at legal@yakeeninstitute.com
                       </p>
                       <h3>12. Payment Fraud Prevention Policy</h3>
-                      <p>12.1 Background And Objectives Of Policy</p>
+                      <p> <b>12.1 Background And Objectives Of Policy</b></p>
                       <p>
                         This document sets forth a prevention policy of payment
                         frauds, to enforce controls and to aid in prevention and
@@ -1687,7 +1687,7 @@ const PrivacyPolicy = () => {
                         conduct of investigations of suspected fraudulent
                         behaviour.
                       </p>
-                      <p>12.2 Standard Payment Process</p>
+                      <p> <b>12.2 Standard Payment Process</b></p>
                       <p>
                         You have to make all the relevant payments with respect
                         to the Service you are availing through Yakeen The
@@ -1702,42 +1702,42 @@ const PrivacyPolicy = () => {
                         report this behavior by writing to us at
                         legal@yakeeninstitute.com.
                       </p>
-                      <p>12.3 Actions Constituting Payment Fraud</p>
+                      <p><b>12.3 Actions Constituting Payment Fraud</b></p>
                       <p>Following acts may constitute a payment fraud:</p>
                       <p>
                         {" "}
-                        • A request to make payment through any other medium
+                      <b> •</b>  A request to make payment through any other medium
                         besides Yakeen The Learning Institute’s official
                         learning platform ‘Olympus’.
                       </p>
                       <p>
-                        • A request to make payment in an
+                      <b>  •</b> A request to make payment in an
                         unrecognized/unofficial bank account.{" "}
                       </p>
                       <p>
-                        • Any request for sharing your bank account details,
+                      <b> • </b> Any request for sharing your bank account details,
                         Card PINs, UPI IDs or such details;{" "}
                       </p>
                       <p>
-                        • A payment request sent to you through any email id
+                       <b> • </b> A payment request sent to you through any email id
                         besides your program’s official email id.{" "}
                       </p>
                       <p>
-                        • Any payment instructions given to you verbally or over
+                      <b> •</b>  Any payment instructions given to you verbally or over
                         unofficial communication channels such as whatsapp, text
                         messaging, over a phone call, etc.{" "}
                       </p>
                       <p>
-                        • A request to make payments before receipt of an
+                       <b> •</b> A request to make payments before receipt of an
                         official offer letter for your enrolment in the program.{" "}
                       </p>
-                      <p>• Any similar or related inappropriate conduct. </p>
+                      <p> <b>• </b>Any similar or related inappropriate conduct. </p>
                       <p>
                         Please note that the aforementioned list is not an
                         exhaustive list with respect to the subject matter, and
                         shall only be construed as an indicative list.
                       </p>
-                      <p>12.4 Reporting Process</p>
+                      <p><b>12.4 Reporting Process</b></p>
                       <p>
                         If you suspect, or are a victim of payment fraud, please
                         forthwith write to us at legal@yakeeninstitute.com and
@@ -1748,7 +1748,7 @@ const PrivacyPolicy = () => {
                         we will take the appropriate disciplinary and legal
                         action against the offender.
                       </p>
-                      <p>12.5 False Reporting</p>
+                      <p> <b> 12.5 False Reporting</b></p>
                       <p>
                         If it is established that you have falsely raised the
                         complaint, then without prejudice to legal rights and
