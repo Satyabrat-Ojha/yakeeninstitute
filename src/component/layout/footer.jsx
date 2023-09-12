@@ -152,24 +152,24 @@ const companyList = [
     link: "/about",
   },
   {
-    text: "Press",
-    link: "/blog",
+    text: "Privacy-Policy",
+    link: "/privacy-policy",
   },
   {
-    text: "Events",
-    link: "/blog",
+    text: "Refund-Policy",
+    link: "/refund-policy",
   },
   {
-    text: "Newsroom",
-    link: "/blog",
+    text: "Terms & Condition",
+    link: "/terms-condition",
   },
   {
-    text: "Branding Assets",
-    link: "#",
+    text: "Vison & Mission",
+    link: "/vision-mission",
   },
   {
-    text: "Sitemap",
-    link: "#",
+    text: "FAQ",
+    link: "/FAQ",
   },
   {
     text: "Blog",
